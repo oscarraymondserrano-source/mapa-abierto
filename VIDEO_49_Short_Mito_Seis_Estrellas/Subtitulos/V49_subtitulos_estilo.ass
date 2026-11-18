@@ -1,0 +1,24 @@
+[Script Info]
+Title: V49 subtítulos Mapa Abierto
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Marca,Inter Display,78,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,-1,0,0,0,100,100,0,0,1,5,3,2,80,80,560,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.05,0:00:01.36,Marca,,0,0,0,,{\fad(60,40)}¿Mito o verdad?
+Dialogue: 0,0:00:01.38,0:00:04.37,Marca,,0,0,0,,{\fad(60,40)}GTA 6 tiene seis\Nestrellas de búsqueda.
+Dialogue: 0,0:00:04.74,0:00:05.48,Marca,,0,0,0,,{\fad(60,40)}¡Verdad!
+Dialogue: 0,0:00:05.50,0:00:08.16,Marca,,0,0,0,,{\fad(60,40)}En el Extended Look\Nvolvieron las seis
+Dialogue: 0,0:00:08.18,0:00:10.95,Marca,,0,0,0,,{\fad(60,40)}estrellas, el máximo\Nclásico de la saga.
+Dialogue: 0,0:00:10.97,0:00:12.86,Marca,,0,0,0,,{\fad(60,40)}GTA 5 se quedaba\Nen cinco.
+Dialogue: 0,0:00:12.88,0:00:15.15,Marca,,0,0,0,,{\fad(60,40)}Y la policía ahora\Nse fija en tu
+Dialogue: 0,0:00:15.17,0:00:17.44,Marca,,0,0,0,,{\fad(60,40)}coche, tu ropa y\Ntu descripción.
+Dialogue: 0,0:00:17.81,0:00:21.29,Marca,,0,0,0,,{\fad(60,40)}Así que cambiar de ropa o\Nde coche puede salvarte.
+Dialogue: 0,0:00:21.31,0:00:24.21,Marca,,0,0,0,,{\fad(60,40)}Sígueme para más mitos\Ny verdades de GTA.

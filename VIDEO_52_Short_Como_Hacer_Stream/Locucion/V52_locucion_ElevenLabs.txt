@@ -1,0 +1,12 @@
+# Pegar en ElevenLabs (modelo multilingüe). Las MAYÚSCULAS marcan énfasis; <break> son pausas.
+# Ajustes: Stability 45 · Similarity 80 · Style 20 · Speaker boost ON. Velocidad 1.05.
+
+¿Quieres emitir GTA 6 en directo sin ordenador? Desde la consola se puede. <break time="0.4s" />
+
+En PS5, pulsa el botón Crear y elige Transmitir. La primera vez te pedirá vincular tu cuenta de Twitch o de YouTube. <break time="0.4s" />
+
+En Xbox Series, entra en Ajustes, Preferencias, Capturar y compartir, y activa la retransmisión con tu cuenta de Twitch. <break time="0.4s" />
+
+Consejo: comprueba tu velocidad de subida antes de empezar, y avisa en el título si vas a enseñar la historia. Spoilers, con cuidado. <break time="0.4s" />
+
+Pásame el enlace de tu directo en comentarios. <break time="0.4s" />

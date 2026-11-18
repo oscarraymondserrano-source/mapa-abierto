@@ -1,0 +1,8 @@
+# Pegar en ElevenLabs (modelo multilingüe). Las MAYÚSCULAS marcan énfasis; <break> son pausas.
+# Ajustes: Stability 45 · Similarity 80 · Style 20 · Speaker boost ON. Velocidad 1.05.
+
+¿Mito o verdad? GTA 6 tiene seis estrellas de búsqueda. <break time="0.4s" />
+
+¡Verdad! En el Extended Look volvieron las seis estrellas, el máximo clásico de la saga. GTA 5 se quedaba en cinco. Y la policía ahora se fija en tu coche, tu ropa y tu descripción. <break time="0.4s" />
+
+Así que cambiar de ropa o de coche puede salvarte. Sígueme para más mitos y verdades de GTA. <break time="0.4s" />

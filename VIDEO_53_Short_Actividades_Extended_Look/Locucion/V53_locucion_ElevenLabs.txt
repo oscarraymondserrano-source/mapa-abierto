@@ -1,0 +1,12 @@
+# Pegar en ElevenLabs (modelo multilingüe). Las MAYÚSCULAS marcan énfasis; <break> son pausas.
+# Ajustes: Stability 45 · Similarity 80 · Style 20 · Speaker boost ON. Velocidad 1.05.
+
+¿Qué se puede hacer en GTA 6 además de la historia? Esto es lo que enseñó Rockstar. <break time="0.4s" />
+
+En el Extended Look aparecieron carreras de motos de tierra y carreras de aceleración. <break time="0.4s" />
+
+También buceo y salto base, aunque la mayoría de actividades se vieron de pasada, en un montaje rápido. <break time="0.4s" />
+
+Cuánto dan de sí, lo veremos jugando. Pero Leonida promete mucho más que robar coches. <break time="0.4s" />
+
+¿Cuál vas a probar primero? Comenta. <break time="0.4s" />

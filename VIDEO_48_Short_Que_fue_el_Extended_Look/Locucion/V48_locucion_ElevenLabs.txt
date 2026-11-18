@@ -1,0 +1,12 @@
+# Pegar en ElevenLabs (modelo multilingüe). Las MAYÚSCULAS marcan énfasis; <break> son pausas.
+# Ajustes: Stability 45 · Similarity 80 · Style 20 · Speaker boost ON. Velocidad 1.05.
+
+Si te perdiste el Extended Look de GTA 6, te lo resumo en cuarenta segundos. <break time="0.4s" />
+
+Fue un vídeo de unos veintisiete minutos que Rockstar estrenó el 27 de agosto en Netflix y en su canal de YouTube. <break time="0.4s" />
+
+Según Rockstar, todo estaba grabado dentro del juego en una PlayStation 5 normal, no en la versión Pro. <break time="0.4s" />
+
+Mostró a Jason y Lucia en misiones, la vuelta de las seis estrellas de búsqueda y un montón de actividades en Leonida. Lo que no enseñó fue nada del modo online. <break time="0.4s" />
+
+¿Lo viste entero? Dime qué fue lo que más te sorprendió. <break time="0.4s" />

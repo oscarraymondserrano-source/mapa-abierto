@@ -468,5 +468,65 @@
   "out": "VIDEO_47_Short_Sin_Consola_o_Movil/Video_Final/V47_FINAL_1080x1920.mp4",
   "fecha": "",
   "carpeta": "VIDEO_47_Short_Sin_Consola_o_Movil"
+ },
+ {
+  "id": "V48",
+  "titulo": "¿Qué fue el Extended Look de GTA 6?",
+  "formato": "short",
+  "modo": "final",
+  "dur": 33.14,
+  "out": "VIDEO_48_Short_Que_fue_el_Extended_Look/Video_Final/V48_FINAL_1080x1920.mp4",
+  "fecha": "",
+  "carpeta": "VIDEO_48_Short_Que_fue_el_Extended_Look"
+ },
+ {
+  "id": "V49",
+  "titulo": "¿GTA 6 tiene 6 estrellas de búsqueda?",
+  "formato": "short",
+  "modo": "final",
+  "dur": 24.53,
+  "out": "VIDEO_49_Short_Mito_Seis_Estrellas/Video_Final/V49_FINAL_1080x1920.mp4",
+  "fecha": "",
+  "carpeta": "VIDEO_49_Short_Mito_Seis_Estrellas"
+ },
+ {
+  "id": "V50",
+  "titulo": "GTA 6 apareció en South Park (y no era broma)",
+  "formato": "short",
+  "modo": "final",
+  "dur": 33.36,
+  "out": "VIDEO_50_Short_GTA6_en_South_Park/Video_Final/V50_FINAL_1080x1920.mp4",
+  "fecha": "",
+  "carpeta": "VIDEO_50_Short_GTA6_en_South_Park"
+ },
+ {
+  "id": "V51",
+  "titulo": "Quiz: ¿dónde se estrenó el Extended Look de GTA 6?",
+  "formato": "short",
+  "modo": "final",
+  "dur": 33.43,
+  "out": "VIDEO_51_Short_Quiz_Extended_Look/Video_Final/V51_FINAL_1080x1920.mp4",
+  "fecha": "",
+  "carpeta": "VIDEO_51_Short_Quiz_Extended_Look"
+ },
+ {
+  "id": "V52",
+  "titulo": "Cómo hacer stream de GTA 6 desde PS5 o Xbox",
+  "formato": "short",
+  "modo": "final",
+  "dur": 34.27,
+  "out": "VIDEO_52_Short_Como_Hacer_Stream/Video_Final/V52_FINAL_1080x1920.mp4",
+  "fecha": "",
+  "carpeta": "VIDEO_52_Short_Como_Hacer_Stream"
+ },
+ {
+  "id": "V53",
+  "titulo": "Lo que puedes hacer en GTA 6 además de la historia",
+  "formato": "short",
+  "modo": "final",
+  "dur": 26.14,
+  "out": "VIDEO_53_Short_Actividades_Extended_Look/Video_Final/V53_FINAL_1080x1920.mp4",
+  "fecha": "",
+  "carpeta": "VIDEO_53_Short_Actividades_Extended_Look"
  }
 ]

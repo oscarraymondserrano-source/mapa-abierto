@@ -1,0 +1,12 @@
+# Pegar en ElevenLabs (modelo multilingüe). Las MAYÚSCULAS marcan énfasis; <break> son pausas.
+# Ajustes: Stability 45 · Similarity 80 · Style 20 · Speaker boost ON. Velocidad 1.05.
+
+Pregunta de actualidad. Tres segundos. <break time="0.4s" />
+
+¿En qué plataforma, además del YouTube de Rockstar, se estrenó el Extended Look de GTA 6? A, Netflix. B, Twitch. C, Prime Video. <break time="0.4s" />
+
+¡La A! Netflix. Se estrenó el 27 de agosto, a la vez que en el canal de YouTube de Rockstar. <break time="0.4s" />
+
+Duraba unos veintisiete minutos y estaba grabado en una PlayStation 5. <break time="0.4s" />
+
+¿Acertaste? Dímelo en comentarios y sígueme para el siguiente quiz. <break time="0.4s" />

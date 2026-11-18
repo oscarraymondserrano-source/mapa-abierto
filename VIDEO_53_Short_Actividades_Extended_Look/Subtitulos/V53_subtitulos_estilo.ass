@@ -1,0 +1,27 @@
+[Script Info]
+Title: V53 subtítulos Mapa Abierto
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Marca,Inter Display,78,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,-1,0,0,0,100,100,0,0,1,5,3,2,80,80,560,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.05,0:00:01.71,Marca,,0,0,0,,{\fad(60,40)}¿Qué se puede\Nhacer en GTA
+Dialogue: 0,0:00:01.73,0:00:03.27,Marca,,0,0,0,,{\fad(60,40)}6 además de\Nla historia?
+Dialogue: 0,0:00:03.29,0:00:05.23,Marca,,0,0,0,,{\fad(60,40)}Esto es lo que\Nenseñó Rockstar.
+Dialogue: 0,0:00:05.60,0:00:07.85,Marca,,0,0,0,,{\fad(60,40)}En el Extended Look\Naparecieron carreras
+Dialogue: 0,0:00:07.87,0:00:10.38,Marca,,0,0,0,,{\fad(60,40)}de motos de tierra y\Ncarreras de aceleración.
+Dialogue: 0,0:00:10.75,0:00:12.87,Marca,,0,0,0,,{\fad(60,40)}También buceo y\Nsalto base, aunque
+Dialogue: 0,0:00:12.89,0:00:14.67,Marca,,0,0,0,,{\fad(60,40)}la mayoría de\Nactividades se
+Dialogue: 0,0:00:14.69,0:00:17.09,Marca,,0,0,0,,{\fad(60,40)}vieron de pasada, en\Nun montaje rápido.
+Dialogue: 0,0:00:17.46,0:00:19.92,Marca,,0,0,0,,{\fad(60,40)}Cuánto dan de sí,\Nlo veremos jugando.
+Dialogue: 0,0:00:19.94,0:00:21.98,Marca,,0,0,0,,{\fad(60,40)}Pero Leonida\Npromete mucho más
+Dialogue: 0,0:00:22.00,0:00:23.26,Marca,,0,0,0,,{\fad(60,40)}que robar coches.
+Dialogue: 0,0:00:23.63,0:00:25.20,Marca,,0,0,0,,{\fad(60,40)}¿Cuál vas a\Nprobar primero?
+Dialogue: 0,0:00:25.22,0:00:25.82,Marca,,0,0,0,,{\fad(60,40)}Comenta.
