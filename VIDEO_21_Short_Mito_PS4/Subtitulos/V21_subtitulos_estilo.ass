@@ -1,0 +1,23 @@
+[Script Info]
+Title: V21 subtítulos Mapa Abierto
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Marca,Inter Display,78,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,-1,0,0,0,100,100,0,0,1,5,3,2,80,80,560,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.05,0:00:01.52,Marca,,0,0,0,,{\fad(60,40)}¿Mito o verdad?
+Dialogue: 0,0:00:01.54,0:00:04.65,Marca,,0,0,0,,{\fad(60,40)}GTA 6 también sale\Nen PlayStation 4.
+Dialogue: 0,0:00:05.02,0:00:05.81,Marca,,0,0,0,,{\fad(60,40)}¡Mito!
+Dialogue: 0,0:00:05.83,0:00:09.15,Marca,,0,0,0,,{\fad(60,40)}Rockstar solo ha\Nanunciado GTA 6 para
+Dialogue: 0,0:00:09.17,0:00:12.81,Marca,,0,0,0,,{\fad(60,40)}PlayStation 5 y Xbox\NSeries X y Series S.
+Dialogue: 0,0:00:12.83,0:00:14.68,Marca,,0,0,0,,{\fad(60,40)}Ni PS4 ni Xbox One.
+Dialogue: 0,0:00:15.05,0:00:17.17,Marca,,0,0,0,,{\fad(60,40)}Si aún tienes\Nuna PS4, toca
+Dialogue: 0,0:00:17.19,0:00:19.03,Marca,,0,0,0,,{\fad(60,40)}dar el salto\No esperar.
+Dialogue: 0,0:00:19.05,0:00:22.13,Marca,,0,0,0,,{\fad(60,40)}Sígueme para más mitos\Ny verdades de GTA.

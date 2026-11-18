@@ -1,0 +1,29 @@
+[Script Info]
+Title: V33 subtítulos Mapa Abierto
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Marca,Inter Display,78,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,-1,0,0,0,100,100,0,0,1,5,3,2,80,80,560,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.05,0:00:01.23,Marca,,0,0,0,,{\fad(60,40)}Pregunta trampa.
+Dialogue: 0,0:00:01.25,0:00:02.30,Marca,,0,0,0,,{\fad(60,40)}Tres segundos.
+Dialogue: 0,0:00:02.67,0:00:05.37,Marca,,0,0,0,,{\fad(60,40)}Antes de GTA,\Nel estudio que
+Dialogue: 0,0:00:05.39,0:00:08.34,Marca,,0,0,0,,{\fad(60,40)}lo creó triunfó\Ncon otro juego.
+Dialogue: 0,0:00:08.36,0:00:10.30,Marca,,0,0,0,,{\fad(60,40)}¿Cuál?\NA, Lemmings.
+Dialogue: 0,0:00:10.32,0:00:12.50,Marca,,0,0,0,,{\fad(60,40)}B, Tetris.\NC, Pac-Man.
+Dialogue: 0,0:00:15.87,0:00:16.70,Marca,,0,0,0,,{\fad(60,40)}¡La A!
+Dialogue: 0,0:00:16.72,0:00:20.53,Marca,,0,0,0,,{\fad(60,40)}Lemmings, de 1991,\Ncreado por DMA Design,
+Dialogue: 0,0:00:20.55,0:00:24.18,Marca,,0,0,0,,{\fad(60,40)}el estudio escocés\Nque luego haría GTA.
+Dialogue: 0,0:00:24.55,0:00:26.16,Marca,,0,0,0,,{\fad(60,40)}Tetris nació\Nen la Unión
+Dialogue: 0,0:00:26.18,0:00:28.14,Marca,,0,0,0,,{\fad(60,40)}Soviética y\NPac-Man, en Japón.
+Dialogue: 0,0:00:28.16,0:00:29.13,Marca,,0,0,0,,{\fad(60,40)}Nada que ver.
+Dialogue: 0,0:00:29.50,0:00:30.26,Marca,,0,0,0,,{\fad(60,40)}¿Acertaste?
+Dialogue: 0,0:00:30.28,0:00:31.67,Marca,,0,0,0,,{\fad(60,40)}Dímelo en\Ncomentarios y
+Dialogue: 0,0:00:31.69,0:00:33.49,Marca,,0,0,0,,{\fad(60,40)}sígueme para el\Nsiguiente quiz.

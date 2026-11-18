@@ -1,0 +1,14 @@
+# Pegar en ElevenLabs (modelo multilingüe). Las MAYÚSCULAS marcan énfasis; <break> son pausas.
+# Ajustes: Stability 45 · Similarity 80 · Style 20 · Speaker boost ON. Velocidad 1.05.
+
+Esto está escondido en GTA 6, y casi nadie lo ha visto. <break time="0.4s" />
+
+Está en [LUGAR]. Para llegar, [RUTA BREVE]. <break time="0.4s" />
+
+Si te acercas e interactúas, pasa esto: [DESCRIPCIÓN]. <break time="0.4s" />
+
+Lo he comprobado yo mismo en mi partida, así que no es un rumor ni un montaje: aquí lo tienes, sin cortes. <break time="0.4s" />
+
+Y no es casualidad: todo apunta a un guiño a [REFERENCIA], uno de esos detalles que Rockstar esconde para quien se fija. <break time="0.4s" />
+
+¿Has encontrado algún otro? Déjalo en comentarios y lo comprobamos en partida. Si es real, sale en el próximo vídeo con tu nombre. <break time="0.4s" />

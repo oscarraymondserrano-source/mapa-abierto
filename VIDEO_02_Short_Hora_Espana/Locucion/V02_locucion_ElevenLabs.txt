@@ -1,0 +1,14 @@
+# Pegar en ElevenLabs (modelo multilingüe). Las MAYÚSCULAS marcan énfasis; <break> son pausas.
+# Ajustes: Stability 45 · Similarity 80 · Style 20 · Speaker boost ON. Velocidad 1.05.
+
+¿A qué hora puedes jugar a GTA 6 en España? Te lo digo en treinta segundos. <break time="0.4s" />
+
+Según Rockstar, el juego se desbloquea a MEDIANOCHE, HORA LOCAL, el jueves 19 de noviembre. <break time="0.4s" />
+
+En la península y en Baleares: a las DOCE EN PUNTO de la noche del miércoles al jueves. <break time="0.4s" />
+
+En Canarias, ojo: la tienda suele tratar a España como una sola región, así que podría abrirse a las ONCE DE LA NOCHE del miércoles. Mira la cuenta atrás en tu tienda. <break time="0.4s" />
+
+Y si lo tienes en digital, la precarga ya está abierta: descárgalo hoy y deja espacio de sobra. <break time="0.4s" />
+
+Sígueme para no perderte las primeras impresiones. Nos vemos en Leonida. <break time="0.4s" />

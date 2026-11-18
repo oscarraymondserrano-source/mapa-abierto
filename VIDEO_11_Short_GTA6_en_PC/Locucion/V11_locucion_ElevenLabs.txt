@@ -1,0 +1,14 @@
+# Pegar en ElevenLabs (modelo multilingüe). Las MAYÚSCULAS marcan énfasis; <break> son pausas.
+# Ajustes: Stability 45 · Similarity 80 · Style 20 · Speaker boost ON. Velocidad 1.05.
+
+¿Juegas en PC y quieres GTA 6? Esto es lo que hay. <break time="0.4s" />
+
+A día de hoy, Rockstar NO HA ANUNCIADO versión de PC. El 19 de noviembre sale solo en PlayStation 5 y Xbox Series. <break time="0.4s" />
+
+¿Y qué podemos esperar? Mira el historial: GTA 5 salió en consolas en 2013 y llegó a PC en abril de 2015. Red Dead Redemption 2 salió en 2018 y llegó a PC un año después. <break time="0.4s" />
+
+Así que lo razonable es pensar en MESES, no en semanas. Pero ojo: eso es una estimación, no un anuncio. <break time="0.4s" />
+
+Y cuidado: si una web te vende una clave de GTA 6 para PC, es una ESTAFA. Ahora mismo no existe. <break time="0.4s" />
+
+Sígueme y te aviso en cuanto haya fecha oficial. <break time="0.4s" />

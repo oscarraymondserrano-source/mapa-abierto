@@ -1,0 +1,38 @@
+[Script Info]
+Title: V07 subtítulos Mapa Abierto
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Marca,Inter Display,78,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,-1,0,0,0,100,100,0,0,1,5,3,2,80,80,560,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.05,0:00:01.83,Marca,,0,0,0,,{\fad(60,40)}Antes de empezar\Nla primera
+Dialogue: 0,0:00:01.85,0:00:03.58,Marca,,0,0,0,,{\fad(60,40)}misión de GTA\N6, haz esto.
+Dialogue: 0,0:00:03.95,0:00:04.40,Marca,,0,0,0,,{\fad(60,40)}Uno:
+Dialogue: 0,0:00:04.42,0:00:06.32,Marca,,0,0,0,,{\fad(60,40)}entra en ajustes\Ny revisa los
+Dialogue: 0,0:00:06.34,0:00:07.90,Marca,,0,0,0,,{\fad(60,40)}{\c&H33D6FF&}subtítulos{\c&HFFFFFF&}\Ny el idioma.
+Dialogue: 0,0:00:07.92,0:00:10.12,Marca,,0,0,0,,{\fad(60,40)}En las cinemáticas\Nse dicen muchas
+Dialogue: 0,0:00:10.14,0:00:12.75,Marca,,0,0,0,,{\fad(60,40)}cosas rápido, y no te\Nlas quieres perder.
+Dialogue: 0,0:00:13.12,0:00:13.63,Marca,,0,0,0,,{\fad(60,40)}Dos:
+Dialogue: 0,0:00:13.65,0:00:15.67,Marca,,0,0,0,,{\fad(60,40)}calibra el\N{\c&H33D6FF&}brillo{\c&HFFFFFF&} y el HDR.
+Dialogue: 0,0:00:15.69,0:00:18.30,Marca,,0,0,0,,{\fad(60,40)}Vice City de noche\Nse ve mucho mejor
+Dialogue: 0,0:00:18.32,0:00:20.54,Marca,,0,0,0,,{\fad(60,40)}con los negros\Nbien ajustados.
+Dialogue: 0,0:00:20.91,0:00:21.43,Marca,,0,0,0,,{\fad(60,40)}Tres:
+Dialogue: 0,0:00:21.45,0:00:23.96,Marca,,0,0,0,,{\fad(60,40)}si el juego ofrece\Nmodo {\c&H33D6FF&}calidad{\c&HFFFFFF&} o modo
+Dialogue: 0,0:00:23.98,0:00:26.43,Marca,,0,0,0,,{\fad(60,40)}{\c&H33D6FF&}rendimiento,{\c&HFFFFFF&} elige\Nantes de empezar y
+Dialogue: 0,0:00:26.45,0:00:27.94,Marca,,0,0,0,,{\fad(60,40)}no a mitad de misión.
+Dialogue: 0,0:00:28.31,0:00:29.00,Marca,,0,0,0,,{\fad(60,40)}Cuatro:
+Dialogue: 0,0:00:29.02,0:00:30.49,Marca,,0,0,0,,{\fad(60,40)}configura el mando.
+Dialogue: 0,0:00:30.51,0:00:33.29,Marca,,0,0,0,,{\fad(60,40)}Invertir ejes,\Nvibración, sensibilidad.
+Dialogue: 0,0:00:33.31,0:00:34.97,Marca,,0,0,0,,{\fad(60,40)}Cinco minutos\Nahora te
+Dialogue: 0,0:00:34.99,0:00:37.12,Marca,,0,0,0,,{\fad(60,40)}ahorran horas\Nde frustración.
+Dialogue: 0,0:00:37.49,0:00:38.26,Marca,,0,0,0,,{\fad(60,40)}Y cinco:
+Dialogue: 0,0:00:38.28,0:00:40.96,Marca,,0,0,0,,{\fad(60,40)}silencia las\Nnotificaciones de redes.
+Dialogue: 0,0:00:40.98,0:00:42.21,Marca,,0,0,0,,{\fad(60,40)}Spoilers, cero.
+Dialogue: 0,0:00:42.23,0:00:45.11,Marca,,0,0,0,,{\fad(60,40)}Guárdalo y pásaselo\Na quien empiece hoy.

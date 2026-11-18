@@ -1,0 +1,8 @@
+# Pegar en ElevenLabs (modelo multilingüe). Las MAYÚSCULAS marcan énfasis; <break> son pausas.
+# Ajustes: Stability 45 · Similarity 80 · Style 20 · Speaker boost ON. Velocidad 1.05.
+
+¿Mito o verdad? Puedes jugar a GTA 6 desde un disco duro USB. <break time="0.4s" />
+
+¡Mito! En un USB puedes guardarlo, pero los juegos de nueva generación solo se juegan desde el almacenamiento interno, un SSD M.2 en PS5 o la tarjeta de expansión oficial en Xbox. <break time="0.4s" />
+
+Si vas justo de espacio, muévelo al USB y pásalo al interno para jugar. Sígueme para más mitos y verdades de GTA. <break time="0.4s" />

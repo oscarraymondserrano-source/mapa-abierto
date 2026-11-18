@@ -1,0 +1,14 @@
+# Pegar en ElevenLabs (modelo multilingüe). Las MAYÚSCULAS marcan énfasis; <break> son pausas.
+# Ajustes: Stability 45 · Similarity 80 · Style 20 · Speaker boost ON. Velocidad 1.05.
+
+Vice City vuelve. Pero no es la Vice City que recuerdas. <break time="0.4s" />
+
+En 2002, GTA Vice City nos llevó a 1986: neones, trajes blancos, música ochentera y Tommy Vercetti. <break time="0.4s" />
+
+En 2006, Vice City Stories volvió a la misma ciudad, esta vez en 1984. <break time="0.4s" />
+
+Y ahora GTA 6 la trae a la actualidad: en los tráileres hay móviles, redes sociales y vídeos virales por todas partes. <break time="0.4s" />
+
+Mismo espíritu, el de Miami, pero con otra escala y dentro de un estado entero: Leonida. <break time="0.4s" />
+
+¿Jugaste al de 2002? Dímelo en comentarios. <break time="0.4s" />

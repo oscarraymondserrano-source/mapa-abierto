@@ -1,0 +1,14 @@
+# Pegar en ElevenLabs (modelo multilingüe). Las MAYÚSCULAS marcan énfasis; <break> son pausas.
+# Ajustes: Stability 45 · Similarity 80 · Style 20 · Speaker boost ON. Velocidad 1.05.
+
+Antes de empezar la primera misión de GTA 6, haz esto. <break time="0.4s" />
+
+Uno: entra en ajustes y revisa los SUBTÍTULOS y el idioma. En las cinemáticas se dicen muchas cosas rápido, y no te las quieres perder. <break time="0.4s" />
+
+Dos: calibra el BRILLO y el HDR. Vice City de noche se ve mucho mejor con los negros bien ajustados. <break time="0.4s" />
+
+Tres: si el juego ofrece modo CALIDAD o modo RENDIMIENTO, elige antes de empezar y no a mitad de misión. <break time="0.4s" />
+
+Cuatro: configura el mando. Invertir ejes, vibración, sensibilidad. Cinco minutos ahora te ahorran horas de frustración. <break time="0.4s" />
+
+Y cinco: silencia las notificaciones de redes. Spoilers, cero. Guárdalo y pásaselo a quien empiece hoy. <break time="0.4s" />

@@ -1,0 +1,14 @@
+# Pegar en ElevenLabs (modelo multilingüe). Las MAYÚSCULAS marcan énfasis; <break> son pausas.
+# Ajustes: Stability 45 · Similarity 80 · Style 20 · Speaker boost ON. Velocidad 1.05.
+
+Trece años esperando un juego. Así ha sido, en cuarenta y cinco segundos. <break time="0.4s" />
+
+Septiembre de 2013: sale GTA 5. Nadie imaginaba que habría que esperar tanto al siguiente. <break time="0.4s" />
+
+Febrero de 2022: Rockstar confirma que el nuevo GTA está en desarrollo. Y en septiembre, una filtración enorme muestra material de una versión temprana. <break time="0.4s" />
+
+Diciembre de 2023: llega el primer tráiler, y se publica antes de tiempo por otra filtración. <break time="0.4s" />
+
+Mayo de 2025: primer retraso, al 26 de mayo de 2026, y segundo tráiler. Noviembre de 2025: segundo retraso, al 19 de noviembre de 2026. <break time="0.4s" />
+
+Y ya está aquí. ¿Desde qué año lo esperas tú? <break time="0.4s" />

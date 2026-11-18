@@ -1,0 +1,28 @@
+[Script Info]
+Title: V28 subtítulos Mapa Abierto
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Marca,Inter Display,78,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,-1,0,0,0,100,100,0,0,1,5,3,2,80,80,560,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.05,0:00:02.43,Marca,,0,0,0,,{\fad(60,40)}Pregunta para\Nveteranos de Vice City.
+Dialogue: 0,0:00:02.45,0:00:03.49,Marca,,0,0,0,,{\fad(60,40)}Tres segundos.
+Dialogue: 0,0:00:03.86,0:00:06.53,Marca,,0,0,0,,{\fad(60,40)}¿Quién era el\Nprotagonista de
+Dialogue: 0,0:00:06.55,0:00:08.98,Marca,,0,0,0,,{\fad(60,40)}GTA Vice City,\Nel de 2002?
+Dialogue: 0,0:00:09.00,0:00:10.62,Marca,,0,0,0,,{\fad(60,40)}A, Carl Johnson.
+Dialogue: 0,0:00:10.64,0:00:12.17,Marca,,0,0,0,,{\fad(60,40)}B, Niko Bellic.
+Dialogue: 0,0:00:12.19,0:00:13.97,Marca,,0,0,0,,{\fad(60,40)}C, Tommy Vercetti.
+Dialogue: 0,0:00:17.34,0:00:18.15,Marca,,0,0,0,,{\fad(60,40)}¡La C!
+Dialogue: 0,0:00:18.17,0:00:21.84,Marca,,0,0,0,,{\fad(60,40)}Tommy Vercetti, en\Nla Vice City de 1986.
+Dialogue: 0,0:00:22.21,0:00:24.82,Marca,,0,0,0,,{\fad(60,40)}Carl Johnson era\Nel de San Andreas,
+Dialogue: 0,0:00:24.84,0:00:26.91,Marca,,0,0,0,,{\fad(60,40)}y Niko Bellic,\Nel de GTA 4.
+Dialogue: 0,0:00:27.28,0:00:28.04,Marca,,0,0,0,,{\fad(60,40)}¿Acertaste?
+Dialogue: 0,0:00:28.06,0:00:29.44,Marca,,0,0,0,,{\fad(60,40)}Dímelo en\Ncomentarios y
+Dialogue: 0,0:00:29.46,0:00:31.25,Marca,,0,0,0,,{\fad(60,40)}sígueme para el\Nsiguiente quiz.

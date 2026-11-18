@@ -1,0 +1,12 @@
+# Pegar en ElevenLabs (modelo multilingüe). Las MAYÚSCULAS marcan énfasis; <break> son pausas.
+# Ajustes: Stability 45 · Similarity 80 · Style 20 · Speaker boost ON. Velocidad 1.05.
+
+¿Sabes qué significa Grand Theft Auto? No es un nombre inventado. <break time="0.4s" />
+
+En Estados Unidos, grand theft auto es el término legal para el robo de vehículos. <break time="0.4s" />
+
+Grand theft es un robo grave, y auto, automóvil. O sea: el nombre de la saga es literalmente un delito. <break time="0.4s" />
+
+Por cierto, el primer juego estuvo a punto de llamarse Race'n'Chase. Menos mal que no. <break time="0.4s" />
+
+¿Lo sabías? Sígueme para más curiosidades de la saga. <break time="0.4s" />

@@ -1,0 +1,29 @@
+[Script Info]
+Title: V12 subtítulos Mapa Abierto
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Marca,Inter Display,78,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,-1,0,0,0,100,100,0,0,1,5,3,2,80,80,560,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.05,0:00:01.36,Marca,,0,0,0,,{\fad(60,40)}Vice City vuelve.
+Dialogue: 0,0:00:01.38,0:00:04.03,Marca,,0,0,0,,{\fad(60,40)}Pero no es la Vice\NCity que recuerdas.
+Dialogue: 0,0:00:04.40,0:00:08.14,Marca,,0,0,0,,{\fad(60,40)}En 2002, GTA Vice\NCity nos llevó a 1986:
+Dialogue: 0,0:00:08.16,0:00:11.05,Marca,,0,0,0,,{\fad(60,40)}neones, trajes\Nblancos, música
+Dialogue: 0,0:00:11.07,0:00:13.70,Marca,,0,0,0,,{\fad(60,40)}ochentera y\NTommy Vercetti.
+Dialogue: 0,0:00:14.07,0:00:17.44,Marca,,0,0,0,,{\fad(60,40)}En 2006, Vice City\NStories volvió a
+Dialogue: 0,0:00:17.46,0:00:20.75,Marca,,0,0,0,,{\fad(60,40)}la misma ciudad,\Nesta vez en 1984.
+Dialogue: 0,0:00:21.12,0:00:23.65,Marca,,0,0,0,,{\fad(60,40)}Y ahora GTA 6 la\Ntrae a la actualidad:
+Dialogue: 0,0:00:23.67,0:00:26.56,Marca,,0,0,0,,{\fad(60,40)}en los tráileres hay\Nmóviles, redes sociales
+Dialogue: 0,0:00:26.58,0:00:28.86,Marca,,0,0,0,,{\fad(60,40)}y vídeos virales\Npor todas partes.
+Dialogue: 0,0:00:29.23,0:00:31.82,Marca,,0,0,0,,{\fad(60,40)}Mismo espíritu, el\Nde Miami, pero con
+Dialogue: 0,0:00:31.84,0:00:34.68,Marca,,0,0,0,,{\fad(60,40)}otra escala y dentro\Nde un estado entero:
+Dialogue: 0,0:00:34.70,0:00:35.45,Marca,,0,0,0,,{\fad(60,40)}Leonida.
+Dialogue: 0,0:00:35.82,0:00:37.23,Marca,,0,0,0,,{\fad(60,40)}¿Jugaste al de 2002?
+Dialogue: 0,0:00:37.25,0:00:38.78,Marca,,0,0,0,,{\fad(60,40)}Dímelo en comentarios.

@@ -1,0 +1,12 @@
+# Pegar en ElevenLabs (modelo multilingüe). Las MAYÚSCULAS marcan énfasis; <break> son pausas.
+# Ajustes: Stability 45 · Similarity 80 · Style 20 · Speaker boost ON. Velocidad 1.05.
+
+GTA, la saga más americana de los videojuegos, nació en Escocia. <break time="0.4s" />
+
+La creó DMA Design, un estudio de Dundee que antes ya había triunfado con un juego muy distinto: Lemmings. <break time="0.4s" />
+
+Con los años, el estudio pasó a formar parte de Rockstar y hoy se llama Rockstar North, con sede en Edimburgo. <break time="0.4s" />
+
+De los Lemmings a Leonida. No está mal. <break time="0.4s" />
+
+¿Jugaste a Lemmings? Comenta. <break time="0.4s" />

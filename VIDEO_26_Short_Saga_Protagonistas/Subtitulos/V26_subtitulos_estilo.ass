@@ -1,0 +1,30 @@
+[Script Info]
+Title: V26 subtítulos Mapa Abierto
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Marca,Inter Display,78,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,-1,0,0,0,100,100,0,0,1,5,3,2,80,80,560,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.05,0:00:01.40,Marca,,0,0,0,,{\fad(60,40)}De Claude a Lucia.
+Dialogue: 0,0:00:01.42,0:00:04.32,Marca,,0,0,0,,{\fad(60,40)}Todos los protagonistas\Nde GTA desde que la
+Dialogue: 0,0:00:04.34,0:00:06.87,Marca,,0,0,0,,{\fad(60,40)}saga pasó al 3D, en\Ntreinta segundos.
+Dialogue: 0,0:00:07.24,0:00:08.64,Marca,,0,0,0,,{\fad(60,40)}GTA 3, en 2001:
+Dialogue: 0,0:00:08.66,0:00:10.67,Marca,,0,0,0,,{\fad(60,40)}Claude, el\Nprotagonista
+Dialogue: 0,0:00:10.69,0:00:13.00,Marca,,0,0,0,,{\fad(60,40)}que no dice ni\Nuna palabra.
+Dialogue: 0,0:00:13.02,0:00:14.06,Marca,,0,0,0,,{\fad(60,40)}Vice City:
+Dialogue: 0,0:00:14.08,0:00:16.46,Marca,,0,0,0,,{\fad(60,40)}Tommy Vercetti.\NSan Andreas:
+Dialogue: 0,0:00:16.48,0:00:18.04,Marca,,0,0,0,,{\fad(60,40)}Carl Johnson, CJ.
+Dialogue: 0,0:00:18.41,0:00:21.34,Marca,,0,0,0,,{\fad(60,40)}GTA 4, en 2008:\NNiko Bellic.
+Dialogue: 0,0:00:21.36,0:00:23.08,Marca,,0,0,0,,{\fad(60,40)}GTA 5, en 2013:
+Dialogue: 0,0:00:23.10,0:00:27.32,Marca,,0,0,0,,{\fad(60,40)}tres a la vez, Michael,\NFranklin y Trevor.
+Dialogue: 0,0:00:27.69,0:00:28.57,Marca,,0,0,0,,{\fad(60,40)}Y GTA 6:
+Dialogue: 0,0:00:28.59,0:00:30.97,Marca,,0,0,0,,{\fad(60,40)}por primera\Nvez, una pareja.
+Dialogue: 0,0:00:30.99,0:00:32.32,Marca,,0,0,0,,{\fad(60,40)}Jason y Lucia.
+Dialogue: 0,0:00:32.69,0:00:34.48,Marca,,0,0,0,,{\fad(60,40)}¿Cuál es tu favorito?\NTe leo.

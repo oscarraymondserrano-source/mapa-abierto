@@ -1,0 +1,10 @@
+# Pegar en ElevenLabs (modelo multilingüe). Las MAYÚSCULAS marcan énfasis; <break> son pausas.
+# Ajustes: Stability 45 · Similarity 80 · Style 20 · Speaker boost ON. Velocidad 1.05.
+
+En GTA 6 hay dos tipos de jugadores. ¿Cuál eres tú? <break time="0.4s" />
+
+Equipo ciudad: Vice City, neón, coches de lujo, playas y fiesta hasta el amanecer. <break time="0.4s" />
+
+Equipo naturaleza: los pantanos de Grassrivers, el parque nacional de Mount Kalaga y los Cayos. <break time="0.4s" />
+
+Escribe ciudad o naturaleza en comentarios. Veamos qué equipo gana. <break time="0.4s" />

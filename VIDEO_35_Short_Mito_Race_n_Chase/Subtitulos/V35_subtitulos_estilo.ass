@@ -1,0 +1,23 @@
+[Script Info]
+Title: V35 subtítulos Mapa Abierto
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Marca,Inter Display,78,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,-1,0,0,0,100,100,0,0,1,5,3,2,80,80,560,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.05,0:00:01.41,Marca,,0,0,0,,{\fad(60,40)}¿Mito o verdad?
+Dialogue: 0,0:00:01.43,0:00:04.75,Marca,,0,0,0,,{\fad(60,40)}El primer GTA iba a\Nllamarse Race'n'Chase.
+Dialogue: 0,0:00:05.12,0:00:05.79,Marca,,0,0,0,,{\fad(60,40)}¡Verdad!
+Dialogue: 0,0:00:05.81,0:00:08.37,Marca,,0,0,0,,{\fad(60,40)}Ese era el título de\Ntrabajo del proyecto
+Dialogue: 0,0:00:08.39,0:00:10.77,Marca,,0,0,0,,{\fad(60,40)}en DMA Design, antes\Nde convertirse en
+Dialogue: 0,0:00:10.79,0:00:11.97,Marca,,0,0,0,,{\fad(60,40)}Grand Theft Auto.
+Dialogue: 0,0:00:12.34,0:00:13.46,Marca,,0,0,0,,{\fad(60,40)}Imagina decir:
+Dialogue: 0,0:00:13.48,0:00:16.19,Marca,,0,0,0,,{\fad(60,40)}¿has jugado al nuevo\NRace'n'Chase seis?
+Dialogue: 0,0:00:16.21,0:00:19.04,Marca,,0,0,0,,{\fad(60,40)}Sígueme para más mitos\Ny verdades de GTA.

@@ -1,0 +1,12 @@
+# Pegar en ElevenLabs (modelo multilingüe). Las MAYÚSCULAS marcan énfasis; <break> son pausas.
+# Ajustes: Stability 45 · Similarity 80 · Style 20 · Speaker boost ON. Velocidad 1.05.
+
+Tres cosas de los tráileres de GTA 6 que casi nadie sabe. <break time="0.4s" />
+
+Uno: el primer tráiler salió ANTES DE TIEMPO. Se filtró la noche anterior y Rockstar decidió publicarlo de inmediato, en diciembre de 2023. <break time="0.4s" />
+
+Dos: el segundo tráiler, de mayo de 2025, se capturó íntegramente en una PlayStation 5, según Rockstar, mezclando juego y cinemáticas a partes iguales. <break time="0.4s" />
+
+Tres: la música. El primero usa LOVE IS A LONG ROAD, de Tom Petty, y el segundo, HOT TOGETHER, de The Pointer Sisters. Las dos canciones dispararon sus escuchas tras los tráileres. <break time="0.4s" />
+
+¿Cuál te gustó más, el primero o el segundo? Te leo en comentarios. <break time="0.4s" />

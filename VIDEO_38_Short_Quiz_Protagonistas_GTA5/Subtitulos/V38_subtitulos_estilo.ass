@@ -1,0 +1,28 @@
+[Script Info]
+Title: V38 subtítulos Mapa Abierto
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Marca,Inter Display,78,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,-1,0,0,0,100,100,0,0,1,5,3,2,80,80,560,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.05,0:00:03.04,Marca,,0,0,0,,{\fad(60,40)}Fácil para unos,\Nimposible para otros.
+Dialogue: 0,0:00:03.06,0:00:04.33,Marca,,0,0,0,,{\fad(60,40)}Tres segundos.
+Dialogue: 0,0:00:04.70,0:00:06.92,Marca,,0,0,0,,{\fad(60,40)}¿Cuántos\Nprotagonistas
+Dialogue: 0,0:00:06.94,0:00:10.38,Marca,,0,0,0,,{\fad(60,40)}jugables tenía la\Nhistoria de GTA 5?
+Dialogue: 0,0:00:10.40,0:00:12.10,Marca,,0,0,0,,{\fad(60,40)}A, dos.\NB, tres.
+Dialogue: 0,0:00:12.12,0:00:13.31,Marca,,0,0,0,,{\fad(60,40)}C, cuatro.
+Dialogue: 0,0:00:16.68,0:00:17.67,Marca,,0,0,0,,{\fad(60,40)}¡La B!\NTres:
+Dialogue: 0,0:00:17.69,0:00:20.21,Marca,,0,0,0,,{\fad(60,40)}Michael, Franklin\Ny Trevor, y podías
+Dialogue: 0,0:00:20.23,0:00:23.06,Marca,,0,0,0,,{\fad(60,40)}cambiar entre ellos\Nen cualquier momento.
+Dialogue: 0,0:00:23.43,0:00:25.25,Marca,,0,0,0,,{\fad(60,40)}GTA 6 tendrá dos:
+Dialogue: 0,0:00:25.27,0:00:26.83,Marca,,0,0,0,,{\fad(60,40)}Jason y Lucia.
+Dialogue: 0,0:00:27.20,0:00:27.95,Marca,,0,0,0,,{\fad(60,40)}¿Acertaste?
+Dialogue: 0,0:00:27.97,0:00:29.35,Marca,,0,0,0,,{\fad(60,40)}Dímelo en\Ncomentarios y
+Dialogue: 0,0:00:29.37,0:00:31.16,Marca,,0,0,0,,{\fad(60,40)}sígueme para el\Nsiguiente quiz.

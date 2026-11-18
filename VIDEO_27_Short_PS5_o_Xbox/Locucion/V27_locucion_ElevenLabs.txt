@@ -1,0 +1,12 @@
+# Pegar en ElevenLabs (modelo multilingüe). Las MAYÚSCULAS marcan énfasis; <break> son pausas.
+# Ajustes: Stability 45 · Similarity 80 · Style 20 · Speaker boost ON. Velocidad 1.05.
+
+¿PS5 o Xbox para GTA 6? Esto es lo que se sabe, sin fanatismos. <break time="0.4s" />
+
+Las dos versiones salen el mismo día, el 19 de noviembre, y Rockstar no ha publicado diferencias de rendimiento entre ellas. <break time="0.4s" />
+
+Si tienes una Series S, recuerda: menos espacio. Revisa el disco antes de comprar. <break time="0.4s" />
+
+Mi consejo: elige la consola donde juegan tus amigos. En un GTA, la compañía cuenta. <break time="0.4s" />
+
+¿Equipo PlayStation o equipo Xbox? Comenta. <break time="0.4s" />

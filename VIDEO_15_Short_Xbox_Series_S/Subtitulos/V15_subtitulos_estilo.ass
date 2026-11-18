@@ -1,0 +1,31 @@
+[Script Info]
+Title: V15 subtítulos Mapa Abierto
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Marca,Inter Display,78,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,-1,0,0,0,100,100,0,0,1,5,3,2,80,80,560,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.05,0:00:02.06,Marca,,0,0,0,,{\fad(60,40)}¿Juegas en Xbox Series S?
+Dialogue: 0,0:00:02.08,0:00:05.01,Marca,,0,0,0,,{\fad(60,40)}Entonces tienes un\Nproblema con GTA 6.
+Dialogue: 0,0:00:05.03,0:00:06.48,Marca,,0,0,0,,{\fad(60,40)}Y tiene solución.
+Dialogue: 0,0:00:06.85,0:00:10.38,Marca,,0,0,0,,{\fad(60,40)}La Series S tiene un\Ndisco de 512 gigas,
+Dialogue: 0,0:00:10.40,0:00:14.01,Marca,,0,0,0,,{\fad(60,40)}pero el espacio libre\Nreal ronda los 364.
+Dialogue: 0,0:00:14.38,0:00:16.72,Marca,,0,0,0,,{\fad(60,40)}Y las tiendas\Nhablan de unos 210
+Dialogue: 0,0:00:16.74,0:00:18.10,Marca,,0,0,0,,{\fad(60,40)}gigas para GTA 6.
+Dialogue: 0,0:00:18.12,0:00:20.33,Marca,,0,0,0,,{\fad(60,40)}Más de la mitad\Nde tu consola.
+Dialogue: 0,0:00:20.70,0:00:21.50,Marca,,0,0,0,,{\fad(60,40)}Solución:
+Dialogue: 0,0:00:21.52,0:00:23.20,Marca,,0,0,0,,{\fad(60,40)}borra juegos\Nhoy, o usa
+Dialogue: 0,0:00:23.22,0:00:25.47,Marca,,0,0,0,,{\fad(60,40)}la tarjeta de\Nexpansión oficial.
+Dialogue: 0,0:00:25.49,0:00:27.48,Marca,,0,0,0,,{\fad(60,40)}Un disco USB\Nsolo sirve para
+Dialogue: 0,0:00:27.50,0:00:29.44,Marca,,0,0,0,,{\fad(60,40)}guardarlo, no\Npara jugarlo.
+Dialogue: 0,0:00:29.81,0:00:31.96,Marca,,0,0,0,,{\fad(60,40)}¿Y el rendimiento\Nen Series S?
+Dialogue: 0,0:00:31.98,0:00:34.01,Marca,,0,0,0,,{\fad(60,40)}Rockstar no lo\Nha detallado.
+Dialogue: 0,0:00:34.03,0:00:35.61,Marca,,0,0,0,,{\fad(60,40)}Lo veremos el día 19.
+Dialogue: 0,0:00:35.98,0:00:37.96,Marca,,0,0,0,,{\fad(60,40)}Pásaselo a tu amigo\Nde la Series S.

@@ -1,0 +1,12 @@
+# Pegar en ElevenLabs (modelo multilingüe). Las MAYÚSCULAS marcan énfasis; <break> son pausas.
+# Ajustes: Stability 45 · Similarity 80 · Style 20 · Speaker boost ON. Velocidad 1.05.
+
+¿Cuánto mide el mapa de GTA 6? Si alguien te da una cifra exacta, sigue leyendo. <break time="0.4s" />
+
+Rockstar NO HA PUBLICADO ni el mapa completo ni su tamaño. <break time="0.4s" />
+
+Los mapas que ves por internet los hacen fans, uniendo planos de los tráileres. Son un trabajo increíble, pero son estimaciones. <break time="0.4s" />
+
+Lo que sí sabemos: seis regiones, de Vice City a Mount Kalaga, y el escenario más variado de la saga. <break time="0.4s" />
+
+Cuando salga, lo mediremos nosotros. Sígueme para verlo. <break time="0.4s" />

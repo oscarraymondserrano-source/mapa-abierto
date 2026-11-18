@@ -1,0 +1,14 @@
+# Pegar en ElevenLabs (modelo multilingüe). Las MAYÚSCULAS marcan énfasis; <break> son pausas.
+# Ajustes: Stability 45 · Similarity 80 · Style 20 · Speaker boost ON. Velocidad 1.05.
+
+A dos días del lanzamiento, hay cosas de GTA 6 que NADIE sabe todavía. <break time="0.4s" />
+
+Uno: el rendimiento. No hay cifras oficiales de resolución ni de fotogramas por segundo. <break time="0.4s" />
+
+Dos: el mapa completo. Rockstar no lo ha publicado, ni su tamaño. <break time="0.4s" />
+
+Tres: el modo online. No hay detalles para el día del lanzamiento. <break time="0.4s" />
+
+Y cuatro: la versión de PC. Sin fecha. <break time="0.4s" />
+
+Si alguien te lo da por hecho, desconfía. Aquí te diremos siempre qué es oficial y qué no. <break time="0.4s" />

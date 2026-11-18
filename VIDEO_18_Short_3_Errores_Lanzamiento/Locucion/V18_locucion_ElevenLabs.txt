@@ -1,0 +1,12 @@
+# Pegar en ElevenLabs (modelo multilingüe). Las MAYÚSCULAS marcan énfasis; <break> son pausas.
+# Ajustes: Stability 45 · Similarity 80 · Style 20 · Speaker boost ON. Velocidad 1.05.
+
+Esta noche sale GTA 6, y hay tres errores que mucha gente va a cometer. <break time="0.4s" />
+
+Uno: no precargar. Si a las doce empiezas a descargar más de doscientos gigas, no juegas hasta mañana. <break time="0.4s" />
+
+Dos: no dejar margen de espacio. El parche del primer día también ocupa. Deja libres unos cuarenta gigas extra. <break time="0.4s" />
+
+Y tres: entrar en redes. A medianoche van a llover SPOILERS. Silencia palabras clave antes de jugar. <break time="0.4s" />
+
+Revisa estas tres cosas y nos vemos en Leonida. <break time="0.4s" />

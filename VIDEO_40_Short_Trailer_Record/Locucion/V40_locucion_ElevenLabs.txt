@@ -1,0 +1,10 @@
+# Pegar en ElevenLabs (modelo multilingüe). Las MAYÚSCULAS marcan énfasis; <break> son pausas.
+# Ajustes: Stability 45 · Similarity 80 · Style 20 · Speaker boost ON. Velocidad 1.05.
+
+El primer tráiler de GTA 6 hizo algo que ningún vídeo de videojuegos había hecho. <break time="0.4s" />
+
+Según los datos publicados entonces, superó los noventa millones de visualizaciones en sus primeras veinticuatro horas. <break time="0.4s" />
+
+Y eso que se publicó con prisas, antes de tiempo, porque se había filtrado la noche anterior. <break time="0.4s" />
+
+¿Tú lo viste en directo aquel día? Comenta. <break time="0.4s" />

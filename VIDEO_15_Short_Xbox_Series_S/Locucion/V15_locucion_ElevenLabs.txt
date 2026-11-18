@@ -1,0 +1,14 @@
+# Pegar en ElevenLabs (modelo multilingüe). Las MAYÚSCULAS marcan énfasis; <break> son pausas.
+# Ajustes: Stability 45 · Similarity 80 · Style 20 · Speaker boost ON. Velocidad 1.05.
+
+¿Juegas en Xbox Series S? Entonces tienes un problema con GTA 6. Y tiene solución. <break time="0.4s" />
+
+La Series S tiene un disco de 512 gigas, pero el espacio libre real ronda los 364. <break time="0.4s" />
+
+Y las tiendas hablan de unos 210 gigas para GTA 6. Más de la mitad de tu consola. <break time="0.4s" />
+
+Solución: borra juegos hoy, o usa la tarjeta de expansión oficial. Un disco USB solo sirve para guardarlo, no para jugarlo. <break time="0.4s" />
+
+¿Y el rendimiento en Series S? Rockstar no lo ha detallado. Lo veremos el día 19. <break time="0.4s" />
+
+Pásaselo a tu amigo de la Series S. <break time="0.4s" />

@@ -1,0 +1,12 @@
+# Pegar en ElevenLabs (modelo multilingüe). Las MAYÚSCULAS marcan énfasis; <break> son pausas.
+# Ajustes: Stability 45 · Similarity 80 · Style 20 · Speaker boost ON. Velocidad 1.05.
+
+Un caimán entrando en una tienda. Uno de los momentos más comentados del primer tráiler de GTA 6. <break time="0.4s" />
+
+¿Por qué? Porque Leonida está inspirada en Florida, y allí los caimanes en sitios inesperados son casi un clásico de las noticias locales. <break time="0.4s" />
+
+De hecho, internet tiene hasta un nombre para las noticias más locas de Florida: el FLORIDA MAN. Y el tráiler está lleno de guiños a ese humor. <break time="0.4s" />
+
+En el juego, los humedales de Grassrivers, inspirados en los Everglades, prometen muchos más encuentros con estos vecinos. <break time="0.4s" />
+
+¿Qué es lo más loco que esperas ver en Leonida? <break time="0.4s" />

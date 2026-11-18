@@ -1,0 +1,211 @@
+<title>Subidas Mapa Abierto</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;800&family=JetBrains+Mono:wght@500;700&display=swap">
+<style>
+/* Layout: una columna de "fichas de subida" agrupadas por día, con barra de progreso fija arriba. Estética de la marca: noche + neón. */
+:root {
+  color-scheme: dark;
+  --bg: #0b0f2a;
+  --panel: #141a3d;
+  --panel-2: #1b2250;
+  --line: #2c3570;
+  --fg: #eef0ff;
+  --muted: #a3a9d6;
+  --magenta: #ff2e88;
+  --cyan: #22d3ee;
+  --yellow: #ffd666;
+  --done: #4ade80;
+  --f-body: "Inter", system-ui, -apple-system, "Segoe UI", sans-serif;
+  --f-mono: "JetBrains Mono", ui-monospace, "SFMono-Regular", Menlo, monospace;
+}
+* { box-sizing: border-box; }
+body {
+  background: var(--bg); color: var(--fg); font-family: var(--f-body); font-size: 15px; line-height: 1.5;
+  padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px));
+  padding-block: 0 48px;
+}
+body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-area-inset-top, 0px); z-index: 10; background: var(--bg); }
+.wrap { max-width: 920px; margin: 0 auto; display: flex; flex-direction: column; gap: 28px; }
+header.top {
+  position: sticky; top: env(safe-area-inset-top, 0px); z-index: 5; background: color-mix(in srgb, var(--bg) 92%, transparent);
+  backdrop-filter: blur(8px); padding-block: 14px; border-bottom: 1px solid var(--line); display: flex; flex-direction: column; gap: 10px;
+}
+.brand { display: flex; align-items: baseline; gap: 10px; flex-wrap: wrap; }
+.brand b { font-weight: 800; font-style: italic; font-size: 1.35rem; letter-spacing: -0.01em; }
+.brand b span { color: var(--magenta); text-shadow: 0 0 12px color-mix(in srgb, var(--magenta) 60%, transparent); }
+.brand small { color: var(--muted); font-family: var(--f-mono); font-size: 0.75rem; letter-spacing: 0.06em; text-transform: uppercase; }
+.progress { display: flex; align-items: center; gap: 12px; }
+.bar { flex: 1; height: 8px; border-radius: 99px; background: var(--panel-2); overflow: hidden; }
+.bar i { display: block; height: 100%; width: 0; background: linear-gradient(90deg, var(--magenta), var(--cyan)); transition: width .3s; }
+.count { font-family: var(--f-mono); font-variant-numeric: tabular-nums; font-size: 0.85rem; white-space: nowrap; }
+h1 { font-size: clamp(1.4rem, 3.4vw, 2rem); line-height: 1.2; margin: 0; text-wrap: balance; }
+.lede { color: var(--muted); margin: 6px 0 0; max-width: 65ch; }
+details.once { background: var(--panel); border: 1px solid var(--line); border-radius: 14px; padding: 14px 18px; }
+details.once summary { cursor: pointer; font-weight: 600; }
+details.once ol { margin: 12px 0 0; padding-left: 20px; display: grid; gap: 6px; color: var(--muted); }
+details.once ol b { color: var(--fg); }
+.steps { display: grid; grid-template-columns: repeat(auto-fit, minmax(190px, 1fr)); gap: 10px; margin: 0; padding: 0; list-style: none; counter-reset: s; }
+.steps li { overflow-wrap: anywhere; counter-increment: s; background: var(--panel); border-radius: 12px; padding: 12px 14px; font-size: 0.88rem; color: var(--muted); }
+.steps li::before { content: counter(s); display: block; font-family: var(--f-mono); font-weight: 700; color: var(--cyan); margin-bottom: 2px; }
+.steps li b { color: var(--fg); }
+.day { display: flex; flex-direction: column; gap: 12px; }
+.day h2 { margin: 0; font-size: 0.8rem; font-family: var(--f-mono); letter-spacing: 0.12em; text-transform: uppercase; color: var(--yellow); }
+.card {
+  display: grid; grid-template-columns: 96px minmax(0, 1fr); gap: 16px; background: var(--panel); border: 1px solid var(--line);
+  border-radius: 16px; padding: 16px; transition: opacity .2s, border-color .2s;
+}
+.card.wide { grid-template-columns: 170px minmax(0, 1fr); }
+.card.done { opacity: 0.55; border-color: color-mix(in srgb, var(--done) 50%, var(--line)); }
+.thumb { width: 100%; border-radius: 10px; display: block; border: 1px solid var(--line); }
+.meta { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; }
+.chip { font-family: var(--f-mono); font-size: 0.75rem; padding: 3px 9px; border-radius: 99px; background: var(--panel-2); color: var(--fg); white-space: nowrap; }
+.chip.time { background: color-mix(in srgb, var(--magenta) 22%, var(--panel-2)); }
+.chip.fmt { color: var(--cyan); }
+.body { display: flex; flex-direction: column; gap: 10px; min-width: 0; }
+.title { font-weight: 700; font-size: 1.05rem; line-height: 1.35; margin: 0; overflow-wrap: anywhere; }
+.files { display: grid; gap: 4px; font-size: 0.82rem; color: var(--muted); }
+.files code { font-family: var(--f-mono); color: var(--fg); overflow-wrap: anywhere; font-size: 0.8rem; }
+.btns { display: flex; flex-wrap: wrap; gap: 8px; }
+button.copy {
+  font: 600 0.82rem var(--f-body); color: var(--fg); background: var(--panel-2); border: 1px solid var(--line);
+  border-radius: 10px; padding: 8px 12px; cursor: pointer;
+}
+button.copy:hover { border-color: var(--cyan); }
+button.copy.ok { border-color: var(--done); color: var(--done); }
+button:focus-visible, input:focus-visible, summary:focus-visible { outline: 2px solid var(--cyan); outline-offset: 2px; }
+details.desc summary { cursor: pointer; font-size: 0.82rem; color: var(--muted); }
+details.desc pre {
+  white-space: pre-wrap; overflow-wrap: anywhere; font-family: var(--f-body); font-size: 0.82rem; color: var(--muted);
+  background: var(--bg); border-radius: 10px; padding: 12px; margin: 8px 0 0;
+}
+label.check { display: flex; align-items: center; gap: 10px; font-weight: 600; cursor: pointer; width: fit-content; }
+label.check input { width: 20px; height: 20px; accent-color: var(--done); }
+.fallback { width: 100%; min-height: 70px; font: 0.8rem var(--f-mono); background: var(--bg); color: var(--fg); border: 1px solid var(--yellow); border-radius: 8px; padding: 8px; }
+.note { color: var(--muted); font-size: 0.85rem; }
+@media (max-width: 560px) {
+  .card, .card.wide { grid-template-columns: 1fr; }
+  .card .thumb { max-width: 150px; }
+  .card.wide .thumb { max-width: 100%; }
+}
+@media (prefers-reduced-motion: reduce) { * { transition: none !important; } }
+</style>
+
+<div class="wrap">
+  <header class="top">
+    <div class="brand"><b>MAPA <span>ABIERTO</span></b><small>Plan de subidas · semana GTA 6</small></div>
+    <div class="progress"><div class="bar"><i id="bar"></i></div><span class="count" id="count">0 / 0 programados</span></div>
+  </header>
+
+  <section>
+    <h1>17 vídeos listos: súbelos y prográmalos</h1>
+    <p class="lede">Cada ficha tiene todo lo que pide YouTube Studio. Arrastra el MP4 de la carpeta indicada, pulsa los botones de copiar, pega en su campo y marca la casilla al terminar. Las horas son de la España peninsular.</p>
+  </section>
+
+  <details class="once" id="once">
+    <summary>Antes de empezar (solo la primera vez)</summary>
+    <ol>
+      <li>Entra en <b>studio.youtube.com</b> y crea el canal <b>Mapa Abierto</b>.</li>
+      <li><b>Personalización → Imagen de marca:</b> sube la foto, el banner y la marca de agua de la carpeta <code>IMAGENES_DEL_CANAL</code>.</li>
+      <li><b>Personalización → Información básica:</b> pega la descripción del canal de <code>guia_de_marca.md</code>.</li>
+      <li>Verifica tu teléfono en <b>youtube.com/verify</b> para poder subir miniaturas.</li>
+      <li><b>Contenido → Listas:</b> crea "GTA 6 · Lanzamiento", "GTA 6 · Mapa y mundo abierto" y "GTA 6 · Shorts".</li>
+    </ol>
+  </details>
+
+  <ol class="steps" aria-label="Pasos por vídeo">
+    <li><b>Crear → Subir vídeos</b> y arrastra el MP4.</li>
+    <li>Pega <b>título</b> y <b>descripción</b>. En los largos, sube la <b>miniatura</b>.</li>
+    <li>Elige la <b>lista</b> y marca <b>"No es para niños"</b>. En <b>Mostrar más</b>, pega las <b>etiquetas</b>.</li>
+    <li><b>Subtítulos → Subir archivo → Con sincronización</b>: el archivo .srt.</li>
+    <li><b>Visibilidad → Programar</b> con el día y la hora de la ficha.</li>
+    <li>Al publicarse, pega el <b>comentario</b> y fíjalo (⋮ → Fijar).</li>
+  </ol>
+
+  <div id="list" style="display:flex;flex-direction:column;gap:28px"></div>
+  <p class="note">Las casillas se recuerdan solo en este navegador.</p>
+</div>
+
+<script>
+const DATA = __DATA__;
+const KEY = "ma-subidas-v1";
+let state = {};
+try { state = JSON.parse(localStorage.getItem(KEY) || "{}") || {}; } catch (e) { state = {}; }
+function save() { try { localStorage.setItem(KEY, JSON.stringify(state)); } catch (e) {} }
+
+function el(tag, attrs, ...kids) {
+  const n = document.createElement(tag);
+  for (const [k, v] of Object.entries(attrs || {})) {
+    if (k === "class") n.className = v; else if (k === "text") n.textContent = v; else n.setAttribute(k, v);
+  }
+  for (const k of kids) if (k) n.append(k);
+  return n;
+}
+
+function copyBtn(label, text, holder) {
+  const b = el("button", { class: "copy", type: "button", text: label });
+  b.addEventListener("click", () => {
+    const done = () => { b.classList.add("ok"); b.textContent = "Copiado ✓"; setTimeout(() => { b.classList.remove("ok"); b.textContent = label; }, 1600); };
+    const fallback = () => {
+      holder.innerHTML = "";
+      const ta = el("textarea", { class: "fallback", readonly: "", "aria-label": label });
+      ta.value = text; holder.append(ta); ta.focus(); ta.select();
+      b.textContent = "Texto seleccionado: cópialo";
+    };
+    try { navigator.clipboard.writeText(text).then(done, fallback); } catch (e) { fallback(); }
+  });
+  return b;
+}
+
+function render() {
+  const list = document.getElementById("list");
+  list.innerHTML = "";
+  const days = [];
+  for (const it of DATA) {
+    let d = days.find(x => x.fecha === it.fecha);
+    if (!d) { d = { fecha: it.fecha, label: it.when.split(" · ")[0], items: [] }; days.push(d); }
+    d.items.push(it);
+  }
+  for (const d of days) {
+    const sec = el("section", { class: "day" }, el("h2", { text: d.label }));
+    for (const it of d.items) {
+      const holder = el("div");
+      const files = el("div", { class: "files" },
+        el("div", {}, "Vídeo: ", el("code", { text: it.carpeta + "/" + it.mp4 })),
+        it.mini ? el("div", {}, "Miniatura: ", el("code", { text: it.mini })) : null,
+        el("div", {}, "Subtítulos: ", el("code", { text: it.srt })),
+        el("div", {}, "Lista: ", el("code", { text: it.playlist })));
+      const cb = el("input", { type: "checkbox", id: "chk-" + it.id });
+      cb.checked = !!state[it.id];
+      const card = el("article", { class: "card" + (it.vertical ? "" : " wide") + (cb.checked ? " done" : "") });
+      cb.addEventListener("change", () => { state[it.id] = cb.checked; save(); card.classList.toggle("done", cb.checked); progress(); });
+      const desc = el("details", { class: "desc" }, el("summary", { text: "Ver descripción" }), el("pre", { text: it.desc }));
+      card.append(
+        el("img", { class: "thumb", src: it.img, alt: "Portada de " + it.id }),
+        el("div", { class: "body" },
+          el("div", { class: "meta" },
+            el("span", { class: "chip time", text: it.when }),
+            el("span", { class: "chip", text: it.id }),
+            el("span", { class: "chip fmt", text: it.formato === "Short" ? "Short vertical" : "Vídeo largo" })),
+          el("p", { class: "title", text: it.titulo }),
+          files,
+          el("div", { class: "btns" },
+            copyBtn("Copiar título", it.titulo, holder),
+            copyBtn("Copiar descripción", it.desc, holder),
+            copyBtn("Copiar etiquetas", it.tags, holder),
+            copyBtn("Copiar comentario", it.comentario, holder)),
+          holder, desc,
+          el("label", { class: "check", for: "chk-" + it.id }, cb, "Programado en YouTube")));
+      sec.append(card);
+    }
+    list.append(sec);
+  }
+  progress();
+}
+function progress() {
+  const n = DATA.filter(it => state[it.id]).length;
+  document.getElementById("count").textContent = n + " / " + DATA.length + " programados";
+  document.getElementById("bar").style.width = (100 * n / DATA.length) + "%";
+}
+render();
+</script>

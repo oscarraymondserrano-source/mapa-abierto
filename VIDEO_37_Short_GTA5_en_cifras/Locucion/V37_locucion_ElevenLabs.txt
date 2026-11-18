@@ -1,0 +1,12 @@
+# Pegar en ElevenLabs (modelo multilingüe). Las MAYÚSCULAS marcan énfasis; <break> son pausas.
+# Ajustes: Stability 45 · Similarity 80 · Style 20 · Speaker boost ON. Velocidad 1.05.
+
+Este es el listón que tiene que superar GTA 6. <break time="0.4s" />
+
+GTA 5 salió en septiembre de 2013 y en tres días ya había superado los mil millones de dólares. <break time="0.4s" />
+
+Desde entonces ha vendido más de doscientos millones de copias, según Take-Two, y ha salido en tres generaciones de consolas. <break time="0.4s" />
+
+Y su modo online, GTA Online, se lanzó en octubre de 2013 y sigue activo. <break time="0.4s" />
+
+¿Crees que GTA 6 lo superará? Apuesta en comentarios. <break time="0.4s" />

@@ -1,0 +1,116 @@
+[Script Info]
+Title: V03 subtítulos Mapa Abierto
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Marca,Inter Display,54,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,-1,0,0,0,100,100,0,0,1,4,2,2,80,80,60,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.05,0:00:05.30,Marca,,0,0,0,,{\fad(60,40)}Seis regiones, una ciudad gigantesca y\Nun estado entero inspirado en Florida.
+Dialogue: 0,0:00:05.32,0:00:09.92,Marca,,0,0,0,,{\fad(60,40)}Hoy repasamos todo lo que sabemos\Ndel mapa de GTA 6, zona por zona.
+Dialogue: 0,0:00:10.44,0:00:11.70,Marca,,0,0,0,,{\fad(60,40)}Y te aviso desde ya:
+Dialogue: 0,0:00:11.72,0:00:14.58,Marca,,0,0,0,,{\fad(60,40)}Rockstar {\c&H33D6FF&}no{\c&HFFFFFF&} {\c&H33D6FF&}ha{\c&HFFFFFF&} {\c&H33D6FF&}publicado{\c&HFFFFFF&}\Nun mapa oficial completo.
+Dialogue: 0,0:00:14.60,0:00:18.52,Marca,,0,0,0,,{\fad(60,40)}Lo que vas a ver es lo que se ha\Nconfirmado en la web oficial y en los
+Dialogue: 0,0:00:18.54,0:00:22.41,Marca,,0,0,0,,{\fad(60,40)}tráileres, más alguna teoría de la\Ncomunidad que te marcaré como tal.
+Dialogue: 0,0:00:22.93,0:00:25.62,Marca,,0,0,0,,{\fad(60,40)}Esto es Mapa Abierto.\NVamos allá.
+Dialogue: 0,0:00:26.14,0:00:31.49,Marca,,0,0,0,,{\fad(60,40)}El juego se desarrolla en {\c&H33D6FF&}Leonida,{\c&HFFFFFF&} la\Nversión de Florida del universo GTA.
+Dialogue: 0,0:00:31.51,0:00:34.11,Marca,,0,0,0,,{\fad(60,40)}Rockstar ha presentado seis zonas:
+Dialogue: 0,0:00:34.13,0:00:37.49,Marca,,0,0,0,,{\fad(60,40)}{\c&H33D6FF&}Vice{\c&HFFFFFF&} {\c&H33D6FF&}City,{\c&HFFFFFF&} los {\c&H33D6FF&}Cayos{\c&HFFFFFF&} {\c&H33D6FF&}de{\c&HFFFFFF&}\N{\c&H33D6FF&}Leonida,{\c&HFFFFFF&} {\c&H33D6FF&}Grassrivers,{\c&HFFFFFF&}
+Dialogue: 0,0:00:37.51,0:00:40.45,Marca,,0,0,0,,{\fad(60,40)}{\c&H33D6FF&}Port{\c&HFFFFFF&} {\c&H33D6FF&}Gellhorn,{\c&HFFFFFF&} {\c&H33D6FF&}Ambrosia{\c&HFFFFFF&}\Ny {\c&H33D6FF&}Mount{\c&HFFFFFF&} {\c&H33D6FF&}Kalaga.{\c&HFFFFFF&}
+Dialogue: 0,0:00:40.47,0:00:41.96,Marca,,0,0,0,,{\fad(60,40)}Vamos una por una.
+Dialogue: 0,0:00:42.48,0:00:44.89,Marca,,0,0,0,,{\fad(60,40)}Para orientarte, te dejo este esquema.
+Dialogue: 0,0:00:44.91,0:00:46.50,Marca,,0,0,0,,{\fad(60,40)}No es el mapa del juego:
+Dialogue: 0,0:00:46.52,0:00:49.68,Marca,,0,0,0,,{\fad(60,40)}es una referencia aproximada\Nbasada en la geografía
+Dialogue: 0,0:00:49.70,0:00:52.50,Marca,,0,0,0,,{\fad(60,40)}de Florida, que es\Nclaramente la inspiración.
+Dialogue: 0,0:00:53.02,0:00:55.46,Marca,,0,0,0,,{\fad(60,40)}Empezamos por la joya:\N{\c&H33D6FF&}Vice{\c&HFFFFFF&} {\c&H33D6FF&}City.{\c&HFFFFFF&}
+Dialogue: 0,0:00:55.48,0:00:59.05,Marca,,0,0,0,,{\fad(60,40)}Es la gran ciudad del juego\Ny el reflejo de Miami:
+Dialogue: 0,0:00:59.07,0:01:04.63,Marca,,0,0,0,,{\fad(60,40)}playas, rascacielos, neones, coches de\Nlujo y una vida nocturna que no se apaga.
+Dialogue: 0,0:01:04.65,0:01:08.61,Marca,,0,0,0,,{\fad(60,40)}Los veteranos la conocen desde\Nel GTA de 2002, pero esta
+Dialogue: 0,0:01:08.63,0:01:12.47,Marca,,0,0,0,,{\fad(60,40)}versión no tiene nada que\Nver en escala ni en detalle.
+Dialogue: 0,0:01:12.98,0:01:16.39,Marca,,0,0,0,,{\fad(60,40)}En los tráileres se ven zonas\Nque recuerdan claramente a
+Dialogue: 0,0:01:16.41,0:01:19.99,Marca,,0,0,0,,{\fad(60,40)}Ocean Drive y a South Beach,\Npuertos deportivos, autopistas
+Dialogue: 0,0:01:20.01,0:01:22.10,Marca,,0,0,0,,{\fad(60,40)}elevadas y barrios residenciales.
+Dialogue: 0,0:01:22.12,0:01:25.59,Marca,,0,0,0,,{\fad(60,40)}Todo apunta a que Vice City\Nserá el centro de buena parte
+Dialogue: 0,0:01:25.61,0:01:28.79,Marca,,0,0,0,,{\fad(60,40)}de la historia, aunque eso\Nlo confirmaremos jugando.
+Dialogue: 0,0:01:29.31,0:01:30.11,Marca,,0,0,0,,{\fad(60,40)}Un apunte:
+Dialogue: 0,0:01:30.13,0:01:33.58,Marca,,0,0,0,,{\fad(60,40)}en los tráileres aparecen\Nclubes, gimnasios en la playa
+Dialogue: 0,0:01:33.60,0:01:35.40,Marca,,0,0,0,,{\fad(60,40)}y fiestas por todas partes.
+Dialogue: 0,0:01:35.42,0:01:38.70,Marca,,0,0,0,,{\fad(60,40)}Rockstar ha mostrado una\Nciudad muy {\c&H33D6FF&}viva,{\c&HFFFFFF&} y eso será
+Dialogue: 0,0:01:38.72,0:01:41.58,Marca,,0,0,0,,{\fad(60,40)}clave para las actividades\Ndel mundo abierto.
+Dialogue: 0,0:01:42.10,0:01:43.24,Marca,,0,0,0,,{\fad(60,40)}Bajamos al sur:
+Dialogue: 0,0:01:43.26,0:01:44.76,Marca,,0,0,0,,{\fad(60,40)}los {\c&H33D6FF&}Cayos{\c&HFFFFFF&} {\c&H33D6FF&}de{\c&HFFFFFF&} {\c&H33D6FF&}Leonida.{\c&HFFFFFF&}
+Dialogue: 0,0:01:44.78,0:01:47.38,Marca,,0,0,0,,{\fad(60,40)}Son la versión de los Cayos de Florida:
+Dialogue: 0,0:01:47.40,0:01:49.93,Marca,,0,0,0,,{\fad(60,40)}una cadena de islas\Nunidas por puentes
+Dialogue: 0,0:01:49.95,0:01:53.10,Marca,,0,0,0,,{\fad(60,40)}larguísimos, aguas turquesas\Ny pueblos pequeños.
+Dialogue: 0,0:01:53.12,0:01:57.61,Marca,,0,0,0,,{\fad(60,40)}Y es la zona donde trabaja Jason al\Nprincipio, según su ficha oficial.
+Dialogue: 0,0:01:58.12,0:02:02.08,Marca,,0,0,0,,{\fad(60,40)}Aquí lo lógico es esperar\Nmucho contenido acuático:
+Dialogue: 0,0:02:02.10,0:02:04.46,Marca,,0,0,0,,{\fad(60,40)}barcos, pesca, motos de agua.
+Dialogue: 0,0:02:04.48,0:02:09.22,Marca,,0,0,0,,{\fad(60,40)}Pero ojo, eso es una {\c&H33D6FF&}suposición{\c&HFFFFFF&}\N{\c&H33D6FF&}razonable,{\c&HFFFFFF&} no algo confirmado.
+Dialogue: 0,0:02:09.74,0:02:14.42,Marca,,0,0,0,,{\fad(60,40)}Seguimos con {\c&H33D6FF&}Grassrivers,{\c&HFFFFFF&} un enorme\Nhumedal inspirado en los Everglades.
+Dialogue: 0,0:02:14.44,0:02:19.24,Marca,,0,0,0,,{\fad(60,40)}Pantanos, hierba alta, hidrodeslizadores\Ny, por supuesto, caimanes, que ya
+Dialogue: 0,0:02:19.26,0:02:23.76,Marca,,0,0,0,,{\fad(60,40)}protagonizaron uno de los momentos\Nmás comentados del primer tráiler.
+Dialogue: 0,0:02:24.28,0:02:27.68,Marca,,0,0,0,,{\fad(60,40)}Es probablemente la zona más\Nsalvaje del mapa, ideal para
+Dialogue: 0,0:02:27.70,0:02:31.38,Marca,,0,0,0,,{\fad(60,40)}persecuciones muy distintas a\Nlo que hemos visto en otros GTA.
+Dialogue: 0,0:02:31.90,0:02:33.16,Marca,,0,0,0,,{\fad(60,40)}Subimos al norte.
+Dialogue: 0,0:02:33.18,0:02:37.02,Marca,,0,0,0,,{\fad(60,40)}{\c&H33D6FF&}Port{\c&HFFFFFF&} {\c&H33D6FF&}Gellhorn{\c&HFFFFFF&} es una ciudad\Nportuaria con aire industrial y
+Dialogue: 0,0:02:37.04,0:02:41.30,Marca,,0,0,0,,{\fad(60,40)}decadente, que la comunidad relaciona\Ncon el Panhandle de Florida:
+Dialogue: 0,0:02:41.32,0:02:44.12,Marca,,0,0,0,,{\fad(60,40)}costa, moteles de carretera y mucho óxido.
+Dialogue: 0,0:02:44.64,0:02:47.91,Marca,,0,0,0,,{\fad(60,40)}Es el contraste perfecto\Ncon el lujo de Vice City:
+Dialogue: 0,0:02:47.93,0:02:49.86,Marca,,0,0,0,,{\fad(60,40)}menos glamour y más grietas.
+Dialogue: 0,0:02:49.88,0:02:54.93,Marca,,0,0,0,,{\fad(60,40)}El tipo de lugar donde Rockstar suele\Nesconder a sus personajes más peculiares.
+Dialogue: 0,0:02:55.45,0:02:58.40,Marca,,0,0,0,,{\fad(60,40)}{\c&H33D6FF&}Ambrosia{\c&HFFFFFF&} es la zona rural\Ne industrial, con una
+Dialogue: 0,0:02:58.42,0:03:01.44,Marca,,0,0,0,,{\fad(60,40)}gran refinería de azúcar\Ncomo seña de identidad.
+Dialogue: 0,0:03:01.46,0:03:05.88,Marca,,0,0,0,,{\fad(60,40)}La comunidad la relaciona con la zona\Nazucarera del interior de Florida.
+Dialogue: 0,0:03:05.90,0:03:10.08,Marca,,0,0,0,,{\fad(60,40)}En el material oficial se asocia a\Nmoteros y carreteras secundarias.
+Dialogue: 0,0:03:10.60,0:03:15.67,Marca,,0,0,0,,{\fad(60,40)}Y llegamos a {\c&H33D6FF&}Mount{\c&HFFFFFF&} {\c&H33D6FF&}Kalaga,{\c&HFFFFFF&} un parque\Nnacional con bosques, ríos y senderos:
+Dialogue: 0,0:03:15.69,0:03:19.85,Marca,,0,0,0,,{\fad(60,40)}la gran zona natural del norte,\Nperfecta para el todoterreno.
+Dialogue: 0,0:03:19.87,0:03:24.68,Marca,,0,0,0,,{\fad(60,40)}Florida no tiene montañas de verdad,\Nasí que aquí Rockstar se ha tomado
+Dialogue: 0,0:03:24.70,0:03:29.05,Marca,,0,0,0,,{\fad(60,40)}ciertas licencias, igual que hizo\Ncon el monte Chiliad en GTA 5.
+Dialogue: 0,0:03:29.57,0:03:33.18,Marca,,0,0,0,,{\fad(60,40)}Y para poner todo esto en\Ncontexto, miremos atrás.
+Dialogue: 0,0:03:33.20,0:03:38.83,Marca,,0,0,0,,{\fad(60,40)}En GTA San Andreas, de 2004, había tres\Nciudades separadas por campo y desierto.
+Dialogue: 0,0:03:38.85,0:03:42.79,Marca,,0,0,0,,{\fad(60,40)}En GTA 5, Rockstar apostó\Npor una sola gran ciudad, Los
+Dialogue: 0,0:03:42.81,0:03:47.09,Marca,,0,0,0,,{\fad(60,40)}Santos, rodeada por el condado\Nde Blaine y el monte Chiliad.
+Dialogue: 0,0:03:47.61,0:03:51.34,Marca,,0,0,0,,{\fad(60,40)}GTA 6 recupera esa idea de\Nuna gran ciudad como centro,
+Dialogue: 0,0:03:51.36,0:03:54.90,Marca,,0,0,0,,{\fad(60,40)}pero la rodea de regiones\Ncon identidad muy marcada:
+Dialogue: 0,0:03:54.92,0:03:58.46,Marca,,0,0,0,,{\fad(60,40)}islas, humedales, costa\Nindustrial, campo y montaña.
+Dialogue: 0,0:03:58.48,0:04:02.91,Marca,,0,0,0,,{\fad(60,40)}Sobre el papel, se parece más a\Nla variedad de Red Dead Redemption
+Dialogue: 0,0:04:02.93,0:04:07.11,Marca,,0,0,0,,{\fad(60,40)}2 que a la de GTA 5, aunque eso\Nhabrá que confirmarlo jugando.
+Dialogue: 0,0:04:07.63,0:04:10.48,Marca,,0,0,0,,{\fad(60,40)}Y si te preguntas qué zona encaja contigo:
+Dialogue: 0,0:04:10.50,0:04:14.03,Marca,,0,0,0,,{\fad(60,40)}si te va la noche, los coches\Ny la fiesta, Vice City.
+Dialogue: 0,0:04:14.05,0:04:17.72,Marca,,0,0,0,,{\fad(60,40)}Si prefieres el agua y la\Ncarretera abierta, los Cayos.
+Dialogue: 0,0:04:17.74,0:04:21.96,Marca,,0,0,0,,{\fad(60,40)}Para el todoterreno y la naturaleza,\NGrassrivers y Mount Kalaga.
+Dialogue: 0,0:04:21.98,0:04:24.64,Marca,,0,0,0,,{\fad(60,40)}Y si te gustan los\Nrincones raros, Port
+Dialogue: 0,0:04:24.66,0:04:28.07,Marca,,0,0,0,,{\fad(60,40)}Gellhorn y Ambrosia tienen\Npinta de esconder mucho.
+Dialogue: 0,0:04:28.59,0:04:29.82,Marca,,0,0,0,,{\fad(60,40)}La gran pregunta:
+Dialogue: 0,0:04:29.84,0:04:31.65,Marca,,0,0,0,,{\fad(60,40)}¿cómo de grande es el mapa?
+Dialogue: 0,0:04:31.67,0:04:35.03,Marca,,0,0,0,,{\fad(60,40)}La respuesta honesta es que\N{\c&H33D6FF&}no{\c&HFFFFFF&} {\c&H33D6FF&}hay{\c&HFFFFFF&} {\c&H33D6FF&}una{\c&HFFFFFF&} {\c&H33D6FF&}cifra{\c&HFFFFFF&} {\c&H33D6FF&}oficial.{\c&HFFFFFF&}
+Dialogue: 0,0:04:35.05,0:04:38.35,Marca,,0,0,0,,{\fad(60,40)}Hay mapas hechos por fans\Na partir de los tráileres,
+Dialogue: 0,0:04:38.37,0:04:41.43,Marca,,0,0,0,,{\fad(60,40)}con un trabajo increíble,\Npero son estimaciones.
+Dialogue: 0,0:04:41.45,0:04:45.75,Marca,,0,0,0,,{\fad(60,40)}Desconfía de quien te dé kilómetros\Ncuadrados exactos antes de jugar.
+Dialogue: 0,0:04:46.27,0:04:50.40,Marca,,0,0,0,,{\fad(60,40)}Lo que sí podemos decir es que,\Npor variedad, una gran ciudad,
+Dialogue: 0,0:04:50.42,0:04:54.79,Marca,,0,0,0,,{\fad(60,40)}islas, pantanos, costa industrial,\Nzona rural y un parque natural,
+Dialogue: 0,0:04:54.81,0:04:59.06,Marca,,0,0,0,,{\fad(60,40)}es el escenario más diverso que\Nha planteado Rockstar en un GTA.
+Dialogue: 0,0:04:59.58,0:05:01.05,Marca,,0,0,0,,{\fad(60,40)}Y otra duda habitual:
+Dialogue: 0,0:05:01.07,0:05:04.44,Marca,,0,0,0,,{\fad(60,40)}¿estarán todas las zonas\Nabiertas desde el principio?
+Dialogue: 0,0:05:04.46,0:05:08.55,Marca,,0,0,0,,{\fad(60,40)}En GTA 5 podías moverte por casi\Ntodo el mapa muy pronto, pero en
+Dialogue: 0,0:05:08.57,0:05:12.78,Marca,,0,0,0,,{\fad(60,40)}otros juegos de la saga las zonas\Nse desbloqueaban con la historia.
+Dialogue: 0,0:05:12.80,0:05:17.72,Marca,,0,0,0,,{\fad(60,40)}Para GTA 6 no está confirmado, así que\Nlo comprobaremos el día del lanzamiento.
+Dialogue: 0,0:05:18.24,0:05:22.17,Marca,,0,0,0,,{\fad(60,40)}Por eso el día del lanzamiento\Nvamos a comprobar cuatro cosas:
+Dialogue: 0,0:05:22.19,0:05:26.01,Marca,,0,0,0,,{\fad(60,40)}si todas las zonas están abiertas\Ndesde el principio, cuánto
+Dialogue: 0,0:05:26.03,0:05:29.90,Marca,,0,0,0,,{\fad(60,40)}se tarda en cruzar Leonida de\Npunta a punta en coche, cuántos
+Dialogue: 0,0:05:29.92,0:05:34.04,Marca,,0,0,0,,{\fad(60,40)}interiores se pueden visitar y\Ncómo se mueve uno entre las islas.
+Dialogue: 0,0:05:34.06,0:05:36.91,Marca,,0,0,0,,{\fad(60,40)}Datos medidos por\Nnosotros, no estimaciones.
+Dialogue: 0,0:05:37.44,0:05:40.62,Marca,,0,0,0,,{\fad(60,40)}En cuanto tengamos el juego,\Nharemos el recorrido de
+Dialogue: 0,0:05:40.64,0:05:44.22,Marca,,0,0,0,,{\fad(60,40)}verdad, con capturas reales,\Ny actualizaremos este esquema.
+Dialogue: 0,0:05:44.24,0:05:46.11,Marca,,0,0,0,,{\fad(60,40)}Si quieres verlo, suscríbete.
+Dialogue: 0,0:05:46.63,0:05:48.18,Marca,,0,0,0,,{\fad(60,40)}Y dime en comentarios:
+Dialogue: 0,0:05:48.20,0:05:51.08,Marca,,0,0,0,,{\fad(60,40)}¿cuál es la primera\Nzona que vas a explorar?
+Dialogue: 0,0:05:51.10,0:05:52.41,Marca,,0,0,0,,{\fad(60,40)}Yo lo tengo claro:
+Dialogue: 0,0:05:52.43,0:05:54.04,Marca,,0,0,0,,{\fad(60,40)}los Cayos al atardecer.
+Dialogue: 0,0:05:54.06,0:05:55.55,Marca,,0,0,0,,{\fad(60,40)}Nos vemos en Leonida.

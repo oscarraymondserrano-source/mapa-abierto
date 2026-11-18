@@ -1,0 +1,8 @@
+# Pegar en ElevenLabs (modelo multilingüe). Las MAYÚSCULAS marcan énfasis; <break> son pausas.
+# Ajustes: Stability 45 · Similarity 80 · Style 20 · Speaker boost ON. Velocidad 1.05.
+
+¿Mito o verdad? El primer GTA se jugaba con la cámara desde arriba. <break time="0.4s" />
+
+¡Verdad! GTA, de 1997, y GTA 2, de 1999, tenían vista cenital, desde arriba. La cámara en tercera persona llegó con GTA 3 en 2001. <break time="0.4s" />
+
+Casi treinta años después, mira dónde estamos. Sígueme para más mitos y verdades de GTA. <break time="0.4s" />

@@ -1,0 +1,54 @@
+# Pegar en ElevenLabs (modelo multilingüe). Las MAYÚSCULAS marcan énfasis; <break> son pausas.
+# Ajustes: Stability 45 · Similarity 80 · Style 20 · Speaker boost ON. Velocidad 1.05.
+
+Quedan horas para el lanzamiento más esperado de la década. GTA 6 sale este jueves, y antes de darle a JUGAR hay unas cuantas cosas que te conviene saber. <break time="0.4s" />
+
+En este vídeo te explico la hora exacta de desbloqueo en España, cuánto espacio necesitas, qué ediciones hay, qué sabemos de la historia y, muy importante, qué cosas TODAVÍA NO ha confirmado Rockstar. Separando siempre lo oficial de lo que solo son rumores. <break time="0.4s" />
+
+Esto es Mapa Abierto. Vamos al lío. <break time="0.4s" />
+
+Empecemos por lo básico. Grand Theft Auto 6 se lanza el jueves 19 de noviembre de 2026 en PlayStation 5 y Xbox Series X y Series S. Es la fecha que Rockstar anunció hace justo un año, después de retrasar el juego desde mayo. <break time="0.4s" />
+
+¿Y a qué hora? Según la página de soporte de Rockstar, el juego se desbloquea a MEDIANOCHE, HORA LOCAL, en cada región. En la España peninsular y en Baleares eso significa las DOCE DE LA NOCHE del miércoles al jueves. <break time="0.4s" />
+
+En Canarias hay un matiz: las tiendas suelen tratar a España como una sola región, así que es posible que allí se desbloquee una hora antes, a las once de la noche del miércoles. No lo des por hecho: mira la cuenta atrás en la ficha de tu tienda. <break time="0.4s" />
+
+Y si nos ves desde fuera de España, la regla es la misma: medianoche en tu país. En Estados Unidos, por cierto, varios medios apuntan a que la costa oeste podría jugar la noche anterior, porque la tienda usa la hora del este como referencia. <break time="0.4s" />
+
+Segundo punto: la precarga. Si reservaste la versión digital, ya puedes descargar el juego. Según la mayoría de medios, la precarga se abrió el 10 DE NOVIEMBRE. Precargar no te deja jugar antes, pero sí te ahorra pasarte la noche del lanzamiento mirando una barra de progreso. <break time="0.4s" />
+
+¿Cuánto ocupa? Las fichas de las tiendas y los rastreadores de descargas hablan de unos 210 GIGAS. Ojo: no es una cifra publicada por Rockstar, y el día uno casi seguro habrá un parche. Mi consejo: deja libres al menos 250 GIGAS para ir sobrado. <break time="0.4s" />
+
+Y aquí viene el detalle que más dudas genera. Tanto en PlayStation 5 como en Xbox Series, un disco duro USB sirve para ALMACENAR juegos de nueva generación, pero no para JUGARLOS. Para jugar, GTA 6 tiene que estar en el almacenamiento interno, en un SSD M.2 en PS5 o en la tarjeta de expansión oficial en Xbox. <break time="0.4s" />
+
+Si tienes una Xbox Series S, haz cuentas ya: su espacio útil es reducido, así que probablemente tendrás que borrar varios juegos. Mejor hacerlo hoy que el miércoles a las once y media. <break time="0.4s" />
+
+Si compraste la versión en caja, revisa qué trae dentro: según varios medios, la edición física puede incluir un código de descarga en lugar del juego completo en disco. Si es tu caso, canjéalo en cuanto lo tengas para empezar la descarga. <break time="0.4s" />
+
+Pasamos a las ediciones. Hasta donde se ha publicado, hay dos: la ESTÁNDAR y la ULTIMATE, que es solo digital. En Estados Unidos los precios que más se repiten son 79,99 y 99,99 dólares. En euros hay menos fuentes, así que antes de comprar mira el precio final en tu tienda: no voy a darte una cifra que no he podido verificar. <break time="0.4s" />
+
+¿Y en PC? A día de hoy Rockstar NO HA ANUNCIADO versión de PC. Si juegas en ordenador, toca esperar. Y desconfía de cualquier web que te venda una clave de PC de GTA 6: ahora mismo no existe. <break time="0.4s" />
+
+Vamos con lo que de verdad importa: la historia. GTA 6 transcurre en LEONIDA, un estado ficticio inspirado en Florida, con Vice City como gran ciudad. Y por primera vez en la saga principal tenemos a una pareja protagonista: JASON DUVAL y LUCIA CAMINOS. <break time="0.4s" />
+
+Según su ficha oficial, a Lucia su padre le enseñó a pelear casi antes que a andar. Luchar por su familia la llevó a la penitenciaría de Leonida, y salió de allí más por suerte que por otra cosa. Ahora quiere hacer solo movimientos inteligentes. <break time="0.4s" />
+
+Jason, en cambio, quiere una vida fácil, pero todo se le complica. Creció rodeado de timadores, pasó por el ejército para dejar atrás una adolescencia difícil y acabó en los Cayos trabajando para traficantes locales. Juntos intentan salir adelante en el rincón más soleado y más turbio de Estados Unidos. <break time="0.4s" />
+
+Los tráileres ya nos presentaron a parte del reparto secundario, como Cal Hampton, el amigo de Jason, o Boobie Ike, toda una figura en Vice City. Pero el papel de cada uno en la trama lo descubriremos jugando. <break time="0.4s" />
+
+En los últimos días, Rockstar ha dado nuevos detalles en una entrevista con The Guardian que han recogido muchos medios. El primero: Jason y Lucia empiezan DESDE ABAJO. Nada de golpes millonarios el primer día: sus primeros trabajos son cosas como hacer el puente a coches baratos o forzar cerraduras sencillas. <break time="0.4s" />
+
+El segundo: la relación entre ambos es algo que PUEDES CUIDAR O PUEDES PERDER. Según lo publicado, si la descuidas desaparecen ciertos gestos entre ellos, y recuperarlos cuesta esfuerzo. <break time="0.4s" />
+
+Y el tercero, el más llamativo: Rockstar dice que es el primer GTA con mecánicas que FOMENTAN LA EMPATÍA, siempre de forma opcional. Por ejemplo, poder pedirle a alguien acariciar a su perro. Eso sí, dejan claro que el caos de toda la vida sigue ahí si es lo que buscas. Cómo funciona todo esto en la práctica no lo sabremos hasta jugar. <break time="0.4s" />
+
+Y ahora, la parte honesta del vídeo: lo que todavía no está confirmado. No hay datos oficiales de RENDIMIENTO: ni resolución, ni fotogramas por segundo, ni si habrá modo calidad y modo rendimiento. Tampoco hay un MAPA OFICIAL COMPLETO, ni detalles del MODO ONLINE para el lanzamiento. <break time="0.4s" />
+
+Así que si ves vídeos asegurando que va a sesenta fotogramas o que el mapa mide tantos kilómetros, tómatelo con calma. En este canal, cuando algo no esté confirmado, te lo voy a decir claramente. <break time="0.4s" />
+
+Te dejo la lista rápida para esta semana. Uno: comprueba que la precarga está al cien por cien. Dos: libera espacio de sobra. Tres: actualiza la consola y el mando. Cuatro: mira la cuenta atrás en tu tienda. Y cinco: silencia las redes si no quieres SPOILERS, porque el jueves van a llover. <break time="0.4s" />
+
+En cuanto el juego se desbloquee, aquí tendrás primeras impresiones, una guía para tus primeras horas y todos los secretos que vayamos encontrando. Si no quieres perderte nada, suscríbete y activa la campanita. <break time="0.4s" />
+
+Y cuéntame en los comentarios: ¿vas a jugar a medianoche o esperarás al día siguiente? Nos vemos en Leonida. <break time="0.4s" />

@@ -1,0 +1,8 @@
+# Pegar en ElevenLabs (modelo multilingüe). Las MAYÚSCULAS marcan énfasis; <break> son pausas.
+# Ajustes: Stability 45 · Similarity 80 · Style 20 · Speaker boost ON. Velocidad 1.05.
+
+¿Mito o verdad? GTA 6 también sale en PlayStation 4. <break time="0.4s" />
+
+¡Mito! Rockstar solo ha anunciado GTA 6 para PlayStation 5 y Xbox Series X y Series S. Ni PS4 ni Xbox One. <break time="0.4s" />
+
+Si aún tienes una PS4, toca dar el salto o esperar. Sígueme para más mitos y verdades de GTA. <break time="0.4s" />

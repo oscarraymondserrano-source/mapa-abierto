@@ -1,0 +1,12 @@
+# Pegar en ElevenLabs (modelo multilingüe). Las MAYÚSCULAS marcan énfasis; <break> son pausas.
+# Ajustes: Stability 45 · Similarity 80 · Style 20 · Speaker boost ON. Velocidad 1.05.
+
+Fácil para unos, imposible para otros. Tres segundos. <break time="0.4s" />
+
+¿Cuántos protagonistas jugables tenía la historia de GTA 5? A, dos. B, tres. C, cuatro. <break time="0.4s" />
+
+¡La B! Tres: Michael, Franklin y Trevor, y podías cambiar entre ellos en cualquier momento. <break time="0.4s" />
+
+GTA 6 tendrá dos: Jason y Lucia. <break time="0.4s" />
+
+¿Acertaste? Dímelo en comentarios y sígueme para el siguiente quiz. <break time="0.4s" />

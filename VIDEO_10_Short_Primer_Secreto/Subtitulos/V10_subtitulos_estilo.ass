@@ -1,0 +1,32 @@
+[Script Info]
+Title: V10 subtítulos Mapa Abierto
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Marca,Inter Display,78,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,-1,0,0,0,100,100,0,0,1,5,3,2,80,80,560,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.05,0:00:01.62,Marca,,0,0,0,,{\fad(60,40)}Esto está\Nescondido en GTA
+Dialogue: 0,0:00:01.64,0:00:03.32,Marca,,0,0,0,,{\fad(60,40)}6, y casi nadie\Nlo ha visto.
+Dialogue: 0,0:00:03.69,0:00:04.65,Marca,,0,0,0,,{\fad(60,40)}Está en [LUGAR].
+Dialogue: 0,0:00:04.67,0:00:06.12,Marca,,0,0,0,,{\fad(60,40)}Para llegar,\N[RUTA BREVE].
+Dialogue: 0,0:00:06.49,0:00:08.81,Marca,,0,0,0,,{\fad(60,40)}Si te acercas e\Ninteractúas, pasa esto:
+Dialogue: 0,0:00:08.83,0:00:09.78,Marca,,0,0,0,,{\fad(60,40)}[DESCRIPCIÓN].
+Dialogue: 0,0:00:10.15,0:00:12.47,Marca,,0,0,0,,{\fad(60,40)}Lo he comprobado yo\Nmismo en mi partida,
+Dialogue: 0,0:00:12.49,0:00:14.66,Marca,,0,0,0,,{\fad(60,40)}así que no es un\Nrumor ni un montaje:
+Dialogue: 0,0:00:14.68,0:00:16.31,Marca,,0,0,0,,{\fad(60,40)}aquí lo tienes,\Nsin cortes.
+Dialogue: 0,0:00:16.68,0:00:17.79,Marca,,0,0,0,,{\fad(60,40)}Y no es casualidad:
+Dialogue: 0,0:00:17.81,0:00:19.85,Marca,,0,0,0,,{\fad(60,40)}todo apunta a un\Nguiño a [REFERENCIA],
+Dialogue: 0,0:00:19.87,0:00:22.06,Marca,,0,0,0,,{\fad(60,40)}uno de esos detalles\Nque Rockstar esconde
+Dialogue: 0,0:00:22.08,0:00:23.18,Marca,,0,0,0,,{\fad(60,40)}para quien se fija.
+Dialogue: 0,0:00:23.55,0:00:25.09,Marca,,0,0,0,,{\fad(60,40)}¿Has encontrado\Nalgún otro?
+Dialogue: 0,0:00:25.11,0:00:27.21,Marca,,0,0,0,,{\fad(60,40)}Déjalo en comentarios\Ny lo comprobamos
+Dialogue: 0,0:00:27.23,0:00:27.96,Marca,,0,0,0,,{\fad(60,40)}en partida.
+Dialogue: 0,0:00:27.98,0:00:29.27,Marca,,0,0,0,,{\fad(60,40)}Si es real,\Nsale en el
+Dialogue: 0,0:00:29.29,0:00:30.88,Marca,,0,0,0,,{\fad(60,40)}próximo vídeo\Ncon tu nombre.

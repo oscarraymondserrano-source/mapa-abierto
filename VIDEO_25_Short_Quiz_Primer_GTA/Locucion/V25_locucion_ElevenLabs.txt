@@ -1,0 +1,12 @@
+# Pegar en ElevenLabs (modelo multilingüe). Las MAYÚSCULAS marcan énfasis; <break> son pausas.
+# Ajustes: Stability 45 · Similarity 80 · Style 20 · Speaker boost ON. Velocidad 1.05.
+
+Solo los fans de verdad aciertan esta. Tienes tres segundos. <break time="0.4s" />
+
+¿En qué año salió el primer Grand Theft Auto? A, 1995. B, 1997. C, 2001. <break time="0.4s" />
+
+La respuesta es la B: 1997. Era un juego con vista desde arriba, muy distinto a lo que conocemos hoy. <break time="0.4s" />
+
+Hasta GTA 3, de 2001, la saga no dio el salto a las tres dimensiones. <break time="0.4s" />
+
+¿Acertaste? Dímelo en comentarios y sígueme para el siguiente quiz. <break time="0.4s" />

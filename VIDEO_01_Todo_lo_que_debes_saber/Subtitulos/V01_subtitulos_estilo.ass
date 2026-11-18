@@ -1,0 +1,134 @@
+[Script Info]
+Title: V01 subtítulos Mapa Abierto
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Marca,Inter Display,54,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,-1,0,0,0,100,100,0,0,1,4,2,2,80,80,60,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.05,0:00:03.71,Marca,,0,0,0,,{\fad(60,40)}Quedan horas para el lanzamiento\Nmás esperado de la década.
+Dialogue: 0,0:00:03.73,0:00:06.74,Marca,,0,0,0,,{\fad(60,40)}GTA 6 sale este jueves,\Ny antes de darle a {\c&H33D6FF&}jugar{\c&HFFFFFF&}
+Dialogue: 0,0:00:06.76,0:00:09.60,Marca,,0,0,0,,{\fad(60,40)}hay unas cuantas cosas\Nque te conviene saber.
+Dialogue: 0,0:00:10.12,0:00:14.15,Marca,,0,0,0,,{\fad(60,40)}En este vídeo te explico la hora\Nexacta de desbloqueo en España,
+Dialogue: 0,0:00:14.17,0:00:18.08,Marca,,0,0,0,,{\fad(60,40)}cuánto espacio necesitas, qué\Nediciones hay, qué sabemos de la
+Dialogue: 0,0:00:18.10,0:00:22.60,Marca,,0,0,0,,{\fad(60,40)}historia y, muy importante, qué cosas\N{\c&H33D6FF&}todavía{\c&HFFFFFF&} {\c&H33D6FF&}no{\c&HFFFFFF&} ha confirmado Rockstar.
+Dialogue: 0,0:00:22.62,0:00:26.17,Marca,,0,0,0,,{\fad(60,40)}Separando siempre lo oficial\Nde lo que solo son rumores.
+Dialogue: 0,0:00:26.69,0:00:29.42,Marca,,0,0,0,,{\fad(60,40)}Esto es Mapa Abierto.\NVamos al lío.
+Dialogue: 0,0:00:29.94,0:00:31.80,Marca,,0,0,0,,{\fad(60,40)}Empecemos por lo básico.
+Dialogue: 0,0:00:31.82,0:00:35.64,Marca,,0,0,0,,{\fad(60,40)}Grand Theft Auto 6 se lanza\Nel {\c&H33D6FF&}jueves{\c&HFFFFFF&} {\c&H33D6FF&}19{\c&HFFFFFF&} {\c&H33D6FF&}de{\c&HFFFFFF&} {\c&H33D6FF&}noviembre{\c&HFFFFFF&}
+Dialogue: 0,0:00:35.66,0:00:39.40,Marca,,0,0,0,,{\fad(60,40)}{\c&H33D6FF&}de{\c&HFFFFFF&} {\c&H33D6FF&}2026{\c&HFFFFFF&} en PlayStation 5 y\NXbox Series X y Series S.
+Dialogue: 0,0:00:39.42,0:00:42.76,Marca,,0,0,0,,{\fad(60,40)}Es la fecha que Rockstar\Nanunció hace justo un
+Dialogue: 0,0:00:42.78,0:00:46.06,Marca,,0,0,0,,{\fad(60,40)}año, después de retrasar\Nel juego desde mayo.
+Dialogue: 0,0:00:46.58,0:00:47.63,Marca,,0,0,0,,{\fad(60,40)}¿Y a qué hora?
+Dialogue: 0,0:00:47.65,0:00:50.89,Marca,,0,0,0,,{\fad(60,40)}Según la página de soporte\Nde Rockstar, el juego se
+Dialogue: 0,0:00:50.91,0:00:54.21,Marca,,0,0,0,,{\fad(60,40)}desbloquea a {\c&H33D6FF&}medianoche,{\c&HFFFFFF&}\N{\c&H33D6FF&}hora{\c&HFFFFFF&} {\c&H33D6FF&}local,{\c&HFFFFFF&} en cada región.
+Dialogue: 0,0:00:54.23,0:00:57.47,Marca,,0,0,0,,{\fad(60,40)}En la España peninsular y\Nen Baleares eso significa
+Dialogue: 0,0:00:57.49,0:01:00.38,Marca,,0,0,0,,{\fad(60,40)}las {\c&H33D6FF&}doce{\c&HFFFFFF&} {\c&H33D6FF&}de{\c&HFFFFFF&} {\c&H33D6FF&}la{\c&HFFFFFF&} {\c&H33D6FF&}noche{\c&HFFFFFF&}\Ndel miércoles al jueves.
+Dialogue: 0,0:01:00.90,0:01:02.59,Marca,,0,0,0,,{\fad(60,40)}En Canarias hay un matiz:
+Dialogue: 0,0:01:02.61,0:01:07.24,Marca,,0,0,0,,{\fad(60,40)}las tiendas suelen tratar a España como\Nuna sola región, así que es posible
+Dialogue: 0,0:01:07.26,0:01:11.96,Marca,,0,0,0,,{\fad(60,40)}que allí se desbloquee una hora antes,\Na las once de la noche del miércoles.
+Dialogue: 0,0:01:11.98,0:01:13.37,Marca,,0,0,0,,{\fad(60,40)}No lo des por hecho:
+Dialogue: 0,0:01:13.39,0:01:16.32,Marca,,0,0,0,,{\fad(60,40)}mira la cuenta atrás en\Nla ficha de tu tienda.
+Dialogue: 0,0:01:16.84,0:01:20.61,Marca,,0,0,0,,{\fad(60,40)}Y si nos ves desde fuera de\NEspaña, la regla es la misma:
+Dialogue: 0,0:01:20.63,0:01:22.22,Marca,,0,0,0,,{\fad(60,40)}medianoche en tu país.
+Dialogue: 0,0:01:22.24,0:01:27.43,Marca,,0,0,0,,{\fad(60,40)}En Estados Unidos, por cierto, varios\Nmedios apuntan a que la costa oeste podría
+Dialogue: 0,0:01:27.45,0:01:32.59,Marca,,0,0,0,,{\fad(60,40)}jugar la noche anterior, porque la tienda\Nusa la hora del este como referencia.
+Dialogue: 0,0:01:33.11,0:01:34.97,Marca,,0,0,0,,{\fad(60,40)}Segundo punto:\Nla precarga.
+Dialogue: 0,0:01:34.99,0:01:39.05,Marca,,0,0,0,,{\fad(60,40)}Si reservaste la versión digital,\Nya puedes descargar el juego.
+Dialogue: 0,0:01:39.07,0:01:43.43,Marca,,0,0,0,,{\fad(60,40)}Según la mayoría de medios, la\Nprecarga se abrió el {\c&H33D6FF&}10{\c&HFFFFFF&} {\c&H33D6FF&}de{\c&HFFFFFF&} {\c&H33D6FF&}noviembre.{\c&HFFFFFF&}
+Dialogue: 0,0:01:43.45,0:01:46.77,Marca,,0,0,0,,{\fad(60,40)}Precargar no te deja jugar\Nantes, pero sí te ahorra
+Dialogue: 0,0:01:46.79,0:01:50.85,Marca,,0,0,0,,{\fad(60,40)}pasarte la noche del lanzamiento\Nmirando una barra de progreso.
+Dialogue: 0,0:01:51.37,0:01:52.53,Marca,,0,0,0,,{\fad(60,40)}¿Cuánto ocupa?
+Dialogue: 0,0:01:52.55,0:01:56.52,Marca,,0,0,0,,{\fad(60,40)}Las fichas de las tiendas y\Nlos rastreadores de descargas
+Dialogue: 0,0:01:56.54,0:01:58.75,Marca,,0,0,0,,{\fad(60,40)}hablan de unos {\c&H33D6FF&}210{\c&HFFFFFF&} {\c&H33D6FF&}gigas.{\c&HFFFFFF&}\NOjo:
+Dialogue: 0,0:01:58.77,0:02:04.32,Marca,,0,0,0,,{\fad(60,40)}no es una cifra publicada por Rockstar,\Ny el día uno casi seguro habrá un parche.
+Dialogue: 0,0:02:04.34,0:02:05.30,Marca,,0,0,0,,{\fad(60,40)}Mi consejo:
+Dialogue: 0,0:02:05.32,0:02:08.64,Marca,,0,0,0,,{\fad(60,40)}deja libres al menos {\c&H33D6FF&}250{\c&HFFFFFF&}\N{\c&H33D6FF&}gigas{\c&HFFFFFF&} para ir sobrado.
+Dialogue: 0,0:02:09.16,0:02:12.55,Marca,,0,0,0,,{\fad(60,40)}Y aquí viene el detalle\Nque más dudas genera.
+Dialogue: 0,0:02:12.57,0:02:17.48,Marca,,0,0,0,,{\fad(60,40)}Tanto en PlayStation 5 como en Xbox\NSeries, un disco duro USB sirve
+Dialogue: 0,0:02:17.50,0:02:22.28,Marca,,0,0,0,,{\fad(60,40)}para {\c&H33D6FF&}almacenar{\c&HFFFFFF&} juegos de nueva\Ngeneración, pero no para {\c&H33D6FF&}jugarlos.{\c&HFFFFFF&}
+Dialogue: 0,0:02:22.30,0:02:27.14,Marca,,0,0,0,,{\fad(60,40)}Para jugar, GTA 6 tiene que estar\Nen el almacenamiento interno, en
+Dialogue: 0,0:02:27.16,0:02:31.79,Marca,,0,0,0,,{\fad(60,40)}un SSD M.2 en PS5 o en la tarjeta\Nde expansión oficial en Xbox.
+Dialogue: 0,0:02:32.31,0:02:35.33,Marca,,0,0,0,,{\fad(60,40)}Si tienes una Xbox\NSeries S, haz cuentas ya:
+Dialogue: 0,0:02:35.35,0:02:39.24,Marca,,0,0,0,,{\fad(60,40)}su espacio útil es reducido,\Nasí que probablemente tendrás
+Dialogue: 0,0:02:39.26,0:02:41.07,Marca,,0,0,0,,{\fad(60,40)}que borrar varios juegos.
+Dialogue: 0,0:02:41.09,0:02:44.74,Marca,,0,0,0,,{\fad(60,40)}Mejor hacerlo hoy que el\Nmiércoles a las once y media.
+Dialogue: 0,0:02:45.26,0:02:48.78,Marca,,0,0,0,,{\fad(60,40)}Si compraste la versión en\Ncaja, revisa qué trae dentro:
+Dialogue: 0,0:02:48.80,0:02:52.09,Marca,,0,0,0,,{\fad(60,40)}según varios medios, la\Nedición física puede incluir
+Dialogue: 0,0:02:52.11,0:02:55.80,Marca,,0,0,0,,{\fad(60,40)}un código de descarga en lugar\Ndel juego completo en disco.
+Dialogue: 0,0:02:55.82,0:03:00.11,Marca,,0,0,0,,{\fad(60,40)}Si es tu caso, canjéalo en cuanto\Nlo tengas para empezar la descarga.
+Dialogue: 0,0:03:00.63,0:03:02.55,Marca,,0,0,0,,{\fad(60,40)}Pasamos a las ediciones.
+Dialogue: 0,0:03:02.57,0:03:05.39,Marca,,0,0,0,,{\fad(60,40)}Hasta donde se ha publicado, hay dos:
+Dialogue: 0,0:03:05.41,0:03:08.92,Marca,,0,0,0,,{\fad(60,40)}la {\c&H33D6FF&}Estándar{\c&HFFFFFF&} y la {\c&H33D6FF&}Ultimate,{\c&HFFFFFF&}\Nque es solo digital.
+Dialogue: 0,0:03:08.94,0:03:14.39,Marca,,0,0,0,,{\fad(60,40)}En Estados Unidos los precios que más\Nse repiten son 79,99 y 99,99 dólares.
+Dialogue: 0,0:03:14.41,0:03:17.50,Marca,,0,0,0,,{\fad(60,40)}En euros hay menos\Nfuentes, así que antes
+Dialogue: 0,0:03:17.52,0:03:20.89,Marca,,0,0,0,,{\fad(60,40)}de comprar mira el precio\Nfinal en tu tienda:
+Dialogue: 0,0:03:20.91,0:03:24.77,Marca,,0,0,0,,{\fad(60,40)}no voy a darte una cifra\Nque no he podido verificar.
+Dialogue: 0,0:03:25.29,0:03:26.12,Marca,,0,0,0,,{\fad(60,40)}¿Y en PC?
+Dialogue: 0,0:03:26.14,0:03:29.77,Marca,,0,0,0,,{\fad(60,40)}A día de hoy Rockstar {\c&H33D6FF&}no{\c&HFFFFFF&}\N{\c&H33D6FF&}ha{\c&HFFFFFF&} {\c&H33D6FF&}anunciado{\c&HFFFFFF&} versión de PC.
+Dialogue: 0,0:03:29.79,0:03:32.45,Marca,,0,0,0,,{\fad(60,40)}Si juegas en ordenador, toca esperar.
+Dialogue: 0,0:03:32.47,0:03:37.08,Marca,,0,0,0,,{\fad(60,40)}Y desconfía de cualquier web que\Nte venda una clave de PC de GTA 6:
+Dialogue: 0,0:03:37.10,0:03:38.78,Marca,,0,0,0,,{\fad(60,40)}ahora mismo no existe.
+Dialogue: 0,0:03:39.30,0:03:42.74,Marca,,0,0,0,,{\fad(60,40)}Vamos con lo que de verdad importa:\Nla historia.
+Dialogue: 0,0:03:42.76,0:03:46.13,Marca,,0,0,0,,{\fad(60,40)}GTA 6 transcurre en\N{\c&H33D6FF&}Leonida,{\c&HFFFFFF&} un estado ficticio
+Dialogue: 0,0:03:46.15,0:03:49.92,Marca,,0,0,0,,{\fad(60,40)}inspirado en Florida, con\NVice City como gran ciudad.
+Dialogue: 0,0:03:49.94,0:03:55.04,Marca,,0,0,0,,{\fad(60,40)}Y por primera vez en la saga principal\Ntenemos a una pareja protagonista:
+Dialogue: 0,0:03:55.06,0:03:57.17,Marca,,0,0,0,,{\fad(60,40)}{\c&H33D6FF&}Jason{\c&HFFFFFF&} {\c&H33D6FF&}Duval{\c&HFFFFFF&} y {\c&H33D6FF&}Lucia{\c&HFFFFFF&} {\c&H33D6FF&}Caminos.{\c&HFFFFFF&}
+Dialogue: 0,0:03:57.69,0:04:02.86,Marca,,0,0,0,,{\fad(60,40)}Según su ficha oficial, a Lucia su padre\Nle enseñó a pelear casi antes que a andar.
+Dialogue: 0,0:04:02.88,0:04:06.21,Marca,,0,0,0,,{\fad(60,40)}Luchar por su familia la\Nllevó a la penitenciaría de
+Dialogue: 0,0:04:06.23,0:04:09.91,Marca,,0,0,0,,{\fad(60,40)}Leonida, y salió de allí más\Npor suerte que por otra cosa.
+Dialogue: 0,0:04:09.93,0:04:13.07,Marca,,0,0,0,,{\fad(60,40)}Ahora quiere hacer solo\Nmovimientos inteligentes.
+Dialogue: 0,0:04:13.59,0:04:17.80,Marca,,0,0,0,,{\fad(60,40)}Jason, en cambio, quiere una vida\Nfácil, pero todo se le complica.
+Dialogue: 0,0:04:17.82,0:04:22.28,Marca,,0,0,0,,{\fad(60,40)}Creció rodeado de timadores, pasó\Npor el ejército para dejar atrás una
+Dialogue: 0,0:04:22.30,0:04:27.24,Marca,,0,0,0,,{\fad(60,40)}adolescencia difícil y acabó en los Cayos\Ntrabajando para traficantes locales.
+Dialogue: 0,0:04:27.26,0:04:30.09,Marca,,0,0,0,,{\fad(60,40)}Juntos intentan salir\Nadelante en el rincón
+Dialogue: 0,0:04:30.11,0:04:32.93,Marca,,0,0,0,,{\fad(60,40)}más soleado y más turbio\Nde Estados Unidos.
+Dialogue: 0,0:04:33.45,0:04:37.92,Marca,,0,0,0,,{\fad(60,40)}Los tráileres ya nos presentaron a\Nparte del reparto secundario, como Cal
+Dialogue: 0,0:04:37.94,0:04:42.29,Marca,,0,0,0,,{\fad(60,40)}Hampton, el amigo de Jason, o Boobie\NIke, toda una figura en Vice City.
+Dialogue: 0,0:04:42.31,0:04:46.19,Marca,,0,0,0,,{\fad(60,40)}Pero el papel de cada uno en la\Ntrama lo descubriremos jugando.
+Dialogue: 0,0:04:46.71,0:04:50.40,Marca,,0,0,0,,{\fad(60,40)}En los últimos días, Rockstar\Nha dado nuevos detalles en una
+Dialogue: 0,0:04:50.42,0:04:54.06,Marca,,0,0,0,,{\fad(60,40)}entrevista con The Guardian\Nque han recogido muchos medios.
+Dialogue: 0,0:04:54.08,0:04:54.93,Marca,,0,0,0,,{\fad(60,40)}El primero:
+Dialogue: 0,0:04:54.95,0:04:57.19,Marca,,0,0,0,,{\fad(60,40)}Jason y Lucia empiezan {\c&H33D6FF&}desde{\c&HFFFFFF&} {\c&H33D6FF&}abajo.{\c&HFFFFFF&}
+Dialogue: 0,0:04:57.21,0:04:59.81,Marca,,0,0,0,,{\fad(60,40)}Nada de golpes millonarios el primer día:
+Dialogue: 0,0:04:59.83,0:05:03.06,Marca,,0,0,0,,{\fad(60,40)}sus primeros trabajos son\Ncosas como hacer el puente
+Dialogue: 0,0:05:03.08,0:05:06.02,Marca,,0,0,0,,{\fad(60,40)}a coches baratos o forzar\Ncerraduras sencillas.
+Dialogue: 0,0:05:06.54,0:05:07.43,Marca,,0,0,0,,{\fad(60,40)}El segundo:
+Dialogue: 0,0:05:07.45,0:05:11.67,Marca,,0,0,0,,{\fad(60,40)}la relación entre ambos es algo\Nque {\c&H33D6FF&}puedes{\c&HFFFFFF&} {\c&H33D6FF&}cuidar{\c&HFFFFFF&} {\c&H33D6FF&}o{\c&HFFFFFF&} {\c&H33D6FF&}puedes{\c&HFFFFFF&} {\c&H33D6FF&}perder.{\c&HFFFFFF&}
+Dialogue: 0,0:05:11.69,0:05:14.76,Marca,,0,0,0,,{\fad(60,40)}Según lo publicado, si\Nla descuidas desaparecen
+Dialogue: 0,0:05:14.78,0:05:18.58,Marca,,0,0,0,,{\fad(60,40)}ciertos gestos entre ellos, y\Nrecuperarlos cuesta esfuerzo.
+Dialogue: 0,0:05:19.10,0:05:21.29,Marca,,0,0,0,,{\fad(60,40)}Y el tercero, el más llamativo:
+Dialogue: 0,0:05:21.31,0:05:24.58,Marca,,0,0,0,,{\fad(60,40)}Rockstar dice que es el\Nprimer GTA con mecánicas
+Dialogue: 0,0:05:24.60,0:05:28.05,Marca,,0,0,0,,{\fad(60,40)}que {\c&H33D6FF&}fomentan{\c&HFFFFFF&} {\c&H33D6FF&}la{\c&HFFFFFF&} {\c&H33D6FF&}empatía,{\c&HFFFFFF&}\Nsiempre de forma opcional.
+Dialogue: 0,0:05:28.07,0:05:31.97,Marca,,0,0,0,,{\fad(60,40)}Por ejemplo, poder pedirle a\Nalguien acariciar a su perro.
+Dialogue: 0,0:05:31.99,0:05:37.15,Marca,,0,0,0,,{\fad(60,40)}Eso sí, dejan claro que el caos de toda\Nla vida sigue ahí si es lo que buscas.
+Dialogue: 0,0:05:37.17,0:05:41.57,Marca,,0,0,0,,{\fad(60,40)}Cómo funciona todo esto en la\Npráctica no lo sabremos hasta jugar.
+Dialogue: 0,0:05:42.09,0:05:44.39,Marca,,0,0,0,,{\fad(60,40)}Y ahora, la parte honesta del vídeo:
+Dialogue: 0,0:05:44.41,0:05:46.59,Marca,,0,0,0,,{\fad(60,40)}lo que todavía no está confirmado.
+Dialogue: 0,0:05:46.61,0:05:49.03,Marca,,0,0,0,,{\fad(60,40)}No hay datos oficiales de {\c&H33D6FF&}rendimiento:{\c&HFFFFFF&}
+Dialogue: 0,0:05:49.05,0:05:51.64,Marca,,0,0,0,,{\fad(60,40)}ni resolución, ni\Nfotogramas por segundo,
+Dialogue: 0,0:05:51.66,0:05:54.42,Marca,,0,0,0,,{\fad(60,40)}ni si habrá modo calidad\Ny modo rendimiento.
+Dialogue: 0,0:05:54.44,0:05:56.97,Marca,,0,0,0,,{\fad(60,40)}Tampoco hay un {\c&H33D6FF&}mapa{\c&HFFFFFF&}\N{\c&H33D6FF&}oficial{\c&HFFFFFF&} {\c&H33D6FF&}completo,{\c&HFFFFFF&} ni
+Dialogue: 0,0:05:56.99,0:05:59.81,Marca,,0,0,0,,{\fad(60,40)}detalles del {\c&H33D6FF&}modo{\c&HFFFFFF&} {\c&H33D6FF&}online{\c&HFFFFFF&}\Npara el lanzamiento.
+Dialogue: 0,0:06:00.33,0:06:04.05,Marca,,0,0,0,,{\fad(60,40)}Así que si ves vídeos asegurando\Nque va a sesenta fotogramas
+Dialogue: 0,0:06:04.07,0:06:07.62,Marca,,0,0,0,,{\fad(60,40)}o que el mapa mide tantos\Nkilómetros, tómatelo con calma.
+Dialogue: 0,0:06:07.64,0:06:12.29,Marca,,0,0,0,,{\fad(60,40)}En este canal, cuando algo no esté\Nconfirmado, te lo voy a decir claramente.
+Dialogue: 0,0:06:12.81,0:06:16.05,Marca,,0,0,0,,{\fad(60,40)}Te dejo la lista rápida para esta semana.\NUno:
+Dialogue: 0,0:06:16.07,0:06:19.44,Marca,,0,0,0,,{\fad(60,40)}comprueba que la precarga\Nestá al cien por cien.
+Dialogue: 0,0:06:19.46,0:06:19.96,Marca,,0,0,0,,{\fad(60,40)}Dos:
+Dialogue: 0,0:06:19.98,0:06:22.18,Marca,,0,0,0,,{\fad(60,40)}libera espacio de sobra.\NTres:
+Dialogue: 0,0:06:22.20,0:06:25.04,Marca,,0,0,0,,{\fad(60,40)}actualiza la consola y el mando.\NCuatro:
+Dialogue: 0,0:06:25.06,0:06:28.10,Marca,,0,0,0,,{\fad(60,40)}mira la cuenta atrás en tu tienda.\NY cinco:
+Dialogue: 0,0:06:28.12,0:06:33.12,Marca,,0,0,0,,{\fad(60,40)}silencia las redes si no quieres\N{\c&H33D6FF&}spoilers,{\c&HFFFFFF&} porque el jueves van a llover.
+Dialogue: 0,0:06:33.64,0:06:37.88,Marca,,0,0,0,,{\fad(60,40)}En cuanto el juego se desbloquee,\Naquí tendrás primeras impresiones, una
+Dialogue: 0,0:06:37.90,0:06:42.25,Marca,,0,0,0,,{\fad(60,40)}guía para tus primeras horas y todos\Nlos secretos que vayamos encontrando.
+Dialogue: 0,0:06:42.27,0:06:45.94,Marca,,0,0,0,,{\fad(60,40)}Si no quieres perderte nada,\Nsuscríbete y activa la campanita.
+Dialogue: 0,0:06:46.46,0:06:48.58,Marca,,0,0,0,,{\fad(60,40)}Y cuéntame en los comentarios:
+Dialogue: 0,0:06:48.60,0:06:52.29,Marca,,0,0,0,,{\fad(60,40)}¿vas a jugar a medianoche o\Nesperarás al día siguiente?
+Dialogue: 0,0:06:52.31,0:06:53.86,Marca,,0,0,0,,{\fad(60,40)}Nos vemos en Leonida.

@@ -1,0 +1,12 @@
+# Pegar en ElevenLabs (modelo multilingüe). Las MAYÚSCULAS marcan énfasis; <break> son pausas.
+# Ajustes: Stability 45 · Similarity 80 · Style 20 · Speaker boost ON. Velocidad 1.05.
+
+¿Juegas desde Latinoamérica? Esta es la hora de GTA 6 en tu país. <break time="0.4s" />
+
+Según el soporte de Rockstar, GTA 6 se desbloquea a medianoche, hora local, del jueves 19 de noviembre en cada región. <break time="0.4s" />
+
+Es decir: en México, en Argentina, en Colombia o en Chile, a las doce de la noche del miércoles al jueves de cada país. <break time="0.4s" />
+
+Ojo: algunas tiendas usan una única hora de referencia para varios países. Para salir de dudas, mira la cuenta atrás en la ficha del juego de tu tienda. <break time="0.4s" />
+
+Dime desde qué país juegas y te leo en comentarios. <break time="0.4s" />

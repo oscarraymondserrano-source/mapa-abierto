@@ -1,0 +1,50 @@
+1
+00:00:00,050 --> 00:00:02,736
+En GTA 6 hay dos
+tipos de jugadores.
+
+2
+00:00:02,756 --> 00:00:03,954
+¿Cuál eres tú?
+
+3
+00:00:04,324 --> 00:00:05,502
+Equipo ciudad:
+
+4
+00:00:05,522 --> 00:00:07,899
+Vice City, neón,
+coches de lujo,
+
+5
+00:00:07,919 --> 00:00:10,429
+playas y fiesta
+hasta el amanecer.
+
+6
+00:00:10,799 --> 00:00:12,107
+Equipo naturaleza:
+
+7
+00:00:12,127 --> 00:00:14,642
+los pantanos de
+Grassrivers, el parque
+
+8
+00:00:14,662 --> 00:00:17,116
+nacional de Mount
+Kalaga y los Cayos.
+
+9
+00:00:17,486 --> 00:00:19,392
+Escribe ciudad
+o naturaleza
+
+10
+00:00:19,412 --> 00:00:20,572
+en comentarios.
+
+11
+00:00:20,592 --> 00:00:22,250
+Veamos qué equipo gana.
+

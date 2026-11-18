@@ -1,0 +1,12 @@
+# Pegar en ElevenLabs (modelo multilingüe). Las MAYÚSCULAS marcan énfasis; <break> son pausas.
+# Ajustes: Stability 45 · Similarity 80 · Style 20 · Speaker boost ON. Velocidad 1.05.
+
+Pregunta para veteranos de Vice City. Tres segundos. <break time="0.4s" />
+
+¿Quién era el protagonista de GTA Vice City, el de 2002? A, Carl Johnson. B, Niko Bellic. C, Tommy Vercetti. <break time="0.4s" />
+
+¡La C! Tommy Vercetti, en la Vice City de 1986. <break time="0.4s" />
+
+Carl Johnson era el de San Andreas, y Niko Bellic, el de GTA 4. <break time="0.4s" />
+
+¿Acertaste? Dímelo en comentarios y sígueme para el siguiente quiz. <break time="0.4s" />

@@ -1,0 +1,25 @@
+[Script Info]
+Title: V36 subtítulos Mapa Abierto
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Marca,Inter Display,78,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,-1,0,0,0,100,100,0,0,1,5,3,2,80,80,560,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.05,0:00:02.74,Marca,,0,0,0,,{\fad(60,40)}En GTA 6 hay dos\Ntipos de jugadores.
+Dialogue: 0,0:00:02.76,0:00:03.95,Marca,,0,0,0,,{\fad(60,40)}¿Cuál eres tú?
+Dialogue: 0,0:00:04.32,0:00:05.50,Marca,,0,0,0,,{\fad(60,40)}Equipo ciudad:
+Dialogue: 0,0:00:05.52,0:00:07.90,Marca,,0,0,0,,{\fad(60,40)}Vice City, neón,\Ncoches de lujo,
+Dialogue: 0,0:00:07.92,0:00:10.43,Marca,,0,0,0,,{\fad(60,40)}playas y fiesta\Nhasta el amanecer.
+Dialogue: 0,0:00:10.80,0:00:12.11,Marca,,0,0,0,,{\fad(60,40)}Equipo naturaleza:
+Dialogue: 0,0:00:12.13,0:00:14.64,Marca,,0,0,0,,{\fad(60,40)}los pantanos de\NGrassrivers, el parque
+Dialogue: 0,0:00:14.66,0:00:17.12,Marca,,0,0,0,,{\fad(60,40)}nacional de Mount\NKalaga y los Cayos.
+Dialogue: 0,0:00:17.49,0:00:19.39,Marca,,0,0,0,,{\fad(60,40)}Escribe ciudad\No naturaleza
+Dialogue: 0,0:00:19.41,0:00:20.57,Marca,,0,0,0,,{\fad(60,40)}en comentarios.
+Dialogue: 0,0:00:20.59,0:00:22.25,Marca,,0,0,0,,{\fad(60,40)}Veamos qué equipo gana.

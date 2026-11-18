@@ -1,0 +1,35 @@
+[Script Info]
+Title: V04 subtítulos Mapa Abierto
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Marca,Inter Display,78,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,-1,0,0,0,100,100,0,0,1,5,3,2,80,80,560,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.05,0:00:02.45,Marca,,0,0,0,,{\fad(60,40)}Si GTA 6 no está\Ndescargado, el
+Dialogue: 0,0:00:02.47,0:00:03.91,Marca,,0,0,0,,{\fad(60,40)}jueves no juegas.
+Dialogue: 0,0:00:03.93,0:00:05.85,Marca,,0,0,0,,{\fad(60,40)}Así se hace la precarga.
+Dialogue: 0,0:00:06.22,0:00:06.88,Marca,,0,0,0,,{\fad(60,40)}Primero:
+Dialogue: 0,0:00:06.90,0:00:09.52,Marca,,0,0,0,,{\fad(60,40)}solo funciona si lo\Nreservaste en {\c&H33D6FF&}digital.{\c&HFFFFFF&}
+Dialogue: 0,0:00:09.54,0:00:11.13,Marca,,0,0,0,,{\fad(60,40)}Si es en caja,\Ncanjea el
+Dialogue: 0,0:00:11.15,0:00:12.90,Marca,,0,0,0,,{\fad(60,40)}código en cuanto\Nlo tengas.
+Dialogue: 0,0:00:13.27,0:00:15.94,Marca,,0,0,0,,{\fad(60,40)}En PlayStation 5,\Nve a tu biblioteca,
+Dialogue: 0,0:00:15.96,0:00:18.36,Marca,,0,0,0,,{\fad(60,40)}busca el juego y\Npulsa descargar.
+Dialogue: 0,0:00:18.38,0:00:21.44,Marca,,0,0,0,,{\fad(60,40)}En Xbox, entra en Mis\Njuegos y aplicaciones
+Dialogue: 0,0:00:21.46,0:00:24.52,Marca,,0,0,0,,{\fad(60,40)}y revisa la sección de\Nlisto para instalar.
+Dialogue: 0,0:00:24.89,0:00:25.75,Marca,,0,0,0,,{\fad(60,40)}Espacio:
+Dialogue: 0,0:00:25.77,0:00:28.75,Marca,,0,0,0,,{\fad(60,40)}las tiendas hablan\Nde unos {\c&H33D6FF&}210{\c&HFFFFFF&} {\c&H33D6FF&}gigas.{\c&HFFFFFF&}
+Dialogue: 0,0:00:28.77,0:00:32.33,Marca,,0,0,0,,{\fad(60,40)}Deja {\c&H33D6FF&}250{\c&HFFFFFF&} libres por el\Nparche del primer día.
+Dialogue: 0,0:00:32.70,0:00:33.53,Marca,,0,0,0,,{\fad(60,40)}Y recuerda:
+Dialogue: 0,0:00:33.55,0:00:36.22,Marca,,0,0,0,,{\fad(60,40)}en un disco USB puedes\Nguardarlo, pero para
+Dialogue: 0,0:00:36.24,0:00:38.85,Marca,,0,0,0,,{\fad(60,40)}jugar tiene que estar\Nen el almacenamiento
+Dialogue: 0,0:00:38.87,0:00:41.25,Marca,,0,0,0,,{\fad(60,40)}interno o en una\Nexpansión compatible.
+Dialogue: 0,0:00:41.62,0:00:43.73,Marca,,0,0,0,,{\fad(60,40)}Precargar no\Nadelanta la hora:
+Dialogue: 0,0:00:43.75,0:00:45.68,Marca,,0,0,0,,{\fad(60,40)}se desbloquea\Na medianoche.
+Dialogue: 0,0:00:45.70,0:00:48.50,Marca,,0,0,0,,{\fad(60,40)}Guarda este vídeo y\Nnos vemos en Leonida.

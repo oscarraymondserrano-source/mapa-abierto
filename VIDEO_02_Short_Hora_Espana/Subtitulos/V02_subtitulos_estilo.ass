@@ -1,0 +1,32 @@
+[Script Info]
+Title: V02 subtítulos Mapa Abierto
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Marca,Inter Display,78,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,-1,0,0,0,100,100,0,0,1,5,3,2,80,80,560,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.05,0:00:02.68,Marca,,0,0,0,,{\fad(60,40)}¿A qué hora puedes\Njugar a GTA 6 en España?
+Dialogue: 0,0:00:02.70,0:00:04.65,Marca,,0,0,0,,{\fad(60,40)}Te lo digo en\Ntreinta segundos.
+Dialogue: 0,0:00:05.02,0:00:07.52,Marca,,0,0,0,,{\fad(60,40)}Según Rockstar, el\Njuego se desbloquea
+Dialogue: 0,0:00:07.54,0:00:09.85,Marca,,0,0,0,,{\fad(60,40)}a {\c&H33D6FF&}medianoche,{\c&HFFFFFF&} {\c&H33D6FF&}hora{\c&HFFFFFF&}\N{\c&H33D6FF&}local,{\c&HFFFFFF&} el jueves
+Dialogue: 0,0:00:09.87,0:00:11.05,Marca,,0,0,0,,{\fad(60,40)}19 de noviembre.
+Dialogue: 0,0:00:11.42,0:00:13.21,Marca,,0,0,0,,{\fad(60,40)}En la península\Ny en Baleares:
+Dialogue: 0,0:00:13.23,0:00:15.08,Marca,,0,0,0,,{\fad(60,40)}a las {\c&H33D6FF&}doce{\c&HFFFFFF&} {\c&H33D6FF&}en{\c&HFFFFFF&}\N{\c&H33D6FF&}punto{\c&HFFFFFF&} de la noche
+Dialogue: 0,0:00:15.10,0:00:16.57,Marca,,0,0,0,,{\fad(60,40)}del miércoles\Nal jueves.
+Dialogue: 0,0:00:16.94,0:00:18.10,Marca,,0,0,0,,{\fad(60,40)}En Canarias, ojo:
+Dialogue: 0,0:00:18.12,0:00:20.36,Marca,,0,0,0,,{\fad(60,40)}la tienda suele\Ntratar a España como
+Dialogue: 0,0:00:20.38,0:00:22.78,Marca,,0,0,0,,{\fad(60,40)}una sola región, así\Nque podría abrirse
+Dialogue: 0,0:00:22.80,0:00:25.09,Marca,,0,0,0,,{\fad(60,40)}a las {\c&H33D6FF&}once{\c&HFFFFFF&} {\c&H33D6FF&}de{\c&HFFFFFF&} {\c&H33D6FF&}la{\c&HFFFFFF&}\N{\c&H33D6FF&}noche{\c&HFFFFFF&} del miércoles.
+Dialogue: 0,0:00:25.11,0:00:27.24,Marca,,0,0,0,,{\fad(60,40)}Mira la cuenta\Natrás en tu tienda.
+Dialogue: 0,0:00:27.61,0:00:29.30,Marca,,0,0,0,,{\fad(60,40)}Y si lo tienes\Nen digital,
+Dialogue: 0,0:00:29.32,0:00:31.12,Marca,,0,0,0,,{\fad(60,40)}la precarga ya\Nestá abierta:
+Dialogue: 0,0:00:31.14,0:00:33.57,Marca,,0,0,0,,{\fad(60,40)}descárgalo hoy y deja\Nespacio de sobra.
+Dialogue: 0,0:00:33.94,0:00:36.87,Marca,,0,0,0,,{\fad(60,40)}Sígueme para no perderte\Nlas primeras impresiones.
+Dialogue: 0,0:00:36.89,0:00:38.23,Marca,,0,0,0,,{\fad(60,40)}Nos vemos en Leonida.

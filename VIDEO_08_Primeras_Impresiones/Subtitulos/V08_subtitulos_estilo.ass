@@ -1,0 +1,125 @@
+[Script Info]
+Title: V08 subtítulos Mapa Abierto
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Marca,Inter Display,54,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,-1,0,0,0,100,100,0,0,1,4,2,2,80,80,60,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.05,0:00:01.28,Marca,,0,0,0,,{\fad(60,40)}Ya he jugado a GTA 6.
+Dialogue: 0,0:00:01.30,0:00:04.61,Marca,,0,0,0,,{\fad(60,40)}Han sido [X] horas desde la\Nmedianoche del jueves, sin spoilers
+Dialogue: 0,0:00:04.63,0:00:07.85,Marca,,0,0,0,,{\fad(60,40)}de la historia, y tengo muy\Nclaro lo que me ha sorprendido...
+Dialogue: 0,0:00:07.87,0:00:08.65,Marca,,0,0,0,,{\fad(60,40)}y lo que no.
+Dialogue: 0,0:00:09.17,0:00:12.69,Marca,,0,0,0,,{\fad(60,40)}Te voy a hablar del impacto\Nvisual, del rendimiento, de cómo
+Dialogue: 0,0:00:12.71,0:00:16.63,Marca,,0,0,0,,{\fad(60,40)}se conduce, de Jason y Lucia, de\Nla ciudad y de los puntos débiles.
+Dialogue: 0,0:00:16.65,0:00:18.90,Marca,,0,0,0,,{\fad(60,40)}Y al final, mi veredicto provisional:
+Dialogue: 0,0:00:18.92,0:00:21.39,Marca,,0,0,0,,{\fad(60,40)}si merece la pena comprarlo ya o esperar.
+Dialogue: 0,0:00:21.91,0:00:24.08,Marca,,0,0,0,,{\fad(60,40)}Esto es Mapa Abierto.\NVamos al lío.
+Dialogue: 0,0:00:24.60,0:00:28.90,Marca,,0,0,0,,{\fad(60,40)}Antes de nada, cómo lo he jugado, para\Nque sepas de dónde salen mis opiniones.
+Dialogue: 0,0:00:28.92,0:00:32.16,Marca,,0,0,0,,{\fad(60,40)}He jugado en [PLATAFORMA], en\Nuna tele [TIPO DE PANTALLA].
+Dialogue: 0,0:00:32.18,0:00:35.75,Marca,,0,0,0,,{\fad(60,40)}Llevo [X] horas, he avanzado\N[PROGRESO SIN SPOILERS, POR EJEMPLO
+Dialogue: 0,0:00:35.77,0:00:39.70,Marca,,0,0,0,,{\fad(60,40)}LAS PRIMERAS MISIONES] y he dedicado\Nbuena parte del tiempo a explorar.
+Dialogue: 0,0:00:39.72,0:00:43.97,Marca,,0,0,0,,{\fad(60,40)}No voy a contar nada de la historia que\Nno se haya visto ya en los tráileres.
+Dialogue: 0,0:00:44.49,0:00:45.89,Marca,,0,0,0,,{\fad(60,40)}Y un poco de contexto:
+Dialogue: 0,0:00:45.91,0:00:49.39,Marca,,0,0,0,,{\fad(60,40)}GTA 6 llega trece años después\Nde GTA 5, tras dos retrasos y
+Dialogue: 0,0:00:49.41,0:00:52.83,Marca,,0,0,0,,{\fad(60,40)}con unos tráileres que batieron\Nrécords de visualizaciones.
+Dialogue: 0,0:00:52.85,0:00:56.49,Marca,,0,0,0,,{\fad(60,40)}Con tanta expectación, es fácil\Nque cualquier juego decepcione,
+Dialogue: 0,0:00:56.51,0:00:59.88,Marca,,0,0,0,,{\fad(60,40)}así que he intentado jugarlo\Ncon la cabeza fría, fijándome
+Dialogue: 0,0:00:59.90,0:01:03.00,Marca,,0,0,0,,{\fad(60,40)}en lo que de verdad importa\Ncuando apagas la consola:
+Dialogue: 0,0:01:03.02,0:01:05.07,Marca,,0,0,0,,{\fad(60,40)}si te apetece volver a encenderla.
+Dialogue: 0,0:01:05.59,0:01:08.37,Marca,,0,0,0,,{\fad(60,40)}Lo primero, lo evidente:\Nel impacto visual.
+Dialogue: 0,0:01:08.39,0:01:11.29,Marca,,0,0,0,,{\fad(60,40)}Llevamos años viendo\Ntráileres, y la pregunta
+Dialogue: 0,0:01:11.31,0:01:13.97,Marca,,0,0,0,,{\fad(60,40)}era si el juego real\Nestaría a la altura.
+Dialogue: 0,0:01:13.99,0:01:15.34,Marca,,0,0,0,,{\fad(60,40)}Mi respuesta corta:
+Dialogue: 0,0:01:15.36,0:01:17.12,Marca,,0,0,0,,{\fad(60,40)}[SÍ / CASI / NO DEL TODO].
+Dialogue: 0,0:01:17.14,0:01:21.17,Marca,,0,0,0,,{\fad(60,40)}Lo que más me ha impactado es\N[LUZ, MULTITUDES, AGUA, DENSIDAD].
+Dialogue: 0,0:01:21.19,0:01:22.78,Marca,,0,0,0,,{\fad(60,40)}Y no lo digo por decir:
+Dialogue: 0,0:01:22.80,0:01:24.27,Marca,,0,0,0,,{\fad(60,40)}fíjate en este plano.
+Dialogue: 0,0:01:24.79,0:01:28.22,Marca,,0,0,0,,{\fad(60,40)}Lo que más me ha llamado la\Natención es [DETALLE CONCRETO 1].
+Dialogue: 0,0:01:28.24,0:01:31.62,Marca,,0,0,0,,{\fad(60,40)}Y un detalle pequeño que dice\Nmucho del trabajo de Rockstar:
+Dialogue: 0,0:01:31.64,0:01:32.94,Marca,,0,0,0,,{\fad(60,40)}[DETALLE CONCRETO 2].
+Dialogue: 0,0:01:33.46,0:01:36.84,Marca,,0,0,0,,{\fad(60,40)}Y hay algo que las capturas no transmiten:\Nel sonido.
+Dialogue: 0,0:01:36.86,0:01:40.36,Marca,,0,0,0,,{\fad(60,40)}[VALORACIÓN DEL AMBIENTE\NSONORO, LA RADIO Y LAS VOCES].
+Dialogue: 0,0:01:40.38,0:01:43.51,Marca,,0,0,0,,{\fad(60,40)}Con auriculares, Vice City\Nde noche es otra cosa.
+Dialogue: 0,0:01:44.03,0:01:47.16,Marca,,0,0,0,,{\fad(60,40)}Vamos con el rendimiento,\Nque es lo que más preguntáis.
+Dialogue: 0,0:01:47.18,0:01:49.77,Marca,,0,0,0,,{\fad(60,40)}El juego ofrece [MODOS\NGRÁFICOS DISPONIBLES].
+Dialogue: 0,0:01:49.79,0:01:53.13,Marca,,0,0,0,,{\fad(60,40)}Yo he jugado sobre todo en\N[MODO ELEGIDO], porque [MOTIVO].
+Dialogue: 0,0:01:53.15,0:01:55.58,Marca,,0,0,0,,{\fad(60,40)}En mi experiencia, [SENSACIÓN DE FLUIDEZ].
+Dialogue: 0,0:01:55.60,0:01:58.83,Marca,,0,0,0,,{\fad(60,40)}Donde más lo he notado es en\N[ZONA O SITUACIÓN EXIGENTE].
+Dialogue: 0,0:01:59.35,0:02:00.12,Marca,,0,0,0,,{\fad(60,40)}Importante:
+Dialogue: 0,0:02:00.14,0:02:03.24,Marca,,0,0,0,,{\fad(60,40)}no he medido fotogramas con\Nherramientas profesionales,
+Dialogue: 0,0:02:03.26,0:02:05.57,Marca,,0,0,0,,{\fad(60,40)}así que esto es una\N{\c&H33D6FF&}impresión{\c&HFFFFFF&} {\c&H33D6FF&}subjetiva.{\c&HFFFFFF&}
+Dialogue: 0,0:02:05.59,0:02:08.47,Marca,,0,0,0,,{\fad(60,40)}Para cifras exactas, espera\Na los análisis técnicos
+Dialogue: 0,0:02:08.49,0:02:11.33,Marca,,0,0,0,,{\fad(60,40)}especializados, que te\Nenlazaré en la descripción.
+Dialogue: 0,0:02:11.85,0:02:13.72,Marca,,0,0,0,,{\fad(60,40)}Tiempos de carga:\N[VALORACIÓN].
+Dialogue: 0,0:02:13.74,0:02:14.48,Marca,,0,0,0,,{\fad(60,40)}Y errores:
+Dialogue: 0,0:02:14.50,0:02:17.90,Marca,,0,0,0,,{\fad(60,40)}en estas horas me he encontrado\N[NINGUNO GRAVE / EJEMPLOS].
+Dialogue: 0,0:02:17.92,0:02:21.20,Marca,,0,0,0,,{\fad(60,40)}Para un juego de este tamaño\Nel primer día, [VALORACIÓN].
+Dialogue: 0,0:02:21.72,0:02:22.66,Marca,,0,0,0,,{\fad(60,40)}La conducción.
+Dialogue: 0,0:02:22.68,0:02:25.07,Marca,,0,0,0,,{\fad(60,40)}[¿MÁS PESADA O MÁS ARCADE QUE EN GTA 5?].
+Dialogue: 0,0:02:25.09,0:02:27.81,Marca,,0,0,0,,{\fad(60,40)}Los coches [SENSACIÓN DE\NPESO, DERRAPE, DAÑOS].
+Dialogue: 0,0:02:27.83,0:02:31.50,Marca,,0,0,0,,{\fad(60,40)}Lo que más me ha gustado es\N[DETALLE], y lo que menos, [DETALLE].
+Dialogue: 0,0:02:32.02,0:02:33.98,Marca,,0,0,0,,{\fad(60,40)}Moverse a pie también ha cambiado:
+Dialogue: 0,0:02:34.00,0:02:36.85,Marca,,0,0,0,,{\fad(60,40)}[ANIMACIONES, COBERTURAS,\NINTERACCIÓN CON OBJETOS].
+Dialogue: 0,0:02:36.87,0:02:39.24,Marca,,0,0,0,,{\fad(60,40)}Se nota que Rockstar ha cuidado [DETALLE].
+Dialogue: 0,0:02:39.76,0:02:41.86,Marca,,0,0,0,,{\fad(60,40)}Jason y Lucia.\NSin destripar nada:
+Dialogue: 0,0:02:41.88,0:02:44.09,Marca,,0,0,0,,{\fad(60,40)}la química entre ellos [VALORACIÓN].
+Dialogue: 0,0:02:44.11,0:02:47.44,Marca,,0,0,0,,{\fad(60,40)}Rockstar decía que la relación\Nse puede cuidar o perder,
+Dialogue: 0,0:02:47.46,0:02:50.51,Marca,,0,0,0,,{\fad(60,40)}y por ahora lo he notado\Nen [EJEMPLO SIN SPOILERS].
+Dialogue: 0,0:02:50.53,0:02:54.36,Marca,,0,0,0,,{\fad(60,40)}Y lo que más me gusta de tener a\Nlos dos a la vez es [VALORACIÓN:
+Dialogue: 0,0:02:54.38,0:02:56.87,Marca,,0,0,0,,{\fad(60,40)}CAMBIO DE PERSONAJE, DIÁLOGOS, DINÁMICA].
+Dialogue: 0,0:02:57.39,0:02:58.12,Marca,,0,0,0,,{\fad(60,40)}La ciudad.
+Dialogue: 0,0:02:58.14,0:03:00.23,Marca,,0,0,0,,{\fad(60,40)}Vice City se siente [VIVA / DENSA].
+Dialogue: 0,0:03:00.25,0:03:03.48,Marca,,0,0,0,,{\fad(60,40)}He visto a gente [EJEMPLO 1],\N[EJEMPLO 2] y [EJEMPLO 3].
+Dialogue: 0,0:03:03.50,0:03:07.86,Marca,,0,0,0,,{\fad(60,40)}Es el tipo de mundo en el que te quedas\Nmirando en lugar de seguir la misión.
+Dialogue: 0,0:03:08.38,0:03:10.78,Marca,,0,0,0,,{\fad(60,40)}Fuera de las misiones,\N¿qué se puede hacer?
+Dialogue: 0,0:03:10.80,0:03:13.44,Marca,,0,0,0,,{\fad(60,40)}En estas horas he probado\N[ACTIVIDADES PROBADAS]
+Dialogue: 0,0:03:13.46,0:03:15.91,Marca,,0,0,0,,{\fad(60,40)}y he podido entrar en\N[TIPOS DE INTERIORES].
+Dialogue: 0,0:03:15.93,0:03:19.19,Marca,,0,0,0,,{\fad(60,40)}Todavía me queda muchísimo por\Nver, pero la sensación es que
+Dialogue: 0,0:03:19.21,0:03:22.52,Marca,,0,0,0,,{\fad(60,40)}[VALORACIÓN SOBRE LA CANTIDAD\NY VARIEDAD DE COSAS QUE HACER].
+Dialogue: 0,0:03:23.04,0:03:26.05,Marca,,0,0,0,,{\fad(60,40)}¿Y las mecánicas de empatía\Nde las que habló Rockstar?
+Dialogue: 0,0:03:26.07,0:03:28.40,Marca,,0,0,0,,{\fad(60,40)}Lo que he visto hasta ahora es [EJEMPLO].
+Dialogue: 0,0:03:28.42,0:03:31.12,Marca,,0,0,0,,{\fad(60,40)}Son opcionales, como\Nprometieron, y [VALORACIÓN:
+Dialogue: 0,0:03:31.14,0:03:33.05,Marca,,0,0,0,,{\fad(60,40)}SE NOTAN / PASAN DESAPERCIBIDAS].
+Dialogue: 0,0:03:33.57,0:03:35.46,Marca,,0,0,0,,{\fad(60,40)}La policía también ha cambiado:
+Dialogue: 0,0:03:35.48,0:03:38.85,Marca,,0,0,0,,{\fad(60,40)}[CÓMO FUNCIONA LA BÚSQUEDA,\NNIVEL DE AGRESIVIDAD, ESCAPE].
+Dialogue: 0,0:03:38.87,0:03:41.75,Marca,,0,0,0,,{\fad(60,40)}Sin entrar en detalles de\Nmisiones, [VALORACIÓN].
+Dialogue: 0,0:03:42.27,0:03:44.31,Marca,,0,0,0,,{\fad(60,40)}Ahora, lo que no me ha convencido.
+Dialogue: 0,0:03:44.33,0:03:45.87,Marca,,0,0,0,,{\fad(60,40)}Primero, [PUNTO DÉBIL 1].
+Dialogue: 0,0:03:45.89,0:03:47.44,Marca,,0,0,0,,{\fad(60,40)}Segundo, [PUNTO DÉBIL 2].
+Dialogue: 0,0:03:47.46,0:03:50.41,Marca,,0,0,0,,{\fad(60,40)}No es nada que arruine la\Nexperiencia, pero hay que
+Dialogue: 0,0:03:50.43,0:03:53.86,Marca,,0,0,0,,{\fad(60,40)}decirlo, porque un análisis sin\Npegas no sirve para decidir.
+Dialogue: 0,0:03:54.38,0:03:57.08,Marca,,0,0,0,,{\fad(60,40)}Comparado con GTA 5,\Nlo que más se nota es
+Dialogue: 0,0:03:57.10,0:04:00.15,Marca,,0,0,0,,{\fad(60,40)}[DIFERENCIA 1], [DIFERENCIA\N2] y [DIFERENCIA 3].
+Dialogue: 0,0:04:00.17,0:04:03.51,Marca,,0,0,0,,{\fad(60,40)}Aun así, en [ASPECTO] GTA\N5 sigue aguantando el tipo,
+Dialogue: 0,0:04:03.53,0:04:05.11,Marca,,0,0,0,,{\fad(60,40)}y es justo reconocerlo.
+Dialogue: 0,0:04:05.63,0:04:09.10,Marca,,0,0,0,,{\fad(60,40)}Y para ser justos, también te\Ndigo para quién creo que no es.
+Dialogue: 0,0:04:09.12,0:04:12.59,Marca,,0,0,0,,{\fad(60,40)}Si buscas partidas cortas y\Nacción inmediata, o si los mundos
+Dialogue: 0,0:04:12.61,0:04:16.40,Marca,,0,0,0,,{\fad(60,40)}abiertos enormes te agobian, ten\Nen cuenta que su ritmo es [PAUSADO
+Dialogue: 0,0:04:16.42,0:04:18.28,Marca,,0,0,0,,{\fad(60,40)}/ INTENSO], y eso [VALORACIÓN].
+Dialogue: 0,0:04:18.30,0:04:22.25,Marca,,0,0,0,,{\fad(60,40)}No todos los juegos tienen que gustar\Na todo el mundo, y este tampoco.
+Dialogue: 0,0:04:22.77,0:04:23.81,Marca,,0,0,0,,{\fad(60,40)}Y una cosa más:
+Dialogue: 0,0:04:23.83,0:04:25.38,Marca,,0,0,0,,{\fad(60,40)}esto son primeras horas.
+Dialogue: 0,0:04:25.40,0:04:28.23,Marca,,0,0,0,,{\fad(60,40)}Hay sistemas que todavía\Nno he probado a fondo,
+Dialogue: 0,0:04:28.25,0:04:31.31,Marca,,0,0,0,,{\fad(60,40)}como [SISTEMA], así que\Nesta opinión puede cambiar.
+Dialogue: 0,0:04:31.33,0:04:32.94,Marca,,0,0,0,,{\fad(60,40)}Si cambia, te lo contaré.
+Dialogue: 0,0:04:33.46,0:04:34.54,Marca,,0,0,0,,{\fad(60,40)}¿Merece la pena?
+Dialogue: 0,0:04:34.56,0:04:36.14,Marca,,0,0,0,,{\fad(60,40)}Mi veredicto provisional:
+Dialogue: 0,0:04:36.16,0:04:38.63,Marca,,0,0,0,,{\fad(60,40)}[SÍ / SÍ, SI TE GUSTA...\N/ ESPERA SI...].
+Dialogue: 0,0:04:38.65,0:04:41.95,Marca,,0,0,0,,{\fad(60,40)}Para mí, lo mejor es [PUNTO\NFUERTE PRINCIPAL] y lo peor,
+Dialogue: 0,0:04:41.97,0:04:43.49,Marca,,0,0,0,,{\fad(60,40)}[PUNTO DÉBIL PRINCIPAL].
+Dialogue: 0,0:04:43.51,0:04:47.47,Marca,,0,0,0,,{\fad(60,40)}Si te gustó GTA 5 o Red Dead\NRedemption 2, [RECOMENDACIÓN CONCRETA].
+Dialogue: 0,0:04:47.49,0:04:50.18,Marca,,0,0,0,,{\fad(60,40)}Y si lo resumo en una frase:\N[FRASE RESUMEN].
+Dialogue: 0,0:04:50.70,0:04:53.49,Marca,,0,0,0,,{\fad(60,40)}En el próximo vídeo, una\Nguía para tus primeras horas
+Dialogue: 0,0:04:53.51,0:04:56.21,Marca,,0,0,0,,{\fad(60,40)}con todo lo que me habría\Ngustado saber al empezar.
+Dialogue: 0,0:04:56.23,0:04:57.89,Marca,,0,0,0,,{\fad(60,40)}Suscríbete para no perdértela.
+Dialogue: 0,0:04:58.41,0:04:59.38,Marca,,0,0,0,,{\fad(60,40)}Y cuéntame tú:
+Dialogue: 0,0:04:59.40,0:05:01.63,Marca,,0,0,0,,{\fad(60,40)}¿qué es lo que más te ha sorprendido?
+Dialogue: 0,0:05:01.65,0:05:04.05,Marca,,0,0,0,,{\fad(60,40)}Eso sí, sin spoilers en los comentarios.
+Dialogue: 0,0:05:04.07,0:05:05.43,Marca,,0,0,0,,{\fad(60,40)}Nos vemos en Leonida.

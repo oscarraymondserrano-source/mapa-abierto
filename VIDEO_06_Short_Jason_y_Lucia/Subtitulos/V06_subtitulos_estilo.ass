@@ -1,0 +1,35 @@
+[Script Info]
+Title: V06 subtítulos Mapa Abierto
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Marca,Inter Display,78,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,-1,0,0,0,100,100,0,0,1,5,3,2,80,80,560,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.05,0:00:02.48,Marca,,0,0,0,,{\fad(60,40)}Dos protagonistas,\Nuna pareja y
+Dialogue: 0,0:00:02.50,0:00:03.95,Marca,,0,0,0,,{\fad(60,40)}muchos problemas.
+Dialogue: 0,0:00:03.97,0:00:06.20,Marca,,0,0,0,,{\fad(60,40)}Te presento a\NJason y Lucia.
+Dialogue: 0,0:00:06.56,0:00:07.62,Marca,,0,0,0,,{\fad(60,40)}Lucia Caminos:
+Dialogue: 0,0:00:07.64,0:00:09.89,Marca,,0,0,0,,{\fad(60,40)}según Rockstar,\Nsu padre le enseñó
+Dialogue: 0,0:00:09.91,0:00:12.03,Marca,,0,0,0,,{\fad(60,40)}a pelear casi\Nantes que a andar.
+Dialogue: 0,0:00:12.05,0:00:14.06,Marca,,0,0,0,,{\fad(60,40)}Luchar por su\Nfamilia la llevó
+Dialogue: 0,0:00:14.08,0:00:16.09,Marca,,0,0,0,,{\fad(60,40)}a la penitenciaría\Nde Leonida.
+Dialogue: 0,0:00:16.46,0:00:17.46,Marca,,0,0,0,,{\fad(60,40)}Jason Duval:
+Dialogue: 0,0:00:17.48,0:00:19.49,Marca,,0,0,0,,{\fad(60,40)}creció entre\Ntimadores, pasó
+Dialogue: 0,0:00:19.51,0:00:22.04,Marca,,0,0,0,,{\fad(60,40)}por el ejército y\Nacabó en los Cayos
+Dialogue: 0,0:00:22.06,0:00:24.58,Marca,,0,0,0,,{\fad(60,40)}trabajando para\Ntraficantes locales.
+Dialogue: 0,0:00:24.60,0:00:27.51,Marca,,0,0,0,,{\fad(60,40)}Quiere una vida fácil,\Npero no hay manera.
+Dialogue: 0,0:00:27.88,0:00:29.35,Marca,,0,0,0,,{\fad(60,40)}Y su relación importa:
+Dialogue: 0,0:00:29.37,0:00:31.24,Marca,,0,0,0,,{\fad(60,40)}Rockstar dice\Nque es algo que
+Dialogue: 0,0:00:31.26,0:00:32.79,Marca,,0,0,0,,{\fad(60,40)}puedes {\c&H33D6FF&}cuidar{\c&HFFFFFF&}\N{\c&H33D6FF&}o{\c&HFFFFFF&} {\c&H33D6FF&}perder.{\c&HFFFFFF&}
+Dialogue: 0,0:00:33.16,0:00:35.59,Marca,,0,0,0,,{\fad(60,40)}Además, Lucia es la\Nprimera protagonista
+Dialogue: 0,0:00:35.61,0:00:37.70,Marca,,0,0,0,,{\fad(60,40)}femenina de un GTA\Nprincipal desde
+Dialogue: 0,0:00:37.72,0:00:39.87,Marca,,0,0,0,,{\fad(60,40)}los primeros juegos\Nde los noventa.
+Dialogue: 0,0:00:40.24,0:00:42.58,Marca,,0,0,0,,{\fad(60,40)}¿Con quién crees que\Nvas a pasar más horas?
+Dialogue: 0,0:00:42.60,0:00:43.18,Marca,,0,0,0,,{\fad(60,40)}Comenta.

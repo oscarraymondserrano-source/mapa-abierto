@@ -1,0 +1,12 @@
+# Pegar en ElevenLabs (modelo multilingüe). Las MAYÚSCULAS marcan énfasis; <break> son pausas.
+# Ajustes: Stability 45 · Similarity 80 · Style 20 · Speaker boost ON. Velocidad 1.05.
+
+Esta es de geografía. Tres segundos. <break time="0.4s" />
+
+Liberty City, la ciudad de GTA 3 y GTA 4, ¿en qué ciudad real se inspira? A, Chicago. B, Nueva York. C, Boston. <break time="0.4s" />
+
+¡La B! Nueva York. Por eso tiene su propia versión de la Estatua de la Libertad. <break time="0.4s" />
+
+Vice City es Miami y Los Santos, Los Ángeles. <break time="0.4s" />
+
+¿Acertaste? Dímelo en comentarios y sígueme para el siguiente quiz. <break time="0.4s" />

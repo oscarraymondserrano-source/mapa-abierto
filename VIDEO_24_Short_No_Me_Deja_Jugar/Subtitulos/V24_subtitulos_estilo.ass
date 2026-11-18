@@ -1,0 +1,32 @@
+[Script Info]
+Title: V24 subtítulos Mapa Abierto
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Marca,Inter Display,78,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,-1,0,0,0,100,100,0,0,1,5,3,2,80,80,560,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.05,0:00:03.33,Marca,,0,0,0,,{\fad(60,40)}Son las doce y GTA\N6 no te deja jugar.
+Dialogue: 0,0:00:03.35,0:00:05.14,Marca,,0,0,0,,{\fad(60,40)}Calma:\Nprueba esto.
+Dialogue: 0,0:00:05.51,0:00:05.99,Marca,,0,0,0,,{\fad(60,40)}Uno:
+Dialogue: 0,0:00:06.01,0:00:08.70,Marca,,0,0,0,,{\fad(60,40)}comprueba la cuenta\Natrás en la tienda.
+Dialogue: 0,0:00:08.72,0:00:11.60,Marca,,0,0,0,,{\fad(60,40)}Puede que en tu región\Naún no sea la hora.
+Dialogue: 0,0:00:11.97,0:00:12.37,Marca,,0,0,0,,{\fad(60,40)}Dos:
+Dialogue: 0,0:00:12.39,0:00:14.61,Marca,,0,0,0,,{\fad(60,40)}asegúrate de estar\Nen la cuenta con la
+Dialogue: 0,0:00:14.63,0:00:16.80,Marca,,0,0,0,,{\fad(60,40)}que lo compraste y\Nde que la descarga
+Dialogue: 0,0:00:16.82,0:00:18.66,Marca,,0,0,0,,{\fad(60,40)}está completa al\Ncien por cien.
+Dialogue: 0,0:00:19.03,0:00:19.73,Marca,,0,0,0,,{\fad(60,40)}Tres:
+Dialogue: 0,0:00:19.75,0:00:22.93,Marca,,0,0,0,,{\fad(60,40)}en PS5, entra en\NAjustes, Usuarios y
+Dialogue: 0,0:00:22.95,0:00:26.76,Marca,,0,0,0,,{\fad(60,40)}cuentas, Otros, y pulsa\NRestaurar licencias.
+Dialogue: 0,0:00:26.78,0:00:29.16,Marca,,0,0,0,,{\fad(60,40)}Luego reinicia\Nla consola.
+Dialogue: 0,0:00:29.53,0:00:31.36,Marca,,0,0,0,,{\fad(60,40)}Y si todo está\Nbien, puede que
+Dialogue: 0,0:00:31.38,0:00:33.26,Marca,,0,0,0,,{\fad(60,40)}los servidores\Nestén saturados.
+Dialogue: 0,0:00:33.28,0:00:35.76,Marca,,0,0,0,,{\fad(60,40)}Espera unos minutos y\Nvuelve a intentarlo.
+Dialogue: 0,0:00:36.13,0:00:37.56,Marca,,0,0,0,,{\fad(60,40)}Guárdalo por si acaso.
+Dialogue: 0,0:00:37.58,0:00:38.95,Marca,,0,0,0,,{\fad(60,40)}Nos vemos en Leonida.

@@ -1,0 +1,12 @@
+# Pegar en ElevenLabs (modelo multilingüe). Las MAYÚSCULAS marcan énfasis; <break> son pausas.
+# Ajustes: Stability 45 · Similarity 80 · Style 20 · Speaker boost ON. Velocidad 1.05.
+
+Pregunta trampa. Tres segundos. <break time="0.4s" />
+
+Antes de GTA, el estudio que lo creó triunfó con otro juego. ¿Cuál? A, Lemmings. B, Tetris. C, Pac-Man. <break time="0.4s" />
+
+¡La A! Lemmings, de 1991, creado por DMA Design, el estudio escocés que luego haría GTA. <break time="0.4s" />
+
+Tetris nació en la Unión Soviética y Pac-Man, en Japón. Nada que ver. <break time="0.4s" />
+
+¿Acertaste? Dímelo en comentarios y sígueme para el siguiente quiz. <break time="0.4s" />

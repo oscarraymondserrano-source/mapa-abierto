@@ -1,0 +1,122 @@
+[Script Info]
+Title: V09 subtítulos Mapa Abierto
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Marca,Inter Display,54,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,-1,0,0,0,100,100,0,0,1,4,2,2,80,80,60,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.05,0:00:02.16,Marca,,0,0,0,,{\fad(60,40)}Si acabas de empezar\NGTA 6, estos doce
+Dialogue: 0,0:00:02.18,0:00:04.76,Marca,,0,0,0,,{\fad(60,40)}consejos te van a ahorrar\Nhoras de frustración.
+Dialogue: 0,0:00:04.78,0:00:07.91,Marca,,0,0,0,,{\fad(60,40)}Algunos son de sentido común,\Npero otros no te los explica
+Dialogue: 0,0:00:07.93,0:00:10.70,Marca,,0,0,0,,{\fad(60,40)}el juego, y los he aprendido\Na base de equivocarme.
+Dialogue: 0,0:00:11.22,0:00:13.75,Marca,,0,0,0,,{\fad(60,40)}Todo lo que vas a ver\Nestá comprobado en mi
+Dialogue: 0,0:00:13.77,0:00:16.36,Marca,,0,0,0,,{\fad(60,40)}propia partida, sin\Nspoilers de la historia.
+Dialogue: 0,0:00:16.38,0:00:19.68,Marca,,0,0,0,,{\fad(60,40)}Y si eres veterano de la saga,\Nquédate igualmente, porque
+Dialogue: 0,0:00:19.70,0:00:22.78,Marca,,0,0,0,,{\fad(60,40)}hay cosas que no funcionan\Nexactamente como en GTA 5.
+Dialogue: 0,0:00:22.80,0:00:24.73,Marca,,0,0,0,,{\fad(60,40)}Esto es Mapa Abierto.\NEmpezamos.
+Dialogue: 0,0:00:25.25,0:00:26.88,Marca,,0,0,0,,{\fad(60,40)}Un aviso antes de empezar:
+Dialogue: 0,0:00:26.90,0:00:30.38,Marca,,0,0,0,,{\fad(60,40)}no necesitas aplicar todos los\Nconsejos desde el minuto uno.
+Dialogue: 0,0:00:30.40,0:00:32.19,Marca,,0,0,0,,{\fad(60,40)}Los tres primeros, hazlos ya.
+Dialogue: 0,0:00:32.21,0:00:36.30,Marca,,0,0,0,,{\fad(60,40)}El resto, ve probándolos a medida\Nque el juego te abra nuevas opciones.
+Dialogue: 0,0:00:36.82,0:00:37.73,Marca,,0,0,0,,{\fad(60,40)}Consejo uno:
+Dialogue: 0,0:00:37.75,0:00:40.16,Marca,,0,0,0,,{\fad(60,40)}antes de nada, pásate por los ajustes.
+Dialogue: 0,0:00:40.18,0:00:43.70,Marca,,0,0,0,,{\fad(60,40)}Revisa los subtítulos, porque\Nen las cinemáticas se habla
+Dialogue: 0,0:00:43.72,0:00:45.38,Marca,,0,0,0,,{\fad(60,40)}rápido y con mucha jerga.
+Dialogue: 0,0:00:45.40,0:00:48.51,Marca,,0,0,0,,{\fad(60,40)}Calibra el brillo y, si\Ntu tele lo admite, el HDR.
+Dialogue: 0,0:00:48.53,0:00:51.70,Marca,,0,0,0,,{\fad(60,40)}Y echa un vistazo a las\Nopciones de accesibilidad y
+Dialogue: 0,0:00:51.72,0:00:55.24,Marca,,0,0,0,,{\fad(60,40)}de interfaz, porque hay una\Nmuy útil que poca gente toca:
+Dialogue: 0,0:00:55.26,0:00:56.92,Marca,,0,0,0,,{\fad(60,40)}[AJUSTE ÚTIL ENCONTRADO].
+Dialogue: 0,0:00:57.44,0:00:58.28,Marca,,0,0,0,,{\fad(60,40)}Consejo dos:
+Dialogue: 0,0:00:58.30,0:01:00.37,Marca,,0,0,0,,{\fad(60,40)}entiende cómo se guarda la partida.
+Dialogue: 0,0:01:00.39,0:01:01.71,Marca,,0,0,0,,{\fad(60,40)}[EXPLICAR EL SISTEMA:
+Dialogue: 0,0:01:01.73,0:01:04.76,Marca,,0,0,0,,{\fad(60,40)}AUTOGUARDADO AL TERMINAR\NMISIONES O GUARDADO MANUAL].
+Dialogue: 0,0:01:04.78,0:01:08.30,Marca,,0,0,0,,{\fad(60,40)}Antes de apagar la consola,\Nespera a ver el icono de guardado.
+Dialogue: 0,0:01:08.32,0:01:11.35,Marca,,0,0,0,,{\fad(60,40)}Perder una hora de progreso\Nel primer día es la forma
+Dialogue: 0,0:01:11.37,0:01:14.35,Marca,,0,0,0,,{\fad(60,40)}más rápida de enfadarte con\Nun juego que te encanta.
+Dialogue: 0,0:01:14.87,0:01:16.68,Marca,,0,0,0,,{\fad(60,40)}Consejo tres:\Ndomina el mapa.
+Dialogue: 0,0:01:16.70,0:01:20.07,Marca,,0,0,0,,{\fad(60,40)}Aprende a marcar un punto de\Nruta y a filtrar los iconos,
+Dialogue: 0,0:01:20.09,0:01:23.62,Marca,,0,0,0,,{\fad(60,40)}porque Leonida es enorme y se\Nllena de marcadores enseguida.
+Dialogue: 0,0:01:23.64,0:01:25.51,Marca,,0,0,0,,{\fad(60,40)}Un truco que me ha funcionado:
+Dialogue: 0,0:01:25.53,0:01:27.18,Marca,,0,0,0,,{\fad(60,40)}[TRUCO CONCRETO DEL MAPA].
+Dialogue: 0,0:01:27.20,0:01:31.51,Marca,,0,0,0,,{\fad(60,40)}Saber orientarte rápido es media\Npartida, sobre todo en las persecuciones.
+Dialogue: 0,0:01:32.03,0:01:32.95,Marca,,0,0,0,,{\fad(60,40)}Consejo cuatro:
+Dialogue: 0,0:01:32.97,0:01:35.34,Marca,,0,0,0,,{\fad(60,40)}no te obsesiones con\Nel dinero al principio.
+Dialogue: 0,0:01:35.36,0:01:38.72,Marca,,0,0,0,,{\fad(60,40)}Rockstar ya avisó de que Jason y\NLucia empiezan desde abajo, con
+Dialogue: 0,0:01:38.74,0:01:42.10,Marca,,0,0,0,,{\fad(60,40)}trabajos pequeños, y la historia\Nte va abriendo nuevas formas de
+Dialogue: 0,0:01:42.12,0:01:43.99,Marca,,0,0,0,,{\fad(60,40)}ganar dinero a medida que avanzas.
+Dialogue: 0,0:01:44.01,0:01:46.77,Marca,,0,0,0,,{\fad(60,40)}En mis primeras horas, lo\Nque mejor me ha funcionado
+Dialogue: 0,0:01:46.79,0:01:49.70,Marca,,0,0,0,,{\fad(60,40)}es [PRIMERAS FORMAS DE GANAR\NDINERO VISTAS EN PARTIDA].
+Dialogue: 0,0:01:50.22,0:01:52.07,Marca,,0,0,0,,{\fad(60,40)}Consejo cinco, muy relacionado:
+Dialogue: 0,0:01:52.09,0:01:54.04,Marca,,0,0,0,,{\fad(60,40)}no gastes en lo primero que veas.
+Dialogue: 0,0:01:54.06,0:01:57.09,Marca,,0,0,0,,{\fad(60,40)}Antes de comprar [ROPA,\NVEHÍCULOS O ARMAS], comprueba
+Dialogue: 0,0:01:57.11,0:02:00.45,Marca,,0,0,0,,{\fad(60,40)}si la historia te lo va a dar\No a desbloquear más adelante.
+Dialogue: 0,0:02:00.47,0:02:03.38,Marca,,0,0,0,,{\fad(60,40)}En un GTA es muy habitual\Nquedarse sin dinero justo
+Dialogue: 0,0:02:03.40,0:02:06.21,Marca,,0,0,0,,{\fad(60,40)}cuando aparece algo que\Nde verdad merece la pena.
+Dialogue: 0,0:02:06.73,0:02:08.29,Marca,,0,0,0,,{\fad(60,40)}Consejo seis:\Nla policía.
+Dialogue: 0,0:02:08.31,0:02:12.47,Marca,,0,0,0,,{\fad(60,40)}[EXPLICAR CÓMO FUNCIONA EL NIVEL DE\NBÚSQUEDA Y CÓMO ESCAPAR, COMPROBADO].
+Dialogue: 0,0:02:12.49,0:02:14.04,Marca,,0,0,0,,{\fad(60,40)}Mi recomendación general:
+Dialogue: 0,0:02:14.06,0:02:17.52,Marca,,0,0,0,,{\fad(60,40)}huir a lo loco por la autopista\Nno siempre es la mejor idea.
+Dialogue: 0,0:02:17.54,0:02:21.05,Marca,,0,0,0,,{\fad(60,40)}Cambiar de dirección, salir de\Nsu campo de visión y no llamar
+Dialogue: 0,0:02:21.07,0:02:24.63,Marca,,0,0,0,,{\fad(60,40)}la atención suele dar mejor\Nresultado que pisar el acelerador.
+Dialogue: 0,0:02:25.15,0:02:27.19,Marca,,0,0,0,,{\fad(60,40)}Consejo siete:\Naprende a frenar.
+Dialogue: 0,0:02:27.21,0:02:30.97,Marca,,0,0,0,,{\fad(60,40)}Parece una tontería, pero la\Nconducción de GTA 6 [DESCRIPCIÓN:
+Dialogue: 0,0:02:30.99,0:02:32.11,Marca,,0,0,0,,{\fad(60,40)}PESO E INERCIA].
+Dialogue: 0,0:02:32.13,0:02:34.57,Marca,,0,0,0,,{\fad(60,40)}Frena antes de las\Ncurvas, no dentro, y
+Dialogue: 0,0:02:34.59,0:02:37.38,Marca,,0,0,0,,{\fad(60,40)}usa el freno de mano\Nsolo para girar en seco.
+Dialogue: 0,0:02:37.40,0:02:40.58,Marca,,0,0,0,,{\fad(60,40)}En las primeras persecuciones,\Neste detalle marca la
+Dialogue: 0,0:02:40.60,0:02:43.96,Marca,,0,0,0,,{\fad(60,40)}diferencia entre escapar y\Nacabar dentro de una tienda.
+Dialogue: 0,0:02:44.48,0:02:45.46,Marca,,0,0,0,,{\fad(60,40)}Consejo ocho:
+Dialogue: 0,0:02:45.48,0:02:47.57,Marca,,0,0,0,,{\fad(60,40)}elige el vehículo según la zona.
+Dialogue: 0,0:02:47.59,0:02:49.92,Marca,,0,0,0,,{\fad(60,40)}[CONSEJO CONCRETO VISTO EN PARTIDA].
+Dialogue: 0,0:02:49.94,0:02:54.39,Marca,,0,0,0,,{\fad(60,40)}En Vice City, un coche ágil se mueve\Nmejor entre el tráfico; fuera de la
+Dialogue: 0,0:02:54.41,0:02:59.03,Marca,,0,0,0,,{\fad(60,40)}ciudad, por caminos de tierra o pantanos,\Nvas a agradecer algo más robusto.
+Dialogue: 0,0:02:59.05,0:03:03.03,Marca,,0,0,0,,{\fad(60,40)}Y en los Cayos, no olvides que\Nel agua también es una carretera.
+Dialogue: 0,0:03:03.55,0:03:04.49,Marca,,0,0,0,,{\fad(60,40)}Consejo nueve:
+Dialogue: 0,0:03:04.51,0:03:06.75,Marca,,0,0,0,,{\fad(60,40)}cuida la relación entre Jason y Lucia.
+Dialogue: 0,0:03:06.77,0:03:09.49,Marca,,0,0,0,,{\fad(60,40)}Rockstar avisó de que es\Nalgo que puedes cuidar
+Dialogue: 0,0:03:09.51,0:03:12.17,Marca,,0,0,0,,{\fad(60,40)}o perder, y no es solo\Nuna frase de promoción:
+Dialogue: 0,0:03:12.19,0:03:14.37,Marca,,0,0,0,,{\fad(60,40)}[EJEMPLO DE CÓMO SE NOTA EN PARTIDA].
+Dialogue: 0,0:03:14.39,0:03:17.27,Marca,,0,0,0,,{\fad(60,40)}No hace falta jugar como\Nun santo, pero sí prestar
+Dialogue: 0,0:03:17.29,0:03:19.85,Marca,,0,0,0,,{\fad(60,40)}atención a cómo reacciona\Nel otro personaje.
+Dialogue: 0,0:03:20.37,0:03:21.33,Marca,,0,0,0,,{\fad(60,40)}Consejo diez:
+Dialogue: 0,0:03:21.35,0:03:23.07,Marca,,0,0,0,,{\fad(60,40)}no corras con la historia.
+Dialogue: 0,0:03:23.09,0:03:27.01,Marca,,0,0,0,,{\fad(60,40)}Sal de la ruta, entra en tiendas,\Npara en la playa al atardecer.
+Dialogue: 0,0:03:27.03,0:03:30.42,Marca,,0,0,0,,{\fad(60,40)}Muchas actividades y encargos\Naparecen así, sin avisar.
+Dialogue: 0,0:03:30.44,0:03:33.15,Marca,,0,0,0,,{\fad(60,40)}Yo, por ejemplo, me\Nencontré con [ACTIVIDAD
+Dialogue: 0,0:03:33.17,0:03:36.39,Marca,,0,0,0,,{\fad(60,40)}SECUNDARIA ENCONTRADA]\Nsimplemente dando una vuelta.
+Dialogue: 0,0:03:36.41,0:03:38.53,Marca,,0,0,0,,{\fad(60,40)}Leonida está hecha para perderse.
+Dialogue: 0,0:03:39.05,0:03:40.89,Marca,,0,0,0,,{\fad(60,40)}Consejo once:\Nusa el teléfono.
+Dialogue: 0,0:03:40.91,0:03:42.86,Marca,,0,0,0,,{\fad(60,40)}[FUNCIONES ÚTILES DEL TELÉFONO].
+Dialogue: 0,0:03:42.88,0:03:47.44,Marca,,0,0,0,,{\fad(60,40)}Revísalo de vez en cuando, porque ahí\Nllegan avisos que es fácil pasar por alto.
+Dialogue: 0,0:03:47.46,0:03:48.54,Marca,,0,0,0,,{\fad(60,40)}Y usa la cámara:
+Dialogue: 0,0:03:48.56,0:03:53.18,Marca,,0,0,0,,{\fad(60,40)}las fotos son la mejor forma de guardar\Nlos momentazos para compartirlos después.
+Dialogue: 0,0:03:53.70,0:03:54.67,Marca,,0,0,0,,{\fad(60,40)}Y consejo doce:
+Dialogue: 0,0:03:54.69,0:03:56.18,Marca,,0,0,0,,{\fad(60,40)}cuidado con los spoilers.
+Dialogue: 0,0:03:56.20,0:03:59.61,Marca,,0,0,0,,{\fad(60,40)}Silencia en redes palabras clave\Ncomo el nombre del juego y de
+Dialogue: 0,0:03:59.63,0:04:02.99,Marca,,0,0,0,,{\fad(60,40)}los personajes, y no busques\Nnombres de misiones en internet.
+Dialogue: 0,0:04:03.01,0:04:06.68,Marca,,0,0,0,,{\fad(60,40)}Esta historia lleva años preparándose\Ny merece descubrirse jugando.
+Dialogue: 0,0:04:07.20,0:04:10.63,Marca,,0,0,0,,{\fad(60,40)}Y tres errores muy típicos en las\Nprimeras horas de cualquier GTA:
+Dialogue: 0,0:04:10.65,0:04:14.23,Marca,,0,0,0,,{\fad(60,40)}saltarse los tutoriales porque ya\Nsabes jugar, ignorar los avisos del
+Dialogue: 0,0:04:14.25,0:04:17.73,Marca,,0,0,0,,{\fad(60,40)}teléfono y meterse en una persecución\Ncon el coche casi destrozado.
+Dialogue: 0,0:04:17.75,0:04:20.29,Marca,,0,0,0,,{\fad(60,40)}Los tres tienen fácil\Nsolución si vas con calma.
+Dialogue: 0,0:04:20.81,0:04:23.77,Marca,,0,0,0,,{\fad(60,40)}Y un extra que no cuenta en la lista:\Ndosifícate.
+Dialogue: 0,0:04:23.79,0:04:26.86,Marca,,0,0,0,,{\fad(60,40)}Es muy tentador jugar diez\Nhoras seguidas el primer
+Dialogue: 0,0:04:26.88,0:04:30.18,Marca,,0,0,0,,{\fad(60,40)}fin de semana, pero GTA 6 es\Nuna maratón, no un sprint.
+Dialogue: 0,0:04:30.20,0:04:33.22,Marca,,0,0,0,,{\fad(60,40)}Jugando por sesiones te\Nfijas más en los detalles,
+Dialogue: 0,0:04:33.24,0:04:35.76,Marca,,0,0,0,,{\fad(60,40)}y el juego no se va\Na ir a ninguna parte.
+Dialogue: 0,0:04:36.28,0:04:37.46,Marca,,0,0,0,,{\fad(60,40)}Resumen rápido:
+Dialogue: 0,0:04:37.48,0:04:42.26,Marca,,0,0,0,,{\fad(60,40)}ajustes, guardado, mapa, dinero con\Ncalma, no gastar a lo loco, policía,
+Dialogue: 0,0:04:42.28,0:04:47.32,Marca,,0,0,0,,{\fad(60,40)}frenada, vehículo adecuado, relación,\Nexploración, teléfono y cero spoilers.
+Dialogue: 0,0:04:47.34,0:04:50.85,Marca,,0,0,0,,{\fad(60,40)}Guarda el vídeo para tenerlo\Na mano mientras juegas.
+Dialogue: 0,0:04:51.37,0:04:53.15,Marca,,0,0,0,,{\fad(60,40)}¿Qué consejo añadirías tú?
+Dialogue: 0,0:04:53.17,0:04:54.94,Marca,,0,0,0,,{\fad(60,40)}Déjalo en los comentarios:
+Dialogue: 0,0:04:54.96,0:04:58.52,Marca,,0,0,0,,{\fad(60,40)}los mejores los meto en el\Npróximo vídeo, con tu nombre.
+Dialogue: 0,0:04:58.54,0:05:02.52,Marca,,0,0,0,,{\fad(60,40)}Y si esta guía te ha servido,\Ncompártela con quien empiece hoy.
+Dialogue: 0,0:05:02.54,0:05:04.01,Marca,,0,0,0,,{\fad(60,40)}Nos vemos en Leonida.

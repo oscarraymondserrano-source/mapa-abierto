@@ -1,0 +1,30 @@
+[Script Info]
+Title: V14 subtítulos Mapa Abierto
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Marca,Inter Display,78,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,-1,0,0,0,100,100,0,0,1,5,3,2,80,80,560,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.05,0:00:02.16,Marca,,0,0,0,,{\fad(60,40)}A dos días del\Nlanzamiento, hay
+Dialogue: 0,0:00:02.18,0:00:04.72,Marca,,0,0,0,,{\fad(60,40)}cosas de GTA 6 que\N{\c&H33D6FF&}nadie{\c&HFFFFFF&} sabe todavía.
+Dialogue: 0,0:00:05.09,0:00:05.61,Marca,,0,0,0,,{\fad(60,40)}Uno:
+Dialogue: 0,0:00:05.63,0:00:06.90,Marca,,0,0,0,,{\fad(60,40)}el rendimiento.
+Dialogue: 0,0:00:06.92,0:00:08.93,Marca,,0,0,0,,{\fad(60,40)}No hay cifras\Noficiales de
+Dialogue: 0,0:00:08.95,0:00:11.90,Marca,,0,0,0,,{\fad(60,40)}resolución ni de\Nfotogramas por segundo.
+Dialogue: 0,0:00:12.27,0:00:12.80,Marca,,0,0,0,,{\fad(60,40)}Dos:
+Dialogue: 0,0:00:12.82,0:00:14.24,Marca,,0,0,0,,{\fad(60,40)}el mapa completo.
+Dialogue: 0,0:00:14.26,0:00:17.39,Marca,,0,0,0,,{\fad(60,40)}Rockstar no lo ha\Npublicado, ni su tamaño.
+Dialogue: 0,0:00:17.76,0:00:18.27,Marca,,0,0,0,,{\fad(60,40)}Tres:
+Dialogue: 0,0:00:18.29,0:00:19.37,Marca,,0,0,0,,{\fad(60,40)}el modo online.
+Dialogue: 0,0:00:19.39,0:00:22.15,Marca,,0,0,0,,{\fad(60,40)}No hay detalles para\Nel día del lanzamiento.
+Dialogue: 0,0:00:22.52,0:00:23.45,Marca,,0,0,0,,{\fad(60,40)}Y cuatro:
+Dialogue: 0,0:00:23.47,0:00:25.77,Marca,,0,0,0,,{\fad(60,40)}la versión de PC.\NSin fecha.
+Dialogue: 0,0:00:26.14,0:00:28.83,Marca,,0,0,0,,{\fad(60,40)}Si alguien te lo da\Npor hecho, desconfía.
+Dialogue: 0,0:00:28.85,0:00:31.96,Marca,,0,0,0,,{\fad(60,40)}Aquí te diremos siempre\Nqué es oficial y qué no.

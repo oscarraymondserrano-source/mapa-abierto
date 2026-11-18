@@ -1,0 +1,402 @@
+[
+ {
+  "id": "V01",
+  "titulo": "GTA 6: todo lo que debes saber antes de jugar (hora, precarga, espacio y más)",
+  "formato": "largo",
+  "modo": "final",
+  "dur": 421.41,
+  "out": "VIDEO_01_Todo_lo_que_debes_saber/Video_Final/V01_FINAL_1920x1080.mp4",
+  "fecha": "Lunes 16/11/2026 · 19:00 (hora peninsular)",
+  "carpeta": "VIDEO_01_Todo_lo_que_debes_saber"
+ },
+ {
+  "id": "V02",
+  "titulo": "¿A qué hora sale GTA 6 en España? ⏰",
+  "formato": "short",
+  "modo": "final",
+  "dur": 38.55,
+  "out": "VIDEO_02_Short_Hora_Espana/Video_Final/V02_FINAL_1080x1920.mp4",
+  "fecha": "Lunes 16/11/2026 · 21:30",
+  "carpeta": "VIDEO_02_Short_Hora_Espana"
+ },
+ {
+  "id": "V03",
+  "titulo": "El mapa de GTA 6 explicado: las 6 regiones de Leonida",
+  "formato": "largo",
+  "modo": "final",
+  "dur": 361.58,
+  "out": "VIDEO_03_Mapa_de_GTA6_explicado/Video_Final/V03_FINAL_1920x1080.mp4",
+  "fecha": "Martes 17/11/2026 · 18:30",
+  "carpeta": "VIDEO_03_Mapa_de_GTA6_explicado"
+ },
+ {
+  "id": "V04",
+  "titulo": "GTA 6: cómo precargarlo y cuánto ocupa",
+  "formato": "short",
+  "modo": "final",
+  "dur": 48.82,
+  "out": "VIDEO_04_Short_Precarga_y_Espacio/Video_Final/V04_FINAL_1080x1920.mp4",
+  "fecha": "Martes 17/11/2026 · 21:30",
+  "carpeta": "VIDEO_04_Short_Precarga_y_Espacio"
+ },
+ {
+  "id": "V05",
+  "titulo": "3 cosas de los tráileres de GTA 6 que casi nadie sabe",
+  "formato": "short",
+  "modo": "final",
+  "dur": 44.26,
+  "out": "VIDEO_05_Short_Datos_Trailers/Video_Final/V05_FINAL_1080x1920.mp4",
+  "fecha": "Miércoles 18/11/2026 · 14:00",
+  "carpeta": "VIDEO_05_Short_Datos_Trailers"
+ },
+ {
+  "id": "V06",
+  "titulo": "¿Quiénes son Jason y Lucia en GTA 6?",
+  "formato": "short",
+  "modo": "final",
+  "dur": 43.5,
+  "out": "VIDEO_06_Short_Jason_y_Lucia/Video_Final/V06_FINAL_1080x1920.mp4",
+  "fecha": "Miércoles 18/11/2026 · 20:00",
+  "carpeta": "VIDEO_06_Short_Jason_y_Lucia"
+ },
+ {
+  "id": "V07",
+  "titulo": "Haz esto ANTES de empezar GTA 6",
+  "formato": "short",
+  "modo": "final",
+  "dur": 45.43,
+  "out": "VIDEO_07_Short_Primero_que_hacer/Video_Final/V07_FINAL_1080x1920.mp4",
+  "fecha": "Jueves 19/11/2026 · 13:00",
+  "carpeta": "VIDEO_07_Short_Primero_que_hacer"
+ },
+ {
+  "id": "V08",
+  "titulo": "GTA 6: primeras impresiones sin spoilers — ¿merece la pena?",
+  "formato": "largo",
+  "modo": "animatic",
+  "dur": 305.89,
+  "out": "VIDEO_08_Primeras_Impresiones/Video_Final/V08_ANIMATIC_borrador_1920x1080.mp4",
+  "fecha": "Viernes 20/11/2026 · 18:00",
+  "carpeta": "VIDEO_08_Primeras_Impresiones"
+ },
+ {
+  "id": "V09",
+  "titulo": "GTA 6: guía para principiantes — 12 consejos para tus primeras horas",
+  "formato": "largo",
+  "modo": "animatic",
+  "dur": 304.48,
+  "out": "VIDEO_09_Guia_Principiantes/Video_Final/V09_ANIMATIC_borrador_1920x1080.mp4",
+  "fecha": "Domingo 22/11/2026 · 12:00",
+  "carpeta": "VIDEO_09_Guia_Principiantes"
+ },
+ {
+  "id": "V10",
+  "titulo": "El primer secreto de GTA 6 que tienes que ver",
+  "formato": "short",
+  "modo": "animatic",
+  "dur": 31.2,
+  "out": "VIDEO_10_Short_Primer_Secreto/Video_Final/V10_ANIMATIC_borrador_1080x1920.mp4",
+  "fecha": "Lunes 23/11/2026 · 19:00 (o en cuanto se verifique un secreto)",
+  "carpeta": "VIDEO_10_Short_Primer_Secreto"
+ },
+ {
+  "id": "V11",
+  "titulo": "¿Cuándo sale GTA 6 en PC?",
+  "formato": "short",
+  "modo": "final",
+  "dur": 47.82,
+  "out": "VIDEO_11_Short_GTA6_en_PC/Video_Final/V11_FINAL_1080x1920.mp4",
+  "fecha": "Miércoles 18/11/2026 · 11:00",
+  "carpeta": "VIDEO_11_Short_GTA6_en_PC"
+ },
+ {
+  "id": "V12",
+  "titulo": "Vice City vuelve: de 1986 a hoy",
+  "formato": "short",
+  "modo": "final",
+  "dur": 39.1,
+  "out": "VIDEO_12_Short_Vice_City_1986_2026/Video_Final/V12_FINAL_1080x1920.mp4",
+  "fecha": "Jueves 19/11/2026 · 18:00",
+  "carpeta": "VIDEO_12_Short_Vice_City_1986_2026"
+ },
+ {
+  "id": "V13",
+  "titulo": "13 años esperando GTA 6, en 45 segundos",
+  "formato": "short",
+  "modo": "final",
+  "dur": 49.17,
+  "out": "VIDEO_13_Short_Cronologia_13_anos/Video_Final/V13_FINAL_1080x1920.mp4",
+  "fecha": "Martes 17/11/2026 · 15:00",
+  "carpeta": "VIDEO_13_Short_Cronologia_13_anos"
+ },
+ {
+  "id": "V14",
+  "titulo": "Lo que NO sabemos de GTA 6 (a 2 días)",
+  "formato": "short",
+  "modo": "final",
+  "dur": 32.28,
+  "out": "VIDEO_14_Short_No_Confirmado/Video_Final/V14_FINAL_1080x1920.mp4",
+  "fecha": "Martes 17/11/2026 · 12:00",
+  "carpeta": "VIDEO_14_Short_No_Confirmado"
+ },
+ {
+  "id": "V15",
+  "titulo": "¿Tienes Xbox Series S? Mira esto antes de GTA 6",
+  "formato": "short",
+  "modo": "final",
+  "dur": 38.28,
+  "out": "VIDEO_15_Short_Xbox_Series_S/Video_Final/V15_FINAL_1080x1920.mp4",
+  "fecha": "Miércoles 18/11/2026 · 09:30",
+  "carpeta": "VIDEO_15_Short_Xbox_Series_S"
+ },
+ {
+  "id": "V16",
+  "titulo": "GTA 6 vs GTA 5: 3 cambios confirmados",
+  "formato": "short",
+  "modo": "final",
+  "dur": 34.97,
+  "out": "VIDEO_16_Short_Diferencias_GTA5/Video_Final/V16_FINAL_1080x1920.mp4",
+  "fecha": "Sábado 21/11/2026 · 19:00",
+  "carpeta": "VIDEO_16_Short_Diferencias_GTA5"
+ },
+ {
+  "id": "V17",
+  "titulo": "¿Cuánto mide el mapa de GTA 6? La verdad",
+  "formato": "short",
+  "modo": "final",
+  "dur": 29.18,
+  "out": "VIDEO_17_Short_Tamano_del_Mapa/Video_Final/V17_FINAL_1080x1920.mp4",
+  "fecha": "Miércoles 18/11/2026 · 17:00",
+  "carpeta": "VIDEO_17_Short_Tamano_del_Mapa"
+ },
+ {
+  "id": "V18",
+  "titulo": "3 errores que vas a cometer esta noche con GTA 6",
+  "formato": "short",
+  "modo": "final",
+  "dur": 32.45,
+  "out": "VIDEO_18_Short_3_Errores_Lanzamiento/Video_Final/V18_FINAL_1080x1920.mp4",
+  "fecha": "Miércoles 18/11/2026 · 22:30",
+  "carpeta": "VIDEO_18_Short_3_Errores_Lanzamiento"
+ },
+ {
+  "id": "V19",
+  "titulo": "El caimán más famoso de GTA 6",
+  "formato": "short",
+  "modo": "final",
+  "dur": 36.34,
+  "out": "VIDEO_19_Short_El_Caiman_Viral/Video_Final/V19_FINAL_1080x1920.mp4",
+  "fecha": "Viernes 20/11/2026 · 13:00",
+  "carpeta": "VIDEO_19_Short_El_Caiman_Viral"
+ },
+ {
+  "id": "V20",
+  "titulo": "Leonida es Florida: cada zona explicada",
+  "formato": "short",
+  "modo": "final",
+  "dur": 36.3,
+  "out": "VIDEO_20_Short_Leonida_es_Florida/Video_Final/V20_FINAL_1080x1920.mp4",
+  "fecha": "Sábado 21/11/2026 · 13:00",
+  "carpeta": "VIDEO_20_Short_Leonida_es_Florida"
+ },
+ {
+  "id": "V21",
+  "titulo": "¿GTA 6 en PS4? Mito o verdad",
+  "formato": "short",
+  "modo": "final",
+  "dur": 22.45,
+  "out": "VIDEO_21_Short_Mito_PS4/Video_Final/V21_FINAL_1080x1920.mp4",
+  "fecha": "YouTube: Miércoles 18/11 · 13:15 · TikTok: Miércoles 18/11 · 13:50",
+  "carpeta": "VIDEO_21_Short_Mito_PS4"
+ },
+ {
+  "id": "V22",
+  "titulo": "¿A qué hora sale GTA 6 en Latinoamérica?",
+  "formato": "short",
+  "modo": "final",
+  "dur": 35.51,
+  "out": "VIDEO_22_Short_Hora_Latinoamerica/Video_Final/V22_FINAL_1080x1920.mp4",
+  "fecha": "YouTube: Miércoles 18/11 · 15:30 · TikTok: Miércoles 18/11 · 16:10",
+  "carpeta": "VIDEO_22_Short_Hora_Latinoamerica"
+ },
+ {
+  "id": "V23",
+  "titulo": "¿Se puede jugar GTA 6 desde un USB?",
+  "formato": "short",
+  "modo": "final",
+  "dur": 27.04,
+  "out": "VIDEO_23_Short_Mito_USB/Video_Final/V23_FINAL_1080x1920.mp4",
+  "fecha": "YouTube: Miércoles 18/11 · 19:30 · TikTok: Miércoles 18/11 · 20:10",
+  "carpeta": "VIDEO_23_Short_Mito_USB"
+ },
+ {
+  "id": "V24",
+  "titulo": "Si GTA 6 no te deja jugar a las 00:00, haz esto",
+  "formato": "short",
+  "modo": "final",
+  "dur": 39.27,
+  "out": "VIDEO_24_Short_No_Me_Deja_Jugar/Video_Final/V24_FINAL_1080x1920.mp4",
+  "fecha": "YouTube: Miércoles 18/11 · 23:15 · TikTok: Miércoles 18/11 · 23:40",
+  "carpeta": "VIDEO_24_Short_No_Me_Deja_Jugar"
+ },
+ {
+  "id": "V25",
+  "titulo": "Quiz GTA: ¿en qué año salió el primer GTA?",
+  "formato": "short",
+  "modo": "final",
+  "dur": 36.14,
+  "out": "VIDEO_25_Short_Quiz_Primer_GTA/Video_Final/V25_FINAL_1080x1920.mp4",
+  "fecha": "YouTube: Jueves 19/11 · 09:30 · TikTok: Jueves 19/11 · 10:15",
+  "carpeta": "VIDEO_25_Short_Quiz_Primer_GTA"
+ },
+ {
+  "id": "V26",
+  "titulo": "Todos los protagonistas de GTA en 30 segundos",
+  "formato": "short",
+  "modo": "final",
+  "dur": 34.8,
+  "out": "VIDEO_26_Short_Saga_Protagonistas/Video_Final/V26_FINAL_1080x1920.mp4",
+  "fecha": "YouTube: Jueves 19/11 · 14:30 · TikTok: Jueves 19/11 · 15:15",
+  "carpeta": "VIDEO_26_Short_Saga_Protagonistas"
+ },
+ {
+  "id": "V27",
+  "titulo": "¿PS5 o Xbox para jugar GTA 6?",
+  "formato": "short",
+  "modo": "final",
+  "dur": 31.68,
+  "out": "VIDEO_27_Short_PS5_o_Xbox/Video_Final/V27_FINAL_1080x1920.mp4",
+  "fecha": "YouTube: Jueves 19/11 · 16:30 · TikTok: Jueves 19/11 · 17:15",
+  "carpeta": "VIDEO_27_Short_PS5_o_Xbox"
+ },
+ {
+  "id": "V28",
+  "titulo": "Quiz: ¿quién protagonizó GTA Vice City?",
+  "formato": "short",
+  "modo": "final",
+  "dur": 31.57,
+  "out": "VIDEO_28_Short_Quiz_Vice_City/Video_Final/V28_FINAL_1080x1920.mp4",
+  "fecha": "YouTube: Jueves 19/11 · 21:30 · TikTok: Jueves 19/11 · 22:15",
+  "carpeta": "VIDEO_28_Short_Quiz_Vice_City"
+ },
+ {
+  "id": "V29",
+  "titulo": "¿Por qué se llama Grand Theft Auto?",
+  "formato": "short",
+  "modo": "final",
+  "dur": 27.56,
+  "out": "VIDEO_29_Short_Por_que_se_llama_GTA/Video_Final/V29_FINAL_1080x1920.mp4",
+  "fecha": "YouTube: Viernes 20/11 · 10:30 · TikTok: Viernes 20/11 · 11:15",
+  "carpeta": "VIDEO_29_Short_Por_que_se_llama_GTA"
+ },
+ {
+  "id": "V30",
+  "titulo": "Quiz: ¿en qué se inspira Liberty City?",
+  "formato": "short",
+  "modo": "final",
+  "dur": 30.81,
+  "out": "VIDEO_30_Short_Quiz_Liberty_City/Video_Final/V30_FINAL_1080x1920.mp4",
+  "fecha": "YouTube: Viernes 20/11 · 15:30 · TikTok: Viernes 20/11 · 16:15",
+  "carpeta": "VIDEO_30_Short_Quiz_Liberty_City"
+ },
+ {
+  "id": "V31",
+  "titulo": "GTA 5 ganó 1.000 millones en 3 días: ¿verdad?",
+  "formato": "short",
+  "modo": "final",
+  "dur": 24.76,
+  "out": "VIDEO_31_Short_Mito_GTA5_1000_millones/Video_Final/V31_FINAL_1080x1920.mp4",
+  "fecha": "YouTube: Viernes 20/11 · 20:30 · TikTok: Viernes 20/11 · 21:15",
+  "carpeta": "VIDEO_31_Short_Mito_GTA5_1000_millones"
+ },
+ {
+  "id": "V32",
+  "titulo": "El estudio de GTA empezó haciendo Lemmings",
+  "formato": "short",
+  "modo": "final",
+  "dur": 26.46,
+  "out": "VIDEO_32_Short_De_Dundee_a_Leonida/Video_Final/V32_FINAL_1080x1920.mp4",
+  "fecha": "YouTube: Viernes 20/11 · 22:30 · TikTok: Viernes 20/11 · 23:15",
+  "carpeta": "VIDEO_32_Short_De_Dundee_a_Leonida"
+ },
+ {
+  "id": "V33",
+  "titulo": "Quiz: ¿qué juego hicieron antes los creadores de GTA?",
+  "formato": "short",
+  "modo": "final",
+  "dur": 33.81,
+  "out": "VIDEO_33_Short_Quiz_Lemmings/Video_Final/V33_FINAL_1080x1920.mp4",
+  "fecha": "YouTube: Sábado 21/11 · 11:00 · TikTok: Sábado 21/11 · 11:45",
+  "carpeta": "VIDEO_33_Short_Quiz_Lemmings"
+ },
+ {
+  "id": "V34",
+  "titulo": "Las ciudades de GTA y su versión real",
+  "formato": "short",
+  "modo": "final",
+  "dur": 29.93,
+  "out": "VIDEO_34_Short_Saga_Ciudades/Video_Final/V34_FINAL_1080x1920.mp4",
+  "fecha": "YouTube: Sábado 21/11 · 16:30 · TikTok: Sábado 21/11 · 17:15",
+  "carpeta": "VIDEO_34_Short_Saga_Ciudades"
+ },
+ {
+  "id": "V35",
+  "titulo": "GTA iba a llamarse Race'n'Chase: ¿verdad?",
+  "formato": "short",
+  "modo": "final",
+  "dur": 19.36,
+  "out": "VIDEO_35_Short_Mito_Race_n_Chase/Video_Final/V35_FINAL_1080x1920.mp4",
+  "fecha": "YouTube: Sábado 21/11 · 21:00 · TikTok: Sábado 21/11 · 21:45",
+  "carpeta": "VIDEO_35_Short_Mito_Race_n_Chase"
+ },
+ {
+  "id": "V36",
+  "titulo": "¿Ciudad o naturaleza? Elige tu zona de GTA 6",
+  "formato": "short",
+  "modo": "final",
+  "dur": 22.57,
+  "out": "VIDEO_36_Short_Ciudad_o_Naturaleza/Video_Final/V36_FINAL_1080x1920.mp4",
+  "fecha": "YouTube: Domingo 22/11 · 11:00 · TikTok: Domingo 22/11 · 11:45",
+  "carpeta": "VIDEO_36_Short_Ciudad_o_Naturaleza"
+ },
+ {
+  "id": "V37",
+  "titulo": "GTA 5 en cifras: el listón de GTA 6",
+  "formato": "short",
+  "modo": "final",
+  "dur": 29.05,
+  "out": "VIDEO_37_Short_GTA5_en_cifras/Video_Final/V37_FINAL_1080x1920.mp4",
+  "fecha": "YouTube: Domingo 22/11 · 14:30 · TikTok: Domingo 22/11 · 15:15",
+  "carpeta": "VIDEO_37_Short_GTA5_en_cifras"
+ },
+ {
+  "id": "V38",
+  "titulo": "Quiz: ¿cuántos protagonistas tenía GTA 5?",
+  "formato": "short",
+  "modo": "final",
+  "dur": 31.48,
+  "out": "VIDEO_38_Short_Quiz_Protagonistas_GTA5/Video_Final/V38_FINAL_1080x1920.mp4",
+  "fecha": "YouTube: Domingo 22/11 · 18:30 · TikTok: Domingo 22/11 · 19:15",
+  "carpeta": "VIDEO_38_Short_Quiz_Protagonistas_GTA5"
+ },
+ {
+  "id": "V39",
+  "titulo": "El primer GTA se veía desde arriba: ¿verdad?",
+  "formato": "short",
+  "modo": "final",
+  "dur": 24.79,
+  "out": "VIDEO_39_Short_Mito_Vista_Cenital/Video_Final/V39_FINAL_1080x1920.mp4",
+  "fecha": "YouTube: Domingo 22/11 · 21:30 · TikTok: Domingo 22/11 · 22:15",
+  "carpeta": "VIDEO_39_Short_Mito_Vista_Cenital"
+ },
+ {
+  "id": "V40",
+  "titulo": "El tráiler de GTA 6 que rompió YouTube",
+  "formato": "short",
+  "modo": "final",
+  "dur": 21.7,
+  "out": "VIDEO_40_Short_Trailer_Record/Video_Final/V40_FINAL_1080x1920.mp4",
+  "fecha": "YouTube: Lunes 23/11 · 13:30 · TikTok: Lunes 23/11 · 14:15",
+  "carpeta": "VIDEO_40_Short_Trailer_Record"
+ }
+]

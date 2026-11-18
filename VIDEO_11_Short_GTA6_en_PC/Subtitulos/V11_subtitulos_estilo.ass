@@ -1,0 +1,36 @@
+[Script Info]
+Title: V11 subtítulos Mapa Abierto
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Marca,Inter Display,78,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,-1,0,0,0,100,100,0,0,1,5,3,2,80,80,560,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.05,0:00:02.41,Marca,,0,0,0,,{\fad(60,40)}¿Juegas en PC y\Nquieres GTA 6?
+Dialogue: 0,0:00:02.43,0:00:04.03,Marca,,0,0,0,,{\fad(60,40)}Esto es lo que hay.
+Dialogue: 0,0:00:04.39,0:00:06.45,Marca,,0,0,0,,{\fad(60,40)}A día de hoy,\NRockstar {\c&H33D6FF&}no{\c&HFFFFFF&}
+Dialogue: 0,0:00:06.47,0:00:08.66,Marca,,0,0,0,,{\fad(60,40)}{\c&H33D6FF&}ha{\c&HFFFFFF&} {\c&H33D6FF&}anunciado{\c&HFFFFFF&}\Nversión de PC.
+Dialogue: 0,0:00:08.68,0:00:11.16,Marca,,0,0,0,,{\fad(60,40)}El 19 de noviembre\Nsale solo en
+Dialogue: 0,0:00:11.18,0:00:13.44,Marca,,0,0,0,,{\fad(60,40)}PlayStation 5\Ny Xbox Series.
+Dialogue: 0,0:00:13.82,0:00:15.87,Marca,,0,0,0,,{\fad(60,40)}¿Y qué podemos esperar?
+Dialogue: 0,0:00:15.89,0:00:17.56,Marca,,0,0,0,,{\fad(60,40)}Mira el historial:
+Dialogue: 0,0:00:17.58,0:00:20.24,Marca,,0,0,0,,{\fad(60,40)}GTA 5 salió en\Nconsolas en 2013
+Dialogue: 0,0:00:20.26,0:00:22.85,Marca,,0,0,0,,{\fad(60,40)}y llegó a PC en\Nabril de 2015.
+Dialogue: 0,0:00:22.87,0:00:25.85,Marca,,0,0,0,,{\fad(60,40)}Red Dead Redemption\N2 salió en 2018
+Dialogue: 0,0:00:25.87,0:00:28.30,Marca,,0,0,0,,{\fad(60,40)}y llegó a PC\Nun año después.
+Dialogue: 0,0:00:28.67,0:00:30.37,Marca,,0,0,0,,{\fad(60,40)}Así que lo\Nrazonable es
+Dialogue: 0,0:00:30.39,0:00:32.60,Marca,,0,0,0,,{\fad(60,40)}pensar en {\c&H33D6FF&}meses,{\c&HFFFFFF&}\Nno en semanas.
+Dialogue: 0,0:00:32.62,0:00:33.43,Marca,,0,0,0,,{\fad(60,40)}Pero ojo:
+Dialogue: 0,0:00:33.45,0:00:36.05,Marca,,0,0,0,,{\fad(60,40)}eso es una estimación,\Nno un anuncio.
+Dialogue: 0,0:00:36.42,0:00:37.42,Marca,,0,0,0,,{\fad(60,40)}Y cuidado:
+Dialogue: 0,0:00:37.44,0:00:39.82,Marca,,0,0,0,,{\fad(60,40)}si una web te\Nvende una clave
+Dialogue: 0,0:00:39.84,0:00:42.45,Marca,,0,0,0,,{\fad(60,40)}de GTA 6 para PC,\Nes una {\c&H33D6FF&}estafa.{\c&HFFFFFF&}
+Dialogue: 0,0:00:42.47,0:00:44.34,Marca,,0,0,0,,{\fad(60,40)}Ahora mismo no existe.
+Dialogue: 0,0:00:44.71,0:00:46.58,Marca,,0,0,0,,{\fad(60,40)}Sígueme y te aviso\Nen cuanto haya
+Dialogue: 0,0:00:46.60,0:00:47.50,Marca,,0,0,0,,{\fad(60,40)}fecha oficial.

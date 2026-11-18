@@ -1,0 +1,12 @@
+# Pegar en ElevenLabs (modelo multilingüe). Las MAYÚSCULAS marcan énfasis; <break> son pausas.
+# Ajustes: Stability 45 · Similarity 80 · Style 20 · Speaker boost ON. Velocidad 1.05.
+
+De Claude a Lucia. Todos los protagonistas de GTA desde que la saga pasó al 3D, en treinta segundos. <break time="0.4s" />
+
+GTA 3, en 2001: Claude, el protagonista que no dice ni una palabra. Vice City: Tommy Vercetti. San Andreas: Carl Johnson, CJ. <break time="0.4s" />
+
+GTA 4, en 2008: Niko Bellic. GTA 5, en 2013: tres a la vez, Michael, Franklin y Trevor. <break time="0.4s" />
+
+Y GTA 6: por primera vez, una pareja. Jason y Lucia. <break time="0.4s" />
+
+¿Cuál es tu favorito? Te leo. <break time="0.4s" />

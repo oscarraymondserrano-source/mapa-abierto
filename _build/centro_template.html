@@ -1,0 +1,312 @@
+<title>Centro de Publicación Mapa Abierto</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;800&family=JetBrains+Mono:wght@500;700&family=Space+Grotesk:wght@600;700&display=swap">
+<style>
+/* Layout: cabecera con cuenta atrás en directo → pestañas (Maratón · Agenda · Semana) → contenido. Estética de marca: noche + neón, una sola apariencia oscura. */
+:root {
+  color-scheme: dark;
+  --bg: #0b0f2a; --panel: #141a3d; --panel-2: #1c2352; --line: #2c3570;
+  --fg: #eef0ff; --muted: #a3a9d6;
+  --yt: #ff2e88; --tt: #22d3ee; --yellow: #ffd666; --done: #4ade80;
+  --f-body: "Inter", system-ui, -apple-system, "Segoe UI", sans-serif;
+  --f-disp: "Space Grotesk", "Inter", system-ui, sans-serif;
+  --f-mono: "JetBrains Mono", ui-monospace, Menlo, monospace;
+}
+* { box-sizing: border-box; }
+[hidden] { display: none !important; }
+html, body { margin: 0; }
+body { background: var(--bg); color: var(--fg); font: 15px/1.5 var(--f-body);
+  padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px)); padding-block: 0 56px; }
+.wrap { max-width: 1040px; margin: 0 auto; display: flex; flex-direction: column; gap: 22px; }
+.brand { display: flex; align-items: baseline; justify-content: space-between; flex-wrap: wrap; gap: 8px; padding-block: 18px 0; }
+.brand b { font: italic 800 1.35rem var(--f-body); }
+.brand b span { color: var(--yt); text-shadow: 0 0 12px color-mix(in srgb, var(--yt) 55%, transparent); }
+.brand small { font: 500 .75rem var(--f-mono); color: var(--muted); letter-spacing: .08em; text-transform: uppercase; }
+
+/* HERO: cuenta atrás */
+.hero { position: relative; overflow: hidden; border-radius: 22px; padding: 22px; border: 1px solid var(--line);
+  background: radial-gradient(120% 140% at 100% 0%, color-mix(in srgb, var(--yt) 28%, transparent), transparent 55%),
+              radial-gradient(90% 120% at 0% 100%, color-mix(in srgb, var(--tt) 18%, transparent), transparent 60%), var(--panel);
+  display: grid; grid-template-columns: minmax(0, 1.4fr) minmax(0, 1fr); gap: 18px; align-items: center; }
+.hero h1 { margin: 0; font: 700 clamp(1.3rem, 3vw, 1.8rem)/1.2 var(--f-disp); text-wrap: balance; }
+.hero .eyebrow { font: 700 .72rem var(--f-mono); letter-spacing: .14em; text-transform: uppercase; color: var(--yellow); }
+.hero p { margin: 6px 0 0; color: var(--muted); }
+.clock { display: flex; gap: 8px; justify-content: flex-end; flex-wrap: wrap; }
+.clock div { background: var(--bg); border: 1px solid var(--line); border-radius: 14px; padding: 10px 12px; min-width: 74px; text-align: center; }
+.clock b { display: block; font: 700 2rem/1 var(--f-mono); font-variant-numeric: tabular-nums; }
+.clock span { font: 500 .68rem var(--f-mono); color: var(--muted); text-transform: uppercase; letter-spacing: .08em; }
+.stats { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 10px; }
+.stat { background: var(--panel); border: 1px solid var(--line); border-radius: 14px; padding: 12px 14px; }
+.stat b { font: 700 1.5rem var(--f-mono); font-variant-numeric: tabular-nums; }
+.stat span { display: block; color: var(--muted); font-size: .82rem; }
+.ring { height: 6px; background: var(--panel-2); border-radius: 99px; overflow: hidden; margin-top: 8px; }
+.ring i { display: block; height: 100%; width: 0; background: linear-gradient(90deg, var(--yt), var(--tt)); transition: width .3s; }
+
+/* Pestañas y filtros */
+.tabs { display: flex; gap: 6px; flex-wrap: wrap; border-bottom: 1px solid var(--line); }
+.tabs button { font: 600 .92rem var(--f-body); color: var(--muted); background: none; border: 0; padding: 10px 14px; cursor: pointer; border-bottom: 3px solid transparent; }
+.tabs button[aria-selected="true"] { color: var(--fg); border-bottom-color: var(--yt); }
+.filters { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; }
+.filters .lbl { font: 700 .7rem var(--f-mono); color: var(--muted); letter-spacing: .1em; text-transform: uppercase; margin-right: 2px; }
+.pill { font: 600 .8rem var(--f-body); color: var(--fg); background: var(--panel); border: 1px solid var(--line); border-radius: 99px; padding: 6px 12px; cursor: pointer; }
+.pill[aria-pressed="true"] { background: var(--panel-2); border-color: var(--fg); }
+.dot { display: inline-block; width: 9px; height: 9px; border-radius: 50%; margin-right: 6px; vertical-align: 1px; }
+.dot.yt { background: var(--yt); } .dot.tt { background: var(--tt); }
+
+/* Maratón */
+.marathon { display: grid; grid-template-columns: 210px minmax(0, 1fr); gap: 22px; background: var(--panel); border: 1px solid var(--line); border-radius: 22px; padding: 22px; }
+.marathon img { width: 100%; border-radius: 14px; border: 1px solid var(--line); display: block; }
+.mhead { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; }
+.tag { font: 600 .75rem var(--f-mono); padding: 4px 10px; border-radius: 99px; background: var(--panel-2); white-space: nowrap; }
+.tag.yt { background: color-mix(in srgb, var(--yt) 30%, var(--panel-2)); } .tag.tt { background: color-mix(in srgb, var(--tt) 25%, var(--panel-2)); color: var(--fg); }
+.mbody { display: flex; flex-direction: column; gap: 14px; min-width: 0; }
+.mtitle { font: 700 1.25rem/1.3 var(--f-disp); margin: 0; overflow-wrap: anywhere; }
+.when { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 10px; }
+.when div { background: var(--bg); border: 1px solid var(--line); border-radius: 12px; padding: 10px 12px; }
+.when span { display: block; font: 600 .7rem var(--f-mono); color: var(--muted); text-transform: uppercase; letter-spacing: .08em; }
+.when b { font: 700 1.15rem var(--f-mono); }
+.file { font: 500 .82rem var(--f-mono); color: var(--muted); overflow-wrap: anywhere; }
+.file b { color: var(--fg); font-weight: 500; }
+.acts { display: grid; grid-template-columns: repeat(auto-fit, minmax(170px, 1fr)); gap: 8px; }
+.copy { font: 600 .88rem var(--f-body); color: var(--fg); background: var(--panel-2); border: 1px solid var(--line); border-radius: 12px; padding: 11px 12px; cursor: pointer; text-align: left; display: flex; gap: 10px; align-items: center; }
+.copy kbd { font: 700 .72rem var(--f-mono); background: var(--bg); border: 1px solid var(--line); border-radius: 6px; padding: 1px 6px; color: var(--muted); }
+.copy:hover { border-color: var(--tt); }
+.copy.ok { border-color: var(--done); color: var(--done); }
+.nav { display: flex; gap: 10px; flex-wrap: wrap; justify-content: space-between; align-items: center; }
+.btn { font: 700 .95rem var(--f-body); border-radius: 12px; padding: 12px 18px; cursor: pointer; border: 1px solid var(--line); background: var(--panel-2); color: var(--fg); }
+.btn.primary { background: linear-gradient(90deg, var(--yt), color-mix(in srgb, var(--yt) 60%, var(--tt))); border-color: transparent; color: #fff; }
+.btn.primary.isdone { background: var(--done); color: var(--bg); }
+details.preview summary { cursor: pointer; color: var(--muted); font-size: .85rem; }
+details.preview pre { white-space: pre-wrap; overflow-wrap: anywhere; font: .82rem/1.5 var(--f-body); color: var(--muted); background: var(--bg); border-radius: 12px; padding: 12px; margin: 8px 0 0; }
+.fallback { width: 100%; min-height: 80px; font: .8rem var(--f-mono); background: var(--bg); color: var(--fg); border: 1px solid var(--yellow); border-radius: 10px; padding: 8px; }
+.hint { color: var(--muted); font-size: .82rem; }
+
+/* Agenda */
+.days { display: grid; grid-template-columns: repeat(auto-fill, minmax(230px, 1fr)); gap: 14px; }
+.day { background: var(--panel); border: 1px solid var(--line); border-radius: 16px; padding: 14px; display: flex; flex-direction: column; gap: 8px; }
+.day h3 { margin: 0 0 4px; font: 700 .8rem var(--f-mono); letter-spacing: .12em; text-transform: uppercase; color: var(--yellow); }
+.slot { display: grid; grid-template-columns: 52px 10px minmax(0, 1fr) 22px; gap: 8px; align-items: center; background: var(--bg); border: 1px solid var(--line); border-radius: 10px; padding: 8px 10px; cursor: pointer; text-align: left; color: var(--fg); font: inherit; width: 100%; }
+.slot:hover { border-color: var(--fg); }
+.slot time { font: 700 .82rem var(--f-mono); font-variant-numeric: tabular-nums; }
+.slot .t { font-size: .82rem; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.slot .st { font-size: .9rem; text-align: right; }
+.slot.done { opacity: .5; }
+.slot.past .t::after { content: " · ya pasó"; color: var(--yellow); }
+
+/* Semana: mapa de calor */
+.heat { overflow-x: auto; background: var(--panel); border: 1px solid var(--line); border-radius: 16px; padding: 16px; }
+.heat table { border-collapse: separate; border-spacing: 3px; font: 500 .72rem var(--f-mono); min-width: 640px; }
+.heat th { color: var(--muted); font-weight: 500; padding: 2px 4px; text-align: center; }
+.heat th.d { text-align: left; color: var(--fg); white-space: nowrap; padding-right: 10px; }
+.heat td { width: 34px; height: 30px; border-radius: 6px; text-align: center; color: var(--bg); font-weight: 700; }
+.legend { display: flex; gap: 14px; flex-wrap: wrap; color: var(--muted); font-size: .82rem; margin-top: 10px; align-items: center; }
+.why { display: grid; grid-template-columns: repeat(auto-fit, minmax(230px, 1fr)); gap: 12px; }
+.why div { background: var(--panel); border: 1px solid var(--line); border-radius: 14px; padding: 14px; color: var(--muted); font-size: .88rem; }
+.why b { color: var(--fg); display: block; font-family: var(--f-disp); font-size: 1rem; margin-bottom: 4px; }
+.series { display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 10px; }
+.series div { border-radius: 14px; padding: 12px 14px; background: var(--panel); border: 1px solid var(--line); }
+.series b { font: 700 .95rem var(--f-disp); } .series span { display: block; color: var(--muted); font-size: .82rem; }
+button:focus-visible, .slot:focus-visible { outline: 2px solid var(--tt); outline-offset: 2px; }
+@media (max-width: 720px) {
+  .hero { grid-template-columns: 1fr; } .clock { justify-content: flex-start; }
+  .marathon { grid-template-columns: 1fr; } .marathon img { max-width: 170px; }
+  .stats { grid-template-columns: 1fr 1fr 1fr; } .stat b { font-size: 1.2rem; }
+}
+@media (prefers-reduced-motion: reduce) { * { transition: none !important; } }
+</style>
+
+<div class="wrap">
+  <div class="brand"><b>MAPA <span>ABIERTO</span></b><small>Centro de publicación · tanda 3 · 20 Shorts × 2 plataformas</small></div>
+
+  <section class="hero" aria-live="polite">
+    <div>
+      <div class="eyebrow" id="h-eyebrow">Próxima publicación</div>
+      <h1 id="h-title">…</h1>
+      <p id="h-sub"></p>
+    </div>
+    <div class="clock" id="clock"></div>
+  </section>
+
+  <div class="stats">
+    <div class="stat"><b id="s-done">0</b><span>de <span id="s-total" style="display:inline">40</span> programados</span><div class="ring"><i id="s-bar"></i></div></div>
+    <div class="stat"><b id="s-yt">0/20</b><span><i class="dot yt"></i>YouTube</span></div>
+    <div class="stat"><b id="s-tt">0/20</b><span><i class="dot tt"></i>TikTok</span></div>
+  </div>
+
+  <div class="tabs" role="tablist">
+    <button role="tab" aria-selected="true" data-tab="maraton">Modo maratón</button>
+    <button role="tab" aria-selected="false" data-tab="agenda">Agenda</button>
+    <button role="tab" aria-selected="false" data-tab="semana">Semana y estrategia</button>
+  </div>
+
+  <div class="filters" id="filters">
+    <span class="lbl">Plataforma</span>
+    <button class="pill" data-f="plat" data-v="all" aria-pressed="true">Ambas</button>
+    <button class="pill" data-f="plat" data-v="yt" aria-pressed="false"><i class="dot yt"></i>YouTube</button>
+    <button class="pill" data-f="plat" data-v="tt" aria-pressed="false"><i class="dot tt"></i>TikTok</button>
+    <span class="lbl" style="margin-left:10px">Mostrar</span>
+    <button class="pill" data-f="state" data-v="pend" aria-pressed="true">Pendientes</button>
+    <button class="pill" data-f="state" data-v="all" aria-pressed="false">Todos</button>
+  </div>
+
+  <section id="tab-maraton"></section>
+  <section id="tab-agenda" hidden></section>
+  <section id="tab-semana" hidden></section>
+  <p class="hint">Horas de la España peninsular. Las casillas se guardan solo en este navegador. Atajos en el modo maratón: <b>1–5</b> copiar · <b>Intro</b> marcar como programado y pasar al siguiente · <b>←/→</b> moverse.</p>
+</div>
+
+<script>
+const D = __DATA__;
+const POSTS = D.posts;
+const KEY = "ma-centro-t3";
+let st = {}; try { st = JSON.parse(localStorage.getItem(KEY) || "{}") || {}; } catch (e) { st = {}; }
+const save = () => { try { localStorage.setItem(KEY, JSON.stringify(st)); } catch (e) {} };
+let filt = { plat: "all", state: "pend" };
+let idx = 0;
+const $ = s => document.querySelector(s);
+const esc = s => String(s).replace(/[&<>"]/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
+const ts = p => Date.parse(p.iso);
+
+function visible() {
+  return POSTS.filter(p => (filt.plat === "all" || p.plat === filt.plat) && (filt.state === "all" || !st[p.key]));
+}
+function stats() {
+  const n = POSTS.filter(p => st[p.key]).length;
+  $("#s-done").textContent = n; $("#s-total").textContent = POSTS.length;
+  $("#s-bar").style.width = (100 * n / POSTS.length) + "%";
+  for (const pl of ["yt", "tt"]) {
+    const all = POSTS.filter(p => p.plat === pl);
+    $("#s-" + pl).textContent = all.filter(p => st[p.key]).length + "/" + all.length;
+  }
+}
+function copyBtn(n, label, text, holder) {
+  const b = document.createElement("button");
+  b.className = "copy"; b.type = "button"; b.dataset.k = n;
+  b.innerHTML = `<kbd>${n}</kbd><span>${esc(label)}</span>`;
+  b.addEventListener("click", () => doCopy(b, label, text, holder));
+  return b;
+}
+function doCopy(b, label, text, holder) {
+  const ok = () => { b.classList.add("ok"); b.querySelector("span").textContent = "Copiado ✓"; setTimeout(() => { b.classList.remove("ok"); b.querySelector("span").textContent = label; }, 1500); };
+  const fb = () => { holder.innerHTML = ""; const t = document.createElement("textarea"); t.className = "fallback"; t.readOnly = true; t.value = text; holder.append(t); t.focus(); t.select(); b.querySelector("span").textContent = "Seleccionado: Ctrl+C"; };
+  try { navigator.clipboard.writeText(text).then(ok, fb); } catch (e) { fb(); }
+}
+
+function renderMarathon() {
+  const box = $("#tab-maraton"); box.innerHTML = "";
+  const list = visible();
+  if (!list.length) { box.innerHTML = `<div class="marathon" style="grid-template-columns:1fr"><div class="mbody"><p class="mtitle">¡Todo programado! 🎉</p><p class="hint">No quedan posts pendientes con este filtro. Pulsa “Todos” para revisar los ya hechos.</p></div></div>`; return; }
+  idx = Math.max(0, Math.min(idx, list.length - 1));
+  const p = list[idx];
+  const done = !!st[p.key];
+  const holder = document.createElement("div");
+  const wrap = document.createElement("div"); wrap.className = "marathon";
+  wrap.innerHTML = `<div><img src="${p.img}" alt="Portada ${esc(p.id)}"></div>`;
+  const body = document.createElement("div"); body.className = "mbody";
+  body.innerHTML = `
+    <div class="mhead"><span class="tag ${p.plat}">${p.plat === "yt" ? "YouTube Shorts" : "TikTok"}</span><span class="tag">${esc(p.id)}</span><span class="tag">${esc(p.serie)}</span><span class="hint">${idx + 1} de ${list.length}</span></div>
+    <p class="mtitle">${esc(p.title)}</p>
+    <div class="when"><div><span>Día</span><b>${esc(p.dayLabel)}</b></div><div><span>Hora</span><b>${esc(p.time)}</b></div></div>
+    <div class="file">Archivo: <b>${esc(p.folder)}/${esc(p.mp4)}</b>${p.srt ? `<br>Subtítulos: <b>${esc(p.srt)}</b> · Lista: <b>${esc(p.playlist)}</b>` : ""}</div>`;
+  const acts = document.createElement("div"); acts.className = "acts";
+  p.copies.forEach((c, i) => acts.append(copyBtn(i + 1, c[0], c[1], holder)));
+  body.append(acts, holder);
+  const pv = document.createElement("details"); pv.className = "preview";
+  pv.innerHTML = `<summary>Ver ${p.plat === "yt" ? "descripción" : "texto del post"}</summary><pre>${esc(p.preview)}</pre>`;
+  body.append(pv);
+  const nav = document.createElement("div"); nav.className = "nav";
+  nav.innerHTML = `<button class="btn" id="prev" type="button">← Anterior</button>
+    <button class="btn primary ${done ? "isdone" : ""}" id="mark" type="button">${done ? "Programado ✓ (desmarcar)" : "Ya está programado → siguiente"}</button>
+    <button class="btn" id="next" type="button">Saltar →</button>`;
+  body.append(nav);
+  wrap.append(body); box.append(wrap);
+  $("#prev").onclick = () => { idx--; renderMarathon(); };
+  $("#next").onclick = () => { idx++; renderMarathon(); };
+  $("#mark").onclick = () => toggle(p, true);
+}
+function toggle(p, advance) {
+  st[p.key] = !st[p.key]; if (!st[p.key]) delete st[p.key]; save(); stats();
+  if (advance && st[p.key] && filt.state === "all") idx++;
+  renderAll();
+}
+
+function renderAgenda() {
+  const box = $("#tab-agenda"); box.innerHTML = "";
+  const days = {};
+  for (const p of POSTS) if (filt.plat === "all" || p.plat === filt.plat) (days[p.day] = days[p.day] || []).push(p);
+  const grid = document.createElement("div"); grid.className = "days";
+  const now = Date.now();
+  for (const d of Object.keys(days).sort()) {
+    const col = document.createElement("div"); col.className = "day";
+    col.innerHTML = `<h3>${esc(days[d][0].dayLabel)}</h3>`;
+    for (const p of days[d].sort((a, b) => ts(a) - ts(b))) {
+      const b = document.createElement("button"); b.type = "button";
+      b.className = "slot" + (st[p.key] ? " done" : "") + (ts(p) < now ? " past" : "");
+      b.innerHTML = `<time>${esc(p.time)}</time><i class="dot ${p.plat}"></i><span class="t">${esc(p.id)} · ${esc(p.short)}</span><span class="st">${st[p.key] ? "✓" : ""}</span>`;
+      b.title = "Abrir en el modo maratón";
+      b.onclick = () => { filt.state = "all"; syncPills(); idx = visible().indexOf(p); show("maraton"); };
+      col.append(b);
+    }
+    grid.append(col);
+  }
+  box.append(grid);
+}
+
+function renderWeek() {
+  const box = $("#tab-semana"); box.innerHTML = "";
+  const H = D.heat;
+  const max = Math.max(1, ...H.rows.flatMap(r => r.cells));
+  let html = `<div class="heat"><table><thead><tr><th></th>${H.hours.map(h => `<th>${h}h</th>`).join("")}</tr></thead><tbody>`;
+  for (const r of H.rows) {
+    html += `<tr><th class="d">${esc(r.label)}</th>` + r.cells.map(c => {
+      const a = c / max;
+      const bg = c ? `color-mix(in srgb, var(--yt) ${Math.round(25 + 75 * a)}%, var(--tt))` : "var(--panel-2)";
+      return `<td style="background:${bg}">${c || ""}</td>`;
+    }).join("") + "</tr>";
+  }
+  html += `</tbody></table><div class="legend"><span>Publicaciones por hora en toda la semana (las 3 tandas, YouTube + TikTok).</span><span>Más intenso = más publicaciones.</span></div></div>`;
+  html += `<h2 style="font:700 1.1rem var(--f-disp);margin:18px 0 10px">Por qué estas horas</h2><div class="why">${D.why.map(w => `<div><b>${esc(w[0])}</b>${esc(w[1])}</div>`).join("")}</div>`;
+  html += `<h2 style="font:700 1.1rem var(--f-disp);margin:18px 0 10px">Las 5 series de esta tanda</h2><div class="series">${D.series.map(s => `<div><b>${esc(s[0])}</b><span>${esc(s[1])}</span></div>`).join("")}</div>`;
+  box.innerHTML = html;
+}
+
+function hero() {
+  const now = Date.now();
+  const next = POSTS.filter(p => ts(p) > now).sort((a, b) => ts(a) - ts(b));
+  const clock = $("#clock");
+  if (!next.length) { $("#h-title").textContent = "Semana completada"; $("#h-sub").textContent = "Todas las publicaciones de esta tanda ya han salido."; clock.innerHTML = ""; return; }
+  const p = next[0];
+  const pend = next.filter(x => !st[x.key]).length;
+  $("#h-eyebrow").textContent = "Próxima publicación · " + (p.plat === "yt" ? "YouTube" : "TikTok");
+  $("#h-title").textContent = `${p.id} · ${p.title}`;
+  $("#h-sub").innerHTML = `${esc(p.dayLabel)} a las ${esc(p.time)} · ${st[p.key] ? "✓ ya programada" : "<b style='color:var(--yellow)'>aún sin programar</b>"} · ${pend} futuras pendientes`;
+  let s = Math.max(0, Math.floor((ts(p) - now) / 1000));
+  const parts = [["días", Math.floor(s / 86400)], ["horas", Math.floor(s % 86400 / 3600)], ["min", Math.floor(s % 3600 / 60)], ["seg", s % 60]];
+  clock.innerHTML = parts.filter((x, i) => i > 0 || x[1] > 0).map(x => `<div><b>${String(x[1]).padStart(2, "0")}</b><span>${x[0]}</span></div>`).join("");
+}
+
+function syncPills() {
+  document.querySelectorAll(".pill").forEach(b => b.setAttribute("aria-pressed", String(filt[b.dataset.f] === b.dataset.v)));
+}
+function show(tab) {
+  document.querySelectorAll(".tabs button").forEach(b => b.setAttribute("aria-selected", String(b.dataset.tab === tab)));
+  for (const t of ["maraton", "agenda", "semana"]) $("#tab-" + t).hidden = t !== tab;
+  $("#filters").hidden = tab === "semana";
+  renderAll();
+}
+function renderAll() { stats(); renderMarathon(); renderAgenda(); renderWeek(); hero(); }
+
+document.querySelectorAll(".tabs button").forEach(b => b.onclick = () => show(b.dataset.tab));
+document.querySelectorAll(".pill").forEach(b => b.onclick = () => { filt[b.dataset.f] = b.dataset.v; idx = 0; syncPills(); renderAll(); });
+document.addEventListener("keydown", e => {
+  if ($("#tab-maraton").hidden || e.target.tagName === "TEXTAREA") return;
+  const list = visible(); const p = list[idx]; if (!p) return;
+  if (/^[1-9]$/.test(e.key)) { const b = document.querySelector(`.copy[data-k="${e.key}"]`); if (b) b.click(); }
+  else if (e.key === "Enter") { e.preventDefault(); toggle(p, true); }
+  else if (e.key === "ArrowRight") { idx++; renderMarathon(); }
+  else if (e.key === "ArrowLeft") { idx--; renderMarathon(); }
+});
+renderAll();
+setInterval(hero, 1000);
+</script>

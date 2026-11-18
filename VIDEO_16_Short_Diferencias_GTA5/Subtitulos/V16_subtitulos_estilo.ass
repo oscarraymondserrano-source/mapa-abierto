@@ -1,0 +1,32 @@
+[Script Info]
+Title: V16 subtítulos Mapa Abierto
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Marca,Inter Display,78,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,-1,0,0,0,100,100,0,0,1,5,3,2,80,80,560,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.05,0:00:02.46,Marca,,0,0,0,,{\fad(60,40)}Si vienes de GTA\N5, estas tres
+Dialogue: 0,0:00:02.48,0:00:04.39,Marca,,0,0,0,,{\fad(60,40)}cosas cambian\Nen GTA 6.
+Dialogue: 0,0:00:04.41,0:00:05.82,Marca,,0,0,0,,{\fad(60,40)}Y son oficiales.
+Dialogue: 0,0:00:06.19,0:00:06.81,Marca,,0,0,0,,{\fad(60,40)}Una:
+Dialogue: 0,0:00:06.83,0:00:08.58,Marca,,0,0,0,,{\fad(60,40)}los protagonistas.
+Dialogue: 0,0:00:08.60,0:00:12.11,Marca,,0,0,0,,{\fad(60,40)}En GTA 5 eran tres\Nhombres por separado.
+Dialogue: 0,0:00:12.13,0:00:14.27,Marca,,0,0,0,,{\fad(60,40)}En GTA 6 es una pareja:
+Dialogue: 0,0:00:14.29,0:00:15.72,Marca,,0,0,0,,{\fad(60,40)}Jason y Lucia.
+Dialogue: 0,0:00:16.09,0:00:16.60,Marca,,0,0,0,,{\fad(60,40)}Dos:
+Dialogue: 0,0:00:16.62,0:00:17.72,Marca,,0,0,0,,{\fad(60,40)}el escenario.
+Dialogue: 0,0:00:17.74,0:00:19.84,Marca,,0,0,0,,{\fad(60,40)}De San Andreas,\Ninspirado en
+Dialogue: 0,0:00:19.86,0:00:23.01,Marca,,0,0,0,,{\fad(60,40)}California, a Leonida,\Ninspirado en Florida.
+Dialogue: 0,0:00:23.38,0:00:23.96,Marca,,0,0,0,,{\fad(60,40)}Tres:
+Dialogue: 0,0:00:23.98,0:00:26.33,Marca,,0,0,0,,{\fad(60,40)}según Rockstar,\Nes el primer GTA
+Dialogue: 0,0:00:26.35,0:00:29.10,Marca,,0,0,0,,{\fad(60,40)}con mecánicas que\Nfomentan la empatía.
+Dialogue: 0,0:00:29.12,0:00:30.61,Marca,,0,0,0,,{\fad(60,40)}Opcionales, eso sí:
+Dialogue: 0,0:00:30.63,0:00:32.06,Marca,,0,0,0,,{\fad(60,40)}el caos sigue ahí.
+Dialogue: 0,0:00:32.44,0:00:34.65,Marca,,0,0,0,,{\fad(60,40)}¿Cuál de los tres\Ncambios te convence más?
