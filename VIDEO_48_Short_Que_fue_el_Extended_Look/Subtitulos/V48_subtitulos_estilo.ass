@@ -1,0 +1,28 @@
+[Script Info]
+Title: V48 subtítulos Mapa Abierto
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Marca,Inter Display,78,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,-1,0,0,0,100,100,0,0,1,5,3,2,80,80,560,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.05,0:00:02.54,Marca,,0,0,0,,{\fad(60,40)}Si te perdiste el\NExtended Look de GTA
+Dialogue: 0,0:00:02.56,0:00:04.99,Marca,,0,0,0,,{\fad(60,40)}6, te lo resumo en\Ncuarenta segundos.
+Dialogue: 0,0:00:05.35,0:00:07.68,Marca,,0,0,0,,{\fad(60,40)}Fue un vídeo de unos\Nveintisiete minutos
+Dialogue: 0,0:00:07.70,0:00:09.81,Marca,,0,0,0,,{\fad(60,40)}que Rockstar estrenó\Nel 27 de agosto
+Dialogue: 0,0:00:09.83,0:00:11.93,Marca,,0,0,0,,{\fad(60,40)}en Netflix y en su\Ncanal de YouTube.
+Dialogue: 0,0:00:12.30,0:00:14.58,Marca,,0,0,0,,{\fad(60,40)}Según Rockstar,\Ntodo estaba grabado
+Dialogue: 0,0:00:14.60,0:00:16.87,Marca,,0,0,0,,{\fad(60,40)}dentro del juego\Nen una PlayStation
+Dialogue: 0,0:00:16.89,0:00:18.93,Marca,,0,0,0,,{\fad(60,40)}5 normal, no en\Nla versión Pro.
+Dialogue: 0,0:00:19.30,0:00:21.47,Marca,,0,0,0,,{\fad(60,40)}Mostró a Jason y\NLucia en misiones,
+Dialogue: 0,0:00:21.49,0:00:23.60,Marca,,0,0,0,,{\fad(60,40)}la vuelta de las\Nseis estrellas de
+Dialogue: 0,0:00:23.62,0:00:26.45,Marca,,0,0,0,,{\fad(60,40)}búsqueda y un montón de\Nactividades en Leonida.
+Dialogue: 0,0:00:26.47,0:00:29.03,Marca,,0,0,0,,{\fad(60,40)}Lo que no enseñó fue\Nnada del modo online.
+Dialogue: 0,0:00:29.40,0:00:30.53,Marca,,0,0,0,,{\fad(60,40)}¿Lo viste entero?
+Dialogue: 0,0:00:30.55,0:00:32.82,Marca,,0,0,0,,{\fad(60,40)}Dime qué fue lo que\Nmás te sorprendió.
