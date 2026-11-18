@@ -1,0 +1,33 @@
+[Script Info]
+Title: V44 subtítulos Mapa Abierto
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Marca,Inter Display,78,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,-1,0,0,0,100,100,0,0,1,5,3,2,80,80,560,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.05,0:00:01.75,Marca,,0,0,0,,{\fad(60,40)}Ese vídeo de\NGTA 6 que se
+Dialogue: 0,0:00:01.77,0:00:03.82,Marca,,0,0,0,,{\fad(60,40)}ha hecho viral\Npuede ser falso.
+Dialogue: 0,0:00:03.84,0:00:05.00,Marca,,0,0,0,,{\fad(60,40)}Así lo detectas.
+Dialogue: 0,0:00:05.37,0:00:05.88,Marca,,0,0,0,,{\fad(60,40)}Uno:
+Dialogue: 0,0:00:05.90,0:00:07.14,Marca,,0,0,0,,{\fad(60,40)}mira la fuente.
+Dialogue: 0,0:00:07.16,0:00:09.38,Marca,,0,0,0,,{\fad(60,40)}Lo oficial sale\Nen el canal de
+Dialogue: 0,0:00:09.40,0:00:11.43,Marca,,0,0,0,,{\fad(60,40)}Rockstar Games\Ny en su web.
+Dialogue: 0,0:00:11.45,0:00:14.73,Marca,,0,0,0,,{\fad(60,40)}Si viene de una cuenta\Ndesconocida, desconfía.
+Dialogue: 0,0:00:15.10,0:00:15.62,Marca,,0,0,0,,{\fad(60,40)}Dos:
+Dialogue: 0,0:00:15.64,0:00:17.43,Marca,,0,0,0,,{\fad(60,40)}fíjate en los detalles.
+Dialogue: 0,0:00:17.45,0:00:20.52,Marca,,0,0,0,,{\fad(60,40)}Manos raras, textos\Nque no se leen, coches
+Dialogue: 0,0:00:20.54,0:00:23.20,Marca,,0,0,0,,{\fad(60,40)}que se deforman o\Nfísicas imposibles
+Dialogue: 0,0:00:23.22,0:00:26.49,Marca,,0,0,0,,{\fad(60,40)}son señales típicas de\Nvídeo generado con IA.
+Dialogue: 0,0:00:26.86,0:00:27.38,Marca,,0,0,0,,{\fad(60,40)}Tres:
+Dialogue: 0,0:00:27.40,0:00:30.33,Marca,,0,0,0,,{\fad(60,40)}si promete algo demasiado\Nbueno, como un mapa
+Dialogue: 0,0:00:30.35,0:00:33.15,Marca,,0,0,0,,{\fad(60,40)}gigante o funciones\Nque nadie más menciona,
+Dialogue: 0,0:00:33.17,0:00:35.80,Marca,,0,0,0,,{\fad(60,40)}busca si algún medio\Nfiable lo confirma.
+Dialogue: 0,0:00:36.17,0:00:39.27,Marca,,0,0,0,,{\fad(60,40)}Aquí siempre te diremos\Nqué es oficial y qué no.
+Dialogue: 0,0:00:39.29,0:00:39.98,Marca,,0,0,0,,{\fad(60,40)}Sígueme.
