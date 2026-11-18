@@ -15,6 +15,11 @@ ID_DIR = os.path.join(ROOT, "01_IDENTIDAD_VISUAL")
 AUD_DIR = os.path.join(ROOT, "05_RECURSOS_AUDIO")
 
 VIDEOS = [v01.VIDEO, shorts.V02, v03.VIDEO, shorts.V04, shorts.V05, shorts.V06, shorts.V07, post.V08, post.V09, shorts.V10] + shorts2.SHORTS2 + shorts3.SHORTS3
+# Tandas diarias: cualquier content/tanda_*.py que defina SHORTS (lista) y SCHED (calendario)
+import importlib as _il, glob as _glob
+for _f in sorted(_glob.glob(os.path.join(os.path.dirname(__file__), "content", "tanda_*.py"))):
+    _m = _il.import_module("content." + os.path.basename(_f)[:-3])
+    VIDEOS += list(getattr(_m, "SHORTS", []))
 VOICE = os.environ.get("MA_VOICE", "piper")  # 'eleven' = ElevenLabs (Nico)
 ONLY = sys.argv[1:]  # p.ej. V02 V04
 

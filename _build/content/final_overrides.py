@@ -1,7 +1,7 @@
 """Versiones FINALES sin gameplay ni material oficial: cada escena se resuelve con gráficos animados propios.
 Clave = rótulo de la escena. Valores: items (aparecen uno a uno), chip (etiqueta bajo el rótulo), esquema (región a resaltar)."""
 
-FINAL_IDS = ["V01", "V02", "V03", "V04", "V05", "V06", "V07"] + [f"V{i}" for i in range(11, 41)]
+FINAL_IDS = ["V01", "V02", "V03", "V04", "V05", "V06", "V07"] + [f"V{i}" for i in range(11, 1000)]
 
 OV = {
     "V01": {

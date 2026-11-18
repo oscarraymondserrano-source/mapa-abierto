@@ -117,7 +117,7 @@ button:focus-visible, .slot:focus-visible { outline: 2px solid var(--tt); outlin
 </style>
 
 <div class="wrap">
-  <div class="brand"><b>MAPA <span>ABIERTO</span></b><small>Centro de publicación · tanda 3 · 20 Shorts × 2 plataformas</small></div>
+  <div class="brand"><b>MAPA <span>ABIERTO</span></b><small id="lbl">Centro de publicación</small></div>
 
   <section class="hero" aria-live="polite">
     <div>
@@ -129,9 +129,9 @@ button:focus-visible, .slot:focus-visible { outline: 2px solid var(--tt); outlin
   </section>
 
   <div class="stats">
-    <div class="stat"><b id="s-done">0</b><span>de <span id="s-total" style="display:inline">40</span> programados</span><div class="ring"><i id="s-bar"></i></div></div>
-    <div class="stat"><b id="s-yt">0/20</b><span><i class="dot yt"></i>YouTube</span></div>
-    <div class="stat"><b id="s-tt">0/20</b><span><i class="dot tt"></i>TikTok</span></div>
+    <div class="stat"><b id="s-done">0</b><span>de <span id="s-total" style="display:inline">0</span> programados</span><div class="ring"><i id="s-bar"></i></div></div>
+    <div class="stat"><b id="s-yt">0</b><span><i class="dot yt"></i>YouTube</span></div>
+    <div class="stat"><b id="s-tt">0</b><span><i class="dot tt"></i>TikTok</span></div>
   </div>
 
   <div class="tabs" role="tablist">
@@ -159,7 +159,8 @@ button:focus-visible, .slot:focus-visible { outline: 2px solid var(--tt); outlin
 <script>
 const D = __DATA__;
 const POSTS = D.posts;
-const KEY = "ma-centro-t3";
+if (D.label) document.getElementById("lbl").textContent = "Centro de publicación · " + D.label;
+const KEY = "ma-centro-" + (D.label || "t3");
 let st = {}; try { st = JSON.parse(localStorage.getItem(KEY) || "{}") || {}; } catch (e) { st = {}; }
 const save = () => { try { localStorage.setItem(KEY, JSON.stringify(st)); } catch (e) {} };
 let filt = { plat: "all", state: "pend" };

@@ -3,14 +3,22 @@ import os, sys, glob, io, base64, json
 sys.path.insert(0, os.path.dirname(__file__))
 from PIL import Image
 from build_videos import VIDEOS, apply_final, FO
-from content.shorts3 import SHORTS3, SCHED3
+import importlib
+_MOD = importlib.import_module(sys.argv[2] if len(sys.argv) > 2 else "content.shorts3")
+SHORTS3 = getattr(_MOD, "SHORTS", None) or _MOD.SHORTS3
+SCHED3 = getattr(_MOD, "SCHED", None) or _MOD.SCHED3
+TANDA = getattr(_MOD, "TANDA", "Tanda 3")
 from content import tiktok
 import build_calendar as cal
 
 ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
 OUT = sys.argv[1]
-DOW = {"2026-11-17": "Martes 17/11", "2026-11-18": "Miércoles 18/11", "2026-11-19": "Jueves 19/11", "2026-11-20": "Viernes 20/11",
-       "2026-11-21": "Sábado 21/11", "2026-11-22": "Domingo 22/11", "2026-11-23": "Lunes 23/11"}
+import datetime as _dt
+_DN = ["Lunes", "Martes", "Miércoles", "Jueves", "Viernes", "Sábado", "Domingo"]
+class _Dow(dict):
+    def __missing__(self, d):
+        x = _dt.date.fromisoformat(d); return f"{_DN[x.weekday()]} {x.day:02d}/{x.month:02d}"
+DOW = _Dow()
 SERIE_TT = {"QUIZ": ("🧠", "#quiz #quizgta #trivia"), "MITO": ("🔍", "#mitooverdad #mitos"), "LA SAGA": ("📼", "#historiagta #nostalgia"),
             "LANZAMIENTO": ("⏰", "#lanzamiento #parati"), "ESTO": ("⚔️", "#encuesta #parati")}
 TT_BASE = "#gta6 #gtavi #gta #videojuegos #gaming"
@@ -44,7 +52,7 @@ for v in SHORTS3:
 posts.sort(key=lambda p: (p["iso"], p["plat"]))
 
 # mapa de calor de la semana (todas las tandas, YouTube + TikTok)
-days = ["2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23"]
+days = sorted({r[1] for r in SCHED3} | {r[3] for r in SCHED3})
 hours = list(range(9, 24))
 cnt = {(d, h): 0 for d in days for h in hours}
 def add(d, t):
@@ -68,18 +76,18 @@ series = [["QUIZ GTA (5)", "Pregunta, 3 opciones y 3 segundos para pensar antes 
           ["LA SAGA EN 30 s (6)", "Historia y curiosidades de GTA, de 1997 a Leonida."],
           ["LANZAMIENTO (2)", "Hora en Latinoamérica y qué hacer si a las 00:00 no te deja jugar."],
           ["ESTO O AQUELLO (2)", "Encuestas en comentarios: PS5 o Xbox, ciudad o naturaleza."]]
-data = dict(posts=posts, heat=heat, why=why, series=series)
+data = dict(posts=posts, heat=heat, why=why, series=series, label=f"{TANDA} · {len(SHORTS3)} Shorts × 2 plataformas")
 t = open(os.path.join(os.path.dirname(__file__), "centro_template.html")).read()
 open(OUT, "w").write(t.replace("__DATA__", json.dumps(data, ensure_ascii=False).replace("</", "<\\/")))
 
 # calendario de la tanda (md + csv + ics)
 cd = os.path.join(ROOT, "03_CALENDARIO")
-md = ["# Tanda 3 · 20 Shorts (YouTube + TikTok)\n", "| Vídeo | Serie | YouTube | TikTok | Título |", "|---|---|---|---|---|"]
+md = [f"# {TANDA} · {len(SHORTS3)} Shorts (YouTube + TikTok)\n", "| Vídeo | Serie | YouTube | TikTok | Título |", "|---|---|---|---|---|"]
 for vid, title, serie, d1, h1, d2, h2, cap in csv_rows:
     md.append(f"| {vid} | {serie} | {DOW[d1]} · {h1} | {DOW[d2]} · {h2} | {title} |")
-open(os.path.join(cd, "calendario_tanda3.md"), "w").write("\n".join(md) + "\n")
+open(os.path.join(cd, f"calendario_{TANDA.lower().replace(' ', '_')}.md"), "w").write("\n".join(md) + "\n")
 import csv as _csv
-with open(os.path.join(cd, "calendario_tanda3.csv"), "w", newline="") as fh:
+with open(os.path.join(cd, f"calendario_{TANDA.lower().replace(' ', '_')}.csv"), "w", newline="") as fh:
     w = _csv.writer(fh); w.writerow(["video", "titulo", "serie", "youtube_fecha", "youtube_hora", "tiktok_fecha", "tiktok_hora", "texto_tiktok"])
     w.writerows(csv_rows)
 print(len(posts), "posts")
