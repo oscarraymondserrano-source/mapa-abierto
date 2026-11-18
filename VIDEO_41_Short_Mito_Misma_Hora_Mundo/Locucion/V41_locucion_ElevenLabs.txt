@@ -1,0 +1,8 @@
+# Pegar en ElevenLabs (modelo multilingüe). Las MAYÚSCULAS marcan énfasis; <break> son pausas.
+# Ajustes: Stability 45 · Similarity 80 · Style 20 · Speaker boost ON. Velocidad 1.05.
+
+¿Mito o verdad? GTA 6 se desbloquea a la misma hora en todo el mundo. <break time="0.4s" />
+
+¡Mito! Según el soporte de Rockstar, se desbloquea a medianoche, hora local, en cada región. Por eso Nueva Zelanda fue de los primeros países en jugar y América de los últimos. <break time="0.4s" />
+
+Por eso verás gente jugando horas antes que tú. Sígueme para más mitos y verdades de GTA. <break time="0.4s" />

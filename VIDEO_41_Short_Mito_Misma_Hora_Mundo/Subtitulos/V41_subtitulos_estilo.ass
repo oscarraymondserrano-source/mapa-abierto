@@ -1,0 +1,25 @@
+[Script Info]
+Title: V41 subtítulos Mapa Abierto
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Marca,Inter Display,78,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,-1,0,0,0,100,100,0,0,1,5,3,2,80,80,560,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.05,0:00:01.25,Marca,,0,0,0,,{\fad(60,40)}¿Mito o verdad?
+Dialogue: 0,0:00:01.27,0:00:03.04,Marca,,0,0,0,,{\fad(60,40)}GTA 6 se\Ndesbloquea a la
+Dialogue: 0,0:00:03.06,0:00:05.09,Marca,,0,0,0,,{\fad(60,40)}misma hora en\Ntodo el mundo.
+Dialogue: 0,0:00:05.46,0:00:06.01,Marca,,0,0,0,,{\fad(60,40)}¡Mito!
+Dialogue: 0,0:00:06.03,0:00:08.68,Marca,,0,0,0,,{\fad(60,40)}Según el soporte de\NRockstar, se desbloquea
+Dialogue: 0,0:00:08.70,0:00:11.24,Marca,,0,0,0,,{\fad(60,40)}a medianoche, hora\Nlocal, en cada región.
+Dialogue: 0,0:00:11.26,0:00:13.80,Marca,,0,0,0,,{\fad(60,40)}Por eso Nueva Zelanda\Nfue de los primeros
+Dialogue: 0,0:00:13.82,0:00:16.36,Marca,,0,0,0,,{\fad(60,40)}países en jugar y\NAmérica de los últimos.
+Dialogue: 0,0:00:16.73,0:00:18.65,Marca,,0,0,0,,{\fad(60,40)}Por eso verás\Ngente jugando
+Dialogue: 0,0:00:18.67,0:00:20.09,Marca,,0,0,0,,{\fad(60,40)}horas antes que tú.
+Dialogue: 0,0:00:20.11,0:00:22.91,Marca,,0,0,0,,{\fad(60,40)}Sígueme para más mitos\Ny verdades de GTA.
