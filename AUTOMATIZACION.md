@@ -23,3 +23,9 @@ Este repositorio contiene todo lo necesario para que una sesión de Claude Code 
 
 ## Archivos que NO están en el repositorio
 MP4 y WAV (se regeneran) e imágenes de escena. Las entregas finales están en los ZIP enviados al usuario.
+
+## Publicación en Metricool (probado el 18/11/2026)
+- Marca `blogId` 8199011, zona `Europe/Madrid`; redes: YouTube y TikTok.
+- Vídeos alojados en el repo público `mapa-abierto-media` (`tandas/<fecha>/VXX_FINAL_1080x1920.mp4`); Metricool los copia a su servidor al programar.
+- Un post por red y hora. YouTube: `youtubeData` con `type: "short"`, `privacy: "public"`, `category: "GAMING"`, `madeForKids: false`.
+- **TikTok exige `tiktokData.title`** (si falta: "TikTok title is required"). Usar el título del vídeo; `isAigc: true` (voz sintética).

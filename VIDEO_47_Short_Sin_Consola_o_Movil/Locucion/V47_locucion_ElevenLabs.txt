@@ -1,0 +1,12 @@
+# Pegar en ElevenLabs (modelo multilingüe). Las MAYÚSCULAS marcan énfasis; <break> son pausas.
+# Ajustes: Stability 45 · Similarity 80 · Style 20 · Speaker boost ON. Velocidad 1.05.
+
+¿Se puede jugar a GTA 6 sin consola o en el móvil? Respuesta corta y sin rodeos. <break time="0.4s" />
+
+Oficialmente, GTA 6 solo existe en PlayStation 5 y Xbox Series. No hay versión para móvil ni para PC anunciada. <break time="0.4s" />
+
+Lo que sí puedes hacer es jugar a distancia a tu propia consola desde el móvil, con las aplicaciones de juego remoto de PlayStation o de Xbox. Pero necesitas la consola. <break time="0.4s" />
+
+Y cuidado: cualquier aplicación o web que te ofrezca GTA 6 para móvil o PC es una estafa. <break time="0.4s" />
+
+Pásaselo a quien esté a punto de picar. Sígueme. <break time="0.4s" />

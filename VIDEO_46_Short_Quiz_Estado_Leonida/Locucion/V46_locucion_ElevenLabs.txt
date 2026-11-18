@@ -1,0 +1,12 @@
+# Pegar en ElevenLabs (modelo multilingüe). Las MAYÚSCULAS marcan énfasis; <break> son pausas.
+# Ajustes: Stability 45 · Similarity 80 · Style 20 · Speaker boost ON. Velocidad 1.05.
+
+Pregunta básica para empezar el día. Tres segundos. <break time="0.4s" />
+
+¿Cómo se llama el estado ficticio donde transcurre GTA 6? A, San Andreas. B, Leonida. C, Liberty. <break time="0.4s" />
+
+¡La B! Leonida, inspirado en Florida, con Vice City como gran ciudad. <break time="0.4s" />
+
+San Andreas era el estado de GTA 5, y Liberty City, la ciudad de GTA 3 y GTA 4. <break time="0.4s" />
+
+¿Acertaste? Dímelo en comentarios y sígueme para el siguiente quiz. <break time="0.4s" />

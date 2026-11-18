@@ -268,7 +268,7 @@ function renderWeek() {
   }
   html += `</tbody></table><div class="legend"><span>Publicaciones por hora en toda la semana (las 3 tandas, YouTube + TikTok).</span><span>Más intenso = más publicaciones.</span></div></div>`;
   html += `<h2 style="font:700 1.1rem var(--f-disp);margin:18px 0 10px">Por qué estas horas</h2><div class="why">${D.why.map(w => `<div><b>${esc(w[0])}</b>${esc(w[1])}</div>`).join("")}</div>`;
-  html += `<h2 style="font:700 1.1rem var(--f-disp);margin:18px 0 10px">Las 5 series de esta tanda</h2><div class="series">${D.series.map(s => `<div><b>${esc(s[0])}</b><span>${esc(s[1])}</span></div>`).join("")}</div>`;
+  html += `<h2 style="font:700 1.1rem var(--f-disp);margin:18px 0 10px">Las series de esta tanda</h2><div class="series">${D.series.map(s => `<div><b>${esc(s[0])}</b><span>${esc(s[1])}</span></div>`).join("")}</div>`;
   box.innerHTML = html;
 }
 

@@ -1,0 +1,28 @@
+[Script Info]
+Title: V45 subtítulos Mapa Abierto
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Marca,Inter Display,78,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,-1,0,0,0,100,100,0,0,1,5,3,2,80,80,560,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.05,0:00:02.73,Marca,,0,0,0,,{\fad(60,40)}¿Te acaba de pasar\Nalgo épico en GTA 6?
+Dialogue: 0,0:00:02.75,0:00:04.67,Marca,,0,0,0,,{\fad(60,40)}Así lo guardas\Nen segundos.
+Dialogue: 0,0:00:05.04,0:00:07.23,Marca,,0,0,0,,{\fad(60,40)}En PS5, pulsa\Nel botón Crear y
+Dialogue: 0,0:00:07.25,0:00:09.57,Marca,,0,0,0,,{\fad(60,40)}elige guardar el\Njuego reciente.
+Dialogue: 0,0:00:09.59,0:00:12.42,Marca,,0,0,0,,{\fad(60,40)}La consola guarda lo\Nque acaba de pasar.
+Dialogue: 0,0:00:12.79,0:00:15.57,Marca,,0,0,0,,{\fad(60,40)}En Xbox, mantén pulsado\Nel botón Compartir
+Dialogue: 0,0:00:15.59,0:00:17.88,Marca,,0,0,0,,{\fad(60,40)}para grabar lo que\Nacaba de pasar.
+Dialogue: 0,0:00:17.90,0:00:20.37,Marca,,0,0,0,,{\fad(60,40)}Una pulsación corta\Nhace una captura.
+Dialogue: 0,0:00:20.74,0:00:21.28,Marca,,0,0,0,,{\fad(60,40)}Truco:
+Dialogue: 0,0:00:21.30,0:00:23.37,Marca,,0,0,0,,{\fad(60,40)}en los ajustes de\Ncapturas puedes
+Dialogue: 0,0:00:23.39,0:00:25.40,Marca,,0,0,0,,{\fad(60,40)}elegir la duración\Ny la calidad.
+Dialogue: 0,0:00:25.42,0:00:28.27,Marca,,0,0,0,,{\fad(60,40)}Y antes de compartirlo,\Npiensa en los spoilers.
+Dialogue: 0,0:00:28.64,0:00:30.28,Marca,,0,0,0,,{\fad(60,40)}Etiquétanos en tus clips.
+Dialogue: 0,0:00:30.30,0:00:32.23,Marca,,0,0,0,,{\fad(60,40)}Los mejores salen\Nen el canal.

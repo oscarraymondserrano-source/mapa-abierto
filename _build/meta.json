@@ -398,5 +398,75 @@
   "out": "VIDEO_40_Short_Trailer_Record/Video_Final/V40_FINAL_1080x1920.mp4",
   "fecha": "YouTube: Lunes 23/11 · 13:30 · TikTok: Lunes 23/11 · 14:15",
   "carpeta": "VIDEO_40_Short_Trailer_Record"
+ },
+ {
+  "id": "V41",
+  "titulo": "¿GTA 6 sale a la misma hora en todo el mundo?",
+  "formato": "short",
+  "modo": "final",
+  "dur": 23.23,
+  "out": "VIDEO_41_Short_Mito_Misma_Hora_Mundo/Video_Final/V41_FINAL_1080x1920.mp4",
+  "fecha": "",
+  "carpeta": "VIDEO_41_Short_Mito_Misma_Hora_Mundo"
+ },
+ {
+  "id": "V42",
+  "titulo": "Cómo descargar GTA 6 en PS5 (digital y con código)",
+  "formato": "short",
+  "modo": "final",
+  "dur": 36.7,
+  "out": "VIDEO_42_Short_Descargar_en_PS5/Video_Final/V42_FINAL_1080x1920.mp4",
+  "fecha": "",
+  "carpeta": "VIDEO_42_Short_Descargar_en_PS5"
+ },
+ {
+  "id": "V43",
+  "titulo": "Cómo descargar GTA 6 en Xbox Series X|S",
+  "formato": "short",
+  "modo": "final",
+  "dur": 32.67,
+  "out": "VIDEO_43_Short_Descargar_en_Xbox/Video_Final/V43_FINAL_1080x1920.mp4",
+  "fecha": "",
+  "carpeta": "VIDEO_43_Short_Descargar_en_Xbox"
+ },
+ {
+  "id": "V44",
+  "titulo": "Cuidado con los vídeos falsos de GTA 6 hechos con IA",
+  "formato": "short",
+  "modo": "final",
+  "dur": 40.3,
+  "out": "VIDEO_44_Short_Videos_Falsos_IA/Video_Final/V44_FINAL_1080x1920.mp4",
+  "fecha": "",
+  "carpeta": "VIDEO_44_Short_Videos_Falsos_IA"
+ },
+ {
+  "id": "V45",
+  "titulo": "Cómo grabar clips de GTA 6 en PS5 y Xbox",
+  "formato": "short",
+  "modo": "final",
+  "dur": 32.55,
+  "out": "VIDEO_45_Short_Grabar_Clips/Video_Final/V45_FINAL_1080x1920.mp4",
+  "fecha": "",
+  "carpeta": "VIDEO_45_Short_Grabar_Clips"
+ },
+ {
+  "id": "V46",
+  "titulo": "Quiz: ¿en qué estado transcurre GTA 6?",
+  "formato": "short",
+  "modo": "final",
+  "dur": 32.53,
+  "out": "VIDEO_46_Short_Quiz_Estado_Leonida/Video_Final/V46_FINAL_1080x1920.mp4",
+  "fecha": "",
+  "carpeta": "VIDEO_46_Short_Quiz_Estado_Leonida"
+ },
+ {
+  "id": "V47",
+  "titulo": "¿Se puede jugar GTA 6 sin consola o en el móvil?",
+  "formato": "short",
+  "modo": "final",
+  "dur": 36.28,
+  "out": "VIDEO_47_Short_Sin_Consola_o_Movil/Video_Final/V47_FINAL_1080x1920.mp4",
+  "fecha": "",
+  "carpeta": "VIDEO_47_Short_Sin_Consola_o_Movil"
  }
 ]

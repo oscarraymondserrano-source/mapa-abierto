@@ -20,7 +20,8 @@ class _Dow(dict):
         x = _dt.date.fromisoformat(d); return f"{_DN[x.weekday()]} {x.day:02d}/{x.month:02d}"
 DOW = _Dow()
 SERIE_TT = {"QUIZ": ("🧠", "#quiz #quizgta #trivia"), "MITO": ("🔍", "#mitooverdad #mitos"), "LA SAGA": ("📼", "#historiagta #nostalgia"),
-            "LANZAMIENTO": ("⏰", "#lanzamiento #parati"), "ESTO": ("⚔️", "#encuesta #parati")}
+            "LANZAMIENTO": ("⏰", "#lanzamiento #parati"), "ESTO": ("⚔️", "#encuesta #parati"), "GUÍA": ("📲", "#tutorial #consejos"), "NOTICIA": ("📰", "#noticias #gta6news")}
+SERIE_DESC = {"QUIZ": "Pregunta, 3 opciones y 3 segundos para pensar antes de la respuesta.", "MITO": "Una afirmación y un sello rojo o verde. Corto y muy compartible.", "LA SAGA": "Historia y curiosidades de GTA.", "LANZAMIENTO": "Información práctica para las horas clave.", "ESTO": "Encuestas en comentarios.", "GUÍA": "Respuesta práctica a una búsqueda concreta.", "NOTICIA": "Novedades confirmadas y atribuidas."}
 TT_BASE = "#gta6 #gtavi #gta #videojuegos #gaming"
 
 for v in SHORTS3:
@@ -71,11 +72,10 @@ why = [
     ["Series reconocibles", "Cada serie lleva su etiqueta y su formato. Quien ve un quiz y acierta quiere el siguiente: eso dispara suscripciones."],
     ["Barra de progreso", "Todos los Shorts nuevos llevan una barra animada arriba: ver cuánto falta anima a terminar el vídeo y mejora la retención."],
 ]
-series = [["QUIZ GTA (5)", "Pregunta, 3 opciones y 3 segundos para pensar antes de la respuesta."],
-          ["MITO O VERDAD (5)", "Una afirmación y un sello rojo o verde. Corto y muy compartible."],
-          ["LA SAGA EN 30 s (6)", "Historia y curiosidades de GTA, de 1997 a Leonida."],
-          ["LANZAMIENTO (2)", "Hora en Latinoamérica y qué hacer si a las 00:00 no te deja jugar."],
-          ["ESTO O AQUELLO (2)", "Encuestas en comentarios: PS5 o Xbox, ciudad o naturaleza."]]
+from collections import Counter as _C
+_cnt = _C(next(k for k in SERIE_TT if v["serie"].startswith(k)) for v in SHORTS3)
+_lab = {"QUIZ": "QUIZ GTA", "MITO": "MITO O VERDAD", "LA SAGA": "LA SAGA EN 30 s", "LANZAMIENTO": "LANZAMIENTO", "ESTO": "ESTO O AQUELLO", "GUÍA": "GUÍA RÁPIDA", "NOTICIA": "NOTICIA"}
+series = [[f"{_lab[k]} ({n})", SERIE_DESC[k]] for k, n in _cnt.items()]
 data = dict(posts=posts, heat=heat, why=why, series=series, label=f"{TANDA} · {len(SHORTS3)} Shorts × 2 plataformas")
 t = open(os.path.join(os.path.dirname(__file__), "centro_template.html")).read()
 open(OUT, "w").write(t.replace("__DATA__", json.dumps(data, ensure_ascii=False).replace("</", "<\\/")))
