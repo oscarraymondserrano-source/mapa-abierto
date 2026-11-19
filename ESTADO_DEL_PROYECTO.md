@@ -38,5 +38,6 @@ Los MP4 no se guardan en este repositorio (ver `.gitignore`); se regeneran con e
 
 ## Pendiente
 - Pasar la operación a una sesión con un solo repositorio (hacer público `mapa-abierto` y alojar ahí los MP4) para no tener que aprobar acciones.
-- V08–V10: montar cuando el usuario envíe grabaciones del juego.
+- V08–V10: montar cuando el usuario envíe grabaciones del juego (o rehacer con material oficial de Rockstar).
+- Desde el 19/11: los Shorts pueden usar capturas y tráiler oficiales de Rockstar (ver AUTOMATIZACION.md). V59 es la prueba (20/11 17:00 YT, 17:40 TikTok).
 - Revisar analíticas en Metricool tras las primeras publicaciones y ajustar horarios y series.

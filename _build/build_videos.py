@@ -303,7 +303,27 @@ def draw_options(img, opts, y, W, short, shown=None, correct=None, reveal=False)
 INITIALS = {"LUCIA CAMINOS": "LC", "JASON DUVAL": "JD", "JASON & LUCIA": "J+L", "JASON & LUCIA · LEONIDA": "J+L"}
 
 
-def scene_image(v, sc, idx, W, H, final, n_items=None, last=False, countdown=None, stamp_on=True):
+RK_DIR = os.environ.get("MA_RK", "/tmp/claude-0/rk_dl")
+
+
+def official_photo(rel, W, H, fx=0.5):
+    """Captura oficial de Rockstar recortada a W×H (cover) con foco horizontal fx."""
+    im = Image.open(os.path.join(RK_DIR, "x_GTAVI_Screenshots", rel)).convert("RGB")
+    sc_ = max(W / im.width, H / im.height)
+    im = im.resize((int(im.width * sc_ + 1), int(im.height * sc_ + 1)), Image.LANCZOS)
+    x = int((im.width - W) * fx); y = (im.height - H) // 2
+    return im.crop((x, y, x + W, y + H)).convert("RGBA")
+
+
+def credit_chip(img, W, H, short, text):
+    f = font(F_MONO, 30 if short else 24)
+    tw = text_size(f, text)[0]
+    x, y = (40, 300) if short else (W - tw - 70, 30)
+    rounded_box(img, (x, y, x + tw + 30, y + (50 if short else 42)), 10, (0, 0, 0, 170))
+    ImageDraw.Draw(img).text((x + 15, y + (9 if short else 7)), text, font=f, fill=(235, 235, 245))
+
+
+def scene_image(v, sc, idx, W, H, final, n_items=None, last=False, countdown=None, stamp_on=True, clip_overlay=False):
     short = H > W
     seed = idx + (7 if short else 0)
     if final and last and not short:
@@ -319,10 +339,21 @@ def scene_image(v, sc, idx, W, H, final, n_items=None, last=False, countdown=Non
     style = (idx % 3) if final else 0
     if final and (sc.get("esquema") or sc["rotulo"] in ("MAPA ABIERTO", "SÍGUEME", "GUÁRDALO")):
         style = 0
-    img = brand_bg(W, H, seed, style)
-    dark = Image.new("RGBA", (W, H), (5, 5, 20, 120 if sc["tipo"] == "GRAFICO" else 150))
-    img.alpha_composite(dark)
-    vignette(img, 0.45)
+    if clip_overlay or sc.get("foto"):
+        img = Image.new("RGBA", (W, H), (0, 0, 0, 0)) if clip_overlay else official_photo(sc["foto"], W, H, sc.get("fx", 0.5))
+        grad = Image.new("RGBA", (W, H), (0, 0, 0, 0))
+        gd = ImageDraw.Draw(grad)
+        for yy in range(H):  # oscurecer arriba (rótulos) y abajo (subtítulos), dejar el centro limpio
+            t = yy / H
+            a = int(185 * max(0, 1 - t / 0.42) ** 1.4 + 200 * max(0, (t - 0.55) / 0.45) ** 1.6) if short else int(170 * max(0, 1 - t / 0.35) ** 1.5 + 190 * max(0, (t - 0.7) / 0.3) ** 1.5)
+            gd.line([(0, yy), (W, yy)], fill=(5, 5, 20, min(220, a)))
+        img.alpha_composite(grad)
+        credit_chip(img, W, H, short, "Vídeo: Rockstar Games" if clip_overlay else "Imagen: Rockstar Games")
+    else:
+        img = brand_bg(W, H, seed, style)
+        dark = Image.new("RGBA", (W, H), (5, 5, 20, 120 if sc["tipo"] == "GRAFICO" else 150))
+        img.alpha_composite(dark)
+        vignette(img, 0.45)
     d = ImageDraw.Draw(img)
     s = W / 1920 if not short else W / 1080
     tag_f = font(F_MONO, int(26 * s))
@@ -578,7 +609,10 @@ def apply_final(v):
             sc["tipo"] = "GRAFICO"
             sc["nota"] = ""
     d = v["seo"]["descripcion"]
-    d = _re.sub(r"Imágenes del juego:.*?no son imágenes del juego\.", FO.PIE_FINAL, d, flags=_re.S)
+    if v.get("oficial"):
+        d = d  # lleva material oficial: se respeta su pie de créditos
+    else:
+        d = _re.sub(r"Imágenes del juego:.*?no son imágenes del juego\.", FO.PIE_FINAL, d, flags=_re.S)
     d = _re.sub(r"Grabado en partida propia.*?no son imágenes del juego\.", FO.PIE_FINAL, d, flags=_re.S)
     if v["id"] in FO.SEO_EXTRA:
         a, b = FO.SEO_EXTRA[v["id"]]
@@ -725,6 +759,17 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
                 stage_frames = [total_frames]; stage_imgs = [im]
             zin = i % 2 == 0
             off = 0
+            if final and sc.get("clip"):
+                src, start = sc["clip"]
+                ov = os.path.join(work, f"ov{i:02d}.png")
+                scene_image(v, sc, i, W, H, final, clip_overlay=True).save(ov)
+                scale = (f"crop=iw:iw/2,scale=-2:{H},crop={W}:{H}" if short else f"crop=iw:iw/2,scale={W}:-2,pad={W}:{H}:0:(oh-ih)/2") if "Trailer" in src else (f"scale=-2:{H},crop={W}:{H}" if short else f"scale={W}:{H}")
+                clip = os.path.join(work, f"c{i:02d}_clip.mp4")
+                run(["ffmpeg", "-y", "-loglevel", "error", "-ss", str(start), "-t", f"{sc['dur']:.3f}", "-i", os.path.join(RK_DIR, src),
+                     "-loop", "1", "-i", ov, "-filter_complex", f"[0:v]{scale},fps={FPS},setsar=1[b];[b][1:v]overlay=0:0:shortest=1,format=yuv420p",
+                     "-frames:v", str(total_frames), "-an", "-c:v", "libx264", "-preset", "veryfast", "-crf", "20", "-r", str(FPS), clip])
+                fh.write(f"file '{clip}'\n")
+                continue
             for k, (fr_n, simg) in enumerate(zip(stage_frames, stage_imgs)):
                 big = os.path.join(work, f"big{i:02d}_{k}.png")
                 simg.convert("RGB").resize((int(W * 1.2), int(H * 1.2)), Image.LANCZOS).save(big)
