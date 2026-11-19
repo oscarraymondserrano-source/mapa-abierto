@@ -1,0 +1,8 @@
+# Pegar en ElevenLabs (modelo multilingüe). Las MAYÚSCULAS marcan énfasis; <break> son pausas.
+# Ajustes: Stability 45 · Similarity 80 · Style 20 · Speaker boost ON. Velocidad 1.05.
+
+¿Mito o verdad? GTA 6 tiene dos protagonistas. <break time="0.4s" />
+
+¡Verdad! Jason Duval y Lucia Caminos, una pareja que se mete en un golpe que sale mal. <break time="0.4s" />
+
+¿Con quién vas a jugar más? Sígueme para más mitos y verdades de GTA. <break time="0.4s" />

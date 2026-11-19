@@ -1,0 +1,27 @@
+[Script Info]
+Title: V77 subtítulos Mapa Abierto
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Marca,Inter Display,78,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,-1,0,0,0,100,100,0,0,1,5,3,2,80,80,560,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.05,0:00:01.89,Marca,,0,0,0,,{\fad(60,40)}Pregunta con juego real.
+Dialogue: 0,0:00:01.91,0:00:03.09,Marca,,0,0,0,,{\fad(60,40)}Tres segundos.
+Dialogue: 0,0:00:03.46,0:00:07.33,Marca,,0,0,0,,{\fad(60,40)}¿Cuánto duraba el\NExtended Look de GTA 6?
+Dialogue: 0,0:00:07.35,0:00:09.06,Marca,,0,0,0,,{\fad(60,40)}A, diez minutos.
+Dialogue: 0,0:00:09.08,0:00:12.27,Marca,,0,0,0,,{\fad(60,40)}B, unos veintisiete.\NC, una hora.
+Dialogue: 0,0:00:15.64,0:00:16.18,Marca,,0,0,0,,{\fad(60,40)}¡La B!
+Dialogue: 0,0:00:16.20,0:00:18.33,Marca,,0,0,0,,{\fad(60,40)}Unos veintisiete\Nminutos de juego.
+Dialogue: 0,0:00:18.70,0:00:20.81,Marca,,0,0,0,,{\fad(60,40)}Y según Rockstar,\Ntodo estaba
+Dialogue: 0,0:00:20.83,0:00:23.38,Marca,,0,0,0,,{\fad(60,40)}grabado en una\NPlayStation 5 normal.
+Dialogue: 0,0:00:23.40,0:00:24.93,Marca,,0,0,0,,{\fad(60,40)}Como estas imágenes.
+Dialogue: 0,0:00:25.30,0:00:26.09,Marca,,0,0,0,,{\fad(60,40)}¿Acertaste?
+Dialogue: 0,0:00:26.11,0:00:27.54,Marca,,0,0,0,,{\fad(60,40)}Dímelo en\Ncomentarios y
+Dialogue: 0,0:00:27.56,0:00:29.43,Marca,,0,0,0,,{\fad(60,40)}sígueme para el\Nsiguiente quiz.

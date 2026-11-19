@@ -1,0 +1,24 @@
+[Script Info]
+Title: V83 subtítulos Mapa Abierto
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Marca,Inter Display,78,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,-1,0,0,0,100,100,0,0,1,5,3,2,80,80,560,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.05,0:00:01.27,Marca,,0,0,0,,{\fad(60,40)}¿Mito o verdad?
+Dialogue: 0,0:00:01.29,0:00:02.89,Marca,,0,0,0,,{\fad(60,40)}En GTA 6\Npuedes ir en
+Dialogue: 0,0:00:02.91,0:00:05.30,Marca,,0,0,0,,{\fad(60,40)}hidrodeslizador\Npor los pantanos.
+Dialogue: 0,0:00:05.67,0:00:06.33,Marca,,0,0,0,,{\fad(60,40)}¡Verdad!
+Dialogue: 0,0:00:06.35,0:00:08.08,Marca,,0,0,0,,{\fad(60,40)}Se vio en el\NExtended Look:
+Dialogue: 0,0:00:08.10,0:00:10.12,Marca,,0,0,0,,{\fad(60,40)}hidrodeslizador\Npor Grassrivers,
+Dialogue: 0,0:00:10.14,0:00:11.99,Marca,,0,0,0,,{\fad(60,40)}la versión de\Nlos Everglades.
+Dialogue: 0,0:00:12.01,0:00:13.58,Marca,,0,0,0,,{\fad(60,40)}Y también motos de agua.
+Dialogue: 0,0:00:13.95,0:00:15.81,Marca,,0,0,0,,{\fad(60,40)}Y cuidado con\Nlos caimanes.
+Dialogue: 0,0:00:15.83,0:00:18.54,Marca,,0,0,0,,{\fad(60,40)}Sígueme para más mitos\Ny verdades de GTA.

@@ -1,0 +1,21 @@
+[Script Info]
+Title: V80 subtítulos Mapa Abierto
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Marca,Inter Display,78,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,-1,0,0,0,100,100,0,0,1,5,3,2,80,80,560,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.05,0:00:01.56,Marca,,0,0,0,,{\fad(60,40)}¿Mito o verdad?
+Dialogue: 0,0:00:01.58,0:00:04.29,Marca,,0,0,0,,{\fad(60,40)}GTA 6 tiene\Ndos protagonistas.
+Dialogue: 0,0:00:04.66,0:00:05.36,Marca,,0,0,0,,{\fad(60,40)}¡Verdad!
+Dialogue: 0,0:00:05.38,0:00:07.96,Marca,,0,0,0,,{\fad(60,40)}Jason Duval y Lucia\NCaminos, una pareja
+Dialogue: 0,0:00:07.98,0:00:10.44,Marca,,0,0,0,,{\fad(60,40)}que se mete en un\Ngolpe que sale mal.
+Dialogue: 0,0:00:10.81,0:00:12.65,Marca,,0,0,0,,{\fad(60,40)}¿Con quién vas\Na jugar más?
+Dialogue: 0,0:00:12.67,0:00:15.35,Marca,,0,0,0,,{\fad(60,40)}Sígueme para más mitos\Ny verdades de GTA.

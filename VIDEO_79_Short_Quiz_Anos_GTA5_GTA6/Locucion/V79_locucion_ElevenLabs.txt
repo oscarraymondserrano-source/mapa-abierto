@@ -1,0 +1,12 @@
+# Pegar en ElevenLabs (modelo multilingüe). Las MAYÚSCULAS marcan énfasis; <break> son pausas.
+# Ajustes: Stability 45 · Similarity 80 · Style 20 · Speaker boost ON. Velocidad 1.05.
+
+Pregunta de paciencia. Tres segundos. <break time="0.4s" />
+
+¿Cuántos años han pasado entre GTA 5 y GTA 6? A, diez. B, trece. C, quince. <break time="0.4s" />
+
+¡La B! Trece años: GTA 5 salió en septiembre de 2013 y GTA 6, este noviembre de 2026. <break time="0.4s" />
+
+Nunca había pasado tanto tiempo entre dos GTA principales. <break time="0.4s" />
+
+¿Acertaste? Dímelo en comentarios y sígueme para el siguiente quiz. <break time="0.4s" />

@@ -1,0 +1,27 @@
+[Script Info]
+Title: V79 subtítulos Mapa Abierto
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Marca,Inter Display,78,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,-1,0,0,0,100,100,0,0,1,5,3,2,80,80,560,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.05,0:00:01.63,Marca,,0,0,0,,{\fad(60,40)}Pregunta de paciencia.
+Dialogue: 0,0:00:01.65,0:00:02.74,Marca,,0,0,0,,{\fad(60,40)}Tres segundos.
+Dialogue: 0,0:00:03.11,0:00:08.16,Marca,,0,0,0,,{\fad(60,40)}¿Cuántos años han pasado\Nentre GTA 5 y GTA 6?
+Dialogue: 0,0:00:08.18,0:00:10.44,Marca,,0,0,0,,{\fad(60,40)}A, diez.\NB, trece.
+Dialogue: 0,0:00:10.46,0:00:11.88,Marca,,0,0,0,,{\fad(60,40)}C, quince.
+Dialogue: 0,0:00:15.25,0:00:17.09,Marca,,0,0,0,,{\fad(60,40)}¡La B!\NTrece años:
+Dialogue: 0,0:00:17.11,0:00:19.78,Marca,,0,0,0,,{\fad(60,40)}GTA 5 salió en\Nseptiembre de
+Dialogue: 0,0:00:19.80,0:00:23.23,Marca,,0,0,0,,{\fad(60,40)}2013 y GTA 6, este\Nnoviembre de 2026.
+Dialogue: 0,0:00:23.60,0:00:25.15,Marca,,0,0,0,,{\fad(60,40)}Nunca había\Npasado tanto
+Dialogue: 0,0:00:25.17,0:00:27.22,Marca,,0,0,0,,{\fad(60,40)}tiempo entre dos\NGTA principales.
+Dialogue: 0,0:00:27.59,0:00:28.35,Marca,,0,0,0,,{\fad(60,40)}¿Acertaste?
+Dialogue: 0,0:00:28.37,0:00:29.75,Marca,,0,0,0,,{\fad(60,40)}Dímelo en\Ncomentarios y
+Dialogue: 0,0:00:29.77,0:00:31.56,Marca,,0,0,0,,{\fad(60,40)}sígueme para el\Nsiguiente quiz.

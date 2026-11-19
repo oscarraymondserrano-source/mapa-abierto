@@ -1,0 +1,27 @@
+[Script Info]
+Title: V78 subtítulos Mapa Abierto
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Marca,Inter Display,78,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,-1,0,0,0,100,100,0,0,1,5,3,2,80,80,560,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.05,0:00:01.96,Marca,,0,0,0,,{\fad(60,40)}Pregunta fácil… o no.
+Dialogue: 0,0:00:01.98,0:00:03.35,Marca,,0,0,0,,{\fad(60,40)}Tres segundos.
+Dialogue: 0,0:00:03.72,0:00:07.64,Marca,,0,0,0,,{\fad(60,40)}¿En qué ciudad real\Nse inspira Vice City?
+Dialogue: 0,0:00:07.66,0:00:09.30,Marca,,0,0,0,,{\fad(60,40)}A, Los Ángeles.
+Dialogue: 0,0:00:09.32,0:00:11.76,Marca,,0,0,0,,{\fad(60,40)}B, Nueva York.\NC, Miami.
+Dialogue: 0,0:00:15.13,0:00:16.18,Marca,,0,0,0,,{\fad(60,40)}¡La C!\NMiami.
+Dialogue: 0,0:00:16.20,0:00:18.31,Marca,,0,0,0,,{\fad(60,40)}Y Leonida entera\Nes la versión
+Dialogue: 0,0:00:18.33,0:00:20.01,Marca,,0,0,0,,{\fad(60,40)}de Rockstar\Nde Florida.
+Dialogue: 0,0:00:20.38,0:00:22.37,Marca,,0,0,0,,{\fad(60,40)}Los Ángeles\Nes Los Santos,
+Dialogue: 0,0:00:22.39,0:00:24.45,Marca,,0,0,0,,{\fad(60,40)}y Nueva York,\NLiberty City.
+Dialogue: 0,0:00:24.82,0:00:25.59,Marca,,0,0,0,,{\fad(60,40)}¿Acertaste?
+Dialogue: 0,0:00:25.61,0:00:27.00,Marca,,0,0,0,,{\fad(60,40)}Dímelo en\Ncomentarios y
+Dialogue: 0,0:00:27.02,0:00:28.83,Marca,,0,0,0,,{\fad(60,40)}sígueme para el\Nsiguiente quiz.

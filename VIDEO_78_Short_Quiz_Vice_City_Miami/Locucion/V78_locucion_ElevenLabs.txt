@@ -1,0 +1,12 @@
+# Pegar en ElevenLabs (modelo multilingüe). Las MAYÚSCULAS marcan énfasis; <break> son pausas.
+# Ajustes: Stability 45 · Similarity 80 · Style 20 · Speaker boost ON. Velocidad 1.05.
+
+Pregunta fácil… o no. Tres segundos. <break time="0.4s" />
+
+¿En qué ciudad real se inspira Vice City? A, Los Ángeles. B, Nueva York. C, Miami. <break time="0.4s" />
+
+¡La C! Miami. Y Leonida entera es la versión de Rockstar de Florida. <break time="0.4s" />
+
+Los Ángeles es Los Santos, y Nueva York, Liberty City. <break time="0.4s" />
+
+¿Acertaste? Dímelo en comentarios y sígueme para el siguiente quiz. <break time="0.4s" />

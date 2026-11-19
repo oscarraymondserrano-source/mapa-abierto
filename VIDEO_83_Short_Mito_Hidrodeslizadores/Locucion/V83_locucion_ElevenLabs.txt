@@ -1,0 +1,8 @@
+# Pegar en ElevenLabs (modelo multilingüe). Las MAYÚSCULAS marcan énfasis; <break> son pausas.
+# Ajustes: Stability 45 · Similarity 80 · Style 20 · Speaker boost ON. Velocidad 1.05.
+
+¿Mito o verdad? En GTA 6 puedes ir en hidrodeslizador por los pantanos. <break time="0.4s" />
+
+¡Verdad! Se vio en el Extended Look: hidrodeslizador por Grassrivers, la versión de los Everglades. Y también motos de agua. <break time="0.4s" />
+
+Y cuidado con los caimanes. Sígueme para más mitos y verdades de GTA. <break time="0.4s" />

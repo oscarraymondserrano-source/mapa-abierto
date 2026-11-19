@@ -748,5 +748,85 @@
   "out": "VIDEO_75_Short_Atardeceres/Video_Final/V75_FINAL_1080x1920.mp4",
   "fecha": "",
   "carpeta": "VIDEO_75_Short_Atardeceres"
+ },
+ {
+  "id": "V76",
+  "titulo": "Quiz: ¿cuántas zonas tiene el mapa de GTA 6?",
+  "formato": "short",
+  "modo": "final",
+  "dur": 28.73,
+  "out": "VIDEO_76_Short_Quiz_Zonas_Leonida/Video_Final/V76_FINAL_1080x1920.mp4",
+  "fecha": "",
+  "carpeta": "VIDEO_76_Short_Quiz_Zonas_Leonida"
+ },
+ {
+  "id": "V77",
+  "titulo": "Quiz: ¿cuánto duró el Extended Look de GTA 6?",
+  "formato": "short",
+  "modo": "final",
+  "dur": 29.75,
+  "out": "VIDEO_77_Short_Quiz_Duracion_Extended_Look/Video_Final/V77_FINAL_1080x1920.mp4",
+  "fecha": "",
+  "carpeta": "VIDEO_77_Short_Quiz_Duracion_Extended_Look"
+ },
+ {
+  "id": "V78",
+  "titulo": "Quiz: ¿en qué ciudad se inspira Vice City?",
+  "formato": "short",
+  "modo": "final",
+  "dur": 29.15,
+  "out": "VIDEO_78_Short_Quiz_Vice_City_Miami/Video_Final/V78_FINAL_1080x1920.mp4",
+  "fecha": "",
+  "carpeta": "VIDEO_78_Short_Quiz_Vice_City_Miami"
+ },
+ {
+  "id": "V79",
+  "titulo": "Quiz: ¿cuántos años hemos esperado GTA 6?",
+  "formato": "short",
+  "modo": "final",
+  "dur": 31.88,
+  "out": "VIDEO_79_Short_Quiz_Anos_GTA5_GTA6/Video_Final/V79_FINAL_1080x1920.mp4",
+  "fecha": "",
+  "carpeta": "VIDEO_79_Short_Quiz_Anos_GTA5_GTA6"
+ },
+ {
+  "id": "V80",
+  "titulo": "¿GTA 6 tiene dos protagonistas? Mito o verdad",
+  "formato": "short",
+  "modo": "final",
+  "dur": 15.67,
+  "out": "VIDEO_80_Short_Mito_Dos_Protagonistas/Video_Final/V80_FINAL_1080x1920.mp4",
+  "fecha": "",
+  "carpeta": "VIDEO_80_Short_Mito_Dos_Protagonistas"
+ },
+ {
+  "id": "V81",
+  "titulo": "¿GTA 6 se grabó en PS5 Pro? Mito o verdad",
+  "formato": "short",
+  "modo": "final",
+  "dur": 19.96,
+  "out": "VIDEO_81_Short_Mito_PS5_Pro/Video_Final/V81_FINAL_1080x1920.mp4",
+  "fecha": "",
+  "carpeta": "VIDEO_81_Short_Mito_PS5_Pro"
+ },
+ {
+  "id": "V82",
+  "titulo": "¿Lucia es la primera mujer jugable de GTA? Mito",
+  "formato": "short",
+  "modo": "final",
+  "dur": 22.53,
+  "out": "VIDEO_82_Short_Mito_Lucia_Primera_Mujer/Video_Final/V82_FINAL_1080x1920.mp4",
+  "fecha": "",
+  "carpeta": "VIDEO_82_Short_Mito_Lucia_Primera_Mujer"
+ },
+ {
+  "id": "V83",
+  "titulo": "¿Hay hidrodeslizadores en GTA 6? Mito o verdad",
+  "formato": "short",
+  "modo": "final",
+  "dur": 18.86,
+  "out": "VIDEO_83_Short_Mito_Hidrodeslizadores/Video_Final/V83_FINAL_1080x1920.mp4",
+  "fecha": "",
+  "carpeta": "VIDEO_83_Short_Mito_Hidrodeslizadores"
  }
 ]

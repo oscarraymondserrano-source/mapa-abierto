@@ -1,0 +1,12 @@
+# Pegar en ElevenLabs (modelo multilingüe). Las MAYÚSCULAS marcan énfasis; <break> son pausas.
+# Ajustes: Stability 45 · Similarity 80 · Style 20 · Speaker boost ON. Velocidad 1.05.
+
+Pregunta con juego real. Tres segundos. <break time="0.4s" />
+
+¿Cuánto duraba el Extended Look de GTA 6? A, diez minutos. B, unos veintisiete. C, una hora. <break time="0.4s" />
+
+¡La B! Unos veintisiete minutos de juego. <break time="0.4s" />
+
+Y según Rockstar, todo estaba grabado en una PlayStation 5 normal. Como estas imágenes. <break time="0.4s" />
+
+¿Acertaste? Dímelo en comentarios y sígueme para el siguiente quiz. <break time="0.4s" />

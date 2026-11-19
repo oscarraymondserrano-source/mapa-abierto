@@ -1,0 +1,55 @@
+1
+00:00:00,050 --> 00:00:01,755
+Pregunta con juego real.
+
+2
+00:00:01,775 --> 00:00:02,864
+Tres segundos.
+
+3
+00:00:03,234 --> 00:00:07,500
+¿En cuántas zonas grandes
+se divide Leonida?
+
+4
+00:00:07,520 --> 00:00:09,554
+A, cuatro.
+B, seis.
+
+5
+00:00:09,574 --> 00:00:10,626
+C, ocho.
+
+6
+00:00:13,996 --> 00:00:14,719
+¡La B!
+
+7
+00:00:14,739 --> 00:00:17,024
+Seis zonas,
+según Rockstar.
+
+8
+00:00:17,394 --> 00:00:20,921
+Vice City, los Cayos de
+Leonida, Grassrivers,
+
+9
+00:00:20,941 --> 00:00:24,034
+Port Gellhorn, Ambrosia
+y Mount Kalaga.
+
+10
+00:00:24,404 --> 00:00:25,169
+¿Acertaste?
+
+11
+00:00:25,189 --> 00:00:26,581
+Dímelo en
+comentarios y
+
+12
+00:00:26,601 --> 00:00:28,413
+sígueme para el
+siguiente quiz.
+

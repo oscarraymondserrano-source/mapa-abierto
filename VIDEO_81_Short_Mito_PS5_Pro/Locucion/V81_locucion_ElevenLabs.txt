@@ -1,0 +1,8 @@
+# Pegar en ElevenLabs (modelo multilingüe). Las MAYÚSCULAS marcan énfasis; <break> son pausas.
+# Ajustes: Stability 45 · Similarity 80 · Style 20 · Speaker boost ON. Velocidad 1.05.
+
+¿Mito o verdad? El Extended Look de GTA 6 se grabó en una PS5 Pro. <break time="0.4s" />
+
+¡Mito! Según Rockstar, todo se grabó dentro del juego en una PlayStation 5 normal. Lo que ves aquí es eso. <break time="0.4s" />
+
+Así que en tu PS5 se verá así. Sígueme para más mitos y verdades de GTA. <break time="0.4s" />
