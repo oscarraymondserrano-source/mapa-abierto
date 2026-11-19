@@ -528,5 +528,55 @@
   "out": "VIDEO_53_Short_Actividades_Extended_Look/Video_Final/V53_FINAL_1080x1920.mp4",
   "fecha": "",
   "carpeta": "VIDEO_53_Short_Actividades_Extended_Look"
+ },
+ {
+  "id": "V54",
+  "titulo": "¿Qué pasará con GTA 5 y GTA Online ahora que sale GTA 6?",
+  "formato": "short",
+  "modo": "final",
+  "dur": 35.2,
+  "out": "VIDEO_54_Short_Que_pasa_con_GTA5_Online/Video_Final/V54_FINAL_1080x1920.mp4",
+  "fecha": "",
+  "carpeta": "VIDEO_54_Short_Que_pasa_con_GTA5_Online"
+ },
+ {
+  "id": "V55",
+  "titulo": "¿Se puede conseguir GTA 6 gratis? Cuidado",
+  "formato": "short",
+  "modo": "final",
+  "dur": 34.7,
+  "out": "VIDEO_55_Short_GTA6_Gratis_Estafa/Video_Final/V55_FINAL_1080x1920.mp4",
+  "fecha": "",
+  "carpeta": "VIDEO_55_Short_GTA6_Gratis_Estafa"
+ },
+ {
+  "id": "V56",
+  "titulo": "Metacritic tuvo que borrar reseñas falsas de GTA 6",
+  "formato": "short",
+  "modo": "final",
+  "dur": 31.97,
+  "out": "VIDEO_56_Short_Metacritic_Resenas_Falsas/Video_Final/V56_FINAL_1080x1920.mp4",
+  "fecha": "",
+  "carpeta": "VIDEO_56_Short_Metacritic_Resenas_Falsas"
+ },
+ {
+  "id": "V57",
+  "titulo": "Quiz: ¿qué GTA tiene la mejor nota de la historia?",
+  "formato": "short",
+  "modo": "final",
+  "dur": 33.67,
+  "out": "VIDEO_57_Short_Quiz_Mejor_Nota_Metacritic/Video_Final/V57_FINAL_1080x1920.mp4",
+  "fecha": "",
+  "carpeta": "VIDEO_57_Short_Quiz_Mejor_Nota_Metacritic"
+ },
+ {
+  "id": "V58",
+  "titulo": "Cómo comprar GTA 6 más barato (sin estafas)",
+  "formato": "short",
+  "modo": "final",
+  "dur": 36.08,
+  "out": "VIDEO_58_Short_Comprar_GTA6_Barato/Video_Final/V58_FINAL_1080x1920.mp4",
+  "fecha": "",
+  "carpeta": "VIDEO_58_Short_Comprar_GTA6_Barato"
  }
 ]

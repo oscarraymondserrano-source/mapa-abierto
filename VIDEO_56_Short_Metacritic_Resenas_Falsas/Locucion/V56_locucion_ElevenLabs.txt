@@ -1,0 +1,12 @@
+# Pegar en ElevenLabs (modelo multilingüe). Las MAYÚSCULAS marcan énfasis; <break> son pausas.
+# Ajustes: Stability 45 · Similarity 80 · Style 20 · Speaker boost ON. Velocidad 1.05.
+
+GTA 6 recibió notas de usuarios antes de que nadie pudiera jugarlo. Y Metacritic tuvo que intervenir. <break time="0.4s" />
+
+Días antes del lanzamiento, la página de usuarios de GTA 6 en Metacritic se llenó de puntuaciones de gente que no había podido jugar. <break time="0.4s" />
+
+Metacritic las borró y bloqueó las nuevas valoraciones de usuarios hasta que el juego saliera. <break time="0.4s" />
+
+Moraleja: antes de fiarte de una nota, mira quién la pone y si de verdad ha jugado. <break time="0.4s" />
+
+¿Qué nota le pondrías tú tras las primeras horas? Comenta. <break time="0.4s" />

@@ -1,0 +1,30 @@
+[Script Info]
+Title: V55 subtítulos Mapa Abierto
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Marca,Inter Display,78,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,-1,0,0,0,100,100,0,0,1,5,3,2,80,80,560,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.05,0:00:01.92,Marca,,0,0,0,,{\fad(60,40)}¿Has visto que\Nregalan GTA 6?
+Dialogue: 0,0:00:01.94,0:00:03.63,Marca,,0,0,0,,{\fad(60,40)}Para antes de\Npulsar nada.
+Dialogue: 0,0:00:04.00,0:00:06.13,Marca,,0,0,0,,{\fad(60,40)}No hay ninguna\Nforma oficial
+Dialogue: 0,0:00:06.15,0:00:08.14,Marca,,0,0,0,,{\fad(60,40)}de conseguir\NGTA 6 gratis.
+Dialogue: 0,0:00:08.16,0:00:10.28,Marca,,0,0,0,,{\fad(60,40)}Se compra para\NPlayStation 5
+Dialogue: 0,0:00:10.30,0:00:12.09,Marca,,0,0,0,,{\fad(60,40)}o Xbox Series,\Ny punto.
+Dialogue: 0,0:00:12.46,0:00:15.12,Marca,,0,0,0,,{\fad(60,40)}Las webs, aplicaciones\Ny sorteos que te
+Dialogue: 0,0:00:15.14,0:00:17.48,Marca,,0,0,0,,{\fad(60,40)}lo regalan a cambio\Nde tus datos o
+Dialogue: 0,0:00:17.50,0:00:19.53,Marca,,0,0,0,,{\fad(60,40)}de tu contraseña\Nson estafas:
+Dialogue: 0,0:00:19.55,0:00:22.39,Marca,,0,0,0,,{\fad(60,40)}buscan robar tu cuenta\No meterte un virus.
+Dialogue: 0,0:00:22.76,0:00:23.78,Marca,,0,0,0,,{\fad(60,40)}Regla de oro:
+Dialogue: 0,0:00:23.80,0:00:25.60,Marca,,0,0,0,,{\fad(60,40)}nunca des la\Ncontraseña de
+Dialogue: 0,0:00:25.62,0:00:27.66,Marca,,0,0,0,,{\fad(60,40)}PlayStation o\Nde Xbox a nadie.
+Dialogue: 0,0:00:27.68,0:00:29.42,Marca,,0,0,0,,{\fad(60,40)}Ningún sorteo\Nlegal te la
+Dialogue: 0,0:00:29.44,0:00:31.84,Marca,,0,0,0,,{\fad(60,40)}pedirá, ni te hará\Npagar para ganar.
+Dialogue: 0,0:00:32.21,0:00:34.38,Marca,,0,0,0,,{\fad(60,40)}Pásaselo a quien esté\Na punto de picar.

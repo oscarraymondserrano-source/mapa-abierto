@@ -1,0 +1,28 @@
+[Script Info]
+Title: V56 subtítulos Mapa Abierto
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Marca,Inter Display,78,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,-1,0,0,0,100,100,0,0,1,5,3,2,80,80,560,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.05,0:00:02.27,Marca,,0,0,0,,{\fad(60,40)}GTA 6 recibió\Nnotas de usuarios
+Dialogue: 0,0:00:02.29,0:00:04.76,Marca,,0,0,0,,{\fad(60,40)}antes de que nadie\Npudiera jugarlo.
+Dialogue: 0,0:00:04.78,0:00:07.13,Marca,,0,0,0,,{\fad(60,40)}Y Metacritic tuvo\Nque intervenir.
+Dialogue: 0,0:00:07.50,0:00:09.94,Marca,,0,0,0,,{\fad(60,40)}Días antes del\Nlanzamiento, la página
+Dialogue: 0,0:00:09.96,0:00:12.95,Marca,,0,0,0,,{\fad(60,40)}de usuarios de GTA 6 en\NMetacritic se llenó de
+Dialogue: 0,0:00:12.97,0:00:16.08,Marca,,0,0,0,,{\fad(60,40)}puntuaciones de gente que\Nno había podido jugar.
+Dialogue: 0,0:00:16.45,0:00:18.75,Marca,,0,0,0,,{\fad(60,40)}Metacritic las borró\Ny bloqueó las nuevas
+Dialogue: 0,0:00:18.77,0:00:20.70,Marca,,0,0,0,,{\fad(60,40)}valoraciones de\Nusuarios hasta que
+Dialogue: 0,0:00:20.72,0:00:21.78,Marca,,0,0,0,,{\fad(60,40)}el juego saliera.
+Dialogue: 0,0:00:22.15,0:00:22.93,Marca,,0,0,0,,{\fad(60,40)}Moraleja:
+Dialogue: 0,0:00:22.95,0:00:25.22,Marca,,0,0,0,,{\fad(60,40)}antes de fiarte\Nde una nota, mira
+Dialogue: 0,0:00:25.24,0:00:27.87,Marca,,0,0,0,,{\fad(60,40)}quién la pone y si\Nde verdad ha jugado.
+Dialogue: 0,0:00:28.24,0:00:31.01,Marca,,0,0,0,,{\fad(60,40)}¿Qué nota le pondrías tú\Ntras las primeras horas?
+Dialogue: 0,0:00:31.03,0:00:31.65,Marca,,0,0,0,,{\fad(60,40)}Comenta.

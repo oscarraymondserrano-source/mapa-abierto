@@ -1,0 +1,12 @@
+# Pegar en ElevenLabs (modelo multilingüe). Las MAYÚSCULAS marcan énfasis; <break> son pausas.
+# Ajustes: Stability 45 · Similarity 80 · Style 20 · Speaker boost ON. Velocidad 1.05.
+
+Pregunta de récord. Tres segundos. <break time="0.4s" />
+
+¿Qué GTA tiene la nota más alta de la prensa en Metacritic? A, GTA 5. B, GTA 4. C, San Andreas. <break time="0.4s" />
+
+¡La B! GTA 4, con un noventa y ocho en Xbox 360. Es el récord de la saga. <break time="0.4s" />
+
+GTA 5 y GTA 3 se quedaron en un noventa y siete. ¿Lo superará GTA 6? <break time="0.4s" />
+
+¿Acertaste? Dímelo en comentarios y sígueme para el siguiente quiz. <break time="0.4s" />

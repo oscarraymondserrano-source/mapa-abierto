@@ -1,0 +1,12 @@
+# Pegar en ElevenLabs (modelo multilingüe). Las MAYÚSCULAS marcan énfasis; <break> son pausas.
+# Ajustes: Stability 45 · Similarity 80 · Style 20 · Speaker boost ON. Velocidad 1.05.
+
+¿Has visto que regalan GTA 6? Para antes de pulsar nada. <break time="0.4s" />
+
+No hay ninguna forma oficial de conseguir GTA 6 gratis. Se compra para PlayStation 5 o Xbox Series, y punto. <break time="0.4s" />
+
+Las webs, aplicaciones y sorteos que te lo regalan a cambio de tus datos o de tu contraseña son estafas: buscan robar tu cuenta o meterte un virus. <break time="0.4s" />
+
+Regla de oro: nunca des la contraseña de PlayStation o de Xbox a nadie. Ningún sorteo legal te la pedirá, ni te hará pagar para ganar. <break time="0.4s" />
+
+Pásaselo a quien esté a punto de picar. <break time="0.4s" />

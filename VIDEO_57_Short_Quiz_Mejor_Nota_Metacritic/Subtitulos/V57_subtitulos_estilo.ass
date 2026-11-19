@@ -1,0 +1,28 @@
+[Script Info]
+Title: V57 subtítulos Mapa Abierto
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Marca,Inter Display,78,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,-1,0,0,0,100,100,0,0,1,5,3,2,80,80,560,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.05,0:00:01.40,Marca,,0,0,0,,{\fad(60,40)}Pregunta de récord.
+Dialogue: 0,0:00:01.42,0:00:02.48,Marca,,0,0,0,,{\fad(60,40)}Tres segundos.
+Dialogue: 0,0:00:02.85,0:00:06.02,Marca,,0,0,0,,{\fad(60,40)}¿Qué GTA tiene\Nla nota más alta
+Dialogue: 0,0:00:06.04,0:00:08.84,Marca,,0,0,0,,{\fad(60,40)}de la prensa\Nen Metacritic?
+Dialogue: 0,0:00:08.86,0:00:10.94,Marca,,0,0,0,,{\fad(60,40)}A, GTA 5.\NB, GTA 4.
+Dialogue: 0,0:00:10.96,0:00:12.67,Marca,,0,0,0,,{\fad(60,40)}C, San Andreas.
+Dialogue: 0,0:00:16.04,0:00:16.86,Marca,,0,0,0,,{\fad(60,40)}¡La B!
+Dialogue: 0,0:00:16.88,0:00:20.61,Marca,,0,0,0,,{\fad(60,40)}GTA 4, con un noventa\Ny ocho en Xbox 360.
+Dialogue: 0,0:00:20.63,0:00:22.95,Marca,,0,0,0,,{\fad(60,40)}Es el récord de la saga.
+Dialogue: 0,0:00:23.32,0:00:27.24,Marca,,0,0,0,,{\fad(60,40)}GTA 5 y GTA 3 se quedaron\Nen un noventa y siete.
+Dialogue: 0,0:00:27.26,0:00:28.98,Marca,,0,0,0,,{\fad(60,40)}¿Lo superará GTA 6?
+Dialogue: 0,0:00:29.35,0:00:30.11,Marca,,0,0,0,,{\fad(60,40)}¿Acertaste?
+Dialogue: 0,0:00:30.13,0:00:31.52,Marca,,0,0,0,,{\fad(60,40)}Dímelo en\Ncomentarios y
+Dialogue: 0,0:00:31.54,0:00:33.35,Marca,,0,0,0,,{\fad(60,40)}sígueme para el\Nsiguiente quiz.

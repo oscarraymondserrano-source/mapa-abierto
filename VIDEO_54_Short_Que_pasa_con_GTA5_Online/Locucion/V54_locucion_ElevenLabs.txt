@@ -1,0 +1,12 @@
+# Pegar en ElevenLabs (modelo multilingüe). Las MAYÚSCULAS marcan énfasis; <break> son pausas.
+# Ajustes: Stability 45 · Similarity 80 · Style 20 · Speaker boost ON. Velocidad 1.05.
+
+Sale GTA 6. ¿Y ahora qué pasa con GTA 5 y GTA Online? Esto es lo que se sabe de verdad. <break time="0.4s" />
+
+Rockstar no ha anunciado el cierre de GTA 5 ni de GTA Online. A día de hoy, siguen funcionando. <break time="0.4s" />
+
+GTA Online lleva activo desde octubre de 2013, y es uno de los juegos que más dinero ha generado a Rockstar en todos estos años. <break time="0.4s" />
+
+¿Y el online de GTA 6? Rockstar tampoco lo ha detallado: en el Extended Look no enseñó nada del modo online. <break time="0.4s" />
+
+Si algo cambia, aquí te lo contamos. Sígueme. <break time="0.4s" />

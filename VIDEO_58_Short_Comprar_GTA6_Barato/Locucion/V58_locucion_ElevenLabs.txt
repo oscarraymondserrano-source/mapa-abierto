@@ -1,0 +1,12 @@
+# Pegar en ElevenLabs (modelo multilingüe). Las MAYÚSCULAS marcan énfasis; <break> son pausas.
+# Ajustes: Stability 45 · Similarity 80 · Style 20 · Speaker boost ON. Velocidad 1.05.
+
+¿Quieres GTA 6 más barato? Tres consejos para ahorrar sin jugártela. <break time="0.4s" />
+
+Uno: compara tiendas. El precio cambia entre la tienda de la consola y las grandes cadenas, sobre todo en la versión en caja. <break time="0.4s" />
+
+Dos: vigila las ofertas oficiales de PlayStation y Xbox. Las rebajas llegan, aunque en un juego recién salido tardan. <break time="0.4s" />
+
+Y tres: evita claves de otras regiones y cuentas compartidas. Pueden no funcionar o ser revocadas, y te quedas sin juego y sin dinero. <break time="0.4s" />
+
+Guárdalo antes de comprar. Nos vemos en Leonida. <break time="0.4s" />
