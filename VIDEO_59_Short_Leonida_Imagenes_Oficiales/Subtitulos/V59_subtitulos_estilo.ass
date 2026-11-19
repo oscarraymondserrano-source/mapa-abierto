@@ -1,0 +1,32 @@
+[Script Info]
+Title: V59 subtítulos Mapa Abierto
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Marca,Inter Display,78,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,-1,0,0,0,100,100,0,0,1,5,3,2,80,80,560,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.05,0:00:01.92,Marca,,0,0,0,,{\fad(60,40)}Así es Leonida,\Ncon imágenes
+Dialogue: 0,0:00:01.94,0:00:03.45,Marca,,0,0,0,,{\fad(60,40)}oficiales\Nde Rockstar.
+Dialogue: 0,0:00:03.47,0:00:05.57,Marca,,0,0,0,,{\fad(60,40)}Seis zonas en\Ncuarenta segundos.
+Dialogue: 0,0:00:05.94,0:00:06.89,Marca,,0,0,0,,{\fad(60,40)}Vice City:
+Dialogue: 0,0:00:06.91,0:00:09.57,Marca,,0,0,0,,{\fad(60,40)}la gran ciudad,\Ninspirada en Miami.
+Dialogue: 0,0:00:09.94,0:00:11.64,Marca,,0,0,0,,{\fad(60,40)}Los Cayos de Leonida:
+Dialogue: 0,0:00:11.66,0:00:14.04,Marca,,0,0,0,,{\fad(60,40)}islas, puentes\Ny agua turquesa.
+Dialogue: 0,0:00:14.41,0:00:15.44,Marca,,0,0,0,,{\fad(60,40)}Grassrivers:
+Dialogue: 0,0:00:15.46,0:00:18.01,Marca,,0,0,0,,{\fad(60,40)}los pantanos, con\Nhidrodeslizadores
+Dialogue: 0,0:00:18.03,0:00:19.00,Marca,,0,0,0,,{\fad(60,40)}y caimanes.
+Dialogue: 0,0:00:19.37,0:00:20.47,Marca,,0,0,0,,{\fad(60,40)}Port Gellhorn:
+Dialogue: 0,0:00:20.49,0:00:23.21,Marca,,0,0,0,,{\fad(60,40)}moteles de carretera\Ny neón en la costa.
+Dialogue: 0,0:00:23.58,0:00:24.40,Marca,,0,0,0,,{\fad(60,40)}Ambrosia:
+Dialogue: 0,0:00:24.42,0:00:27.31,Marca,,0,0,0,,{\fad(60,40)}el interior rural,\Nterritorio de moteros.
+Dialogue: 0,0:00:27.68,0:00:28.91,Marca,,0,0,0,,{\fad(60,40)}Y Mount Kalaga:
+Dialogue: 0,0:00:28.93,0:00:31.94,Marca,,0,0,0,,{\fad(60,40)}el parque nacional,\Ncon cañones y bosques.
+Dialogue: 0,0:00:32.31,0:00:33.95,Marca,,0,0,0,,{\fad(60,40)}¿Cuál vas a\Nexplorar primero?
+Dialogue: 0,0:00:33.97,0:00:35.27,Marca,,0,0,0,,{\fad(60,40)}Dímelo en comentarios.

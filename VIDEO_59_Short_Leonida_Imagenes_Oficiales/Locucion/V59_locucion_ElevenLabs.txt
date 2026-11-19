@@ -1,0 +1,18 @@
+# Pegar en ElevenLabs (modelo multilingüe). Las MAYÚSCULAS marcan énfasis; <break> son pausas.
+# Ajustes: Stability 45 · Similarity 80 · Style 20 · Speaker boost ON. Velocidad 1.05.
+
+Así es Leonida, con imágenes oficiales de Rockstar. Seis zonas en cuarenta segundos. <break time="0.4s" />
+
+Vice City: la gran ciudad, inspirada en Miami. <break time="0.4s" />
+
+Los Cayos de Leonida: islas, puentes y agua turquesa. <break time="0.4s" />
+
+Grassrivers: los pantanos, con hidrodeslizadores y caimanes. <break time="0.4s" />
+
+Port Gellhorn: moteles de carretera y neón en la costa. <break time="0.4s" />
+
+Ambrosia: el interior rural, territorio de moteros. <break time="0.4s" />
+
+Y Mount Kalaga: el parque nacional, con cañones y bosques. <break time="0.4s" />
+
+¿Cuál vas a explorar primero? Dímelo en comentarios. <break time="0.4s" />
