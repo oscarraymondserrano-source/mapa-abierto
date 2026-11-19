@@ -43,3 +43,10 @@ MP4 y WAV (se regeneran) e imágenes de escena. Las entregas finales están en l
 - En los guiones: `clip=("EL", segundo, velocidad)` (+ `fx` para encuadrar el recorte vertical). Sin audio.
 - Tramos útiles (segundo de inicio · duración aprox.): 506 descapotable por Vice City (28 s) · 760 carretera al atardecer (9 s) · 849 tiroteo con la policía (7 s) · 925 persecución en callejón (8 s) · 1003 Jason y Lucia en la furgoneta (6 s) · 1030 hidrodeslizador (2,5 s, usar vel 2,5) · 1045 moto de agua (2,5 s) · 1133 paracaídas sobre Vice City (6 s) · 1222 carrera nocturna (5 s) · 1571 atardecer sobre Vice City (2,5 s). Evitar 374 (logo VI) y 1585 en adelante (rótulos finales).
 - Etiqueta de serie para estos vídeos: "JUEGO REAL". Ejemplos: `content/tanda_20261119_gameplay.py` (V66–V75).
+
+## Ritmo de publicación (decidido el 19/11/2026 con datos)
+- Con 10–12 Shorts al día los de un mismo día se quedaban en 0–30 visualizaciones; el quiz de las 9:30 llegó a ~500. YouTube reparte poco alcance a un canal nuevo: menos vídeos y mejores.
+- **YouTube: máximo 4 al día** (10:00, 13:30, 16:00, 18:00). **TikTok: 3 al día** (10:30, 12:30, 18:30). Son las horas con más audiencia según getBestTimeToPostByNetwork; por la noche (21–23 h) hay la mitad o menos.
+- Formatos prioritarios: QUIZ y MITO O VERDAD con juego real; preguntas directas ("¿A qué hora…?", "¿Sale en…?"). Los vídeos largos y los resúmenes rinden poco.
+- El calendario de Metricool se redistribuyó así el 19/11 (hasta el 28/11 en YouTube y el 1/12 en TikTok). La tanda diaria solo produce si quedan franjas libres.
+- Metricool: el usuario contrató el plan Starter el 19/11 (el gratuito permitía 20 publicaciones al mes).
