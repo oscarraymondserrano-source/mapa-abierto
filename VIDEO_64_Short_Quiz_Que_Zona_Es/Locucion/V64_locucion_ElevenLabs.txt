@@ -1,0 +1,12 @@
+# Pegar en ElevenLabs (modelo multilingüe). Las MAYÚSCULAS marcan énfasis; <break> son pausas.
+# Ajustes: Stability 45 · Similarity 80 · Style 20 · Speaker boost ON. Velocidad 1.05.
+
+Mira bien esta imagen oficial. Tres segundos. <break time="0.4s" />
+
+¿Qué zona de Leonida es esta? A, Vice City. B, Grassrivers. C, Ambrosia. <break time="0.4s" />
+
+¡La B! Grassrivers, los pantanos de Leonida. <break time="0.4s" />
+
+Es la versión de GTA 6 de los Everglades de Florida: agua, manglares y caimanes. <break time="0.4s" />
+
+¿Acertaste? Dímelo en comentarios y sígueme para el siguiente quiz. <break time="0.4s" />

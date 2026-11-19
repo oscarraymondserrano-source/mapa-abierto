@@ -1,0 +1,25 @@
+[Script Info]
+Title: V61 subtítulos Mapa Abierto
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Marca,Inter Display,78,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,-1,0,0,0,100,100,0,0,1,5,3,2,80,80,560,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.05,0:00:02.22,Marca,,0,0,0,,{\fad(60,40)}Esta es Lucia\NCaminos, la otra
+Dialogue: 0,0:00:02.24,0:00:03.90,Marca,,0,0,0,,{\fad(60,40)}protagonista\Nde GTA 6.
+Dialogue: 0,0:00:03.92,0:00:06.67,Marca,,0,0,0,,{\fad(60,40)}Esto es lo que cuenta\NRockstar de ella.
+Dialogue: 0,0:00:07.04,0:00:08.98,Marca,,0,0,0,,{\fad(60,40)}Luchar por su\Nfamilia la llevó
+Dialogue: 0,0:00:09.00,0:00:10.95,Marca,,0,0,0,,{\fad(60,40)}a la penitenciaría\Nde Leonida.
+Dialogue: 0,0:00:11.32,0:00:13.68,Marca,,0,0,0,,{\fad(60,40)}Y fue pura suerte lo\Nque la sacó de allí.
+Dialogue: 0,0:00:13.70,0:00:16.11,Marca,,0,0,0,,{\fad(60,40)}Ahora quiere cambiar\Nlas cosas a su favor.
+Dialogue: 0,0:00:16.48,0:00:18.61,Marca,,0,0,0,,{\fad(60,40)}Según Rockstar,\Nuna vida con Jason
+Dialogue: 0,0:00:18.63,0:00:20.98,Marca,,0,0,0,,{\fad(60,40)}podría ser su forma\Nde salir adelante.
+Dialogue: 0,0:00:21.35,0:00:23.62,Marca,,0,0,0,,{\fad(60,40)}¿Qué te parece Lucia\Ncomo protagonista?
+Dialogue: 0,0:00:23.64,0:00:24.26,Marca,,0,0,0,,{\fad(60,40)}Comenta.

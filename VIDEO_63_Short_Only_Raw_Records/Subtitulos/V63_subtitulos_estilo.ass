@@ -1,0 +1,29 @@
+[Script Info]
+Title: V63 subtítulos Mapa Abierto
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Marca,Inter Display,78,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,-1,0,0,0,100,100,0,0,1,5,3,2,80,80,560,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.05,0:00:01.63,Marca,,0,0,0,,{\fad(60,40)}En Vice City\Nhay un sello
+Dialogue: 0,0:00:01.65,0:00:03.46,Marca,,0,0,0,,{\fad(60,40)}discográfico\Ncon mucho poder.
+Dialogue: 0,0:00:03.48,0:00:04.95,Marca,,0,0,0,,{\fad(60,40)}Te presento a su gente.
+Dialogue: 0,0:00:05.32,0:00:06.19,Marca,,0,0,0,,{\fad(60,40)}Boobie Ike:
+Dialogue: 0,0:00:06.21,0:00:09.34,Marca,,0,0,0,,{\fad(60,40)}una leyenda de la calle\Nconvertida en empresario,
+Dialogue: 0,0:00:09.36,0:00:12.48,Marca,,0,0,0,,{\fad(60,40)}con inmuebles, un club y\Nun estudio de grabación.
+Dialogue: 0,0:00:12.85,0:00:14.11,Marca,,0,0,0,,{\fad(60,40)}Dre'Quan Priest:
+Dialogue: 0,0:00:14.13,0:00:16.74,Marca,,0,0,0,,{\fad(60,40)}de buscavidas a\Nmagnate de la música.
+Dialogue: 0,0:00:16.76,0:00:19.43,Marca,,0,0,0,,{\fad(60,40)}Lleva Only Raw Records\Njunto a Boobie.
+Dialogue: 0,0:00:19.80,0:00:20.88,Marca,,0,0,0,,{\fad(60,40)}Y Real Dimez:
+Dialogue: 0,0:00:20.90,0:00:23.27,Marca,,0,0,0,,{\fad(60,40)}el dúo de rap de\NBae-Luxe y Roxy,
+Dialogue: 0,0:00:23.29,0:00:25.33,Marca,,0,0,0,,{\fad(60,40)}recién fichado\Npor el sello.
+Dialogue: 0,0:00:25.70,0:00:27.70,Marca,,0,0,0,,{\fad(60,40)}¿Qué papel tendrán\Nen la historia?
+Dialogue: 0,0:00:27.72,0:00:28.91,Marca,,0,0,0,,{\fad(60,40)}Lo veremos jugando.
+Dialogue: 0,0:00:28.93,0:00:30.13,Marca,,0,0,0,,{\fad(60,40)}Comenta tu apuesta.

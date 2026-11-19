@@ -1,0 +1,12 @@
+# Pegar en ElevenLabs (modelo multilingüe). Las MAYÚSCULAS marcan énfasis; <break> son pausas.
+# Ajustes: Stability 45 · Similarity 80 · Style 20 · Speaker boost ON. Velocidad 1.05.
+
+Este es Jason Duval, uno de los dos protagonistas de GTA 6. Esto es lo que cuenta Rockstar de él. <break time="0.4s" />
+
+Creció rodeado de estafadores y delincuentes. <break time="0.4s" />
+
+Intentó dejar atrás una adolescencia complicada alistándose en el ejército. <break time="0.4s" />
+
+Pero acabó en los Cayos, haciendo lo que mejor sabe: trabajar para traficantes de la zona. <break time="0.4s" />
+
+Hasta que conoce a Lucia. ¿Te gusta Jason como protagonista? Comenta. <break time="0.4s" />

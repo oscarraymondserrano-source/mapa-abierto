@@ -1,0 +1,16 @@
+# Pegar en ElevenLabs (modelo multilingüe). Las MAYÚSCULAS marcan énfasis; <break> son pausas.
+# Ajustes: Stability 45 · Similarity 80 · Style 20 · Speaker boost ON. Velocidad 1.05.
+
+Vuelve Vice City. Así se ve en GTA 6, con imágenes oficiales de Rockstar. <break time="0.4s" />
+
+Playas llenas de gente. <break time="0.4s" />
+
+Rascacielos frente al agua. <break time="0.4s" />
+
+Mansiones con piscina vistas desde el aire. <break time="0.4s" />
+
+Coches de lujo y palmeras. <break time="0.4s" />
+
+Y de noche, toda la ciudad encendida. La primera Vice City fue en 2002; esta es la de 2026. <break time="0.4s" />
+
+¿De día o de noche? Comenta. <break time="0.4s" />

@@ -1,0 +1,12 @@
+# Pegar en ElevenLabs (modelo multilingüe). Las MAYÚSCULAS marcan énfasis; <break> son pausas.
+# Ajustes: Stability 45 · Similarity 80 · Style 20 · Speaker boost ON. Velocidad 1.05.
+
+En Vice City hay un sello discográfico con mucho poder. Te presento a su gente. <break time="0.4s" />
+
+Boobie Ike: una leyenda de la calle convertida en empresario, con inmuebles, un club y un estudio de grabación. <break time="0.4s" />
+
+Dre'Quan Priest: de buscavidas a magnate de la música. Lleva Only Raw Records junto a Boobie. <break time="0.4s" />
+
+Y Real Dimez: el dúo de rap de Bae-Luxe y Roxy, recién fichado por el sello. <break time="0.4s" />
+
+¿Qué papel tendrán en la historia? Lo veremos jugando. Comenta tu apuesta. <break time="0.4s" />

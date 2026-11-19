@@ -1,0 +1,12 @@
+# Pegar en ElevenLabs (modelo multilingüe). Las MAYÚSCULAS marcan énfasis; <break> son pausas.
+# Ajustes: Stability 45 · Similarity 80 · Style 20 · Speaker boost ON. Velocidad 1.05.
+
+Esta es Lucia Caminos, la otra protagonista de GTA 6. Esto es lo que cuenta Rockstar de ella. <break time="0.4s" />
+
+Luchar por su familia la llevó a la penitenciaría de Leonida. <break time="0.4s" />
+
+Y fue pura suerte lo que la sacó de allí. Ahora quiere cambiar las cosas a su favor. <break time="0.4s" />
+
+Según Rockstar, una vida con Jason podría ser su forma de salir adelante. <break time="0.4s" />
+
+¿Qué te parece Lucia como protagonista? Comenta. <break time="0.4s" />
