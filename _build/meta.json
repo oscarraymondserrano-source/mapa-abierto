@@ -828,5 +828,25 @@
   "out": "VIDEO_83_Short_Mito_Hidrodeslizadores/Video_Final/V83_FINAL_1080x1920.mp4",
   "fecha": "",
   "carpeta": "VIDEO_83_Short_Mito_Hidrodeslizadores"
+ },
+ {
+  "id": "V84",
+  "titulo": "Este pack de GTA 6 solo lo tienes si lo compras antes del 20/11",
+  "formato": "short",
+  "modo": "final",
+  "dur": 28.68,
+  "out": "VIDEO_84_Short_Vintage_Vice_City_Pack/Video_Final/V84_FINAL_1080x1920.mp4",
+  "fecha": "",
+  "carpeta": "VIDEO_84_Short_Vintage_Vice_City_Pack"
+ },
+ {
+  "id": "V85",
+  "titulo": "¿Qué incluye la Ultimate Edition de GTA 6?",
+  "formato": "short",
+  "modo": "final",
+  "dur": 32.87,
+  "out": "VIDEO_85_Short_Que_incluye_Ultimate/Video_Final/V85_FINAL_1080x1920.mp4",
+  "fecha": "",
+  "carpeta": "VIDEO_85_Short_Que_incluye_Ultimate"
  }
 ]

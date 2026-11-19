@@ -308,7 +308,7 @@ RK_DIR = os.environ.get("MA_RK", "/tmp/claude-0/rk_dl")
 
 def official_photo(rel, W, H, fx=0.5):
     """Captura oficial de Rockstar recortada a W×H (cover) con foco horizontal fx."""
-    im = Image.open(os.path.join(RK_DIR, "x_GTAVI_Screenshots", rel)).convert("RGB")
+    im = Image.open(os.path.join(RK_DIR, rel) if rel.startswith("x_") else os.path.join(RK_DIR, "x_GTAVI_Screenshots", rel)).convert("RGB")
     sc_ = max(W / im.width, H / im.height)
     im = im.resize((int(im.width * sc_ + 1), int(im.height * sc_ + 1)), Image.LANCZOS)
     x = int((im.width - W) * fx); y = (im.height - H) // 2
@@ -759,18 +759,37 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
                 stage_frames = [total_frames]; stage_imgs = [im]
             zin = i % 2 == 0
             off = 0
-            if final and sc.get("clip"):
-                src, start = sc["clip"][:2]
-                vel = sc["clip"][2] if len(sc["clip"]) > 2 else 1.0
-                fxc = sc.get("fx", 0.5)
-                srcpath = (os.environ.get("MA_RK_RELAY", "http://127.0.0.1:8765") + "/GTAVI_An_Extended_Look/GTAVI_An_Extended_Look.mp4") if src == "EL" else os.path.join(RK_DIR, src)
+            if final and (sc.get("clip") or sc.get("clips")):
+                segs = list(sc.get("clips") or [sc["clip"]])
+                D = sc["dur"]
+                # Cortes rápidos: cada plano dura como mínimo 1,4 s; si hay más planos que tiempo, se recortan.
+                segs = segs[:max(1, int(D // 1.4))]
+                n = len(segs)
                 ov = os.path.join(work, f"ov{i:02d}.png")
                 scene_image(v, sc, i, W, H, final, clip_overlay=True).save(ov)
-                scale = (f"crop=iw:iw/2,scale=-2:{H},crop={W}:{H}:(iw-{W})*{fxc}:0" if short else f"crop=iw:iw/2,scale={W}:-2,pad={W}:{H}:0:(oh-ih)/2") if "Trailer" in src else (f"scale=-2:{H},crop={W}:{H}:(iw-{W})*{fxc}:0" if short else f"scale={W}:{H}")
-                scale += f",setpts={vel}*PTS,tpad=stop_mode=clone:stop_duration={sc['dur']:.3f}"
+                inputs, chains = [], []
+                for j, sg in enumerate(segs):
+                    src, start = sg[0], sg[1]
+                    vel = sg[2] if len(sg) > 2 else 1.0
+                    fxc = sg[3] if len(sg) > 3 else sc.get("fx", 0.5)
+                    if src == "EL":
+                        srcpath = os.environ.get("MA_RK_RELAY", "http://127.0.0.1:8765") + "/GTAVI_An_Extended_Look/GTAVI_An_Extended_Look.mp4"
+                    else:
+                        srcpath = os.path.join(RK_DIR, {"OUT": "GTAVI_Out_Now.mp4"}.get(src, src))
+                    d = D / n
+                    inputs += ["-ss", str(start), "-t", f"{d/vel + 0.3:.3f}", "-i", srcpath]
+                    pre = "crop=iw:iw/2," if "Trailer" in src else ""
+                    if short:
+                        fit = f"{pre}scale=-2:{H},crop={W}:{H}:(iw-{W})*{fxc}:0"
+                    else:
+                        fit = f"{pre}scale={W}:-2,pad={W}:{H}:0:(oh-ih)/2" if pre else f"scale={W}:{H}"
+                    zoom = sc.get("zoom", 0.07)  # empuje suave hacia dentro en cada plano
+                    chains.append(f"[{j}:v]setpts={vel}*PTS,{fit},fps={FPS},setsar=1,"
+                                  f"scale=w='trunc({W}*(1+{zoom}*t/{d:.3f})/2)*2':h=-2:eval=frame,crop={W}:{H},"
+                                  f"setsar=1,tpad=stop_mode=clone:stop_duration={d:.3f},trim=duration={d:.3f},setpts=PTS-STARTPTS[s{j}]")
+                fc = ";".join(chains) + ";" + "".join(f"[s{j}]" for j in range(n)) + f"concat=n={n}:v=1:a=0[b];[b][{n}:v]overlay=0:0:shortest=1,format=yuv420p"
                 clip = os.path.join(work, f"c{i:02d}_clip.mp4")
-                run(["ffmpeg", "-y", "-loglevel", "error", "-ss", str(start), "-t", f"{sc['dur']/vel:.3f}", "-i", srcpath,
-                     "-loop", "1", "-i", ov, "-filter_complex", f"[0:v]{scale},fps={FPS},setsar=1[b];[b][1:v]overlay=0:0:shortest=1,format=yuv420p",
+                run(["ffmpeg", "-y", "-loglevel", "error", *inputs, "-loop", "1", "-i", ov, "-filter_complex", fc,
                      "-frames:v", str(total_frames), "-an", "-c:v", "libx264", "-preset", "veryfast", "-crf", "20", "-r", str(FPS), clip])
                 fh.write(f"file '{clip}'\n")
                 continue

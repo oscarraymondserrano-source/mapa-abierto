@@ -50,3 +50,9 @@ MP4 y WAV (se regeneran) e imágenes de escena. Las entregas finales están en l
 - Formatos prioritarios: QUIZ y MITO O VERDAD con juego real; preguntas directas ("¿A qué hora…?", "¿Sale en…?"). Los vídeos largos y los resúmenes rinden poco.
 - El calendario de Metricool se redistribuyó así el 19/11 (hasta el 28/11 en YouTube y el 1/12 en TikTok). La tanda diaria solo produce si quedan franjas libres.
 - Metricool: el usuario contrató el plan Starter el 19/11 (el gratuito permitía 20 publicaciones al mes).
+
+## Novedades diarias y montaje dinámico (desde el 19/11/2026)
+- `python3 _build/rk_novedades.py` lee la web de descargas de Rockstar, compara con `_build/rk_assets_vistos.txt` y descarga lo nuevo (vídeos de hasta 1,5 GB y paquetes de capturas). Si hay material nuevo, se hace un Short con él ese mismo día (prioridad sobre lo programado) y se añaden sus mejores planos a `content/rk_pool.py`.
+- El relay del Extended Look debe quedar vivo durante el render: arrancarlo con la herramienta Bash en segundo plano (`python3 _build/rk_relay.py 8765`), no con nohup (se cierra al acabar el comando).
+- Montaje dinámico: en los guiones usar `clips=mezcla("conducir", "noche", n=3)` (de `content.rk_pool`) para que cada escena tenga 2–3 cortes de ~1,5–2,5 s con un empuje de zoom suave. El primer plano tiene que tener movimiento (nada de pantallas negras ni logos). Rótulos cortos (que quepan en una línea o dos).
+- Si no hay huecos ni novedades, rehacer Shorts antiguos de gráficos (quiz y mito de las tandas 2–3, que el usuario dejó en privado en YouTube) con juego real de fondo y subirlos como nuevos cuando haya franjas libres.

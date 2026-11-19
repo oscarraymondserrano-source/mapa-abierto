@@ -1,0 +1,16 @@
+# Pegar en ElevenLabs (modelo multilingüe). Las MAYÚSCULAS marcan énfasis; <break> son pausas.
+# Ajustes: Stability 45 · Similarity 80 · Style 20 · Speaker boost ON. Velocidad 1.05.
+
+¿Qué trae la Ultimate Edition de GTA 6? Te lo enseño con las imágenes oficiales de Rockstar. <break time="0.4s" />
+
+Un Grotti Cheetah del noventa y cinco, con su propio garaje. <break time="0.4s" />
+
+La lancha Shitzu Squalo. <break time="0.4s" />
+
+Encargos del coleccionista Wyman para restaurar coches clásicos, con cuatro exclusivos de esta edición. <break time="0.4s" />
+
+El estudio de tatuajes Electric Fang, en Vice City, con diseños de FAILE. <break time="0.4s" />
+
+Y el taller One-Eyed Willie's, para preparar todoterrenos. <break time="0.4s" />
+
+Además de revólveres, ropa y más extras. ¿Merece la pena? Comenta. <break time="0.4s" />
