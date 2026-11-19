@@ -6,46 +6,71 @@ Generado automáticamente por `_build/qc.py` + revisión manual (ver sección fi
 
 | Vídeo | Archivo | Tipo | Resolución | Relación | FPS | Vídeo | Audio | Duración | Rango objetivo | Resultado |
 |---|---|---|---|---|---|---|---|---|---|---|
-| V01 | `V01_FINAL_1920x1080.mp4` | FINAL | 1920×1080 | 16:9 | 30 | H.264 | AAC 48000 Hz | 7:01.4 | 300-600 s | ✅ |
-| V02 | `V02_FINAL_1080x1920.mp4` | FINAL | 1080×1920 | 9:16 | 30 | H.264 | AAC 48000 Hz | 0:38.5 | 15-60 s | ✅ |
-| V03 | `V03_FINAL_1920x1080.mp4` | FINAL | 1920×1080 | 16:9 | 30 | H.264 | AAC 48000 Hz | 6:01.6 | 300-600 s | ✅ |
-| V04 | `V04_FINAL_1080x1920.mp4` | FINAL | 1080×1920 | 9:16 | 30 | H.264 | AAC 48000 Hz | 0:48.8 | 15-60 s | ✅ |
-| V05 | `V05_FINAL_1080x1920.mp4` | FINAL | 1080×1920 | 9:16 | 30 | H.264 | AAC 48000 Hz | 0:44.2 | 15-60 s | ✅ |
-| V06 | `V06_FINAL_1080x1920.mp4` | FINAL | 1080×1920 | 9:16 | 30 | H.264 | AAC 48000 Hz | 0:43.5 | 15-60 s | ✅ |
-| V07 | `V07_FINAL_1080x1920.mp4` | FINAL | 1080×1920 | 9:16 | 30 | H.264 | AAC 48000 Hz | 0:45.4 | 15-60 s | ✅ |
-| V08 | `V08_ANIMATIC_borrador_1920x1080.mp4` | ANIMATIC (borrador) | 1920×1080 | 16:9 | 30 | H.264 | AAC 48000 Hz | 5:05.9 | 300-600 s | ✅ |
-| V09 | `V09_ANIMATIC_borrador_1920x1080.mp4` | ANIMATIC (borrador) | 1920×1080 | 16:9 | 30 | H.264 | AAC 48000 Hz | 5:04.5 | 300-600 s | ✅ |
-| V10 | `V10_ANIMATIC_borrador_1080x1920.mp4` | ANIMATIC (borrador) | 1080×1920 | 9:16 | 30 | H.264 | AAC 48000 Hz | 0:31.2 | 15-60 s | ✅ |
-| V11 | `V11_FINAL_1080x1920.mp4` | FINAL | 1080×1920 | 9:16 | 30 | H.264 | AAC 48000 Hz | 0:47.8 | 15-60 s | ✅ |
-| V12 | `V12_FINAL_1080x1920.mp4` | FINAL | 1080×1920 | 9:16 | 30 | H.264 | AAC 48000 Hz | 0:39.1 | 15-60 s | ✅ |
-| V13 | `V13_FINAL_1080x1920.mp4` | FINAL | 1080×1920 | 9:16 | 30 | H.264 | AAC 48000 Hz | 0:49.2 | 15-60 s | ✅ |
-| V14 | `V14_FINAL_1080x1920.mp4` | FINAL | 1080×1920 | 9:16 | 30 | H.264 | AAC 48000 Hz | 0:32.3 | 15-60 s | ✅ |
-| V15 | `V15_FINAL_1080x1920.mp4` | FINAL | 1080×1920 | 9:16 | 30 | H.264 | AAC 48000 Hz | 0:38.3 | 15-60 s | ✅ |
-| V16 | `V16_FINAL_1080x1920.mp4` | FINAL | 1080×1920 | 9:16 | 30 | H.264 | AAC 48000 Hz | 0:35.0 | 15-60 s | ✅ |
-| V17 | `V17_FINAL_1080x1920.mp4` | FINAL | 1080×1920 | 9:16 | 30 | H.264 | AAC 48000 Hz | 0:29.2 | 15-60 s | ✅ |
-| V18 | `V18_FINAL_1080x1920.mp4` | FINAL | 1080×1920 | 9:16 | 30 | H.264 | AAC 48000 Hz | 0:32.5 | 15-60 s | ✅ |
-| V19 | `V19_FINAL_1080x1920.mp4` | FINAL | 1080×1920 | 9:16 | 30 | H.264 | AAC 48000 Hz | 0:36.3 | 15-60 s | ✅ |
-| V20 | `V20_FINAL_1080x1920.mp4` | FINAL | 1080×1920 | 9:16 | 30 | H.264 | AAC 48000 Hz | 0:36.3 | 15-60 s | ✅ |
-| V21 | `V21_FINAL_1080x1920.mp4` | FINAL | 1080×1920 | 9:16 | 30 | H.264 | AAC 48000 Hz | 0:22.4 | 15-60 s | ✅ |
-| V22 | `V22_FINAL_1080x1920.mp4` | FINAL | 1080×1920 | 9:16 | 30 | H.264 | AAC 48000 Hz | 0:35.5 | 15-60 s | ✅ |
-| V23 | `V23_FINAL_1080x1920.mp4` | FINAL | 1080×1920 | 9:16 | 30 | H.264 | AAC 48000 Hz | 0:27.0 | 15-60 s | ✅ |
-| V24 | `V24_FINAL_1080x1920.mp4` | FINAL | 1080×1920 | 9:16 | 30 | H.264 | AAC 48000 Hz | 0:39.3 | 15-60 s | ✅ |
-| V25 | `V25_FINAL_1080x1920.mp4` | FINAL | 1080×1920 | 9:16 | 30 | H.264 | AAC 48000 Hz | 0:36.1 | 15-60 s | ✅ |
-| V26 | `V26_FINAL_1080x1920.mp4` | FINAL | 1080×1920 | 9:16 | 30 | H.264 | AAC 48000 Hz | 0:34.8 | 15-60 s | ✅ |
-| V27 | `V27_FINAL_1080x1920.mp4` | FINAL | 1080×1920 | 9:16 | 30 | H.264 | AAC 48000 Hz | 0:31.6 | 15-60 s | ✅ |
-| V28 | `V28_FINAL_1080x1920.mp4` | FINAL | 1080×1920 | 9:16 | 30 | H.264 | AAC 48000 Hz | 0:31.5 | 15-60 s | ✅ |
-| V29 | `V29_FINAL_1080x1920.mp4` | FINAL | 1080×1920 | 9:16 | 30 | H.264 | AAC 48000 Hz | 0:27.6 | 15-60 s | ✅ |
-| V30 | `V30_FINAL_1080x1920.mp4` | FINAL | 1080×1920 | 9:16 | 30 | H.264 | AAC 48000 Hz | 0:30.8 | 15-60 s | ✅ |
-| V31 | `V31_FINAL_1080x1920.mp4` | FINAL | 1080×1920 | 9:16 | 30 | H.264 | AAC 48000 Hz | 0:24.8 | 15-60 s | ✅ |
-| V32 | `V32_FINAL_1080x1920.mp4` | FINAL | 1080×1920 | 9:16 | 30 | H.264 | AAC 48000 Hz | 0:26.5 | 15-60 s | ✅ |
-| V33 | `V33_FINAL_1080x1920.mp4` | FINAL | 1080×1920 | 9:16 | 30 | H.264 | AAC 48000 Hz | 0:33.8 | 15-60 s | ✅ |
-| V34 | `V34_FINAL_1080x1920.mp4` | FINAL | 1080×1920 | 9:16 | 30 | H.264 | AAC 48000 Hz | 0:29.9 | 15-60 s | ✅ |
-| V35 | `V35_FINAL_1080x1920.mp4` | FINAL | 1080×1920 | 9:16 | 30 | H.264 | AAC 48000 Hz | 0:19.4 | 15-60 s | ✅ |
-| V36 | `V36_FINAL_1080x1920.mp4` | FINAL | 1080×1920 | 9:16 | 30 | H.264 | AAC 48000 Hz | 0:22.6 | 15-60 s | ✅ |
-| V37 | `V37_FINAL_1080x1920.mp4` | FINAL | 1080×1920 | 9:16 | 30 | H.264 | AAC 48000 Hz | 0:29.1 | 15-60 s | ✅ |
-| V38 | `V38_FINAL_1080x1920.mp4` | FINAL | 1080×1920 | 9:16 | 30 | H.264 | AAC 48000 Hz | 0:31.5 | 15-60 s | ✅ |
-| V39 | `V39_FINAL_1080x1920.mp4` | FINAL | 1080×1920 | 9:16 | 30 | H.264 | AAC 48000 Hz | 0:24.8 | 15-60 s | ✅ |
-| V40 | `V40_FINAL_1080x1920.mp4` | FINAL | 1080×1920 | 9:16 | 30 | H.264 | AAC 48000 Hz | 0:21.7 | 15-60 s | ✅ |
+| V01 | — | — | — | — | — | — | — | — | — | ❌ falta MP4 |
+| V02 | — | — | — | — | — | — | — | — | — | ❌ falta MP4 |
+| V03 | — | — | — | — | — | — | — | — | — | ❌ falta MP4 |
+| V04 | — | — | — | — | — | — | — | — | — | ❌ falta MP4 |
+| V05 | — | — | — | — | — | — | — | — | — | ❌ falta MP4 |
+| V06 | — | — | — | — | — | — | — | — | — | ❌ falta MP4 |
+| V07 | — | — | — | — | — | — | — | — | — | ❌ falta MP4 |
+| V08 | — | — | — | — | — | — | — | — | — | ❌ falta MP4 |
+| V09 | — | — | — | — | — | — | — | — | — | ❌ falta MP4 |
+| V10 | — | — | — | — | — | — | — | — | — | ❌ falta MP4 |
+| V11 | — | — | — | — | — | — | — | — | — | ❌ falta MP4 |
+| V12 | — | — | — | — | — | — | — | — | — | ❌ falta MP4 |
+| V13 | — | — | — | — | — | — | — | — | — | ❌ falta MP4 |
+| V14 | — | — | — | — | — | — | — | — | — | ❌ falta MP4 |
+| V15 | — | — | — | — | — | — | — | — | — | ❌ falta MP4 |
+| V16 | — | — | — | — | — | — | — | — | — | ❌ falta MP4 |
+| V17 | — | — | — | — | — | — | — | — | — | ❌ falta MP4 |
+| V18 | — | — | — | — | — | — | — | — | — | ❌ falta MP4 |
+| V19 | — | — | — | — | — | — | — | — | — | ❌ falta MP4 |
+| V20 | — | — | — | — | — | — | — | — | — | ❌ falta MP4 |
+| V21 | — | — | — | — | — | — | — | — | — | ❌ falta MP4 |
+| V22 | — | — | — | — | — | — | — | — | — | ❌ falta MP4 |
+| V23 | — | — | — | — | — | — | — | — | — | ❌ falta MP4 |
+| V24 | — | — | — | — | — | — | — | — | — | ❌ falta MP4 |
+| V25 | — | — | — | — | — | — | — | — | — | ❌ falta MP4 |
+| V26 | — | — | — | — | — | — | — | — | — | ❌ falta MP4 |
+| V27 | — | — | — | — | — | — | — | — | — | ❌ falta MP4 |
+| V28 | — | — | — | — | — | — | — | — | — | ❌ falta MP4 |
+| V29 | — | — | — | — | — | — | — | — | — | ❌ falta MP4 |
+| V30 | — | — | — | — | — | — | — | — | — | ❌ falta MP4 |
+| V31 | — | — | — | — | — | — | — | — | — | ❌ falta MP4 |
+| V32 | — | — | — | — | — | — | — | — | — | ❌ falta MP4 |
+| V33 | — | — | — | — | — | — | — | — | — | ❌ falta MP4 |
+| V34 | — | — | — | — | — | — | — | — | — | ❌ falta MP4 |
+| V35 | — | — | — | — | — | — | — | — | — | ❌ falta MP4 |
+| V36 | — | — | — | — | — | — | — | — | — | ❌ falta MP4 |
+| V37 | — | — | — | — | — | — | — | — | — | ❌ falta MP4 |
+| V38 | — | — | — | — | — | — | — | — | — | ❌ falta MP4 |
+| V39 | — | — | — | — | — | — | — | — | — | ❌ falta MP4 |
+| V40 | — | — | — | — | — | — | — | — | — | ❌ falta MP4 |
+| V48 | `V48_FINAL_1080x1920.mp4` | FINAL | 1080×1920 | 9:16 | 30 | H.264 | AAC 48000 Hz | 0:33.1 | 15-60 s | ✅ |
+| V49 | `V49_FINAL_1080x1920.mp4` | FINAL | 1080×1920 | 9:16 | 30 | H.264 | AAC 48000 Hz | 0:24.5 | 15-60 s | ✅ |
+| V50 | `V50_FINAL_1080x1920.mp4` | FINAL | 1080×1920 | 9:16 | 30 | H.264 | AAC 48000 Hz | 0:33.4 | 15-60 s | ✅ |
+| V51 | `V51_FINAL_1080x1920.mp4` | FINAL | 1080×1920 | 9:16 | 30 | H.264 | AAC 48000 Hz | 0:33.4 | 15-60 s | ✅ |
+| V52 | `V52_FINAL_1080x1920.mp4` | FINAL | 1080×1920 | 9:16 | 30 | H.264 | AAC 48000 Hz | 0:34.3 | 15-60 s | ✅ |
+| V53 | `V53_FINAL_1080x1920.mp4` | FINAL | 1080×1920 | 9:16 | 30 | H.264 | AAC 48000 Hz | 0:26.1 | 15-60 s | ✅ |
+| V41 | `V41_FINAL_1080x1920.mp4` | FINAL | 1080×1920 | 9:16 | 30 | H.264 | AAC 48000 Hz | 0:23.2 | 15-60 s | ✅ |
+| V42 | `V42_FINAL_1080x1920.mp4` | FINAL | 1080×1920 | 9:16 | 30 | H.264 | AAC 48000 Hz | 0:36.7 | 15-60 s | ✅ |
+| V43 | `V43_FINAL_1080x1920.mp4` | FINAL | 1080×1920 | 9:16 | 30 | H.264 | AAC 48000 Hz | 0:32.6 | 15-60 s | ✅ |
+| V44 | `V44_FINAL_1080x1920.mp4` | FINAL | 1080×1920 | 9:16 | 30 | H.264 | AAC 48000 Hz | 0:40.3 | 15-60 s | ✅ |
+| V45 | `V45_FINAL_1080x1920.mp4` | FINAL | 1080×1920 | 9:16 | 30 | H.264 | AAC 48000 Hz | 0:32.5 | 15-60 s | ✅ |
+| V46 | `V46_FINAL_1080x1920.mp4` | FINAL | 1080×1920 | 9:16 | 30 | H.264 | AAC 48000 Hz | 0:32.5 | 15-60 s | ✅ |
+| V47 | `V47_FINAL_1080x1920.mp4` | FINAL | 1080×1920 | 9:16 | 30 | H.264 | AAC 48000 Hz | 0:36.3 | 15-60 s | ✅ |
+| V54 | `V54_FINAL_1080x1920.mp4` | FINAL | 1080×1920 | 9:16 | 30 | H.264 | AAC 48000 Hz | 0:35.2 | 15-60 s | ✅ |
+| V55 | `V55_FINAL_1080x1920.mp4` | FINAL | 1080×1920 | 9:16 | 30 | H.264 | AAC 48000 Hz | 0:34.7 | 15-60 s | ✅ |
+| V56 | `V56_FINAL_1080x1920.mp4` | FINAL | 1080×1920 | 9:16 | 30 | H.264 | AAC 48000 Hz | 0:32.0 | 15-60 s | ✅ |
+| V57 | `V57_FINAL_1080x1920.mp4` | FINAL | 1080×1920 | 9:16 | 30 | H.264 | AAC 48000 Hz | 0:33.7 | 15-60 s | ✅ |
+| V58 | `V58_FINAL_1080x1920.mp4` | FINAL | 1080×1920 | 9:16 | 30 | H.264 | AAC 48000 Hz | 0:36.1 | 15-60 s | ✅ |
+| V59 | `V59_FINAL_1080x1920.mp4` | FINAL | 1080×1920 | 9:16 | 30 | H.264 | AAC 48000 Hz | 0:35.6 | 15-60 s | ✅ |
+| V60 | `V60_FINAL_1080x1920.mp4` | FINAL | 1080×1920 | 9:16 | 30 | H.264 | AAC 48000 Hz | 0:25.7 | 15-60 s | ✅ |
+| V61 | `V61_FINAL_1080x1920.mp4` | FINAL | 1080×1920 | 9:16 | 30 | H.264 | AAC 48000 Hz | 0:24.6 | 15-60 s | ✅ |
+| V62 | `V62_FINAL_1080x1920.mp4` | FINAL | 1080×1920 | 9:16 | 30 | H.264 | AAC 48000 Hz | 0:30.6 | 15-60 s | ✅ |
+| V63 | `V63_FINAL_1080x1920.mp4` | FINAL | 1080×1920 | 9:16 | 30 | H.264 | AAC 48000 Hz | 0:30.4 | 15-60 s | ✅ |
+| V64 | `V64_FINAL_1080x1920.mp4` | FINAL | 1080×1920 | 9:16 | 30 | H.264 | AAC 48000 Hz | 0:28.8 | 15-60 s | ✅ |
+| V65 | `V65_FINAL_1080x1920.mp4` | FINAL | 1080×1920 | 9:16 | 30 | H.264 | AAC 48000 Hz | 0:25.6 | 15-60 s | ✅ |
 
 ## 2. Subtítulos (sincronización con la locución guía)
 
@@ -53,57 +78,42 @@ Tiempos calculados desde la duración real de cada frase de la locución guía (
 
 | Vídeo | Bloques | Fin último subtítulo / duración vídeo | Solapes | Bloques >2 líneas | Líneas largas* | Resultado |
 |---|---|---|---|---|---|---|
-| V01 | 120 | 413.86 s / 421.41 s | 0 | 0 | 0 | ✅ |
-| V02 | 18 | 38.23 s / 38.53 s | 0 | 0 | 0 | ✅ |
-| V03 | 102 | 355.55 s / 361.57 s | 0 | 0 | 0 | ✅ |
-| V04 | 21 | 48.50 s / 48.82 s | 0 | 0 | 0 | ✅ |
-| V05 | 20 | 43.94 s / 44.23 s | 0 | 0 | 0 | ✅ |
-| V06 | 21 | 43.18 s / 43.47 s | 0 | 0 | 0 | ✅ |
-| V07 | 24 | 45.11 s / 45.43 s | 0 | 0 | 0 | ✅ |
-| V08 | 111 | 305.43 s / 305.87 s | 0 | 0 | 0 | ✅ |
-| V09 | 108 | 304.01 s / 304.48 s | 0 | 0 | 0 | ✅ |
-| V10 | 18 | 30.89 s / 31.20 s | 0 | 0 | 0 | ✅ |
-| V11 | 22 | 47.50 s / 47.82 s | 0 | 0 | 0 | ✅ |
-| V12 | 15 | 38.78 s / 39.10 s | 0 | 0 | 0 | ✅ |
-| V13 | 20 | 48.85 s / 49.17 s | 0 | 0 | 0 | ✅ |
-| V14 | 16 | 31.96 s / 32.27 s | 0 | 0 | 0 | ✅ |
-| V15 | 17 | 37.96 s / 38.28 s | 0 | 0 | 0 | ✅ |
-| V16 | 18 | 34.65 s / 34.97 s | 0 | 0 | 0 | ✅ |
-| V17 | 13 | 28.86 s / 29.17 s | 0 | 0 | 0 | ✅ |
-| V18 | 15 | 32.13 s / 32.45 s | 0 | 0 | 0 | ✅ |
-| V19 | 15 | 36.02 s / 36.34 s | 0 | 0 | 0 | ✅ |
-| V20 | 14 | 35.98 s / 36.29 s | 0 | 0 | 0 | ✅ |
-| V21 | 9 | 22.13 s / 22.43 s | 0 | 0 | 0 | ✅ |
-| V22 | 16 | 35.19 s / 35.50 s | 0 | 0 | 0 | ✅ |
-| V23 | 11 | 26.72 s / 27.03 s | 0 | 0 | 0 | ✅ |
-| V24 | 18 | 38.95 s / 39.27 s | 0 | 0 | 0 | ✅ |
-| V25 | 13 | 35.82 s / 36.14 s | 0 | 0 | 0 | ✅ |
-| V26 | 16 | 34.48 s / 34.80 s | 0 | 0 | 0 | ✅ |
-| V27 | 13 | 31.36 s / 31.63 s | 0 | 0 | 0 | ✅ |
-| V28 | 14 | 31.25 s / 31.53 s | 0 | 0 | 0 | ✅ |
-| V29 | 12 | 27.24 s / 27.56 s | 0 | 0 | 0 | ✅ |
-| V30 | 13 | 30.48 s / 30.80 s | 0 | 0 | 0 | ✅ |
-| V31 | 11 | 24.44 s / 24.76 s | 0 | 0 | 0 | ✅ |
-| V32 | 11 | 26.14 s / 26.46 s | 0 | 0 | 0 | ✅ |
-| V33 | 15 | 33.49 s / 33.80 s | 0 | 0 | 0 | ✅ |
-| V34 | 13 | 29.61 s / 29.90 s | 0 | 0 | 0 | ✅ |
-| V35 | 9 | 19.04 s / 19.36 s | 0 | 0 | 0 | ✅ |
-| V36 | 11 | 22.25 s / 22.57 s | 0 | 0 | 0 | ✅ |
-| V37 | 10 | 28.73 s / 29.05 s | 0 | 0 | 0 | ✅ |
-| V38 | 14 | 31.16 s / 31.48 s | 0 | 0 | 0 | ✅ |
-| V39 | 11 | 24.47 s / 24.79 s | 0 | 0 | 0 | ✅ |
-| V40 | 10 | 21.38 s / 21.70 s | 0 | 0 | 0 | ✅ |
+| V48 | 14 | 32.82 s / 33.13 s | 0 | 0 | 0 | ✅ |
+| V49 | 10 | 24.21 s / 24.53 s | 0 | 0 | 0 | ✅ |
+| V50 | 15 | 33.04 s / 33.36 s | 0 | 0 | 0 | ✅ |
+| V51 | 14 | 33.11 s / 33.43 s | 0 | 0 | 0 | ✅ |
+| V52 | 14 | 33.95 s / 34.27 s | 0 | 0 | 0 | ✅ |
+| V53 | 13 | 25.82 s / 26.13 s | 0 | 0 | 0 | ✅ |
+| V41 | 11 | 22.91 s / 23.20 s | 0 | 0 | 0 | ✅ |
+| V42 | 15 | 36.38 s / 36.70 s | 0 | 0 | 0 | ✅ |
+| V43 | 14 | 32.35 s / 32.63 s | 0 | 0 | 0 | ✅ |
+| V44 | 19 | 39.98 s / 40.30 s | 0 | 0 | 0 | ✅ |
+| V45 | 14 | 32.23 s / 32.55 s | 0 | 0 | 0 | ✅ |
+| V46 | 14 | 32.22 s / 32.53 s | 0 | 0 | 0 | ✅ |
+| V47 | 16 | 35.96 s / 36.27 s | 0 | 0 | 0 | ✅ |
+| V54 | 15 | 34.88 s / 35.17 s | 0 | 0 | 0 | ✅ |
+| V55 | 16 | 34.38 s / 34.70 s | 0 | 0 | 0 | ✅ |
+| V56 | 14 | 31.65 s / 31.97 s | 0 | 0 | 0 | ✅ |
+| V57 | 14 | 33.35 s / 33.67 s | 0 | 0 | 0 | ✅ |
+| V58 | 19 | 35.76 s / 36.08 s | 0 | 0 | 0 | ✅ |
+| V59 | 18 | 35.27 s / 35.59 s | 0 | 0 | 0 | ✅ |
+| V60 | 13 | 25.37 s / 25.69 s | 0 | 0 | 0 | ✅ |
+| V61 | 11 | 24.26 s / 24.57 s | 0 | 0 | 0 | ✅ |
+| V62 | 15 | 30.25 s / 30.57 s | 0 | 0 | 0 | ✅ |
+| V63 | 15 | 30.13 s / 30.43 s | 0 | 0 | 0 | ✅ |
+| V64 | 13 | 28.48 s / 28.80 s | 0 | 0 | 0 | ✅ |
+| V65 | 11 | 25.35 s / 25.63 s | 0 | 0 | 0 | ✅ |
 
 \* Líneas que superan 42 (largo) / 25 (Short) caracteres: aceptable si son pocas; YouTube las ajusta.
 
 
 ## 3. Ortografía
 
-Se pasó un corrector automático (pyspellchecker, diccionario ES) sobre narración, rótulos, títulos y descripciones de los 10 vídeos (1504 palabras distintas). Su diccionario es limitado: no reconoce muchas conjugaciones, plurales, enclíticos ('compártela', 'revísalo') ni palabras con tilde diacrítica ('qué', 'cómo'), por lo que marcó 762 palabras. **La lista completa se revisó manualmente: no contiene erratas.** Los únicos términos no normativos son anglicismos o coloquialismos intencionados del registro de presentador (hype, sprint, glamour, checklist, momentazos, tele, fans) y nombres propios.
+Se pasó un corrector automático (pyspellchecker, diccionario ES) sobre narración, rótulos, títulos y descripciones de los 10 vídeos (1817 palabras distintas). Su diccionario es limitado: no reconoce muchas conjugaciones, plurales, enclíticos ('compártela', 'revísalo') ni palabras con tilde diacrítica ('qué', 'cómo'), por lo que marcó 951 palabras. **La lista completa se revisó manualmente: no contiene erratas.** Los únicos términos no normativos son anglicismos o coloquialismos intencionados del registro de presentador (hype, sprint, glamour, checklist, momentazos, tele, fans) y nombres propios.
 
 <details><summary>Lista revisada</summary>
 
-abiertas, abiertos, abriendo, abrirse, abrió, acabas, acabó, acercas, acertaste, aciertan, aciertas, actividades, actualiza, actualizamos, actualizaremos, actualizo, adelanta, admite, agobian, aguantando, aguas, ahorra, ahorran, ajustados, ajustes, algunas, algunos, amigos, andreas, antiguas, anunciado, anunció, apaga, apagas, aparece, aparecen, apetece, aplicaciones, apostó, aprende, aprendido, apunta, apuntan, arranca, arruine, article, asegurando, asegúrate, asocia, auriculares, autopistas, avanzas, avisos, avisó, añadirías, años, aún, bajamos, baratos, barcos, barrios, batieron, batirá, batió, bellic, blaine, blancos, bloqueado, bosques, boston, buscas, busques, caimanes, calibra, cambiado, cambian, cambiaste, cambios, campanita, canciones, capturado, capturas, capturó, cargas, carl, carreteras, cerraduras, chase, checklist, chicago, ciertas, ciertos, cifras, cinemáticas, circulan, ciudades, claude, claves, clubes, coches, comentado, comentados, comentarios, cometas, compartirlos, complica, comprarlo, compraste, compro, comprobados, comprobamos, comprobaremos, compártela, conduce, configura, confirma, confirmadas, confirmado, confirmados, confirmaremos, confirmarlo, conocemos, conocen, consejos, consolas, contaré, contiene, convence, convencido, convertirse, conviene, copias, corras, cortas, cortes, cosas, creado, creadores, creas, creció, crees, creo, creías, creído, creó, cuadrados, cuantas, cuentas, curiosidades, curvas, cuál, cuándo, cuánto, cuántos, cómo, damos, dando, darle, darte, datos, debes, decepcione, decidió, decimos, decirlo, decía, dedicado, dejan, demuéstralo, deportivos, desaparecen, desarrolla, desbloqueaban, descargado, descargas, desconfía, descubriremos, descubrirse, descuidas, design, destrozado, details, detalles, dice, dicen, diferencias, digitales, digo, dime, dimensiones, dio, directo, diremos, disfrazada, disfrazadas, dispararon, distintas, djuegos, dma, domina, dosifícate, dudas, dundee, débiles, déjalo, días, dímelo, dónde, echa, echarás, ediciones, edimburgo, ejes, elevadas, elige, empecemos, empezamos, empezó, empieces, empiezan, empiezas, encaja, encanta, encargos, encenderla, encontrando, encontré, encuentros, enfadarte, enlazaré, enormes, enseñó, entiende, entra, entrando, equivocarme, eran, eres, errores, escapa, escenas, esconde, escribe, escuchas, especializados, esperado, esperando, esperarás, esperas, estaban, estamos, estarán, estaría, estimaciones, estuvo, está, están, estándar, esté, estén, event, evita, exactas, exactos, existe, existen, explica, explicada, explicadas, explicado, explicados, explico, explora, fallos, fan, fanatismos, fans, fichas, fiestas, fijas, fijándome, filtrado, filtró, fomentan, formas, fotogramas, fotos, franklin, frena, frenada, fue, fuentes, funciona, funcionado, funcionan, fíjate, games, ganó, gastes, genera, generaciones, generadas, gestos, gimnasios, glamour, golpes, grietas, gráficos, guardarlo, guardarse, guiños, gusta, gustado, gustan, gustó, hablan, habló, habrá, habría, había, hace, hacen, hacerlo, haces, haciendo, hacía, hagas, han, haremos, haría, has, hay, hazlos, hechos, hemos, herramientas, hicieron, hidrodeslizadores, hizo, hombres, horas, https, humedales, hype, iba, iconos, iguales, iii, imagina, imaginaba, impactado, importa, impresiones, imágenes, inesperados, ingresos, ingresó, inspira, inspiraciones, inspirada, inspirado, inspirados, insólitas, inteligentes, intentado, intentan, intentarlo, interactúas, interfaz, interiores, internet, interview, inventado, johnson, juega, juegan, juegas, juegos, jueguen, jugaba, jugables, jugado, jugadores, jugando, jugarlo, jugarlos, jugaste, juguemos, juntos, justos, kilómetros, lanzó, larguísimos, latinoamérica, launch, lemmings, leyendo, libera, liberty, libres, licencias, llamarse, llegamos, llegan, llegó, llevamos, llevo, llevó, locales, locas, lograrlo, lugares, mapas, maratón, marcada, marcadas, marcado, marcadores, marcaré, marcaste, mecánicas, medido, medidos, medios, mediremos, mejores, meme, merece, meses, meterse, meto, mezclando, michael, mide, millonarios, millones, minutos, mirando, miremos, mitos, momentazos, momentos, montañas, moteles, moteros, motos, moverse, moverte, movimientos, muchas, muchos, muchísimo, mueve, mundos, muévelo, móviles, nació, necesitas, negros, neones, niko, nombres, north, notado, noticias, notificaciones, nov, novatos, november, now, nuevas, nuevos, números, obsesiones, ochentera, ocultos, ocupa, oficiales, ofrece, olvides, one, opcional, opcionales, opciones, opiniones, orientarte, orientativo, otros, pac, palabras, pantanos, parece, partes, partidas, pasaba, pasamos, pasarte, pasas, pasó, peculiares, pedirle, pegas, pequeños, perderse, perderte, perdértela, persecuciones, personajes, pese, pierde, planos, planteado, playas, podemos, podido, podrá, podría, podías, precargado, precedentes, precios, prefieres, preguntas, preguntáis, preparándose, prepárate, presentaron, presento, primeras, primeros, principiantes, prisas, problemas, probándolos, profesionales, prometen, prometieron, propios, propón, protagonistas, protagonizaron, protagonizó, publica, publicada, publicado, publicados, publicarlo, publicarse, publicó, pueblos, puede, pueden, puedes, puedo, puentes, puertos, pulsa, puntos, pásalo, pásaselo, pásate, quedan, quedarse, quedas, quiere, quieres, quiz, quién, quiénes, qué, quédate, race, ranking, raros, rastreadores, reacciona, reales, realizado, recomendamos, reconocerlo, reconoces, recuerda, recuerdan, recuerdas, recupera, recuperarlos, regiones, reinicia, relaciona, relacionado, repasamos, repiten, reservas, reservaste, residenciales, resumo, retrasos, revisa, revísalo, rincones, rockstargames, rodea, rodeada, rodeado, rompió, rumores, rápidas, récord, récords, ríos, sabe, sabemos, sabes, sabremos, sabías, sale, salen, salió, saltarse, santos, saturados, sea, secretos, secundarias, seguidas, seguimos, segundos, según, semanas, sencillas, senderos, separadas, separado, separamos, separando, sepas, servido, servidores, será, sesiones, set, señaladas, sido, siendo, siente, siete, significa, sigue, silencia, sirve, sistemas, sociales, soleado, soluciones, sorprendido, sprint, stories, subimos, subtítulos, suele, suelen, superado, superará, superó, take, tamano, tantos, tele, tendrá, tendrás, tenemos, tenerlo, tengamos, tengas, tenido, tenía, tenían, teorías, tetris, the, theft, tiempos, tienda, tiendas, tiene, tienen, tienes, tipos, todas, todos, todoterreno, tommy, trabaja, trabajando, trabajos, trae, traficantes, trajes, transcurre, transcurría, transmiten, trevor, triunfado, triunfó, turquesas, tutoriales, tuvo, two, técnicos, típicos, tómatelo, unas, unidas, uniendo, unos, usa, usan, usuarios, vamos, van, varios, vas, vayamos, veamos, veas, vecinos, vegas, vehículos, vemos, ven, vende, venden, vendidas, vendido, venturas, vercetti, verdades, veremos, verlo, versiones, verás, ves, veteranos, veía, videojuegos, viendo, viene, vienes, virales, viste, visualizaciones, volvió, voy, vuelve, válidos, web, webs, www, york, zonas, ángeles, últimos
+abiertas, abiertos, abre, abriendo, abrirse, abrió, acaba, acabas, acabó, acercas, acertaste, aciertan, aciertas, actividades, activos, actualiza, actualizamos, actualizaremos, actualizo, adelanta, admite, agobian, aguantando, aguas, ahorra, ahorran, ajustados, ajustes, algunas, algunos, alistándose, amigos, andreas, antiguas, anunciada, anunciado, anunció, apaga, apagas, aparece, aparecen, aparecieron, apareció, aparecía, apetece, aplicaciones, apostó, app, apps, aprende, aprendido, apunta, apuntan, arranca, arriesgados, arriesgarte, arruine, article, asegurando, asegúrate, asocia, atajos, atracador, auriculares, autopistas, avanzas, avisa, avisamos, avisos, avisó, añadirías, años, aún, bae, bajamos, bancos, baratos, barcos, barrios, batieron, batirá, batió, bellic, blaine, blancos, bloqueadas, bloqueado, bloqueó, borradas, borró, bosques, boston, brian, buscan, buscas, busques, cadenas, caigas, caimanes, calibra, calles, cambiado, cambian, cambiaste, cambios, campanita, canciones, canjearlo, capturado, capturas, capturó, cargas, carl, carreras, carreteras, cañones, cerraduras, chase, checklist, chicago, cierra, ciertas, ciertos, cifras, cinemáticas, circulan, ciudades, claude, claves, clip, clipping, clips, clubes, coches, comentado, comentados, comentarios, cometas, compara, compartidas, compartirlo, compartirlos, complica, comprados, comprarlo, compraste, compro, comprobados, comprobamos, comprobaremos, compártela, conduce, configura, confirma, confirmadas, confirmado, confirmados, confirmaremos, confirmarlo, conoce, conocemos, conocen, consejos, consolas, contamos, contaré, contiene, contraseñas, convence, convencido, convertida, convertirse, conviene, copias, corras, cortas, cortes, cosas, creado, creadores, creas, creció, crees, creo, creías, creído, creó, créditos, cuadrados, cuantas, cuentas, curiosidades, curvas, cuál, cuándo, cuánto, cuántos, cómo, damos, dan, dando, darle, darte, datos, debes, decepcione, decidió, decimos, decirlo, decía, dedicado, deforman, dejan, delincuentes, demuéstralo, deportivos, desaparecen, desarrolla, desbloqueaban, descargado, descargando, descargarlo, descargas, desconfía, descubriremos, descubrirse, descuidas, design, destrozado, details, detalles, detectar, detectas, dice, dicen, diferencias, digitales, digo, dime, dimensiones, dimez, dio, directo, diremos, dirige, discográfico, disfrazada, disfrazadas, dispararon, distintas, djuegos, dma, domina, dosifícate, dre, dudas, dundee, duraba, débiles, déjalo, días, dímelo, dónde, echa, echarás, ediciones, edimburgo, ejes, elevadas, elige, eliminó, emitido, emitió, empecemos, empezamos, empezó, empieces, empiezan, empiezas, encaja, encanta, encargos, encenderla, encontrando, encontré, encuentros, enfadarte, enlazaré, enormes, enseñó, entiende, entra, entrando, equivocarme, eran, eres, errores, escapa, escenas, esconde, escribe, escuchando, escuchas, especializados, esperado, esperando, esperarás, esperas, estaba, estaban, estafadores, estafas, estamos, estarán, estaría, estimaciones, estrellas, estrenado, estrenaron, estrenó, estuvo, está, están, estándar, esté, estén, etiquétanos, event, evita, exactas, exactos, excrementos, existe, existen, explica, explicada, explicadas, explicado, explicados, explico, explora, extended, fake, fallos, falsas, falsos, fan, fanatismos, fans, fiarte, fichado, fichas, fiestas, fijas, fijándome, filtrado, filtró, fines, fomentan, formas, fotogramas, fotos, franklin, frena, frenada, fue, fuentes, funciona, funcionado, funcionan, funcionando, funciones, fíjate, físicas, games, ganó, gastes, genera, generaciones, generadas, generado, gestos, gimnasios, glamour, golpes, graba, grabación, grandes, grietas, gráficos, guardarlo, guardarse, guardas, guiños, gusta, gustado, gustan, gustó, hablan, habló, habrá, habría, había, habías, hace, hacen, hacerlo, haces, haciendo, hacía, hagas, han, haremos, hará, haría, has, hay, hazlos, hechos, hemos, herramientas, hicieron, hidrodeslizadores, hizo, hombres, horas, https, hubo, humedales, hype, iba, iconos, iguales, iii, imagina, imaginaba, impactado, importa, imposibles, impresiones, imágenes, inesperados, informativos, ingresos, ingresó, inmuebles, inspira, inspiraciones, inspirada, inspirado, inspirados, insólitas, inteligentes, intentado, intentan, intentarlo, intentó, interactúas, interfaz, interiores, internet, interview, inventado, johnson, juega, juegan, juegas, juegos, jueguen, jugaba, jugables, jugado, jugadores, jugando, jugarlo, jugarlos, jugaron, jugaste, juguemos, jugártela, juntos, justos, kilómetros, lanzó, larguísimos, latinoamérica, launch, leen, lemmings, leyendo, libera, liberty, libres, licencias, llamarse, llegamos, llegan, llegó, llenas, llenó, llevamos, llevo, llevó, locales, locas, lograrlo, look, lugares, luxe, manglares, manos, mansiones, mantén, mapas, maratón, marcada, marcadas, marcado, marcadores, marcaré, marcaste, mecánicas, medido, medidos, medios, mediremos, mejores, meme, menciona, menú, merece, meses, metacritic, meterse, meterte, meto, mezclando, michael, microsoft, mide, millonarios, millones, minutos, mirando, miremos, mitos, momentazo, momentazos, momentos, montañas, mostró, moteles, moteros, motos, moverse, moverte, movimientos, muchas, muchos, muchísimo, mueve, mundos, muévelo, móviles, nació, necesitas, negros, neones, netflix, niko, nombres, north, notado, notas, noticias, notificaciones, nov, novatos, november, now, nuevas, nuevos, números, objetos, obsesiones, ochentera, ocultos, ocupa, ofertas, oficiales, ofrece, ofrecen, ofrezca, olvides, one, only, opcional, opcionales, opciones, opiniones, orientarte, orientativo, otras, otros, pac, palabras, palmeras, pantanos, parece, park, partes, partidas, pasaba, pasamos, pasarte, pasará, pasas, pasó, peculiares, pedirle, pedirá, pegas, pequeños, perderse, perderte, perdiste, perdértela, persecuciones, personajes, pese, piensa, pierdas, pierde, pig, planos, planteado, playas, podemos, podido, podrá, podría, podías, pondrías, pone, pones, precargado, precedentes, precios, preferencias, prefieres, preguntas, preguntáis, preparándose, prepárate, presentaron, presento, priest, prime, primeras, primeros, principiantes, prisas, problemas, probándolos, profesionales, promete, prometen, prometieron, propios, propón, protagonistas, protagonizaron, protagonizó, publica, publicada, publicado, publicados, publicarlo, publicarse, publicó, pudiera, pueblos, puede, pueden, puedes, puedo, puentes, puertos, pulsa, pulsado, puntos, puntuaciones, puntúa, pásalo, pásame, pásaselo, pásate, quan, quedaba, quedan, quedaron, quedarse, quedas, quiere, quieres, quiz, quién, quiénes, qué, quédate, race, ranking, rap, raras, raros, rastrea, rastreadores, raul, raw, reacciona, reales, realizado, rebajas, recibió, recogiendo, recomendamos, reconocerlo, reconoces, records, recorre, recuerda, recuerdan, recuerdas, recupera, recuperarlos, regalan, regiones, reinicia, relaciona, relacionado, repasamos, repiten, reservas, reservaste, reseñas, residenciales, resumo, retransmite, retrasos, revisa, revocadas, revísalo, riesgos, rincones, rockstargames, rodea, rodeada, rodeado, rodeos, rompió, roxy, rumores, rápidas, récord, récords, ríos, sabe, sabemos, sabes, sabremos, sabías, sacó, sale, salen, saliera, salió, saltarse, salvarte, santos, saturados, sea, secretos, secundarias, secundarios, seguidas, seguidos, seguimos, seguirás, segundos, según, semanas, sencillas, senderos, separadas, separado, separamos, separando, sepas, servido, servidores, será, sesiones, set, señaladas, señales, sido, siendo, siente, siete, significa, sigue, siguen, silencia, sirve, sistemas, skyline, sociales, soleado, soluciones, sorprendido, sorprendió, sorteos, sprint, stick, store, stories, stream, subimos, subtítulos, suele, suelen, superado, superará, superó, take, tamano, tantos, tardado, tardan, tele, tendrá, tendrán, tendrás, tenemos, tenerlo, tengamos, tengas, tenido, tenía, tenían, teorías, tetris, textos, the, theft, tiempos, tienda, tiendas, tiene, tienen, tienes, tipos, todas, todos, todoterreno, tommy, trabaja, trabajando, trabajos, trae, traficantes, tragado, trajes, transcurre, transcurría, transmiten, trevor, triunfado, triunfó, turquesas, tutoriales, tuvo, twitch, two, técnicos, típicas, típicos, tómatelo, unas, unidas, uniendo, unos, usa, usan, usuarios, usándola, valoraciones, vamos, van, varios, vas, vayamos, veamos, veas, vecinos, vegas, vehículos, vemos, ven, vende, venden, vendidas, vendido, venturas, vercetti, verdades, veremos, verlo, versiones, verás, ves, veteranos, veía, video, videojuegos, viendo, viene, vienes, vieron, vigila, vincula, vio, viral, virales, vistas, vistazos, viste, visualizaciones, volvieron, volvió, voy, vuelve, vuelven, válidos, web, webs, www, york, zonas, ángeles, últimos
 
 </details>
 
@@ -152,6 +162,31 @@ abiertas, abiertos, abriendo, abrirse, abrió, acabas, acabó, acercas, acertast
 | V38 | 0 | ✅ Completo |
 | V39 | 0 | ✅ Completo |
 | V40 | 0 | ✅ Completo |
+| V48 | 0 | ✅ Completo |
+| V49 | 0 | ✅ Completo |
+| V50 | 0 | ✅ Completo |
+| V51 | 0 | ✅ Completo |
+| V52 | 0 | ✅ Completo |
+| V53 | 0 | ✅ Completo |
+| V41 | 0 | ✅ Completo |
+| V42 | 0 | ✅ Completo |
+| V43 | 0 | ✅ Completo |
+| V44 | 0 | ✅ Completo |
+| V45 | 0 | ✅ Completo |
+| V46 | 0 | ✅ Completo |
+| V47 | 0 | ✅ Completo |
+| V54 | 0 | ✅ Completo |
+| V55 | 0 | ✅ Completo |
+| V56 | 0 | ✅ Completo |
+| V57 | 0 | ✅ Completo |
+| V58 | 0 | ✅ Completo |
+| V59 | 0 | ✅ Completo |
+| V60 | 0 | ✅ Completo |
+| V61 | 0 | ✅ Completo |
+| V62 | 0 | ✅ Completo |
+| V63 | 0 | ✅ Completo |
+| V64 | 0 | ✅ Completo |
+| V65 | 0 | ✅ Completo |
 
 ## 5. Miniaturas
 
@@ -205,6 +240,31 @@ abiertas, abiertos, abriendo, abrirse, abrió, acabas, acabó, acercas, acertast
 | `VIDEO_38_Short_Quiz_Protagonistas_GTA5/Miniatura/V38_portada_short_1080x1920.png` | 1080×1920 | ✅ |
 | `VIDEO_39_Short_Mito_Vista_Cenital/Miniatura/V39_portada_short_1080x1920.png` | 1080×1920 | ✅ |
 | `VIDEO_40_Short_Trailer_Record/Miniatura/V40_portada_short_1080x1920.png` | 1080×1920 | ✅ |
+| `VIDEO_48_Short_Que_fue_el_Extended_Look/Miniatura/V48_portada_short_1080x1920.png` | 1080×1920 | ✅ |
+| `VIDEO_49_Short_Mito_Seis_Estrellas/Miniatura/V49_portada_short_1080x1920.png` | 1080×1920 | ✅ |
+| `VIDEO_50_Short_GTA6_en_South_Park/Miniatura/V50_portada_short_1080x1920.png` | 1080×1920 | ✅ |
+| `VIDEO_51_Short_Quiz_Extended_Look/Miniatura/V51_portada_short_1080x1920.png` | 1080×1920 | ✅ |
+| `VIDEO_52_Short_Como_Hacer_Stream/Miniatura/V52_portada_short_1080x1920.png` | 1080×1920 | ✅ |
+| `VIDEO_53_Short_Actividades_Extended_Look/Miniatura/V53_portada_short_1080x1920.png` | 1080×1920 | ✅ |
+| `VIDEO_41_Short_Mito_Misma_Hora_Mundo/Miniatura/V41_portada_short_1080x1920.png` | 1080×1920 | ✅ |
+| `VIDEO_42_Short_Descargar_en_PS5/Miniatura/V42_portada_short_1080x1920.png` | 1080×1920 | ✅ |
+| `VIDEO_43_Short_Descargar_en_Xbox/Miniatura/V43_portada_short_1080x1920.png` | 1080×1920 | ✅ |
+| `VIDEO_44_Short_Videos_Falsos_IA/Miniatura/V44_portada_short_1080x1920.png` | 1080×1920 | ✅ |
+| `VIDEO_45_Short_Grabar_Clips/Miniatura/V45_portada_short_1080x1920.png` | 1080×1920 | ✅ |
+| `VIDEO_46_Short_Quiz_Estado_Leonida/Miniatura/V46_portada_short_1080x1920.png` | 1080×1920 | ✅ |
+| `VIDEO_47_Short_Sin_Consola_o_Movil/Miniatura/V47_portada_short_1080x1920.png` | 1080×1920 | ✅ |
+| `VIDEO_54_Short_Que_pasa_con_GTA5_Online/Miniatura/V54_portada_short_1080x1920.png` | 1080×1920 | ✅ |
+| `VIDEO_55_Short_GTA6_Gratis_Estafa/Miniatura/V55_portada_short_1080x1920.png` | 1080×1920 | ✅ |
+| `VIDEO_56_Short_Metacritic_Resenas_Falsas/Miniatura/V56_portada_short_1080x1920.png` | 1080×1920 | ✅ |
+| `VIDEO_57_Short_Quiz_Mejor_Nota_Metacritic/Miniatura/V57_portada_short_1080x1920.png` | 1080×1920 | ✅ |
+| `VIDEO_58_Short_Comprar_GTA6_Barato/Miniatura/V58_portada_short_1080x1920.png` | 1080×1920 | ✅ |
+| `VIDEO_59_Short_Leonida_Imagenes_Oficiales/Miniatura/V59_portada_short_1080x1920.png` | 1080×1920 | ✅ |
+| `VIDEO_60_Short_Quien_es_Jason/Miniatura/V60_portada_short_1080x1920.png` | 1080×1920 | ✅ |
+| `VIDEO_61_Short_Quien_es_Lucia/Miniatura/V61_portada_short_1080x1920.png` | 1080×1920 | ✅ |
+| `VIDEO_62_Short_Reparto_Jason/Miniatura/V62_portada_short_1080x1920.png` | 1080×1920 | ✅ |
+| `VIDEO_63_Short_Only_Raw_Records/Miniatura/V63_portada_short_1080x1920.png` | 1080×1920 | ✅ |
+| `VIDEO_64_Short_Quiz_Que_Zona_Es/Miniatura/V64_portada_short_1080x1920.png` | 1080×1920 | ✅ |
+| `VIDEO_65_Short_Asi_es_Vice_City/Miniatura/V65_portada_short_1080x1920.png` | 1080×1920 | ✅ |
 
 Prueba de legibilidad en móvil: `prueba_legibilidad_movil_miniaturas.png` (miniaturas elegidas a 320 px). Texto legible en todas.
 
@@ -235,4 +295,43 @@ Prueba de legibilidad en móvil: `prueba_legibilidad_movil_miniaturas.png` (mini
 
 ## 8. Incidencias detectadas
 
-- Ninguna incidencia técnica bloqueante.
+- V01: falta MP4
+- V02: falta MP4
+- V03: falta MP4
+- V04: falta MP4
+- V05: falta MP4
+- V06: falta MP4
+- V07: falta MP4
+- V08: falta MP4
+- V09: falta MP4
+- V10: falta MP4
+- V11: falta MP4
+- V12: falta MP4
+- V13: falta MP4
+- V14: falta MP4
+- V15: falta MP4
+- V16: falta MP4
+- V17: falta MP4
+- V18: falta MP4
+- V19: falta MP4
+- V20: falta MP4
+- V21: falta MP4
+- V22: falta MP4
+- V23: falta MP4
+- V24: falta MP4
+- V25: falta MP4
+- V26: falta MP4
+- V27: falta MP4
+- V28: falta MP4
+- V29: falta MP4
+- V30: falta MP4
+- V31: falta MP4
+- V32: falta MP4
+- V33: falta MP4
+- V34: falta MP4
+- V35: falta MP4
+- V36: falta MP4
+- V37: falta MP4
+- V38: falta MP4
+- V39: falta MP4
+- V40: falta MP4

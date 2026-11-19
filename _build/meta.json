@@ -588,5 +588,65 @@
   "out": "VIDEO_59_Short_Leonida_Imagenes_Oficiales/Video_Final/V59_FINAL_1080x1920.mp4",
   "fecha": "",
   "carpeta": "VIDEO_59_Short_Leonida_Imagenes_Oficiales"
+ },
+ {
+  "id": "V60",
+  "titulo": "¿Quién es Jason Duval? El protagonista de GTA 6",
+  "formato": "short",
+  "modo": "final",
+  "dur": 25.69,
+  "out": "VIDEO_60_Short_Quien_es_Jason/Video_Final/V60_FINAL_1080x1920.mp4",
+  "fecha": "",
+  "carpeta": "VIDEO_60_Short_Quien_es_Jason"
+ },
+ {
+  "id": "V61",
+  "titulo": "¿Quién es Lucia Caminos? La protagonista de GTA 6",
+  "formato": "short",
+  "modo": "final",
+  "dur": 24.58,
+  "out": "VIDEO_61_Short_Quien_es_Lucia/Video_Final/V61_FINAL_1080x1920.mp4",
+  "fecha": "",
+  "carpeta": "VIDEO_61_Short_Quien_es_Lucia"
+ },
+ {
+  "id": "V62",
+  "titulo": "3 personajes de GTA 6 que tienes que conocer",
+  "formato": "short",
+  "modo": "final",
+  "dur": 30.57,
+  "out": "VIDEO_62_Short_Reparto_Jason/Video_Final/V62_FINAL_1080x1920.mp4",
+  "fecha": "",
+  "carpeta": "VIDEO_62_Short_Reparto_Jason"
+ },
+ {
+  "id": "V63",
+  "titulo": "Los personajes de la música en GTA 6",
+  "formato": "short",
+  "modo": "final",
+  "dur": 30.45,
+  "out": "VIDEO_63_Short_Only_Raw_Records/Video_Final/V63_FINAL_1080x1920.mp4",
+  "fecha": "",
+  "carpeta": "VIDEO_63_Short_Only_Raw_Records"
+ },
+ {
+  "id": "V64",
+  "titulo": "Quiz: ¿qué zona de GTA 6 es esta?",
+  "formato": "short",
+  "modo": "final",
+  "dur": 28.8,
+  "out": "VIDEO_64_Short_Quiz_Que_Zona_Es/Video_Final/V64_FINAL_1080x1920.mp4",
+  "fecha": "",
+  "carpeta": "VIDEO_64_Short_Quiz_Que_Zona_Es"
+ },
+ {
+  "id": "V65",
+  "titulo": "Así es Vice City en GTA 6",
+  "formato": "short",
+  "modo": "final",
+  "dur": 25.67,
+  "out": "VIDEO_65_Short_Asi_es_Vice_City/Video_Final/V65_FINAL_1080x1920.mp4",
+  "fecha": "",
+  "carpeta": "VIDEO_65_Short_Asi_es_Vice_City"
  }
 ]
