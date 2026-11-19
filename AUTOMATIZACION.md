@@ -37,3 +37,9 @@ MP4 y WAV (se regeneran) e imágenes de escena. Las entregas finales están en l
 - Momentos útiles del tráiler: 6–12 s yate, 18 s coches, 27 s pantano, 36–45 s Jason y Lucia, 48 s club, 51 s moto, 54 s playa. Evitar 24 s (logo) y 81 s en adelante (rótulos finales).
 - En el guion marcar `V["oficial"] = True` y terminar la descripción con: "Imágenes y vídeo: © Rockstar Games (material oficial de su web de descargas), con fines informativos. Mapa Abierto es un canal no oficial."
 - Ejemplo: `_build/content/tanda_20261119_oficial.py` (V59).
+
+### Juego real: Extended Look (desde el 19/11/2026)
+- `assets_rockstar.sh` arranca `rk_relay.py`, un relay local que deja a ffmpeg leer por rangos el Extended Look oficial (27 min, 4K, PS5) sin bajar los 14 GB.
+- En los guiones: `clip=("EL", segundo, velocidad)` (+ `fx` para encuadrar el recorte vertical). Sin audio.
+- Tramos útiles (segundo de inicio · duración aprox.): 506 descapotable por Vice City (28 s) · 760 carretera al atardecer (9 s) · 849 tiroteo con la policía (7 s) · 925 persecución en callejón (8 s) · 1003 Jason y Lucia en la furgoneta (6 s) · 1030 hidrodeslizador (2,5 s, usar vel 2,5) · 1045 moto de agua (2,5 s) · 1133 paracaídas sobre Vice City (6 s) · 1222 carrera nocturna (5 s) · 1571 atardecer sobre Vice City (2,5 s). Evitar 374 (logo VI) y 1585 en adelante (rótulos finales).
+- Etiqueta de serie para estos vídeos: "JUEGO REAL". Ejemplos: `content/tanda_20261119_gameplay.py` (V66–V75).
