@@ -1,0 +1,23 @@
+[Script Info]
+Title: V70 subtítulos Mapa Abierto
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Marca,Inter Display,78,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,-1,0,0,0,100,100,0,0,1,5,3,2,80,80,560,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.05,0:00:01.57,Marca,,0,0,0,,{\fad(60,40)}Los Cayos de\NLeonida, en
+Dialogue: 0,0:00:01.59,0:00:03.49,Marca,,0,0,0,,{\fad(60,40)}imágenes oficiales\Nde Rockstar.
+Dialogue: 0,0:00:03.86,0:00:06.22,Marca,,0,0,0,,{\fad(60,40)}Están inspirados en\Nlos Cayos de Florida.
+Dialogue: 0,0:00:06.59,0:00:08.83,Marca,,0,0,0,,{\fad(60,40)}Islas tropicales\Nunidas por carreteras
+Dialogue: 0,0:00:08.85,0:00:10.66,Marca,,0,0,0,,{\fad(60,40)}y largos puentes\Nsobre el mar.
+Dialogue: 0,0:00:11.03,0:00:12.42,Marca,,0,0,0,,{\fad(60,40)}Es la zona de Jason:
+Dialogue: 0,0:00:12.44,0:00:14.35,Marca,,0,0,0,,{\fad(60,40)}allí trabaja\Npara traficantes
+Dialogue: 0,0:00:14.37,0:00:16.46,Marca,,0,0,0,,{\fad(60,40)}locales, según\Nsu ficha oficial.
+Dialogue: 0,0:00:16.83,0:00:19.28,Marca,,0,0,0,,{\fad(60,40)}¿Te harías una casa aquí?\NComenta.

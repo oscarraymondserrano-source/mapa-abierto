@@ -648,5 +648,105 @@
   "out": "VIDEO_65_Short_Asi_es_Vice_City/Video_Final/V65_FINAL_1080x1920.mp4",
   "fecha": "",
   "carpeta": "VIDEO_65_Short_Asi_es_Vice_City"
+ },
+ {
+  "id": "V66",
+  "titulo": "Así se conduce en GTA 6: juego real",
+  "formato": "short",
+  "modo": "final",
+  "dur": 22.1,
+  "out": "VIDEO_66_Short_Asi_se_conduce/Video_Final/V66_FINAL_1080x1920.mp4",
+  "fecha": "",
+  "carpeta": "VIDEO_66_Short_Asi_se_conduce"
+ },
+ {
+  "id": "V67",
+  "titulo": "Así funciona la policía en GTA 6",
+  "formato": "short",
+  "modo": "final",
+  "dur": 23.75,
+  "out": "VIDEO_67_Short_Policia_Juego_Real/Video_Final/V67_FINAL_1080x1920.mp4",
+  "fecha": "",
+  "carpeta": "VIDEO_67_Short_Policia_Juego_Real"
+ },
+ {
+  "id": "V68",
+  "titulo": "Qué puedes hacer en GTA 6: juego real",
+  "formato": "short",
+  "modo": "final",
+  "dur": 18.47,
+  "out": "VIDEO_68_Short_Que_hacer_juego_real/Video_Final/V68_FINAL_1080x1920.mp4",
+  "fecha": "",
+  "carpeta": "VIDEO_68_Short_Que_hacer_juego_real"
+ },
+ {
+  "id": "V69",
+  "titulo": "Jason y Lucia empiezan desde abajo en GTA 6",
+  "formato": "short",
+  "modo": "final",
+  "dur": 18.24,
+  "out": "VIDEO_69_Short_Empiezan_desde_abajo/Video_Final/V69_FINAL_1080x1920.mp4",
+  "fecha": "",
+  "carpeta": "VIDEO_69_Short_Empiezan_desde_abajo"
+ },
+ {
+  "id": "V70",
+  "titulo": "Así son los Cayos de Leonida en GTA 6",
+  "formato": "short",
+  "modo": "final",
+  "dur": 19.6,
+  "out": "VIDEO_70_Short_Cayos_de_Leonida/Video_Final/V70_FINAL_1080x1920.mp4",
+  "fecha": "",
+  "carpeta": "VIDEO_70_Short_Cayos_de_Leonida"
+ },
+ {
+  "id": "V71",
+  "titulo": "Así es Grassrivers, los pantanos de GTA 6",
+  "formato": "short",
+  "modo": "final",
+  "dur": 16.57,
+  "out": "VIDEO_71_Short_Grassrivers/Video_Final/V71_FINAL_1080x1920.mp4",
+  "fecha": "",
+  "carpeta": "VIDEO_71_Short_Grassrivers"
+ },
+ {
+  "id": "V72",
+  "titulo": "Así es Port Gellhorn en GTA 6",
+  "formato": "short",
+  "modo": "final",
+  "dur": 16.94,
+  "out": "VIDEO_72_Short_Port_Gellhorn/Video_Final/V72_FINAL_1080x1920.mp4",
+  "fecha": "",
+  "carpeta": "VIDEO_72_Short_Port_Gellhorn"
+ },
+ {
+  "id": "V73",
+  "titulo": "Ambrosia y Mount Kalaga: el interior de GTA 6",
+  "formato": "short",
+  "modo": "final",
+  "dur": 26.05,
+  "out": "VIDEO_73_Short_Ambrosia_y_Kalaga/Video_Final/V73_FINAL_1080x1920.mp4",
+  "fecha": "",
+  "carpeta": "VIDEO_73_Short_Ambrosia_y_Kalaga"
+ },
+ {
+  "id": "V74",
+  "titulo": "Quiz: ¿cuántas estrellas de búsqueda tiene GTA 6?",
+  "formato": "short",
+  "modo": "final",
+  "dur": 29.19,
+  "out": "VIDEO_74_Short_Quiz_Estrellas/Video_Final/V74_FINAL_1080x1920.mp4",
+  "fecha": "",
+  "carpeta": "VIDEO_74_Short_Quiz_Estrellas"
+ },
+ {
+  "id": "V75",
+  "titulo": "Los atardeceres de GTA 6 en juego real",
+  "formato": "short",
+  "modo": "final",
+  "dur": 15.6,
+  "out": "VIDEO_75_Short_Atardeceres/Video_Final/V75_FINAL_1080x1920.mp4",
+  "fecha": "",
+  "carpeta": "VIDEO_75_Short_Atardeceres"
  }
 ]

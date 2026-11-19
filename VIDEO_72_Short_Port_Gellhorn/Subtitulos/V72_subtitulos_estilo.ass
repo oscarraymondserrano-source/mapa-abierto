@@ -1,0 +1,23 @@
+[Script Info]
+Title: V72 subtítulos Mapa Abierto
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Marca,Inter Display,78,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,-1,0,0,0,100,100,0,0,1,5,3,2,80,80,560,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.05,0:00:02.23,Marca,,0,0,0,,{\fad(60,40)}Port Gellhorn, en\Nimágenes oficiales
+Dialogue: 0,0:00:02.25,0:00:03.11,Marca,,0,0,0,,{\fad(60,40)}de Rockstar.
+Dialogue: 0,0:00:03.48,0:00:05.28,Marca,,0,0,0,,{\fad(60,40)}Un pueblo costero\Nde vacaciones
+Dialogue: 0,0:00:05.30,0:00:06.27,Marca,,0,0,0,,{\fad(60,40)}venido a menos.
+Dialogue: 0,0:00:06.64,0:00:09.63,Marca,,0,0,0,,{\fad(60,40)}Con tiendas abandonadas y\Nmucho crimen por debajo.
+Dialogue: 0,0:00:10.01,0:00:11.93,Marca,,0,0,0,,{\fad(60,40)}Un crimen más de\Nbarrio obrero que
+Dialogue: 0,0:00:11.95,0:00:13.88,Marca,,0,0,0,,{\fad(60,40)}el crimen organizado\Nde Vice City.
+Dialogue: 0,0:00:14.25,0:00:15.94,Marca,,0,0,0,,{\fad(60,40)}¿Irías de\Nvacaciones aquí?
+Dialogue: 0,0:00:15.96,0:00:16.62,Marca,,0,0,0,,{\fad(60,40)}Comenta.

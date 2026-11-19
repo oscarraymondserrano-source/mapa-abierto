@@ -1,0 +1,12 @@
+# Pegar en ElevenLabs (modelo multilingüe). Las MAYÚSCULAS marcan énfasis; <break> son pausas.
+# Ajustes: Stability 45 · Similarity 80 · Style 20 · Speaker boost ON. Velocidad 1.05.
+
+Port Gellhorn, en imágenes oficiales de Rockstar. <break time="0.4s" />
+
+Un pueblo costero de vacaciones venido a menos. <break time="0.4s" />
+
+Con tiendas abandonadas y mucho crimen por debajo. <break time="0.4s" />
+
+Un crimen más de barrio obrero que el crimen organizado de Vice City. <break time="0.4s" />
+
+¿Irías de vacaciones aquí? Comenta. <break time="0.4s" />

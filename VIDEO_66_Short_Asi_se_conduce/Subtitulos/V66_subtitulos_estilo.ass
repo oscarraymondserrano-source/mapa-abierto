@@ -1,0 +1,24 @@
+[Script Info]
+Title: V66 subtítulos Mapa Abierto
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Marca,Inter Display,78,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,-1,0,0,0,100,100,0,0,1,5,3,2,80,80,560,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.05,0:00:01.67,Marca,,0,0,0,,{\fad(60,40)}Esto no es un tráiler:
+Dialogue: 0,0:00:01.69,0:00:04.51,Marca,,0,0,0,,{\fad(60,40)}es juego real de GTA\N6, del Extended Look
+Dialogue: 0,0:00:04.53,0:00:07.29,Marca,,0,0,0,,{\fad(60,40)}que Rockstar grabó\Nen una PlayStation 5.
+Dialogue: 0,0:00:07.66,0:00:09.64,Marca,,0,0,0,,{\fad(60,40)}Un descapotable\Ncruzando Vice
+Dialogue: 0,0:00:09.66,0:00:11.40,Marca,,0,0,0,,{\fad(60,40)}City a plena\Nluz del día.
+Dialogue: 0,0:00:11.77,0:00:14.59,Marca,,0,0,0,,{\fad(60,40)}Tráfico, palmeras y\Nrascacielos al fondo.
+Dialogue: 0,0:00:14.96,0:00:16.73,Marca,,0,0,0,,{\fad(60,40)}La carretera,\Nal atardecer.
+Dialogue: 0,0:00:17.10,0:00:19.15,Marca,,0,0,0,,{\fad(60,40)}Y persecuciones\Nentre callejones.
+Dialogue: 0,0:00:19.17,0:00:21.11,Marca,,0,0,0,,{\fad(60,40)}¿Qué coche vas\Na coger primero?
+Dialogue: 0,0:00:21.13,0:00:21.78,Marca,,0,0,0,,{\fad(60,40)}Comenta.

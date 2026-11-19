@@ -1,0 +1,12 @@
+# Pegar en ElevenLabs (modelo multilingüe). Las MAYÚSCULAS marcan énfasis; <break> son pausas.
+# Ajustes: Stability 45 · Similarity 80 · Style 20 · Speaker boost ON. Velocidad 1.05.
+
+Los Cayos de Leonida, en imágenes oficiales de Rockstar. <break time="0.4s" />
+
+Están inspirados en los Cayos de Florida. <break time="0.4s" />
+
+Islas tropicales unidas por carreteras y largos puentes sobre el mar. <break time="0.4s" />
+
+Es la zona de Jason: allí trabaja para traficantes locales, según su ficha oficial. <break time="0.4s" />
+
+¿Te harías una casa aquí? Comenta. <break time="0.4s" />

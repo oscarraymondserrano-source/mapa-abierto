@@ -1,0 +1,12 @@
+# Pegar en ElevenLabs (modelo multilingüe). Las MAYÚSCULAS marcan énfasis; <break> son pausas.
+# Ajustes: Stability 45 · Similarity 80 · Style 20 · Speaker boost ON. Velocidad 1.05.
+
+Esto no es un tráiler: es juego real de GTA 6, del Extended Look que Rockstar grabó en una PlayStation 5. <break time="0.4s" />
+
+Un descapotable cruzando Vice City a plena luz del día. <break time="0.4s" />
+
+Tráfico, palmeras y rascacielos al fondo. <break time="0.4s" />
+
+La carretera, al atardecer. <break time="0.4s" />
+
+Y persecuciones entre callejones. ¿Qué coche vas a coger primero? Comenta. <break time="0.4s" />

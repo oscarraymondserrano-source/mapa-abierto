@@ -1,0 +1,10 @@
+# Pegar en ElevenLabs (modelo multilingüe). Las MAYÚSCULAS marcan énfasis; <break> son pausas.
+# Ajustes: Stability 45 · Similarity 80 · Style 20 · Speaker boost ON. Velocidad 1.05.
+
+Esto es Grassrivers, los pantanos de GTA 6, en juego real del Extended Look. <break time="0.4s" />
+
+Es la versión de Leonida de los Everglades de Florida. <break time="0.4s" />
+
+Pantanos con rutas en hidrodeslizador. <break time="0.4s" />
+
+Y encuentros con caimanes. ¿Te atreves a entrar? Comenta. <break time="0.4s" />

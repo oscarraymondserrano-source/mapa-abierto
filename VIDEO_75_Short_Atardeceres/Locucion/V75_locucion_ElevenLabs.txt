@@ -1,0 +1,12 @@
+# Pegar en ElevenLabs (modelo multilingüe). Las MAYÚSCULAS marcan énfasis; <break> son pausas.
+# Ajustes: Stability 45 · Similarity 80 · Style 20 · Speaker boost ON. Velocidad 1.05.
+
+Así se ve GTA 6 al atardecer, en juego real grabado en PlayStation 5. <break time="0.4s" />
+
+La luz del sol entre las palmeras. <break time="0.4s" />
+
+Vice City desde el aire. <break time="0.4s" />
+
+El agua, a contraluz. <break time="0.4s" />
+
+¿Es el GTA más bonito? Comenta. <break time="0.4s" />

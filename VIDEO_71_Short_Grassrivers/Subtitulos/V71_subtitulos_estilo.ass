@@ -1,0 +1,21 @@
+[Script Info]
+Title: V71 subtítulos Mapa Abierto
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Marca,Inter Display,78,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,-1,0,0,0,100,100,0,0,1,5,3,2,80,80,560,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.05,0:00:03.11,Marca,,0,0,0,,{\fad(60,40)}Esto es Grassrivers,\Nlos pantanos de GTA
+Dialogue: 0,0:00:03.13,0:00:05.85,Marca,,0,0,0,,{\fad(60,40)}6, en juego real\Ndel Extended Look.
+Dialogue: 0,0:00:06.22,0:00:07.76,Marca,,0,0,0,,{\fad(60,40)}Es la versión\Nde Leonida de
+Dialogue: 0,0:00:07.78,0:00:09.27,Marca,,0,0,0,,{\fad(60,40)}los Everglades\Nde Florida.
+Dialogue: 0,0:00:09.64,0:00:11.87,Marca,,0,0,0,,{\fad(60,40)}Pantanos con rutas\Nen hidrodeslizador.
+Dialogue: 0,0:00:12.24,0:00:14.11,Marca,,0,0,0,,{\fad(60,40)}Y encuentros\Ncon caimanes.
+Dialogue: 0,0:00:14.13,0:00:16.25,Marca,,0,0,0,,{\fad(60,40)}¿Te atreves a entrar?\NComenta.

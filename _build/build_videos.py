@@ -760,12 +760,16 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
             zin = i % 2 == 0
             off = 0
             if final and sc.get("clip"):
-                src, start = sc["clip"]
+                src, start = sc["clip"][:2]
+                vel = sc["clip"][2] if len(sc["clip"]) > 2 else 1.0
+                fxc = sc.get("fx", 0.5)
+                srcpath = (os.environ.get("MA_RK_RELAY", "http://127.0.0.1:8765") + "/GTAVI_An_Extended_Look/GTAVI_An_Extended_Look.mp4") if src == "EL" else os.path.join(RK_DIR, src)
                 ov = os.path.join(work, f"ov{i:02d}.png")
                 scene_image(v, sc, i, W, H, final, clip_overlay=True).save(ov)
-                scale = (f"crop=iw:iw/2,scale=-2:{H},crop={W}:{H}" if short else f"crop=iw:iw/2,scale={W}:-2,pad={W}:{H}:0:(oh-ih)/2") if "Trailer" in src else (f"scale=-2:{H},crop={W}:{H}" if short else f"scale={W}:{H}")
+                scale = (f"crop=iw:iw/2,scale=-2:{H},crop={W}:{H}:(iw-{W})*{fxc}:0" if short else f"crop=iw:iw/2,scale={W}:-2,pad={W}:{H}:0:(oh-ih)/2") if "Trailer" in src else (f"scale=-2:{H},crop={W}:{H}:(iw-{W})*{fxc}:0" if short else f"scale={W}:{H}")
+                scale += f",setpts={vel}*PTS,tpad=stop_mode=clone:stop_duration={sc['dur']:.3f}"
                 clip = os.path.join(work, f"c{i:02d}_clip.mp4")
-                run(["ffmpeg", "-y", "-loglevel", "error", "-ss", str(start), "-t", f"{sc['dur']:.3f}", "-i", os.path.join(RK_DIR, src),
+                run(["ffmpeg", "-y", "-loglevel", "error", "-ss", str(start), "-t", f"{sc['dur']/vel:.3f}", "-i", srcpath,
                      "-loop", "1", "-i", ov, "-filter_complex", f"[0:v]{scale},fps={FPS},setsar=1[b];[b][1:v]overlay=0:0:shortest=1,format=yuv420p",
                      "-frames:v", str(total_frames), "-an", "-c:v", "libx264", "-preset", "veryfast", "-crf", "20", "-r", str(FPS), clip])
                 fh.write(f"file '{clip}'\n")

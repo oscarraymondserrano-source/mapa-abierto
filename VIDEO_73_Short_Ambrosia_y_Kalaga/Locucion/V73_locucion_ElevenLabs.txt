@@ -1,0 +1,12 @@
+# Pegar en ElevenLabs (modelo multilingüe). Las MAYÚSCULAS marcan énfasis; <break> son pausas.
+# Ajustes: Stability 45 · Similarity 80 · Style 20 · Speaker boost ON. Velocidad 1.05.
+
+GTA 6 no es solo playa. Esto es el interior de Leonida, en imágenes oficiales. <break time="0.4s" />
+
+Ambrosia es la zona industrial: la refinería de azúcar Allied Crystal da los empleos. <break time="0.4s" />
+
+Y una banda de moteros controla casi todo lo demás. <break time="0.4s" />
+
+Más al norte, Mount Kalaga: un parque nacional de bosques donde Rockstar confirma caza y pesca. <break time="0.4s" />
+
+¿Ciudad o naturaleza? Comenta. <break time="0.4s" />

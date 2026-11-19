@@ -1,0 +1,10 @@
+# Pegar en ElevenLabs (modelo multilingüe). Las MAYÚSCULAS marcan énfasis; <break> son pausas.
+# Ajustes: Stability 45 · Similarity 80 · Style 20 · Speaker boost ON. Velocidad 1.05.
+
+En GTA 6, Jason y Lucia no empiezan con golpes millonarios. <break time="0.4s" />
+
+Según contó Rockstar a The Guardian, sus primeros trabajos son cosas como hacer el puente a coches baratos. <break time="0.4s" />
+
+O forzar cerraduras sencillas. <break time="0.4s" />
+
+Y a partir de ahí, a subir. ¿Te gusta empezar desde cero? Comenta. <break time="0.4s" />

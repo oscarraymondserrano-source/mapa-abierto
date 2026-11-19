@@ -1,0 +1,12 @@
+# Pegar en ElevenLabs (modelo multilingüe). Las MAYÚSCULAS marcan énfasis; <break> son pausas.
+# Ajustes: Stability 45 · Similarity 80 · Style 20 · Speaker boost ON. Velocidad 1.05.
+
+Pregunta con juego real. Tres segundos. <break time="0.4s" />
+
+¿Cuántas estrellas de búsqueda tiene GTA 6? A, cinco. B, seis. C, siete. <break time="0.4s" />
+
+¡La B! Seis estrellas, como se vio en el Extended Look. <break time="0.4s" />
+
+GTA 5 se quedaba en cinco. Y ahora la policía se fija en tu coche y en tu ropa. <break time="0.4s" />
+
+¿Acertaste? Dímelo en comentarios y sígueme para el siguiente quiz. <break time="0.4s" />

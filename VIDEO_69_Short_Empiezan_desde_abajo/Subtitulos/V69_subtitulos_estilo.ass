@@ -1,0 +1,23 @@
+[Script Info]
+Title: V69 subtítulos Mapa Abierto
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Marca,Inter Display,78,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,-1,0,0,0,100,100,0,0,1,5,3,2,80,80,560,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.05,0:00:02.63,Marca,,0,0,0,,{\fad(60,40)}En GTA 6, Jason y\NLucia no empiezan
+Dialogue: 0,0:00:02.65,0:00:04.42,Marca,,0,0,0,,{\fad(60,40)}con golpes\Nmillonarios.
+Dialogue: 0,0:00:04.79,0:00:07.18,Marca,,0,0,0,,{\fad(60,40)}Según contó Rockstar\Na The Guardian, sus
+Dialogue: 0,0:00:07.20,0:00:09.15,Marca,,0,0,0,,{\fad(60,40)}primeros trabajos\Nson cosas como
+Dialogue: 0,0:00:09.17,0:00:11.18,Marca,,0,0,0,,{\fad(60,40)}hacer el puente\Na coches baratos.
+Dialogue: 0,0:00:11.55,0:00:13.29,Marca,,0,0,0,,{\fad(60,40)}O forzar\Ncerraduras sencillas.
+Dialogue: 0,0:00:13.66,0:00:15.38,Marca,,0,0,0,,{\fad(60,40)}Y a partir de\Nahí, a subir.
+Dialogue: 0,0:00:15.40,0:00:17.24,Marca,,0,0,0,,{\fad(60,40)}¿Te gusta empezar\Ndesde cero?
+Dialogue: 0,0:00:17.26,0:00:17.92,Marca,,0,0,0,,{\fad(60,40)}Comenta.
