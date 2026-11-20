@@ -1,0 +1,31 @@
+[Script Info]
+Title: V88 subtítulos Mapa Abierto
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Marca,Inter Display,78,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,-1,0,0,0,100,100,0,0,1,5,3,2,80,80,560,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.05,0:00:02.58,Marca,,0,0,0,,{\fad(60,40)}¿Qué streamer juntó\Na más gente viendo el
+Dialogue: 0,0:00:02.60,0:00:04.79,Marca,,0,0,0,,{\fad(60,40)}estreno del Extended\NLook de GTA 6?
+Dialogue: 0,0:00:04.81,0:00:06.37,Marca,,0,0,0,,{\fad(60,40)}Atento al primer puesto.
+Dialogue: 0,0:00:06.74,0:00:09.56,Marca,,0,0,0,,{\fad(60,40)}¿Rubius, Illojuan\No IShowSpeed?
+Dialogue: 0,0:00:09.58,0:00:10.61,Marca,,0,0,0,,{\fad(60,40)}Piénsalo.
+Dialogue: 0,0:00:13.98,0:00:15.07,Marca,,0,0,0,,{\fad(60,40)}¡Illojuan!
+Dialogue: 0,0:00:15.09,0:00:18.40,Marca,,0,0,0,,{\fad(60,40)}Llegó a {\c&H33D6FF&}233.520{\c&HFFFFFF&}\Nespectadores a la vez,
+Dialogue: 0,0:00:18.42,0:00:22.21,Marca,,0,0,0,,{\fad(60,40)}el récord de su canal,\Nsegún Streams Charts.
+Dialogue: 0,0:00:22.58,0:00:25.37,Marca,,0,0,0,,{\fad(60,40)}Detrás, Rubius, con\Nunos ciento noventa y
+Dialogue: 0,0:00:25.39,0:00:27.94,Marca,,0,0,0,,{\fad(60,40)}un mil, e IShowSpeed,\Ncon casi ciento
+Dialogue: 0,0:00:27.96,0:00:29.38,Marca,,0,0,0,,{\fad(60,40)}setenta y ocho mil.
+Dialogue: 0,0:00:29.75,0:00:32.55,Marca,,0,0,0,,{\fad(60,40)}En total, casi {\c&H33D6FF&}cuatro{\c&HFFFFFF&}\N{\c&H33D6FF&}millones{\c&HFFFFFF&} de personas
+Dialogue: 0,0:00:32.57,0:00:35.12,Marca,,0,0,0,,{\fad(60,40)}lo siguieron en\Ndirectos, y en Netflix
+Dialogue: 0,0:00:35.14,0:00:37.63,Marca,,0,0,0,,{\fad(60,40)}sumó 31,1 millones\Nde visualizaciones
+Dialogue: 0,0:00:37.65,0:00:39.16,Marca,,0,0,0,,{\fad(60,40)}en su primera semana.
+Dialogue: 0,0:00:39.53,0:00:40.88,Marca,,0,0,0,,{\fad(60,40)}¿Con quién lo viste tú?
+Dialogue: 0,0:00:40.90,0:00:42.20,Marca,,0,0,0,,{\fad(60,40)}Dímelo en comentarios.

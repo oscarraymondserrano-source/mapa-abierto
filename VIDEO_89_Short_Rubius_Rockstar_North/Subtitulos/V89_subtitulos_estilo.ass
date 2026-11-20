@@ -1,0 +1,28 @@
+[Script Info]
+Title: V89 subtítulos Mapa Abierto
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Marca,Inter Display,78,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,-1,0,0,0,100,100,0,0,1,5,3,2,80,80,560,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.05,0:00:02.66,Marca,,0,0,0,,{\fad(60,40)}Antes de que saliera\NGTA 6, Rubius estuvo
+Dialogue: 0,0:00:02.68,0:00:05.06,Marca,,0,0,0,,{\fad(60,40)}en Rockstar North,\Nen Escocia, viendo
+Dialogue: 0,0:00:05.08,0:00:06.47,Marca,,0,0,0,,{\fad(60,40)}el juego por dentro.
+Dialogue: 0,0:00:06.84,0:00:08.26,Marca,,0,0,0,,{\fad(60,40)}Pero ojo:\Nno jugó él.
+Dialogue: 0,0:00:08.28,0:00:10.79,Marca,,0,0,0,,{\fad(60,40)}Según varios medios,\Nel mando lo llevaba
+Dialogue: 0,0:00:10.81,0:00:12.80,Marca,,0,0,0,,{\fad(60,40)}un responsable\Nde desarrollo de
+Dialogue: 0,0:00:12.82,0:00:15.33,Marca,,0,0,0,,{\fad(60,40)}Rockstar, en una\Nsesión de varias horas.
+Dialogue: 0,0:00:15.70,0:00:16.89,Marca,,0,0,0,,{\fad(60,40)}Entre lo que contó:
+Dialogue: 0,0:00:16.91,0:00:18.63,Marca,,0,0,0,,{\fad(60,40)}vuelven las {\c&H33D6FF&}seis{\c&HFFFFFF&}\N{\c&H33D6FF&}estrellas{\c&HFFFFFF&} de
+Dialogue: 0,0:00:18.65,0:00:21.05,Marca,,0,0,0,,{\fad(60,40)}búsqueda y la policía\Nrecuerda tu aspecto.
+Dialogue: 0,0:00:21.42,0:00:22.58,Marca,,0,0,0,,{\fad(60,40)}Y tras\Npublicarlo,
+Dialogue: 0,0:00:22.60,0:00:24.50,Marca,,0,0,0,,{\fad(60,40)}aclaró que no le\Npagaron por ir.
+Dialogue: 0,0:00:24.87,0:00:26.60,Marca,,0,0,0,,{\fad(60,40)}¿Te habría\Ngustado estar ahí?
+Dialogue: 0,0:00:26.62,0:00:27.23,Marca,,0,0,0,,{\fad(60,40)}Comenta.

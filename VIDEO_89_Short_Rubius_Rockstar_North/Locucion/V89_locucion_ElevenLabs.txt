@@ -1,0 +1,12 @@
+# Pegar en ElevenLabs (modelo multilingüe). Las MAYÚSCULAS marcan énfasis; <break> son pausas.
+# Ajustes: Stability 45 · Similarity 80 · Style 20 · Speaker boost ON. Velocidad 1.05.
+
+Antes de que saliera GTA 6, Rubius estuvo en Rockstar North, en Escocia, viendo el juego por dentro. <break time="0.4s" />
+
+Pero ojo: no jugó él. Según varios medios, el mando lo llevaba un responsable de desarrollo de Rockstar, en una sesión de varias horas. <break time="0.4s" />
+
+Entre lo que contó: vuelven las SEIS ESTRELLAS de búsqueda y la policía recuerda tu aspecto. <break time="0.4s" />
+
+Y tras publicarlo, aclaró que no le pagaron por ir. <break time="0.4s" />
+
+¿Te habría gustado estar ahí? Comenta. <break time="0.4s" />

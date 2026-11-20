@@ -1,0 +1,12 @@
+# Pegar en ElevenLabs (modelo multilingüe). Las MAYÚSCULAS marcan énfasis; <break> son pausas.
+# Ajustes: Stability 45 · Similarity 80 · Style 20 · Speaker boost ON. Velocidad 1.05.
+
+GTA 6 acaba de romper el récord de Twitch. Y lo hizo antes de salir en Estados Unidos. <break time="0.4s" />
+
+Según SullyGnome, la categoría de GTA 6 llegó a 3,29 MILLONES de espectadores a la vez. <break time="0.4s" />
+
+Es el pico más alto de un juego en la historia de Twitch, según ese rastreador. Y llegó en pleno lanzamiento escalonado, cuando en Nueva Zelanda ya se podía jugar. <break time="0.4s" />
+
+Si sumas YouTube y Kick, los rastreadores hablan de más de SEIS MILLONES de personas mirando a la vez. <break time="0.4s" />
+
+¿Tú lo viste en directo o ya estabas jugando? Te leo. <break time="0.4s" />

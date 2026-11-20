@@ -66,3 +66,11 @@ Objetivo: horas de visualización para el Programa de Socios (4.000 h) y un cana
 - Miniaturas: `python3 _build/thumbs_largo.py` (fotograma oficial + capa de texto). Capítulos: `python3 _build/capitulos.py <carpeta>` → pegar en la descripción (sustituye `{CAPITULOS}`).
 - Alojamiento: el MP4 pesa ~300 MB → repo `mapa-abierto-media`, carpeta `largos/` con **Git LFS**; URL pública `https://media.githubusercontent.com/media/oscarraymondserrano-source/mapa-abierto-media/main/largos/<archivo>.mp4`. (Las releases de GitHub no están permitidas en esta sesión.)
 - Publicación: Metricool `createScheduledPost` con `youtubeData.type="video"`, título, etiquetas, categoría GAMING, `madeForKids=false`; miniatura no se puede subir por la API → el usuario la sube en Studio (o se deja la automática).
+
+## Serie "LA COMUNIDAD" (desde el 20/11/2026)
+Shorts sobre lo que pasa con GTA 6 entre streamers y jugadores (récords, cifras, descubrimientos), para captar búsquedas como "illojuan gta 6" o "rubius gta 6".
+- NUNCA imágenes, voz ni clips de los streamers (Content ID, contenido reutilizado, normas de YouTube/Twitch). Solo material oficial de Rockstar y gráficos propios; pie: "No se usan imágenes de los streamers mencionados".
+- Solo datos confirmados por 2 o más medios fiables (Streams Charts, SullyGnome, medios de videojuegos). Citar las fuentes en la descripción. Descartar lo que solo publica una web (p. ej., el 20/11 se descartaron "311.000 espectadores de Rubius el día del lanzamiento", "nido de huevos en la torre" y "Bigfoot").
+- Tono neutro con personas reales: cifras y hechos, sin opiniones sobre ellas ni polémicas sin confirmar.
+- Ritmo: 2–3 por semana como 5.º Short del día (20:30), dentro de la prueba de subir el ritmo.
+- Si un streamer da permiso por escrito para usar un clip suyo, guardar la captura del permiso en `02_INVESTIGACION/permisos/` antes de usarlo.

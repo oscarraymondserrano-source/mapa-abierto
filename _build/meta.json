@@ -858,5 +858,35 @@
   "out": "VIDEO_86_Largo_Extended_Look_Analisis/Video_Final/V86_FINAL_1920x1080.mp4",
   "fecha": "Sábado 21/11/2026 · 12:00",
   "carpeta": "VIDEO_86_Largo_Extended_Look_Analisis"
+ },
+ {
+  "id": "V87",
+  "titulo": "GTA 6 ha roto el récord de Twitch",
+  "formato": "short",
+  "modo": "final",
+  "dur": 33.09,
+  "out": "VIDEO_87_Short_Record_Twitch/Video_Final/V87_FINAL_1080x1920.mp4",
+  "fecha": "",
+  "carpeta": "VIDEO_87_Short_Record_Twitch"
+ },
+ {
+  "id": "V88",
+  "titulo": "Illojuan, Rubius o IShowSpeed: ¿quién arrasó con GTA 6?",
+  "formato": "short",
+  "modo": "final",
+  "dur": 42.52,
+  "out": "VIDEO_88_Short_Illojuan_Rubius_Speed/Video_Final/V88_FINAL_1080x1920.mp4",
+  "fecha": "",
+  "carpeta": "VIDEO_88_Short_Illojuan_Rubius_Speed"
+ },
+ {
+  "id": "V89",
+  "titulo": "Rubius vio GTA 6 en Rockstar North: esto contó",
+  "formato": "short",
+  "modo": "final",
+  "dur": 27.56,
+  "out": "VIDEO_89_Short_Rubius_Rockstar_North/Video_Final/V89_FINAL_1080x1920.mp4",
+  "fecha": "",
+  "carpeta": "VIDEO_89_Short_Rubius_Rockstar_North"
  }
 ]
