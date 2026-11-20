@@ -346,6 +346,8 @@ def scene_image(v, sc, idx, W, H, final, n_items=None, last=False, countdown=Non
         for yy in range(H):  # oscurecer arriba (rótulos) y abajo (subtítulos), dejar el centro limpio
             t = yy / H
             a = int(185 * max(0, 1 - t / 0.42) ** 1.4 + 200 * max(0, (t - 0.55) / 0.45) ** 1.6) if short else int(170 * max(0, 1 - t / 0.35) ** 1.5 + 190 * max(0, (t - 0.7) / 0.3) ** 1.5)
+            if not short and not sc["rotulo"]:
+                a = int(a * 0.35)  # vídeo largo sin rótulo: solo un velo suave bajo los subtítulos
             gd.line([(0, yy), (W, yy)], fill=(5, 5, 20, min(220, a)))
         img.alpha_composite(grad)
         credit_chip(img, W, H, short, "Vídeo: Rockstar Games" if clip_overlay else "Imagen: Rockstar Games")
@@ -814,7 +816,7 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
         music = os.path.join(work, "music.wav")
         audio.music_bed(total + 1.0, music)
     wh = os.path.join(AUD_DIR, "SFX", "whoosh.wav")
-    delays = [int(sc["ini"] * 1000) for sc in v["escenas"][1:]]
+    delays = [int(sc["ini"] * 1000) for sc in v["escenas"][1:] if short or sc.get("cap")]  # en largos, whoosh solo al cambiar de capítulo
     inputs = ["-i", voz, "-stream_loop", "-1", "-i", music]
     flt = ["[0:a]aformat=channel_layouts=stereo,volume=1.0[v]", f"[1:a]atrim=0:{total:.3f},volume=0.10[m]"]
     mix = "[v][m]"
