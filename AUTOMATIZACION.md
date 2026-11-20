@@ -74,3 +74,8 @@ Shorts sobre lo que pasa con GTA 6 entre streamers y jugadores (récords, cifras
 - Tono neutro con personas reales: cifras y hechos, sin opiniones sobre ellas ni polémicas sin confirmar.
 - Ritmo: 2–3 por semana como 5.º Short del día (20:30), dentro de la prueba de subir el ritmo.
 - Si un streamer da permiso por escrito para usar un clip suyo, guardar la captura del permiso en `02_INVESTIGACION/permisos/` antes de usarlo.
+
+## Estrategia v1 (20/11/2026)
+La estrategia de crecimiento y monetización está en `ESTRATEGIA.md`: diagnóstico, ideas con volúmenes de vidIQ, embudo, experimentos A/B, ritmo y señales de frenazo, KPIs con umbrales y reparto de tareas. Tiene un **registro de cambios** al final: anota ahí cada cambio con fecha y motivo.
+La propuesta de instrucciones nuevas para la tarea diaria está en `TAREA_DIARIA_v2_PROPUESTA.md` y **solo se aplica con la aprobación del propietario**.
+Requisitos verificados en la ayuda oficial de YouTube (20/11/2026): apoyo de fans con 500 suscriptores + 3.000 h o 3 M de visualizaciones de Shorts en 90 días; anuncios con 1.000 suscriptores + 4.000 h o 10 M, que pasan a 8.000 h o 20 M para los canales nuevos desde el 1/2/2027.
