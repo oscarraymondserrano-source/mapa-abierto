@@ -41,8 +41,8 @@ ESCENAS = [
       E(94, 166, 178, 190)),
     M("La cosa se tuerce y acaba en un *tiroteo por los pasillos*. Fíjate en la interfaz: la munición aparece arriba a la derecha, y en el centro solo hay una retícula pequeña, muy discreta.",
       E(262, 274, 286, 334)),
-    M("La huida no es por la puerta principal: en un momento se ve a Lucia trepando para escapar. Jason y Lucia, los dos protagonistas, comparten la acción desde la primera escena.",
-      E(298, 346, 357)),
+    M("La huida no es por la puerta principal: Jason se descuelga por un balcón y Lucia trepa detrás para escapar. Los dos protagonistas comparten la acción desde la primera escena.",
+      E(298, 349, 354.5)),
 
     M("Después cambia el ritmo. Lucia sale a correr por la ciudad, un coche clásico derrapa en una carretera y vemos a los protagonistas en casa: ropa, espejos, cocina y la tele encendida.",
       E(370, 382, 394, 418, 442), rotulo="LA VIDA DIARIA", cap="La vida diaria en Leonida"),

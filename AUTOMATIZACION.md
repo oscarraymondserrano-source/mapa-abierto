@@ -56,3 +56,13 @@ MP4 y WAV (se regeneran) e imágenes de escena. Las entregas finales están en l
 - El relay del Extended Look debe quedar vivo durante el render: arrancarlo con la herramienta Bash en segundo plano (`python3 _build/rk_relay.py 8765`), no con nohup (se cierra al acabar el comando).
 - Montaje dinámico: en los guiones usar `clips=mezcla("conducir", "noche", n=3)` (de `content.rk_pool`) para que cada escena tenga 2–3 cortes de ~1,5–2,5 s con un empuje de zoom suave. El primer plano tiene que tener movimiento (nada de pantallas negras ni logos). Rótulos cortos (que quepan en una línea o dos).
 - Si no hay huecos ni novedades, rehacer Shorts antiguos de gráficos (quiz y mito de las tandas 2–3, que el usuario dejó en privado en YouTube) con juego real de fondo y subirlos como nuevos cuando haya franjas libres.
+
+## Vídeos largos (desde el 20/11/2026)
+Objetivo: horas de visualización para el Programa de Socios (4.000 h) y un canal menos "plantilla" ante la revisión manual de YouTube.
+- Ritmo: 1–2 largos por semana (sábado 12:00 y/o miércoles 19:00), 7–10 min, 16:9.
+- Módulo: `_build/content/tanda_AAAAMMDD_largo.py` con `formato="largo"`, `modo="final"`, `oficial=True`. Helpers: `M(texto, clips)` montaje del Extended Look, `F(still, texto)` detalle ampliado, `G(texto, rotulo, items)` gráfico. Primera escena de cada capítulo con `cap=` y `rotulo=` (los demás sin rótulo: velo suave).
+- Verificación: antes de narrar, sacar hojas de contacto (`ffmpeg -ss T -frames:v 1` cada 12 s vía relay) y comprobar cada afirmación en el plano. Evitar EL 359–362 ("Rockstar Games presents"), 1575+ (créditos). El menú de armas con "UNARMED" está en 958.0–958.2.
+- Fotogramas de detalle en `/tmp/claude-0/rk_dl/x_EL_stills/` (efímeros: regenerarlos con ffmpeg si faltan).
+- Miniaturas: `python3 _build/thumbs_largo.py` (fotograma oficial + capa de texto). Capítulos: `python3 _build/capitulos.py <carpeta>` → pegar en la descripción (sustituye `{CAPITULOS}`).
+- Alojamiento: el MP4 pesa ~300 MB → repo `mapa-abierto-media`, carpeta `largos/` con **Git LFS**; URL pública `https://media.githubusercontent.com/media/oscarraymondserrano-source/mapa-abierto-media/main/largos/<archivo>.mp4`. (Las releases de GitHub no están permitidas en esta sesión.)
+- Publicación: Metricool `createScheduledPost` con `youtubeData.type="video"`, título, etiquetas, categoría GAMING, `madeForKids=false`; miniatura no se puede subir por la API → el usuario la sube en Studio (o se deja la automática).
