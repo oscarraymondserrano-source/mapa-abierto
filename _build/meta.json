@@ -848,5 +848,15 @@
   "out": "VIDEO_85_Short_Que_incluye_Ultimate/Video_Final/V85_FINAL_1080x1920.mp4",
   "fecha": "",
   "carpeta": "VIDEO_85_Short_Que_incluye_Ultimate"
+ },
+ {
+  "id": "V86",
+  "titulo": "GTA 6 Extended Look: todo lo que se ve del juego real (análisis en español)",
+  "formato": "largo",
+  "modo": "final",
+  "dur": 418.27,
+  "out": "VIDEO_86_Largo_Extended_Look_Analisis/Video_Final/V86_FINAL_1920x1080.mp4",
+  "fecha": "Sábado 21/11/2026 · 12:00",
+  "carpeta": "VIDEO_86_Largo_Extended_Look_Analisis"
  }
 ]

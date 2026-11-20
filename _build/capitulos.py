@@ -4,7 +4,7 @@ def capitulos(carpeta):
     g = glob.glob(os.path.join(os.path.dirname(__file__), "..", carpeta, "Guion", "*.md"))[0]
     txt = open(g, encoding="utf-8").read()
     out = []
-    for m in re.finditer(r"### (.+?)\n+\*\*\[(\d+:\d+)\]", txt):
+    for m in re.finditer(r"### (.+?)\n+\*\*\[(\d+:\d+)[.\d]*\]", txt):
         out.append(f"{m.group(2)} {m.group(1)}")
     if out and not out[0].startswith("00:00"):
         out[0] = "00:00 " + out[0].split(" ", 1)[1]
