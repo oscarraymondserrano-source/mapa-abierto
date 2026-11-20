@@ -61,7 +61,7 @@ Abstract retro-futuristic background for a motion graphics title about '' (do no
 ```
 Parámetros: `-ar 16:9 -motion 2 -gs 12 -neg "text, letters, watermark, logo, HUD, minimap, deformed hands, extra fingers, distorted faces, warped cars, melting buildings, flicker, low resolution, cartoon"`
 
-## Escena 8 · 01:18.253–01:30.208 (12.0 s) · Motion graphics propio (marca)
+## Escena 8 · 01:18.253–01:30.011 (11.8 s) · Motion graphics propio (marca)
 - **Uso:** Fondo animado de marca bajo el gráfico (opacidad 70 %)
 - **Clips a generar:** 3 × 3-4 s
 ```
@@ -69,7 +69,7 @@ Abstract retro-futuristic background for a motion graphics title about '' (do no
 ```
 Parámetros: `-ar 16:9 -motion 2 -gs 12 -neg "text, letters, watermark, logo, HUD, minimap, deformed hands, extra fingers, distorted faces, warped cars, melting buildings, flicker, low resolution, cartoon"`
 
-## Escena 9 · 01:30.208–01:42.178 (12.0 s) · Motion graphics propio (marca)
+## Escena 9 · 01:30.011–01:41.821 (11.8 s) · Motion graphics propio (marca)
 - **Uso:** Fondo animado de marca bajo el gráfico (opacidad 70 %)
 - **Clips a generar:** 3 × 3-4 s
 ```
@@ -77,7 +77,7 @@ Abstract retro-futuristic background for a motion graphics title about '' (do no
 ```
 Parámetros: `-ar 16:9 -motion 2 -gs 12 -neg "text, letters, watermark, logo, HUD, minimap, deformed hands, extra fingers, distorted faces, warped cars, melting buildings, flicker, low resolution, cartoon"`
 
-## Escena 10 · 01:42.178–01:55.427 (13.2 s) · Motion graphics propio (marca)
+## Escena 10 · 01:41.821–01:55.154 (13.3 s) · Motion graphics propio (marca)
 - **Uso:** Fondo animado de marca bajo el gráfico (opacidad 70 %)
 - **Clips a generar:** 4 × 3-4 s
 ```
@@ -85,7 +85,7 @@ Abstract retro-futuristic background for a motion graphics title about 'la vida 
 ```
 Parámetros: `-ar 16:9 -motion 2 -gs 12 -neg "text, letters, watermark, logo, HUD, minimap, deformed hands, extra fingers, distorted faces, warped cars, melting buildings, flicker, low resolution, cartoon"`
 
-## Escena 11 · 01:55.427–02:07.923 (12.5 s) · Motion graphics propio (marca)
+## Escena 11 · 01:55.154–02:07.650 (12.5 s) · Motion graphics propio (marca)
 - **Uso:** Fondo animado de marca bajo el gráfico (opacidad 70 %)
 - **Clips a generar:** 4 × 3-4 s
 ```
@@ -93,7 +93,7 @@ Abstract retro-futuristic background for a motion graphics title about '' (do no
 ```
 Parámetros: `-ar 16:9 -motion 2 -gs 12 -neg "text, letters, watermark, logo, HUD, minimap, deformed hands, extra fingers, distorted faces, warped cars, melting buildings, flicker, low resolution, cartoon"`
 
-## Escena 12 · 02:07.923–02:16.787 (8.9 s) · Motion graphics propio (marca)
+## Escena 12 · 02:07.650–02:16.514 (8.9 s) · Motion graphics propio (marca)
 - **Uso:** Fondo animado de marca bajo el gráfico (opacidad 70 %)
 - **Clips a generar:** 3 × 3-4 s
 ```
@@ -101,7 +101,7 @@ Abstract retro-futuristic background for a motion graphics title about '' (do no
 ```
 Parámetros: `-ar 16:9 -motion 2 -gs 12 -neg "text, letters, watermark, logo, HUD, minimap, deformed hands, extra fingers, distorted faces, warped cars, melting buildings, flicker, low resolution, cartoon"`
 
-## Escena 13 · 02:16.787–02:26.039 (9.3 s) · Motion graphics propio (marca)
+## Escena 13 · 02:16.514–02:25.766 (9.3 s) · Motion graphics propio (marca)
 - **Uso:** Fondo animado de marca bajo el gráfico (opacidad 70 %)
 - **Clips a generar:** 3 × 3-4 s
 ```
@@ -109,7 +109,7 @@ Abstract retro-futuristic background for a motion graphics title about 'conducir
 ```
 Parámetros: `-ar 16:9 -motion 2 -gs 12 -neg "text, letters, watermark, logo, HUD, minimap, deformed hands, extra fingers, distorted faces, warped cars, melting buildings, flicker, low resolution, cartoon"`
 
-## Escena 14 · 02:26.039–02:37.346 (11.3 s) · Motion graphics propio (marca)
+## Escena 14 · 02:25.766–02:37.073 (11.3 s) · Motion graphics propio (marca)
 - **Uso:** Fondo animado de marca bajo el gráfico (opacidad 70 %)
 - **Clips a generar:** 3 × 3-4 s
 ```
@@ -117,7 +117,7 @@ Abstract retro-futuristic background for a motion graphics title about '' (do no
 ```
 Parámetros: `-ar 16:9 -motion 2 -gs 12 -neg "text, letters, watermark, logo, HUD, minimap, deformed hands, extra fingers, distorted faces, warped cars, melting buildings, flicker, low resolution, cartoon"`
 
-## Escena 15 · 02:37.346–02:48.059 (10.7 s) · Motion graphics propio (marca)
+## Escena 15 · 02:37.073–02:47.786 (10.7 s) · Motion graphics propio (marca)
 - **Uso:** Fondo animado de marca bajo el gráfico (opacidad 70 %)
 - **Clips a generar:** 3 × 3-4 s
 ```
@@ -125,7 +125,7 @@ Abstract retro-futuristic background for a motion graphics title about 'un encue
 ```
 Parámetros: `-ar 16:9 -motion 2 -gs 12 -neg "text, letters, watermark, logo, HUD, minimap, deformed hands, extra fingers, distorted faces, warped cars, melting buildings, flicker, low resolution, cartoon"`
 
-## Escena 16 · 02:48.059–02:58.162 (10.1 s) · Motion graphics propio (marca)
+## Escena 16 · 02:47.786–02:57.889 (10.1 s) · Motion graphics propio (marca)
 - **Uso:** Fondo animado de marca bajo el gráfico (opacidad 70 %)
 - **Clips a generar:** 3 × 3-4 s
 ```
@@ -133,7 +133,7 @@ Abstract retro-futuristic background for a motion graphics title about '' (do no
 ```
 Parámetros: `-ar 16:9 -motion 2 -gs 12 -neg "text, letters, watermark, logo, HUD, minimap, deformed hands, extra fingers, distorted faces, warped cars, melting buildings, flicker, low resolution, cartoon"`
 
-## Escena 17 · 02:58.162–03:05.045 (6.9 s) · Motion graphics propio (marca)
+## Escena 17 · 02:57.889–03:04.772 (6.9 s) · Motion graphics propio (marca)
 - **Uso:** Fondo animado de marca bajo el gráfico (opacidad 70 %)
 - **Clips a generar:** 2 × 3-4 s
 ```
@@ -141,7 +141,7 @@ Abstract retro-futuristic background for a motion graphics title about 'el atrac
 ```
 Parámetros: `-ar 16:9 -motion 2 -gs 12 -neg "text, letters, watermark, logo, HUD, minimap, deformed hands, extra fingers, distorted faces, warped cars, melting buildings, flicker, low resolution, cartoon"`
 
-## Escena 18 · 03:05.045–03:15.480 (10.4 s) · Motion graphics propio (marca)
+## Escena 18 · 03:04.772–03:15.207 (10.4 s) · Motion graphics propio (marca)
 - **Uso:** Fondo animado de marca bajo el gráfico (opacidad 70 %)
 - **Clips a generar:** 3 × 3-4 s
 ```
@@ -149,7 +149,7 @@ Abstract retro-futuristic background for a motion graphics title about 'rótulos
 ```
 Parámetros: `-ar 16:9 -motion 2 -gs 12 -neg "text, letters, watermark, logo, HUD, minimap, deformed hands, extra fingers, distorted faces, warped cars, melting buildings, flicker, low resolution, cartoon"`
 
-## Escena 19 · 03:15.480–03:27.421 (11.9 s) · Motion graphics propio (marca)
+## Escena 19 · 03:15.207–03:27.148 (11.9 s) · Motion graphics propio (marca)
 - **Uso:** Fondo animado de marca bajo el gráfico (opacidad 70 %)
 - **Clips a generar:** 3 × 3-4 s
 ```
@@ -157,7 +157,7 @@ Abstract retro-futuristic background for a motion graphics title about '6 estrel
 ```
 Parámetros: `-ar 16:9 -motion 2 -gs 12 -neg "text, letters, watermark, logo, HUD, minimap, deformed hands, extra fingers, distorted faces, warped cars, melting buildings, flicker, low resolution, cartoon"`
 
-## Escena 20 · 03:27.421–03:47.231 (19.8 s) · Motion graphics propio (marca)
+## Escena 20 · 03:27.148–03:46.958 (19.8 s) · Motion graphics propio (marca)
 - **Uso:** Fondo animado de marca bajo el gráfico (opacidad 70 %)
 - **Clips a generar:** 6 × 3-4 s
 ```
@@ -165,7 +165,7 @@ Abstract retro-futuristic background for a motion graphics title about '' (do no
 ```
 Parámetros: `-ar 16:9 -motion 2 -gs 12 -neg "text, letters, watermark, logo, HUD, minimap, deformed hands, extra fingers, distorted faces, warped cars, melting buildings, flicker, low resolution, cartoon"`
 
-## Escena 21 · 03:47.231–03:56.320 (9.1 s) · Motion graphics propio (marca)
+## Escena 21 · 03:46.958–03:56.047 (9.1 s) · Motion graphics propio (marca)
 - **Uso:** Fondo animado de marca bajo el gráfico (opacidad 70 %)
 - **Clips a generar:** 3 × 3-4 s
 ```
@@ -173,7 +173,7 @@ Abstract retro-futuristic background for a motion graphics title about '' (do no
 ```
 Parámetros: `-ar 16:9 -motion 2 -gs 12 -neg "text, letters, watermark, logo, HUD, minimap, deformed hands, extra fingers, distorted faces, warped cars, melting buildings, flicker, low resolution, cartoon"`
 
-## Escena 22 · 03:56.320–04:07.142 (10.8 s) · Motion graphics propio (marca)
+## Escena 22 · 03:56.047–04:06.869 (10.8 s) · Motion graphics propio (marca)
 - **Uso:** Fondo animado de marca bajo el gráfico (opacidad 70 %)
 - **Clips a generar:** 3 × 3-4 s
 ```
@@ -181,7 +181,7 @@ Abstract retro-futuristic background for a motion graphics title about '' (do no
 ```
 Parámetros: `-ar 16:9 -motion 2 -gs 12 -neg "text, letters, watermark, logo, HUD, minimap, deformed hands, extra fingers, distorted faces, warped cars, melting buildings, flicker, low resolution, cartoon"`
 
-## Escena 23 · 04:07.142–04:16.674 (9.5 s) · Motion graphics propio (marca)
+## Escena 23 · 04:06.869–04:16.401 (9.5 s) · Motion graphics propio (marca)
 - **Uso:** Fondo animado de marca bajo el gráfico (opacidad 70 %)
 - **Clips a generar:** 3 × 3-4 s
 ```
@@ -189,7 +189,7 @@ Abstract retro-futuristic background for a motion graphics title about 'el menú
 ```
 Parámetros: `-ar 16:9 -motion 2 -gs 12 -neg "text, letters, watermark, logo, HUD, minimap, deformed hands, extra fingers, distorted faces, warped cars, melting buildings, flicker, low resolution, cartoon"`
 
-## Escena 24 · 04:16.674–04:31.148 (14.5 s) · Motion graphics propio (marca)
+## Escena 24 · 04:16.401–04:30.875 (14.5 s) · Motion graphics propio (marca)
 - **Uso:** Fondo animado de marca bajo el gráfico (opacidad 70 %)
 - **Clips a generar:** 4 × 3-4 s
 ```
@@ -197,7 +197,7 @@ Abstract retro-futuristic background for a motion graphics title about '' (do no
 ```
 Parámetros: `-ar 16:9 -motion 2 -gs 12 -neg "text, letters, watermark, logo, HUD, minimap, deformed hands, extra fingers, distorted faces, warped cars, melting buildings, flicker, low resolution, cartoon"`
 
-## Escena 25 · 04:31.148–04:39.921 (8.8 s) · Motion graphics propio (marca)
+## Escena 25 · 04:30.875–04:39.648 (8.8 s) · Motion graphics propio (marca)
 - **Uso:** Fondo animado de marca bajo el gráfico (opacidad 70 %)
 - **Clips a generar:** 3 × 3-4 s
 ```
@@ -205,7 +205,7 @@ Abstract retro-futuristic background for a motion graphics title about 'suscríb
 ```
 Parámetros: `-ar 16:9 -motion 2 -gs 12 -neg "text, letters, watermark, logo, HUD, minimap, deformed hands, extra fingers, distorted faces, warped cars, melting buildings, flicker, low resolution, cartoon"`
 
-## Escena 26 · 04:39.921–04:48.561 (8.6 s) · Motion graphics propio (marca)
+## Escena 26 · 04:39.648–04:48.288 (8.6 s) · Motion graphics propio (marca)
 - **Uso:** Fondo animado de marca bajo el gráfico (opacidad 70 %)
 - **Clips a generar:** 2 × 3-4 s
 ```
@@ -213,7 +213,7 @@ Abstract retro-futuristic background for a motion graphics title about 'qué má
 ```
 Parámetros: `-ar 16:9 -motion 2 -gs 12 -neg "text, letters, watermark, logo, HUD, minimap, deformed hands, extra fingers, distorted faces, warped cars, melting buildings, flicker, low resolution, cartoon"`
 
-## Escena 27 · 04:48.561–04:56.364 (7.8 s) · Motion graphics propio (marca)
+## Escena 27 · 04:48.288–04:56.091 (7.8 s) · Motion graphics propio (marca)
 - **Uso:** Fondo animado de marca bajo el gráfico (opacidad 70 %)
 - **Clips a generar:** 2 × 3-4 s
 ```
@@ -221,7 +221,7 @@ Abstract retro-futuristic background for a motion graphics title about '' (do no
 ```
 Parámetros: `-ar 16:9 -motion 2 -gs 12 -neg "text, letters, watermark, logo, HUD, minimap, deformed hands, extra fingers, distorted faces, warped cars, melting buildings, flicker, low resolution, cartoon"`
 
-## Escena 28 · 04:56.364–05:02.523 (6.2 s) · Motion graphics propio (marca)
+## Escena 28 · 04:56.091–05:02.250 (6.2 s) · Motion graphics propio (marca)
 - **Uso:** Fondo animado de marca bajo el gráfico (opacidad 70 %)
 - **Clips a generar:** 2 × 3-4 s
 ```
@@ -229,7 +229,7 @@ Abstract retro-futuristic background for a motion graphics title about '' (do no
 ```
 Parámetros: `-ar 16:9 -motion 2 -gs 12 -neg "text, letters, watermark, logo, HUD, minimap, deformed hands, extra fingers, distorted faces, warped cars, melting buildings, flicker, low resolution, cartoon"`
 
-## Escena 29 · 05:02.523–05:13.145 (10.6 s) · Motion graphics propio (marca)
+## Escena 29 · 05:02.250–05:12.872 (10.6 s) · Motion graphics propio (marca)
 - **Uso:** Fondo animado de marca bajo el gráfico (opacidad 70 %)
 - **Clips a generar:** 3 × 3-4 s
 ```
@@ -237,7 +237,7 @@ Abstract retro-futuristic background for a motion graphics title about '' (do no
 ```
 Parámetros: `-ar 16:9 -motion 2 -gs 12 -neg "text, letters, watermark, logo, HUD, minimap, deformed hands, extra fingers, distorted faces, warped cars, melting buildings, flicker, low resolution, cartoon"`
 
-## Escena 30 · 05:13.145–05:22.707 (9.6 s) · Motion graphics propio (marca)
+## Escena 30 · 05:12.872–05:22.434 (9.6 s) · Motion graphics propio (marca)
 - **Uso:** Fondo animado de marca bajo el gráfico (opacidad 70 %)
 - **Clips a generar:** 3 × 3-4 s
 ```
@@ -245,7 +245,7 @@ Abstract retro-futuristic background for a motion graphics title about 'lujo y v
 ```
 Parámetros: `-ar 16:9 -motion 2 -gs 12 -neg "text, letters, watermark, logo, HUD, minimap, deformed hands, extra fingers, distorted faces, warped cars, melting buildings, flicker, low resolution, cartoon"`
 
-## Escena 31 · 05:22.707–05:31.211 (8.5 s) · Motion graphics propio (marca)
+## Escena 31 · 05:22.434–05:30.938 (8.5 s) · Motion graphics propio (marca)
 - **Uso:** Fondo animado de marca bajo el gráfico (opacidad 70 %)
 - **Clips a generar:** 2 × 3-4 s
 ```
@@ -253,7 +253,7 @@ Abstract retro-futuristic background for a motion graphics title about '' (do no
 ```
 Parámetros: `-ar 16:9 -motion 2 -gs 12 -neg "text, letters, watermark, logo, HUD, minimap, deformed hands, extra fingers, distorted faces, warped cars, melting buildings, flicker, low resolution, cartoon"`
 
-## Escena 32 · 05:31.211–05:41.420 (10.2 s) · Motion graphics propio (marca)
+## Escena 32 · 05:30.938–05:41.147 (10.2 s) · Motion graphics propio (marca)
 - **Uso:** Fondo animado de marca bajo el gráfico (opacidad 70 %)
 - **Clips a generar:** 3 × 3-4 s
 ```
@@ -261,7 +261,7 @@ Abstract retro-futuristic background for a motion graphics title about 'el golpe
 ```
 Parámetros: `-ar 16:9 -motion 2 -gs 12 -neg "text, letters, watermark, logo, HUD, minimap, deformed hands, extra fingers, distorted faces, warped cars, melting buildings, flicker, low resolution, cartoon"`
 
-## Escena 33 · 05:41.420–05:52.380 (11.0 s) · Motion graphics propio (marca)
+## Escena 33 · 05:41.147–05:52.107 (11.0 s) · Motion graphics propio (marca)
 - **Uso:** Fondo animado de marca bajo el gráfico (opacidad 70 %)
 - **Clips a generar:** 3 × 3-4 s
 ```
@@ -269,7 +269,7 @@ Abstract retro-futuristic background for a motion graphics title about '' (do no
 ```
 Parámetros: `-ar 16:9 -motion 2 -gs 12 -neg "text, letters, watermark, logo, HUD, minimap, deformed hands, extra fingers, distorted faces, warped cars, melting buildings, flicker, low resolution, cartoon"`
 
-## Escena 34 · 05:52.380–06:01.974 (9.6 s) · Motion graphics propio (marca)
+## Escena 34 · 05:52.107–06:01.701 (9.6 s) · Motion graphics propio (marca)
 - **Uso:** Fondo animado de marca bajo el gráfico (opacidad 70 %)
 - **Clips a generar:** 3 × 3-4 s
 ```
@@ -277,7 +277,7 @@ Abstract retro-futuristic background for a motion graphics title about '' (do no
 ```
 Parámetros: `-ar 16:9 -motion 2 -gs 12 -neg "text, letters, watermark, logo, HUD, minimap, deformed hands, extra fingers, distorted faces, warped cars, melting buildings, flicker, low resolution, cartoon"`
 
-## Escena 35 · 06:01.974–06:14.879 (12.9 s) · Motion graphics propio (marca)
+## Escena 35 · 06:01.701–06:14.606 (12.9 s) · Motion graphics propio (marca)
 - **Uso:** Fondo animado de marca bajo el gráfico (opacidad 70 %)
 - **Clips a generar:** 4 × 3-4 s
 ```
@@ -285,7 +285,7 @@ Abstract retro-futuristic background for a motion graphics title about 'lo que n
 ```
 Parámetros: `-ar 16:9 -motion 2 -gs 12 -neg "text, letters, watermark, logo, HUD, minimap, deformed hands, extra fingers, distorted faces, warped cars, melting buildings, flicker, low resolution, cartoon"`
 
-## Escena 36 · 06:14.879–06:28.092 (13.2 s) · Motion graphics propio (marca)
+## Escena 36 · 06:14.606–06:27.819 (13.2 s) · Motion graphics propio (marca)
 - **Uso:** Fondo animado de marca bajo el gráfico (opacidad 70 %)
 - **Clips a generar:** 4 × 3-4 s
 ```
@@ -293,7 +293,7 @@ Abstract retro-futuristic background for a motion graphics title about 'deduccio
 ```
 Parámetros: `-ar 16:9 -motion 2 -gs 12 -neg "text, letters, watermark, logo, HUD, minimap, deformed hands, extra fingers, distorted faces, warped cars, melting buildings, flicker, low resolution, cartoon"`
 
-## Escena 37 · 06:28.092–06:43.269 (15.2 s) · Motion graphics propio (marca)
+## Escena 37 · 06:27.819–06:42.996 (15.2 s) · Motion graphics propio (marca)
 - **Uso:** Fondo animado de marca bajo el gráfico (opacidad 70 %)
 - **Clips a generar:** 4 × 3-4 s
 ```
@@ -301,7 +301,7 @@ Abstract retro-futuristic background for a motion graphics title about 'mi concl
 ```
 Parámetros: `-ar 16:9 -motion 2 -gs 12 -neg "text, letters, watermark, logo, HUD, minimap, deformed hands, extra fingers, distorted faces, warped cars, melting buildings, flicker, low resolution, cartoon"`
 
-## Escena 38 · 06:43.269–06:58.269 (15.0 s) · Motion graphics propio (marca)
+## Escena 38 · 06:42.996–06:57.996 (15.0 s) · Motion graphics propio (marca)
 - **Uso:** Fondo animado de marca bajo el gráfico (opacidad 70 %)
 - **Clips a generar:** 4 × 3-4 s
 ```

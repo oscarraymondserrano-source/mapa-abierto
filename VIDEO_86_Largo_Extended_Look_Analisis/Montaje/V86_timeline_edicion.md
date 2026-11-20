@@ -1,6 +1,6 @@
 # Línea de tiempo de edición · V86 · GTA 6 Extended Look: todo lo que se ve del juego real (análisis en español)
 
-**Proyecto:** 1920×1080 · 30 fps · duración total 06:58.269 · 16:9
+**Proyecto:** 1920×1080 · 30 fps · duración total 06:57.996 · 16:9
 
 ## Pistas (de arriba abajo)
 | Pista | Contenido |
@@ -135,7 +135,7 @@
 | Imagen de referencia | `Imagenes/escenas/V86_escena_07.png` |
 | Prompt Pika | ver `Prompts_Pika/V86_prompts_pika.md` · escena 7 |
 
-### Escena 8 · 78.25 s → 90.21 s (11.96 s) · `01:18.253`
+### Escena 8 · 78.25 s → 90.01 s (11.76 s) · `01:18.253`
 | Campo | Detalle |
 |---|---|
 | Fuente | Motion graphics propio (marca) |
@@ -151,7 +151,7 @@
 | Imagen de referencia | `Imagenes/escenas/V86_escena_08.png` |
 | Prompt Pika | ver `Prompts_Pika/V86_prompts_pika.md` · escena 8 |
 
-### Escena 9 · 90.21 s → 102.18 s (11.97 s) · `01:30.208`
+### Escena 9 · 90.01 s → 101.82 s (11.81 s) · `01:30.011`
 | Campo | Detalle |
 |---|---|
 | Fuente | Motion graphics propio (marca) |
@@ -162,12 +162,12 @@
 | Transición de salida | Corte |
 | Efectos de sonido |  |
 | Rótulo | **** |
-| Narración | La huida no es por la puerta principal: en un momento se ve a Lucia trepando para escapar. Jason y Lucia, los dos protagonistas, comparten la acción desde la primera escena. |
-| Subtítulos | La huida no es por la puerta principal: · en un momento se ve a Lucia / trepando para escapar. · Jason y Lucia, los dos / protagonistas, comparten la · acción desde la primera escena. |
+| Narración | La huida no es por la puerta principal: Jason se descuelga por un balcón y Lucia trepa detrás para escapar. Los dos protagonistas comparten la acción desde la primera escena. |
+| Subtítulos | La huida no es por la puerta principal: · Jason se descuelga por un balcón / y Lucia trepa detrás para escapar. · Los dos protagonistas comparten / la acción desde la primera escena. |
 | Imagen de referencia | `Imagenes/escenas/V86_escena_09.png` |
 | Prompt Pika | ver `Prompts_Pika/V86_prompts_pika.md` · escena 9 |
 
-### Escena 10 · 102.18 s → 115.43 s (13.25 s) · `01:42.178`
+### Escena 10 · 101.82 s → 115.15 s (13.33 s) · `01:41.821`
 | Campo | Detalle |
 |---|---|
 | Fuente | Motion graphics propio (marca) |
@@ -183,7 +183,7 @@
 | Imagen de referencia | `Imagenes/escenas/V86_escena_10.png` |
 | Prompt Pika | ver `Prompts_Pika/V86_prompts_pika.md` · escena 10 |
 
-### Escena 11 · 115.43 s → 127.92 s (12.50 s) · `01:55.427`
+### Escena 11 · 115.15 s → 127.65 s (12.50 s) · `01:55.154`
 | Campo | Detalle |
 |---|---|
 | Fuente | Motion graphics propio (marca) |
@@ -199,7 +199,7 @@
 | Imagen de referencia | `Imagenes/escenas/V86_escena_11.png` |
 | Prompt Pika | ver `Prompts_Pika/V86_prompts_pika.md` · escena 11 |
 
-### Escena 12 · 127.92 s → 136.79 s (8.86 s) · `02:07.923`
+### Escena 12 · 127.65 s → 136.51 s (8.86 s) · `02:07.650`
 | Campo | Detalle |
 |---|---|
 | Fuente | Motion graphics propio (marca) |
@@ -215,7 +215,7 @@
 | Imagen de referencia | `Imagenes/escenas/V86_escena_12.png` |
 | Prompt Pika | ver `Prompts_Pika/V86_prompts_pika.md` · escena 12 |
 
-### Escena 13 · 136.79 s → 146.04 s (9.25 s) · `02:16.787`
+### Escena 13 · 136.51 s → 145.77 s (9.25 s) · `02:16.514`
 | Campo | Detalle |
 |---|---|
 | Fuente | Motion graphics propio (marca) |
@@ -231,7 +231,7 @@
 | Imagen de referencia | `Imagenes/escenas/V86_escena_13.png` |
 | Prompt Pika | ver `Prompts_Pika/V86_prompts_pika.md` · escena 13 |
 
-### Escena 14 · 146.04 s → 157.35 s (11.31 s) · `02:26.039`
+### Escena 14 · 145.77 s → 157.07 s (11.31 s) · `02:25.766`
 | Campo | Detalle |
 |---|---|
 | Fuente | Motion graphics propio (marca) |
@@ -247,7 +247,7 @@
 | Imagen de referencia | `Imagenes/escenas/V86_escena_14.png` |
 | Prompt Pika | ver `Prompts_Pika/V86_prompts_pika.md` · escena 14 |
 
-### Escena 15 · 157.35 s → 168.06 s (10.71 s) · `02:37.346`
+### Escena 15 · 157.07 s → 167.79 s (10.71 s) · `02:37.073`
 | Campo | Detalle |
 |---|---|
 | Fuente | Motion graphics propio (marca) |
@@ -263,7 +263,7 @@
 | Imagen de referencia | `Imagenes/escenas/V86_escena_15.png` |
 | Prompt Pika | ver `Prompts_Pika/V86_prompts_pika.md` · escena 15 |
 
-### Escena 16 · 168.06 s → 178.16 s (10.10 s) · `02:48.059`
+### Escena 16 · 167.79 s → 177.89 s (10.10 s) · `02:47.786`
 | Campo | Detalle |
 |---|---|
 | Fuente | Motion graphics propio (marca) |
@@ -279,7 +279,7 @@
 | Imagen de referencia | `Imagenes/escenas/V86_escena_16.png` |
 | Prompt Pika | ver `Prompts_Pika/V86_prompts_pika.md` · escena 16 |
 
-### Escena 17 · 178.16 s → 185.04 s (6.88 s) · `02:58.162`
+### Escena 17 · 177.89 s → 184.77 s (6.88 s) · `02:57.889`
 | Campo | Detalle |
 |---|---|
 | Fuente | Motion graphics propio (marca) |
@@ -295,7 +295,7 @@
 | Imagen de referencia | `Imagenes/escenas/V86_escena_17.png` |
 | Prompt Pika | ver `Prompts_Pika/V86_prompts_pika.md` · escena 17 |
 
-### Escena 18 · 185.04 s → 195.48 s (10.44 s) · `03:05.045`
+### Escena 18 · 184.77 s → 195.21 s (10.44 s) · `03:04.772`
 | Campo | Detalle |
 |---|---|
 | Fuente | Motion graphics propio (marca) |
@@ -311,7 +311,7 @@
 | Imagen de referencia | `Imagenes/escenas/V86_escena_18.png` |
 | Prompt Pika | ver `Prompts_Pika/V86_prompts_pika.md` · escena 18 |
 
-### Escena 19 · 195.48 s → 207.42 s (11.94 s) · `03:15.480`
+### Escena 19 · 195.21 s → 207.15 s (11.94 s) · `03:15.207`
 | Campo | Detalle |
 |---|---|
 | Fuente | Motion graphics propio (marca) |
@@ -327,7 +327,7 @@
 | Imagen de referencia | `Imagenes/escenas/V86_escena_19.png` |
 | Prompt Pika | ver `Prompts_Pika/V86_prompts_pika.md` · escena 19 |
 
-### Escena 20 · 207.42 s → 227.23 s (19.81 s) · `03:27.421`
+### Escena 20 · 207.15 s → 226.96 s (19.81 s) · `03:27.148`
 | Campo | Detalle |
 |---|---|
 | Fuente | Motion graphics propio (marca) |
@@ -343,7 +343,7 @@
 | Imagen de referencia | `Imagenes/escenas/V86_escena_20.png` |
 | Prompt Pika | ver `Prompts_Pika/V86_prompts_pika.md` · escena 20 |
 
-### Escena 21 · 227.23 s → 236.32 s (9.09 s) · `03:47.231`
+### Escena 21 · 226.96 s → 236.05 s (9.09 s) · `03:46.958`
 | Campo | Detalle |
 |---|---|
 | Fuente | Motion graphics propio (marca) |
@@ -359,7 +359,7 @@
 | Imagen de referencia | `Imagenes/escenas/V86_escena_21.png` |
 | Prompt Pika | ver `Prompts_Pika/V86_prompts_pika.md` · escena 21 |
 
-### Escena 22 · 236.32 s → 247.14 s (10.82 s) · `03:56.320`
+### Escena 22 · 236.05 s → 246.87 s (10.82 s) · `03:56.047`
 | Campo | Detalle |
 |---|---|
 | Fuente | Motion graphics propio (marca) |
@@ -375,7 +375,7 @@
 | Imagen de referencia | `Imagenes/escenas/V86_escena_22.png` |
 | Prompt Pika | ver `Prompts_Pika/V86_prompts_pika.md` · escena 22 |
 
-### Escena 23 · 247.14 s → 256.67 s (9.53 s) · `04:07.142`
+### Escena 23 · 246.87 s → 256.40 s (9.53 s) · `04:06.869`
 | Campo | Detalle |
 |---|---|
 | Fuente | Motion graphics propio (marca) |
@@ -391,7 +391,7 @@
 | Imagen de referencia | `Imagenes/escenas/V86_escena_23.png` |
 | Prompt Pika | ver `Prompts_Pika/V86_prompts_pika.md` · escena 23 |
 
-### Escena 24 · 256.67 s → 271.15 s (14.47 s) · `04:16.674`
+### Escena 24 · 256.40 s → 270.88 s (14.47 s) · `04:16.401`
 | Campo | Detalle |
 |---|---|
 | Fuente | Motion graphics propio (marca) |
@@ -407,7 +407,7 @@
 | Imagen de referencia | `Imagenes/escenas/V86_escena_24.png` |
 | Prompt Pika | ver `Prompts_Pika/V86_prompts_pika.md` · escena 24 |
 
-### Escena 25 · 271.15 s → 279.92 s (8.77 s) · `04:31.148`
+### Escena 25 · 270.88 s → 279.65 s (8.77 s) · `04:30.875`
 | Campo | Detalle |
 |---|---|
 | Fuente | Motion graphics propio (marca) |
@@ -423,7 +423,7 @@
 | Imagen de referencia | `Imagenes/escenas/V86_escena_25.png` |
 | Prompt Pika | ver `Prompts_Pika/V86_prompts_pika.md` · escena 25 |
 
-### Escena 26 · 279.92 s → 288.56 s (8.64 s) · `04:39.921`
+### Escena 26 · 279.65 s → 288.29 s (8.64 s) · `04:39.648`
 | Campo | Detalle |
 |---|---|
 | Fuente | Motion graphics propio (marca) |
@@ -439,7 +439,7 @@
 | Imagen de referencia | `Imagenes/escenas/V86_escena_26.png` |
 | Prompt Pika | ver `Prompts_Pika/V86_prompts_pika.md` · escena 26 |
 
-### Escena 27 · 288.56 s → 296.36 s (7.80 s) · `04:48.561`
+### Escena 27 · 288.29 s → 296.09 s (7.80 s) · `04:48.288`
 | Campo | Detalle |
 |---|---|
 | Fuente | Motion graphics propio (marca) |
@@ -455,7 +455,7 @@
 | Imagen de referencia | `Imagenes/escenas/V86_escena_27.png` |
 | Prompt Pika | ver `Prompts_Pika/V86_prompts_pika.md` · escena 27 |
 
-### Escena 28 · 296.36 s → 302.52 s (6.16 s) · `04:56.364`
+### Escena 28 · 296.09 s → 302.25 s (6.16 s) · `04:56.091`
 | Campo | Detalle |
 |---|---|
 | Fuente | Motion graphics propio (marca) |
@@ -471,7 +471,7 @@
 | Imagen de referencia | `Imagenes/escenas/V86_escena_28.png` |
 | Prompt Pika | ver `Prompts_Pika/V86_prompts_pika.md` · escena 28 |
 
-### Escena 29 · 302.52 s → 313.14 s (10.62 s) · `05:02.523`
+### Escena 29 · 302.25 s → 312.87 s (10.62 s) · `05:02.250`
 | Campo | Detalle |
 |---|---|
 | Fuente | Motion graphics propio (marca) |
@@ -487,7 +487,7 @@
 | Imagen de referencia | `Imagenes/escenas/V86_escena_29.png` |
 | Prompt Pika | ver `Prompts_Pika/V86_prompts_pika.md` · escena 29 |
 
-### Escena 30 · 313.14 s → 322.71 s (9.56 s) · `05:13.145`
+### Escena 30 · 312.87 s → 322.43 s (9.56 s) · `05:12.872`
 | Campo | Detalle |
 |---|---|
 | Fuente | Motion graphics propio (marca) |
@@ -503,7 +503,7 @@
 | Imagen de referencia | `Imagenes/escenas/V86_escena_30.png` |
 | Prompt Pika | ver `Prompts_Pika/V86_prompts_pika.md` · escena 30 |
 
-### Escena 31 · 322.71 s → 331.21 s (8.50 s) · `05:22.707`
+### Escena 31 · 322.43 s → 330.94 s (8.50 s) · `05:22.434`
 | Campo | Detalle |
 |---|---|
 | Fuente | Motion graphics propio (marca) |
@@ -519,7 +519,7 @@
 | Imagen de referencia | `Imagenes/escenas/V86_escena_31.png` |
 | Prompt Pika | ver `Prompts_Pika/V86_prompts_pika.md` · escena 31 |
 
-### Escena 32 · 331.21 s → 341.42 s (10.21 s) · `05:31.211`
+### Escena 32 · 330.94 s → 341.15 s (10.21 s) · `05:30.938`
 | Campo | Detalle |
 |---|---|
 | Fuente | Motion graphics propio (marca) |
@@ -535,7 +535,7 @@
 | Imagen de referencia | `Imagenes/escenas/V86_escena_32.png` |
 | Prompt Pika | ver `Prompts_Pika/V86_prompts_pika.md` · escena 32 |
 
-### Escena 33 · 341.42 s → 352.38 s (10.96 s) · `05:41.420`
+### Escena 33 · 341.15 s → 352.11 s (10.96 s) · `05:41.147`
 | Campo | Detalle |
 |---|---|
 | Fuente | Motion graphics propio (marca) |
@@ -551,7 +551,7 @@
 | Imagen de referencia | `Imagenes/escenas/V86_escena_33.png` |
 | Prompt Pika | ver `Prompts_Pika/V86_prompts_pika.md` · escena 33 |
 
-### Escena 34 · 352.38 s → 361.97 s (9.59 s) · `05:52.380`
+### Escena 34 · 352.11 s → 361.70 s (9.59 s) · `05:52.107`
 | Campo | Detalle |
 |---|---|
 | Fuente | Motion graphics propio (marca) |
@@ -567,7 +567,7 @@
 | Imagen de referencia | `Imagenes/escenas/V86_escena_34.png` |
 | Prompt Pika | ver `Prompts_Pika/V86_prompts_pika.md` · escena 34 |
 
-### Escena 35 · 361.97 s → 374.88 s (12.90 s) · `06:01.974`
+### Escena 35 · 361.70 s → 374.61 s (12.90 s) · `06:01.701`
 | Campo | Detalle |
 |---|---|
 | Fuente | Motion graphics propio (marca) |
@@ -583,7 +583,7 @@
 | Imagen de referencia | `Imagenes/escenas/V86_escena_35.png` |
 | Prompt Pika | ver `Prompts_Pika/V86_prompts_pika.md` · escena 35 |
 
-### Escena 36 · 374.88 s → 388.09 s (13.21 s) · `06:14.879`
+### Escena 36 · 374.61 s → 387.82 s (13.21 s) · `06:14.606`
 | Campo | Detalle |
 |---|---|
 | Fuente | Motion graphics propio (marca) |
@@ -599,7 +599,7 @@
 | Imagen de referencia | `Imagenes/escenas/V86_escena_36.png` |
 | Prompt Pika | ver `Prompts_Pika/V86_prompts_pika.md` · escena 36 |
 
-### Escena 37 · 388.09 s → 403.27 s (15.18 s) · `06:28.092`
+### Escena 37 · 387.82 s → 403.00 s (15.18 s) · `06:27.819`
 | Campo | Detalle |
 |---|---|
 | Fuente | Motion graphics propio (marca) |
@@ -615,7 +615,7 @@
 | Imagen de referencia | `Imagenes/escenas/V86_escena_37.png` |
 | Prompt Pika | ver `Prompts_Pika/V86_prompts_pika.md` · escena 37 |
 
-### Escena 38 · 403.27 s → 418.27 s (15.00 s) · `06:43.269`
+### Escena 38 · 403.00 s → 418.00 s (15.00 s) · `06:42.996`
 | Campo | Detalle |
 |---|---|
 | Fuente | Motion graphics propio (marca) |

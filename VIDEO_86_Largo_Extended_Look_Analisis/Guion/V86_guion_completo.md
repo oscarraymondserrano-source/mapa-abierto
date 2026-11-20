@@ -1,6 +1,6 @@
 # V86 · GTA 6 Extended Look: todo lo que se ve del juego real
 
-**Formato:** Vídeo largo · 16:9 · duración de la locución guía: **06:58.269** (1077 palabras)
+**Formato:** Vídeo largo · 16:9 · duración de la locución guía: **06:57.996** (1076 palabras)
 
 ## A. Concepto
 
@@ -62,122 +62,122 @@ Suben hasta una habitación donde les espera un tipo con rastas y cadenas de oro
 **[01:18.253] Escena 8 · Motion graphics propio (marca)**  
 La cosa se tuerce y acaba en un *tiroteo por los pasillos*. Fíjate en la interfaz: la munición aparece arriba a la derecha, y en el centro solo hay una retícula pequeña, muy discreta.
 
-**[01:30.208] Escena 9 · Motion graphics propio (marca)**  
-La huida no es por la puerta principal: en un momento se ve a Lucia trepando para escapar. Jason y Lucia, los dos protagonistas, comparten la acción desde la primera escena.
+**[01:30.011] Escena 9 · Motion graphics propio (marca)**  
+La huida no es por la puerta principal: Jason se descuelga por un balcón y Lucia trepa detrás para escapar. Los dos protagonistas comparten la acción desde la primera escena.
 
 
 ### La vida diaria en Leonida
 
-**[01:42.178] Escena 10 · Motion graphics propio (marca)**  
+**[01:41.821] Escena 10 · Motion graphics propio (marca)**  
 Después cambia el ritmo. Lucia sale a correr por la ciudad, un coche clásico derrapa en una carretera y vemos a los protagonistas en casa: ropa, espejos, cocina y la tele encendida.
 
-**[01:55.427] Escena 11 · Motion graphics propio (marca)**  
+**[01:55.154] Escena 11 · Motion graphics propio (marca)**  
 En la tele, como siempre en GTA, hay programas inventados. Y vuelven los anuncios de parodia: aquí, una hamburguesa absurda con capas y capas de embutido, la *Prairie Sandwich*.
 
-**[02:07.923] Escena 12 · Motion graphics propio (marca)**  
+**[02:07.650] Escena 12 · Motion graphics propio (marca)**  
 También hay naturaleza: un bosque con *animales salvajes*, como ciervos, pastando tranquilamente. Leonida no es solo ciudad.
 
 
 ### Conducir por Vice City
 
-**[02:16.787] Escena 13 · Motion graphics propio (marca)**  
+**[02:16.514] Escena 13 · Motion graphics propio (marca)**  
 Jason coge un *descapotable rojo* y cruza Vice City de día: avenidas con palmeras, tráfico, rascacielos y un puente sobre el agua.
 
-**[02:26.039] Escena 14 · Motion graphics propio (marca)**  
+**[02:25.766] Escena 14 · Motion graphics propio (marca)**  
 El minimapa sigue abajo a la izquierda, como en GTA 5. Y más tarde, al atardecer, hay otro trayecto por la autopista con el sol de frente que es de lo más bonito del vídeo.
 
 
 ### Un encuentro en la azotea
 
-**[02:37.346] Escena 15 · Motion graphics propio (marca)**  
+**[02:37.073] Escena 15 · Motion graphics propio (marca)**  
 En una terraza con vistas al centro, Jason se reúne con un hombre mayor con camisa hawaiana. En GTA, este tipo de escenas suele servir para presentar un encargo.
 
-**[02:48.059] Escena 16 · Motion graphics propio (marca)**  
+**[02:47.786] Escena 16 · Motion graphics propio (marca)**  
 La conversación sigue en el borde de la azotea, con Vice City de fondo. El vídeo no explica de qué trata exactamente, así que no me voy a inventar el resto.
 
 
 ### El atraco y las seis estrellas
 
-**[02:58.162] Escena 17 · Motion graphics propio (marca)**  
+**[02:57.889] Escena 17 · Motion graphics propio (marca)**  
 Y entonces llega el clásico: *un atraco a una tienda de barrio*, con los atracadores tapados con pañuelos.
 
-**[03:05.045] Escena 18 · Motion graphics propio (marca)**  
+**[03:04.772] Escena 18 · Motion graphics propio (marca)**  
 Primer detalle que se pasa por alto: los carteles de la tienda. 'Cerveza fría', 'bebidas'… Leonida tiene rótulos en español, igual que la Florida real.
 
-**[03:15.480] Escena 19 · Motion graphics propio (marca)**  
+**[03:15.207] Escena 19 · Motion graphics propio (marca)**  
 Segundo detalle, y este es importante: arriba a la derecha hay *seis estrellas* de búsqueda. GTA 5 tenía cinco; GTA 6 recupera el máximo de seis.
 
-**[03:27.421] Escena 20 · Motion graphics propio (marca)**  
+**[03:27.148] Escena 20 · Motion graphics propio (marca)**  
 Debajo aparecen unos iconos: una cámara de vigilancia, dos caras, una percha, una silueta y una pistola. Por los dibujos, todo apunta a que muestran lo que la policía sabe de ti: cámaras, testigos, tu ropa, tu aspecto o tu arma. Varios análisis lo interpretan igual.
 
-**[03:47.231] Escena 21 · Motion graphics propio (marca)**  
+**[03:46.958] Escena 21 · Motion graphics propio (marca)**  
 Después viene la persecución: un coche patrulla volcado en plena calle, disparos con rifle, un helicóptero encima y la huida en coche.
 
-**[03:56.320] Escena 22 · Motion graphics propio (marca)**  
+**[03:56.047] Escena 22 · Motion graphics propio (marca)**  
 Y un detalle muy GTA: en un aparcamiento, una de las atracadoras prende fuego al coche que han usado. Cambiar de vehículo y borrar el rastro parece parte del juego.
 
 
 ### El nuevo menú de armas
 
-**[04:07.142] Escena 23 · Motion graphics propio (marca)**  
+**[04:06.869] Escena 23 · Motion graphics propio (marca)**  
 Justo antes, durante un segundo, se ve el *nuevo menú de armas*. Tiene dos pestañas, *armas* y *objetos*, y en el centro pone 'desarmado'.
 
-**[04:16.674] Escena 24 · Motion graphics propio (marca)**  
+**[04:16.401] Escena 24 · Motion graphics propio (marca)**  
 Abajo a la izquierda hay consumibles con un contador, arriba a la izquierda tres barras de estado y arriba a la derecha dos cantidades de dinero distintas. Rockstar no explica qué significa cada una, así que lo dejamos ahí.
 
-**[04:31.148] Escena 25 · Motion graphics propio (marca)**  
+**[04:30.875] Escena 25 · Motion graphics propio (marca)**  
 Por cierto, si te está sirviendo este repaso, suscríbete a Mapa Abierto: cada día subo novedades de GTA 6, contadas sin humo.
 
 
 ### Actividades
 
-**[04:39.921] Escena 26 · Motion graphics propio (marca)**  
+**[04:39.648] Escena 26 · Motion graphics propio (marca)**  
 Ahora, las actividades. Hay paseos en *hidrodeslizador* por los pantanos, motos de agua y gimnasio con banco de pesas.
 
-**[04:48.561] Escena 27 · Motion graphics propio (marca)**  
+**[04:48.288] Escena 27 · Motion graphics propio (marca)**  
 Hay *carreras en circuito*, con vueltas y cronómetro, y *carreras callejeras de noche* con coches tuneados y luces de neón.
 
-**[04:56.364] Escena 28 · Motion graphics propio (marca)**  
+**[04:56.091] Escena 28 · Motion graphics propio (marca)**  
 Y una *prueba de tiro* contra dianas, con un contador de objetivos y un tiempo de referencia que batir.
 
-**[05:02.523] Escena 29 · Motion graphics propio (marca)**  
+**[05:02.250] Escena 29 · Motion graphics propio (marca)**  
 También se ve una zona de tiendas, motos por la ciudad, alguien haciéndose un selfi con el móvil, una explosión de noche y un *salto en paracaídas* sobre Vice City.
 
 
 ### Lujo y vida nocturna
 
-**[05:13.145] Escena 30 · Motion graphics propio (marca)**  
+**[05:12.872] Escena 30 · Motion graphics propio (marca)**  
 Luego llega la parte más elegante del vídeo: una reunión con ropa de gala en un edificio de lujo junto al agua, que termina de noche en un muelle.
 
-**[05:22.707] Escena 31 · Motion graphics propio (marca)**  
+**[05:22.434] Escena 31 · Motion graphics propio (marca)**  
 Y de ahí, a un *club nocturno*: luces de neón, cola en la puerta, globos de colores y una anfitriona que les recibe dentro.
 
 
 ### El golpe del rascacielos
 
-**[05:31.211] Escena 32 · Motion graphics propio (marca)**  
+**[05:30.938] Escena 32 · Motion graphics propio (marca)**  
 El bloque final es el más intenso: una *infiltración de noche en un rascacielos*. Ascensor, oficinas a oscuras y gente trabajando tras los cristales.
 
-**[05:41.420] Escena 33 · Motion graphics propio (marca)**  
+**[05:41.147] Escena 33 · Motion graphics propio (marca)**  
 En plena tensión aparece en pantalla un *mensaje de Lucia*. Se lee a medias: habla de tipos con armas automáticas y explosivos, y dice que suenan a militares.
 
-**[05:52.380] Escena 34 · Motion graphics propio (marca)**  
+**[05:52.107] Escena 34 · Motion graphics propio (marca)**  
 Llegan los guardias armados, se ve la *planta veintiséis* y estalla el tiroteo entre oficinas. El vídeo se despide con la ciudad iluminada de noche.
 
 
 ### Lo que no enseña
 
-**[06:01.974] Escena 35 · Motion graphics propio (marca)**  
+**[06:01.701] Escena 35 · Motion graphics propio (marca)**  
 Ojo con lo que *no* aparece. El vídeo no da el tamaño del mapa ni cuántas horas dura la historia. Si ves cifras como 'el doble que GTA 5' u '80 horas', no salen del Extended Look.
 
-**[06:14.879] Escena 36 · Motion graphics propio (marca)**  
+**[06:14.606] Escena 36 · Motion graphics propio (marca)**  
 Y tampoco explica cada mecánica: lo de los iconos de la policía o las dos cantidades de dinero son deducciones a partir de lo que se ve. Ahora que el juego ya está a la venta, iremos comprobando cada detalle aquí.
 
 
 ### Conclusión
 
-**[06:28.092] Escena 37 · Motion graphics propio (marca)**  
+**[06:27.819] Escena 37 · Motion graphics propio (marca)**  
 Mi opinión: lo que más me ha llamado la atención es lo vivo que se siente todo. Rótulos en español, anuncios absurdos, animales, carreras, atracos… Es un GTA con muchísimas cosas que hacer entre misión y misión.
 
-**[06:43.269] Escena 38 · Motion graphics propio (marca)**  
+**[06:42.996] Escena 38 · Motion graphics propio (marca)**  
 Y a ti, ¿qué es lo que más te ha llamado la atención? Te leo en comentarios. Si quieres seguir explorando, aquí tienes más vídeos. Nos vemos en Leonida.

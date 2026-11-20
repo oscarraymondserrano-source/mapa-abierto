@@ -17,7 +17,7 @@ Suben hasta una habitación donde les espera un tipo con rastas y cadenas de oro
 
 La cosa se tuerce y acaba en un TIROTEO POR LOS PASILLOS. Fíjate en la interfaz: la munición aparece arriba a la derecha, y en el centro solo hay una retícula pequeña, muy discreta. <break time="0.4s" />
 
-La huida no es por la puerta principal: en un momento se ve a Lucia trepando para escapar. Jason y Lucia, los dos protagonistas, comparten la acción desde la primera escena. <break time="0.4s" />
+La huida no es por la puerta principal: Jason se descuelga por un balcón y Lucia trepa detrás para escapar. Los dos protagonistas comparten la acción desde la primera escena. <break time="0.4s" />
 
 Después cambia el ritmo. Lucia sale a correr por la ciudad, un coche clásico derrapa en una carretera y vemos a los protagonistas en casa: ropa, espejos, cocina y la tele encendida. <break time="0.4s" />
 

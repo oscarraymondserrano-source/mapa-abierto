@@ -14,16 +14,16 @@
 0:00 Introducción
 0:32 Qué es el Extended Look
 1:00 La misión de apertura
-1:42 La vida diaria en Leonida
+1:41 La vida diaria en Leonida
 2:16 Conducir por Vice City
 2:37 Un encuentro en la azotea
-2:58 El atraco y las seis estrellas
-4:07 El nuevo menú de armas
+2:57 El atraco y las seis estrellas
+4:06 El nuevo menú de armas
 4:39 Actividades
-5:13 Lujo y vida nocturna
-5:31 El golpe del rascacielos
+5:12 Lujo y vida nocturna
+5:30 El golpe del rascacielos
 6:01 Lo que no enseña
-6:28 Conclusión
+6:27 Conclusión
 ```
 
 ## Descripción (copiar y pegar)
@@ -43,16 +43,16 @@ Imágenes y vídeo: © Rockstar Games (material oficial de su web de descargas, 
 0:00 Introducción
 0:32 Qué es el Extended Look
 1:00 La misión de apertura
-1:42 La vida diaria en Leonida
+1:41 La vida diaria en Leonida
 2:16 Conducir por Vice City
 2:37 Un encuentro en la azotea
-2:58 El atraco y las seis estrellas
-4:07 El nuevo menú de armas
+2:57 El atraco y las seis estrellas
+4:06 El nuevo menú de armas
 4:39 Actividades
-5:13 Lujo y vida nocturna
-5:31 El golpe del rascacielos
+5:12 Lujo y vida nocturna
+5:30 El golpe del rascacielos
 6:01 Lo que no enseña
-6:28 Conclusión
+6:27 Conclusión
 
 #GTA6 #GTAVI #ExtendedLook
 ```
