@@ -1,0 +1,27 @@
+[Script Info]
+Title: V87 subtítulos Mapa Abierto
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Marca,Inter Display,78,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,-1,0,0,0,100,100,0,0,1,5,3,2,80,80,560,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.05,0:00:02.88,Marca,,0,0,0,,{\fad(60,40)}GTA 6 acaba de romper\Nel récord de Twitch.
+Dialogue: 0,0:00:02.90,0:00:05.79,Marca,,0,0,0,,{\fad(60,40)}Y lo hizo antes de\Nsalir en Estados Unidos.
+Dialogue: 0,0:00:06.16,0:00:09.26,Marca,,0,0,0,,{\fad(60,40)}Según SullyGnome, la\Ncategoría de GTA 6
+Dialogue: 0,0:00:09.28,0:00:12.95,Marca,,0,0,0,,{\fad(60,40)}llegó a {\c&H33D6FF&}3,29{\c&HFFFFFF&} {\c&H33D6FF&}millones{\c&HFFFFFF&} de\Nespectadores a la vez.
+Dialogue: 0,0:00:13.32,0:00:15.50,Marca,,0,0,0,,{\fad(60,40)}Es el pico más alto\Nde un juego en la
+Dialogue: 0,0:00:15.52,0:00:17.92,Marca,,0,0,0,,{\fad(60,40)}historia de Twitch,\Nsegún ese rastreador.
+Dialogue: 0,0:00:17.94,0:00:20.29,Marca,,0,0,0,,{\fad(60,40)}Y llegó en pleno\Nlanzamiento escalonado,
+Dialogue: 0,0:00:20.31,0:00:22.76,Marca,,0,0,0,,{\fad(60,40)}cuando en Nueva Zelanda\Nya se podía jugar.
+Dialogue: 0,0:00:23.13,0:00:24.84,Marca,,0,0,0,,{\fad(60,40)}Si sumas YouTube\Ny Kick, los
+Dialogue: 0,0:00:24.86,0:00:26.89,Marca,,0,0,0,,{\fad(60,40)}rastreadores hablan\Nde más de {\c&H33D6FF&}seis{\c&HFFFFFF&}
+Dialogue: 0,0:00:26.91,0:00:29.16,Marca,,0,0,0,,{\fad(60,40)}{\c&H33D6FF&}millones{\c&HFFFFFF&} de personas\Nmirando a la vez.
+Dialogue: 0,0:00:29.53,0:00:32.18,Marca,,0,0,0,,{\fad(60,40)}¿Tú lo viste en directo\No ya estabas jugando?
+Dialogue: 0,0:00:32.20,0:00:32.77,Marca,,0,0,0,,{\fad(60,40)}Te leo.
