@@ -1,0 +1,28 @@
+[Script Info]
+Title: V90 subtítulos Mapa Abierto
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Marca,Inter Display,78,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,-1,0,0,0,100,100,0,0,1,5,3,2,80,80,560,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.05,0:00:02.38,Marca,,0,0,0,,{\fad(60,40)}¿GTA 6 está en español?
+Dialogue: 0,0:00:02.40,0:00:04.56,Marca,,0,0,0,,{\fad(60,40)}Sí… pero no del todo.
+Dialogue: 0,0:00:04.93,0:00:07.27,Marca,,0,0,0,,{\fad(60,40)}Los textos y los\Nsubtítulos están en
+Dialogue: 0,0:00:07.29,0:00:09.86,Marca,,0,0,0,,{\fad(60,40)}español, tanto de\NEspaña como de México.
+Dialogue: 0,0:00:09.88,0:00:12.63,Marca,,0,0,0,,{\fad(60,40)}Lo confirmó Take-Two,\Nla dueña de Rockstar.
+Dialogue: 0,0:00:13.00,0:00:15.49,Marca,,0,0,0,,{\fad(60,40)}Pero las voces solo\Nestán en inglés.
+Dialogue: 0,0:00:15.51,0:00:17.74,Marca,,0,0,0,,{\fad(60,40)}No hay doblaje,\Nigual que en GTA
+Dialogue: 0,0:00:17.76,0:00:19.81,Marca,,0,0,0,,{\fad(60,40)}5 o en Red Dead\NRedemption 2.
+Dialogue: 0,0:00:20.18,0:00:21.13,Marca,,0,0,0,,{\fad(60,40)}Y un detalle:
+Dialogue: 0,0:00:21.15,0:00:23.98,Marca,,0,0,0,,{\fad(60,40)}dentro del juego hay\Ncarteles en español, como
+Dialogue: 0,0:00:24.00,0:00:26.83,Marca,,0,0,0,,{\fad(60,40)}este de cerveza fría en\Nuna tienda de Leonida.
+Dialogue: 0,0:00:27.20,0:00:28.91,Marca,,0,0,0,,{\fad(60,40)}¿Lo prefieres\Nen inglés o te
+Dialogue: 0,0:00:28.93,0:00:30.37,Marca,,0,0,0,,{\fad(60,40)}habría gustado\Ndoblado?
+Dialogue: 0,0:00:30.39,0:00:31.02,Marca,,0,0,0,,{\fad(60,40)}Comenta.

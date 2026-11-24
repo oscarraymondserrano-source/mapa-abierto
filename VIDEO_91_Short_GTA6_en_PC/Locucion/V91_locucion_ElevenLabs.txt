@@ -1,0 +1,12 @@
+# Pegar en ElevenLabs (modelo multilingüe). Las MAYÚSCULAS marcan énfasis; <break> son pausas.
+# Ajustes: Stability 45 · Similarity 80 · Style 20 · Speaker boost ON. Velocidad 1.05.
+
+¿Se puede jugar GTA 6 en PC? Hoy, no. <break time="0.4s" />
+
+GTA 6 salió el 19 de noviembre solo en PlayStation 5 y Xbox Series X y S. <break time="0.4s" />
+
+Rockstar no ha anunciado versión de PC ni fecha. Ha dicho que da prioridad a las consolas, donde está la mayoría de sus jugadores. <break time="0.4s" />
+
+Las fechas de 2027 que circulan son rumores. Y ojo: cualquier web que te ofrezca GTA 6 para PC ahora mismo es una estafa. <break time="0.4s" />
+
+Cuando Rockstar lo anuncie, lo verás aquí. ¿Esperas al PC o te pasas a consola? <break time="0.4s" />

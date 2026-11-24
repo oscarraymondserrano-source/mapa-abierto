@@ -1,0 +1,12 @@
+# Pegar en ElevenLabs (modelo multilingüe). Las MAYÚSCULAS marcan énfasis; <break> son pausas.
+# Ajustes: Stability 45 · Similarity 80 · Style 20 · Speaker boost ON. Velocidad 1.05.
+
+¿GTA 6 está en español? Sí… pero no del todo. <break time="0.4s" />
+
+Los textos y los subtítulos están en español, tanto de España como de México. Lo confirmó Take-Two, la dueña de Rockstar. <break time="0.4s" />
+
+Pero las voces solo están en inglés. No hay doblaje, igual que en GTA 5 o en Red Dead Redemption 2. <break time="0.4s" />
+
+Y un detalle: dentro del juego hay carteles en español, como este de cerveza fría en una tienda de Leonida. <break time="0.4s" />
+
+¿Lo prefieres en inglés o te habría gustado doblado? Comenta. <break time="0.4s" />

@@ -888,5 +888,25 @@
   "out": "VIDEO_89_Short_Rubius_Rockstar_North/Video_Final/V89_FINAL_1080x1920.mp4",
   "fecha": "",
   "carpeta": "VIDEO_89_Short_Rubius_Rockstar_North"
+ },
+ {
+  "id": "V90",
+  "titulo": "¿GTA 6 está en español? La respuesta",
+  "formato": "short",
+  "modo": "final",
+  "dur": 31.34,
+  "out": "VIDEO_90_Short_GTA6_en_espanol/Video_Final/V90_FINAL_1080x1920.mp4",
+  "fecha": "",
+  "carpeta": "VIDEO_90_Short_GTA6_en_espanol"
+ },
+ {
+  "id": "V91",
+  "titulo": "¿Se puede jugar GTA 6 en PC?",
+  "formato": "short",
+  "modo": "final",
+  "dur": 34.84,
+  "out": "VIDEO_91_Short_GTA6_en_PC/Video_Final/V91_FINAL_1080x1920.mp4",
+  "fecha": "",
+  "carpeta": "VIDEO_91_Short_GTA6_en_PC"
  }
 ]

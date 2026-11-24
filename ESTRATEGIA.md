@@ -223,5 +223,7 @@ Ver el bloque en la respuesta del 20/11 y, una vez aprobado, en la propia tarea 
 | 21/11/2026 | vidIQ sin créditos hasta el 18/12; Metricool aún sin cifras por vídeo | KPIs y aviso de frenazo sin datos; propuesta de clave de la API de YouTube pendiente del propietario |
 | 24/11/2026 | Vídeos largos EN PAUSA; 4 Shorts todos los días | El largo del Extended Look: 2 visualizaciones en 3 días (umbral: 150 a 7 días). Aprobado por el propietario |
 | 24/11/2026 | Tareas del 22, 23 y 24/11 no ejecutadas a su hora (incidencia de la sesión); recuperadas hoy | Las publicaciones programadas salieron con normalidad |
+| 24/11/2026 | TikTok del 27/11 a borrador (3 publicaciones) | Pausa de TikTok |
+| 24/11/2026 | V90 "¿GTA 6 está en español?" → 25/11 18:00; V91 "¿GTA 6 en PC?" → 28/11 18:00 | Huecos libres con las ideas 4 y 1 de la sección b (búsqueda alta, datos verificados) |
 
 Fuentes de requisitos: [Ayuda de YouTube · Programa de Socios](https://support.google.com/youtube/answer/72851), [Programa de Socios ampliado](https://support.google.com/youtube/answer/13429240), [Cambios en el Programa de Socios](https://support.google.com/youtube/answer/12843009).
