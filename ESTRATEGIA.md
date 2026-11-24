@@ -216,10 +216,12 @@ Ver el bloque en la respuesta del 20/11 y, una vez aprobado, en la propia tarea 
 | 20/11/2026 | TikTok en pausa (16 publicaciones a borrador) | 0 visualizaciones en la cuenta |
 | 20/11/2026 | Serie LA COMUNIDAD (V87–V89) | Búsquedas de streamers sin usar su contenido |
 | 20/11/2026 | Primer vídeo largo con juego real (V86, sábado 21/11 12:00) | Horas de visualización y canal menos "plantilla" |
-| 20/11/2026 | Tarea diaria v2 aplicada (TAREA_DIARIA_v2_PROPUESTA.md) | Aprobada por el propietario |
+| 20/11/2026 | Tarea diaria v2 aplicada (TAREA_DIARIA.md) | Aprobada por el propietario |
 | 20/11/2026 | Grassrivers (21/11 15:30) → 29/11 10:00; Quiz zona (21/11 17:30) → 29/11 13:30; Lucia (25/11 18:00) → 30/11 10:00 | Regla de 3 Shorts los días de vídeo largo; aprobado por el propietario |
 | 21/11/2026 | 6 publicaciones de TikTok del 25 y 26/11 a borrador | Pausa de TikTok (tarea diaria) |
 | 21/11/2026 | Sin vídeos nuevos en la tanda: los próximos 3 días ya están completos | Calendario lleno hasta el 30/11 |
 | 21/11/2026 | vidIQ sin créditos hasta el 18/12; Metricool aún sin cifras por vídeo | KPIs y aviso de frenazo sin datos; propuesta de clave de la API de YouTube pendiente del propietario |
+| 24/11/2026 | Vídeos largos EN PAUSA; 4 Shorts todos los días | El largo del Extended Look: 2 visualizaciones en 3 días (umbral: 150 a 7 días). Aprobado por el propietario |
+| 24/11/2026 | Tareas del 22, 23 y 24/11 no ejecutadas a su hora (incidencia de la sesión); recuperadas hoy | Las publicaciones programadas salieron con normalidad |
 
 Fuentes de requisitos: [Ayuda de YouTube · Programa de Socios](https://support.google.com/youtube/answer/72851), [Programa de Socios ampliado](https://support.google.com/youtube/answer/13429240), [Cambios en el Programa de Socios](https://support.google.com/youtube/answer/12843009).
