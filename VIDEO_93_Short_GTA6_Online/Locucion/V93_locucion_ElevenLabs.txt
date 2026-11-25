@@ -1,0 +1,12 @@
+# Pegar en ElevenLabs (modelo multilingüe). Las MAYÚSCULAS marcan énfasis; <break> son pausas.
+# Ajustes: Stability 45 · Similarity 80 · Style 20 · Speaker boost ON. Velocidad 1.05.
+
+¿Hay GTA 6 Online? De momento, no. <break time="0.4s" />
+
+GTA 6 salió el 19 de noviembre con su modo historia, para un jugador. <break time="0.4s" />
+
+Rockstar no ha anunciado modo online ni fecha. Ni cómo será ni si vendrá incluido con el juego. <break time="0.4s" />
+
+Lo de 2027 que leerás por ahí es lo que espera parte de la prensa, no una fecha de Rockstar. <break time="0.4s" />
+
+Cuando Rockstar lo anuncie, lo verás aquí. ¿Lo esperas o te basta con la historia? <break time="0.4s" />

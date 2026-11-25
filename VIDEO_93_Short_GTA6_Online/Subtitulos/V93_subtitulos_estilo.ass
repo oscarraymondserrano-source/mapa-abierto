@@ -1,0 +1,24 @@
+[Script Info]
+Title: V93 subtítulos Mapa Abierto
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Marca,Inter Display,78,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,-1,0,0,0,100,100,0,0,1,5,3,2,80,80,560,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.05,0:00:01.77,Marca,,0,0,0,,{\fad(60,40)}¿Hay GTA 6 Online?
+Dialogue: 0,0:00:01.79,0:00:03.27,Marca,,0,0,0,,{\fad(60,40)}De momento, no.
+Dialogue: 0,0:00:03.64,0:00:06.07,Marca,,0,0,0,,{\fad(60,40)}GTA 6 salió el 19\Nde noviembre con
+Dialogue: 0,0:00:06.09,0:00:08.52,Marca,,0,0,0,,{\fad(60,40)}su modo historia,\Npara un jugador.
+Dialogue: 0,0:00:08.89,0:00:11.95,Marca,,0,0,0,,{\fad(60,40)}Rockstar no ha anunciado\Nmodo online ni fecha.
+Dialogue: 0,0:00:11.97,0:00:15.15,Marca,,0,0,0,,{\fad(60,40)}Ni cómo será ni si vendrá\Nincluido con el juego.
+Dialogue: 0,0:00:15.52,0:00:18.75,Marca,,0,0,0,,{\fad(60,40)}Lo de 2027 que leerás\Npor ahí es lo que espera
+Dialogue: 0,0:00:18.77,0:00:21.94,Marca,,0,0,0,,{\fad(60,40)}parte de la prensa, no\Nuna fecha de Rockstar.
+Dialogue: 0,0:00:22.31,0:00:24.90,Marca,,0,0,0,,{\fad(60,40)}Cuando Rockstar lo\Nanuncie, lo verás aquí.
+Dialogue: 0,0:00:24.92,0:00:27.35,Marca,,0,0,0,,{\fad(60,40)}¿Lo esperas o te\Nbasta con la historia?

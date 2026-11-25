@@ -225,5 +225,11 @@ Ver el bloque en la respuesta del 20/11 y, una vez aprobado, en la propia tarea 
 | 24/11/2026 | Tareas del 22, 23 y 24/11 no ejecutadas a su hora (incidencia de la sesión); recuperadas hoy | Las publicaciones programadas salieron con normalidad |
 | 24/11/2026 | TikTok del 27/11 a borrador (3 publicaciones) | Pausa de TikTok |
 | 24/11/2026 | V90 "¿GTA 6 está en español?" → 25/11 18:00; V91 "¿GTA 6 en PC?" → 28/11 18:00 | Huecos libres con las ideas 4 y 1 de la sección b (búsqueda alta, datos verificados) |
+| 25/11/2026 | Tarea diaria ejecutada a su hora (7:38) | Comprobación tras la incidencia del 22–24/11 |
+| 25/11/2026 | V92 "Primer parche de GTA 6" (NOTICIAS) → 26/11 16:00; "Los personajes de la música" movido de 26/11 16:00 → 29/11 16:00 | Novedad verificada (parche 01.002.002 del 23/11: notas de Rockstar vía Push Square, Comicbook y Vice) con prioridad sobre un Short de baja prioridad |
+| 25/11/2026 | V93 "¿Hay GTA 6 Online?" → 29/11 18:00 | Idea de búsqueda alta; sin anuncio oficial, 2027 = expectativa de prensa (Vice, HuffPost UK) |
+| 25/11/2026 | Descartado: "Rockstar cierra un port de PC en Discord" | Las fuentes no coinciden (parece un proyecto de mapa ligado a filtraciones) |
+| 25/11/2026 | TikTok del 28, 29 y 30/11 a borrador (9 publicaciones) | Pausa de TikTok |
+| 25/11/2026 | Señal de frenazo sin evaluar | Metricool sin cifras por vídeo desde el 21/11 ni diarias desde el 22/11 (vidIQ sin créditos) |
 
 Fuentes de requisitos: [Ayuda de YouTube · Programa de Socios](https://support.google.com/youtube/answer/72851), [Programa de Socios ampliado](https://support.google.com/youtube/answer/13429240), [Cambios en el Programa de Socios](https://support.google.com/youtube/answer/12843009).

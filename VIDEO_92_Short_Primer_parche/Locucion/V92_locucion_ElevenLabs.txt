@@ -1,0 +1,14 @@
+# Pegar en ElevenLabs (modelo multilingüe). Las MAYÚSCULAS marcan énfasis; <break> son pausas.
+# Ajustes: Stability 45 · Similarity 80 · Style 20 · Speaker boost ON. Velocidad 1.05.
+
+GTA 6 ya tiene su primer parche. Esto es lo que arregla. <break time="0.4s" />
+
+Salió el 23 de noviembre, cuatro días después del lanzamiento. En PS5 es la versión 01.002.002. <break time="0.4s" />
+
+Corrige cierres inesperados del juego y fallos del autoguardado. <break time="0.4s" />
+
+También el clima que se quedaba atascado sin cambiar y llamadas de la historia que no llegaban al móvil. <break time="0.4s" />
+
+Y un fallo que impedía quitarte el nivel de búsqueda de la policía. <break time="0.4s" />
+
+¿Te ha pasado alguno de estos fallos? Cuéntamelo. <break time="0.4s" />
