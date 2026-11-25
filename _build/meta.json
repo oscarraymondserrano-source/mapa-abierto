@@ -908,5 +908,25 @@
   "out": "VIDEO_91_Short_GTA6_en_PC/Video_Final/V91_FINAL_1080x1920.mp4",
   "fecha": "",
   "carpeta": "VIDEO_91_Short_GTA6_en_PC"
+ },
+ {
+  "id": "V92",
+  "titulo": "GTA 6 ya tiene su primer parche: esto arregla",
+  "formato": "short",
+  "modo": "final",
+  "dur": 31.61,
+  "out": "VIDEO_92_Short_Primer_parche/Video_Final/V92_FINAL_1080x1920.mp4",
+  "fecha": "",
+  "carpeta": "VIDEO_92_Short_Primer_parche"
+ },
+ {
+  "id": "V93",
+  "titulo": "¿Hay GTA 6 Online? La respuesta",
+  "formato": "short",
+  "modo": "final",
+  "dur": 27.67,
+  "out": "VIDEO_93_Short_GTA6_Online/Video_Final/V93_FINAL_1080x1920.mp4",
+  "fecha": "",
+  "carpeta": "VIDEO_93_Short_GTA6_Online"
  }
 ]
