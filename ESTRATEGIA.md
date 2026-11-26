@@ -231,5 +231,9 @@ Ver el bloque en la respuesta del 20/11 y, una vez aprobado, en la propia tarea 
 | 25/11/2026 | Descartado: "Rockstar cierra un port de PC en Discord" | Las fuentes no coinciden (parece un proyecto de mapa ligado a filtraciones) |
 | 25/11/2026 | TikTok del 28, 29 y 30/11 a borrador (9 publicaciones) | Pausa de TikTok |
 | 25/11/2026 | Señal de frenazo sin evaluar | Metricool sin cifras por vídeo desde el 21/11 ni diarias desde el 22/11 (vidIQ sin créditos) |
+| 26/11/2026 | Sin Shorts nuevos: 26–29/11 completos (4/día) | Quedan libres 30/11 13:30, 16:00 y 18:00 para la tarea del 27/11 |
+| 26/11/2026 | Sin novedad que publicar | Nada nuevo en la web de descargas; consolas PS5 Pro personalizadas y voto sindical: una sola fuente o fuera de temática |
+| 26/11/2026 | TikTok del 01/12 10:30 a borrador | Pausa de TikTok |
+| 26/11/2026 | Frenazo: NO salta | Mediana a 24 h de los Shorts del 22/11 = 685 (~65 % de la semana previa, umbral 40 %); visualizaciones diarias 23/11 = 4.120 (suben desde 3.549) |
 
 Fuentes de requisitos: [Ayuda de YouTube · Programa de Socios](https://support.google.com/youtube/answer/72851), [Programa de Socios ampliado](https://support.google.com/youtube/answer/13429240), [Cambios en el Programa de Socios](https://support.google.com/youtube/answer/12843009).
