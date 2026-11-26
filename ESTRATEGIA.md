@@ -235,5 +235,6 @@ Ver el bloque en la respuesta del 20/11 y, una vez aprobado, en la propia tarea 
 | 26/11/2026 | Sin novedad que publicar | Nada nuevo en la web de descargas; consolas PS5 Pro personalizadas y voto sindical: una sola fuente o fuera de temática |
 | 26/11/2026 | TikTok del 01/12 10:30 a borrador | Pausa de TikTok |
 | 26/11/2026 | Frenazo: NO salta | Mediana a 24 h de los Shorts del 22/11 = 685 (~65 % de la semana previa, umbral 40 %); visualizaciones diarias 23/11 = 4.120 (suben desde 3.549) |
+| 26/11/2026 | V94 "GTA 6 en PC por una filtración: lo que ha pasado" (NOTICIAS) → 27/11 18:00; "Metacritic reseñas falsas" movido de 27/11 18:00 → 30/11 13:30 | Pedido por el propietario. Solo noticia: sin material filtrado ni enlaces; datos en 6 medios; no se afirma que el port funcione (fuentes contradictorias) |
 
 Fuentes de requisitos: [Ayuda de YouTube · Programa de Socios](https://support.google.com/youtube/answer/72851), [Programa de Socios ampliado](https://support.google.com/youtube/answer/13429240), [Cambios en el Programa de Socios](https://support.google.com/youtube/answer/12843009).

@@ -928,5 +928,15 @@
   "out": "VIDEO_93_Short_GTA6_Online/Video_Final/V93_FINAL_1080x1920.mp4",
   "fecha": "",
   "carpeta": "VIDEO_93_Short_GTA6_Online"
+ },
+ {
+  "id": "V94",
+  "titulo": "GTA 6 en PC por una filtración: lo que ha pasado",
+  "formato": "short",
+  "modo": "final",
+  "dur": 39.9,
+  "out": "VIDEO_94_Short_Filtracion_PC/Video_Final/V94_FINAL_1080x1920.mp4",
+  "fecha": "",
+  "carpeta": "VIDEO_94_Short_Filtracion_PC"
  }
 ]

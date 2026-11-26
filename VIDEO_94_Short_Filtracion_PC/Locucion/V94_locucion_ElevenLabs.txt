@@ -1,0 +1,14 @@
+# Pegar en ElevenLabs (modelo multilingüe). Las MAYÚSCULAS marcan énfasis; <break> son pausas.
+# Ajustes: Stability 45 · Similarity 80 · Style 20 · Speaker boost ON. Velocidad 1.05.
+
+¿Se puede jugar GTA 6 en PC gracias a una filtración? Esto es lo que ha pasado. <break time="0.4s" />
+
+El grupo que lleva meses filtrando GTA 6, conocido como CyberLeek, ha publicado archivos de una versión filtrada de Xbox. <break time="0.4s" />
+
+Con eso, algunos modders empezaron a intentar convertirla en una versión de PC no oficial. <break time="0.4s" />
+
+Pero varios de esos proyectos ya se han cerrado. Según varios medios, por presión de Rockstar, que no lo ha comentado en público. <break time="0.4s" />
+
+Y ojo: no hay GTA 6 oficial para PC. Descargar una copia pirateada es ilegal y te la juegas. <break time="0.4s" />
+
+¿Esperarás a la versión oficial de PC? Te leo. <break time="0.4s" />
