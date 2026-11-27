@@ -1,0 +1,14 @@
+# Pegar en ElevenLabs (modelo multilingüe). Las MAYÚSCULAS marcan énfasis; <break> son pausas.
+# Ajustes: Stability 45 · Similarity 80 · Style 20 · Speaker boost ON. Velocidad 1.05.
+
+¿Hay trucos en GTA 6? Sí… pero no puedes usarlos desde el principio. <break time="0.4s" />
+
+Primero tienes que terminar la historia principal. Después aparece una sección de trucos en el menú de progreso. <break time="0.4s" />
+
+Y cada truco se gana superando un reto dentro del juego. <break time="0.4s" />
+
+Ojo: según varias guías, si activas uno, en esa partida no puedes guardar. <break time="0.4s" />
+
+Las guías hablan de 61 trucos, aunque Rockstar no ha publicado una lista oficial. <break time="0.4s" />
+
+¿Prefieres los trucos de antes, con botones? Comenta. <break time="0.4s" />

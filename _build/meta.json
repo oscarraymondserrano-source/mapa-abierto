@@ -938,5 +938,25 @@
   "out": "VIDEO_94_Short_Filtracion_PC/Video_Final/V94_FINAL_1080x1920.mp4",
   "fecha": "",
   "carpeta": "VIDEO_94_Short_Filtracion_PC"
+ },
+ {
+  "id": "V95",
+  "titulo": "¿Hay trucos en GTA 6? Sí, pero hay truco",
+  "formato": "short",
+  "modo": "final",
+  "dur": 31.07,
+  "out": "VIDEO_95_Short_Trucos/Video_Final/V95_FINAL_1080x1920.mp4",
+  "fecha": "",
+  "carpeta": "VIDEO_95_Short_Trucos"
+ },
+ {
+  "id": "V96",
+  "titulo": "¿GTA 6 va a 60 fps? La respuesta",
+  "formato": "short",
+  "modo": "final",
+  "dur": 35.23,
+  "out": "VIDEO_96_Short_60_fps/Video_Final/V96_FINAL_1080x1920.mp4",
+  "fecha": "",
+  "carpeta": "VIDEO_96_Short_60_fps"
  }
 ]

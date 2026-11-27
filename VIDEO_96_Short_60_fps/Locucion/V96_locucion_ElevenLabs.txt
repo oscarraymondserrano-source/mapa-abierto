@@ -1,0 +1,12 @@
+# Pegar en ElevenLabs (modelo multilingüe). Las MAYÚSCULAS marcan énfasis; <break> son pausas.
+# Ajustes: Stability 45 · Similarity 80 · Style 20 · Speaker boost ON. Velocidad 1.05.
+
+¿GTA 6 va a 60 fps? No, ni siquiera en PS5 Pro. <break time="0.4s" />
+
+Va a 30 fps en todas las consolas: PS5, PS5 Pro y Xbox Series X y S. <break time="0.4s" />
+
+Rockstar dice que no habrá modo de 60 fps, ni de 40. Según la compañía, el procesador no da para mover todo lo que pasa en Leonida. <break time="0.4s" />
+
+Lo que sí tiene la PS5 Pro son mejoras gráficas, como el reescalado PSSR y sombras con trazado de rayos. <break time="0.4s" />
+
+¿Te importan los fps o te vale con 30? Te leo. <break time="0.4s" />
